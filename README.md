@@ -19,4 +19,9 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
- 
+### Latest Blog Posts
+- [Jenkins 파이프라인 생성 (2025.01.08)](https://secrett2633.github.io/jenkins/create-pipeline-with-jenkins/)
+- [Jenkins 시작 (2025.01.07)](https://secrett2633.github.io/jenkins/start-jenkins/)
+- [LLM을 활용한 코드 리뷰 (2025.01.03)](https://secrett2633.github.io/llm/code-review-with-llm/)
+- [[Python] logging 사용법 (2025.01.03)](https://secrett2633.github.io/logging/loguru/)
+- [SafeLine 시작 (2025.01.02)](https://secrett2633.github.io/safeline/start-safeline/)
