@@ -25,8 +25,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
+- [Django에서 DB 로그 확인하기 (2025.02.05)](https://secrett2633.github.io/backend/django/see-log-in-django/)
 - [Jenkins를 이용한 무중단 배포 (2025.01.18)](https://secrett2633.github.io/jenkins/zero-downtime-deploy-with-jenkins/)
 - [Let's Encrypt로 SSL 인증서 발급받기 (2025.01.17)](https://secrett2633.github.io/nginx/get-ssl-auth-with-letsencrypt/)
 - [GitHub Actions로 깃허브 프로필 자동 업데이트하기 (2025.01.14)](https://secrett2633.github.io/github-actions/automating-update-github-profile/)
 - [Jenkins 파이프라인 생성 (2025.01.08)](https://secrett2633.github.io/jenkins/create-pipeline-with-jenkins/)
-- [Jenkins 시작 (2025.01.07)](https://secrett2633.github.io/jenkins/start-jenkins/)
