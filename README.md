@@ -26,7 +26,7 @@
 
 ### Latest Blog Posts
 - [뇌과학적으로 게으름과 무기력을 극복하는 방법 (2025.02.25)](https://secrett2633.github.io/me/brain-hack-productivity/)
+- [[AWS] AWS Lambda와 Notion API를 활용한 15분 단위 자동 기록 시스템 (2025.02.25)](https://secrett2633.github.io/devops/aws/aws-lambda-eventbridge/)
+- [[Chrome Extention] YouTube 차단 확장 프로그램 개발하기 (2025.02.25)](https://secrett2633.github.io/etc/chrome-extension/block-youtube-with-chrome-extension/)
 - [[Django] Makefile 사용하기 (2025.02.15)](https://secrett2633.github.io/backend/django/makefile/)
 - [[Docker] 빠른 빌드 방법 (2025.02.14)](https://secrett2633.github.io/devops/docker/fast-build/)
-- [[Django] 낙관적 락 (2025.02.14)](https://secrett2633.github.io/backend/django/optimistic-locking/)
-- [[Django] 비관적 락 (2025.02.14)](https://secrett2633.github.io/backend/django/pessimistic-locking/)
