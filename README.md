@@ -25,8 +25,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
+- [뇌과학적으로 게으름과 무기력을 극복하는 방법 (2025.02.25)](https://secrett2633.github.io/me/brain-hack-productivity/)
 - [[Django] Makefile 사용하기 (2025.02.15)](https://secrett2633.github.io/backend/django/makefile/)
 - [[Docker] 빠른 빌드 방법 (2025.02.14)](https://secrett2633.github.io/devops/docker/fast-build/)
 - [[Django] 낙관적 락 (2025.02.14)](https://secrett2633.github.io/backend/django/optimistic-locking/)
 - [[Django] 비관적 락 (2025.02.14)](https://secrett2633.github.io/backend/django/pessimistic-locking/)
-- [[Django] index (2025.02.14)](https://secrett2633.github.io/backend/django/index/)
