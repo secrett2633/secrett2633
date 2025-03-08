@@ -1,10 +1,14 @@
-# Hong Jae Hyeong 😉
+# Hong Jae Hyeong
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsecrett2633%2F&count_bg=%2379C83D&title_bg=%2300CFC2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=secrett2633)](https://solved.ac/secrett2633/)  
 ![secrett2633's GitHub stats](https://github-readme-stats.vercel.app/api?username=secrett2633&show_icons=true&theme=radical)  
-# 💪Skills
+
+# Certifications
+- [AWS Certified Solutions Architect - Associate (SAA-C03)](https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url)
+
+# Skills
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
