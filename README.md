@@ -25,8 +25,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
+- [[AWS] AWS Solutions Architect Associate 자격증 취득 후기 (2025.03.08)](https://secrett2633.github.io/me/pass-certified-solutions-architect-associate/)
 - [뇌과학적으로 게으름과 무기력을 극복하는 방법 (2025.02.25)](https://secrett2633.github.io/me/brain-hack-productivity/)
 - [[AWS] AWS Lambda와 Notion API를 활용한 15분 단위 자동 기록 시스템 (2025.02.25)](https://secrett2633.github.io/devops/aws/aws-lambda-eventbridge/)
 - [[Chrome Extention] YouTube 차단 확장 프로그램 개발하기 (2025.02.25)](https://secrett2633.github.io/etc/chrome-extension/block-youtube-with-chrome-extension/)
 - [[Django] Makefile 사용하기 (2025.02.15)](https://secrett2633.github.io/backend/django/makefile/)
-- [[Docker] 빠른 빌드 방법 (2025.02.14)](https://secrett2633.github.io/devops/docker/fast-build/)
