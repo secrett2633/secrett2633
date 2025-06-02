@@ -1,7 +1,5 @@
 # Hong Jae Hyeong
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsecrett2633%2F&count_bg=%2379C83D&title_bg=%2300CFC2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=secrett2633)](https://solved.ac/secrett2633/)  
 ![secrett2633's GitHub stats](https://github-readme-stats.vercel.app/api?username=secrett2633&show_icons=true&theme=radical)  
 
