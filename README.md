@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[AWS] AWS Solutions Architect Associate 자격증 취득 후기 (2025.03.08)](https://secrett2633.github.io/me/pass-certified-solutions-architect-associate/)
-- [뇌과학적으로 게으름과 무기력을 극복하는 방법 (2025.02.25)](https://secrett2633.github.io/me/brain-hack-productivity/)
-- [[AWS] AWS Lambda와 Notion API를 활용한 15분 단위 자동 기록 시스템 (2025.02.25)](https://secrett2633.github.io/devops/aws/aws-lambda-eventbridge/)
-- [[Chrome Extention] YouTube 차단 확장 프로그램 개발하기 (2025.02.25)](https://secrett2633.github.io/etc/chrome-extension/block-youtube-with-chrome-extension/)
-- [[Django] Makefile 사용하기 (2025.02.15)](https://secrett2633.github.io/backend/django/makefile/)
+- [[논문리뷰] villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models (2025.08.03)](https://secrett2633.github.io/ai/review/2025-8-3-villa-X__Enhancing_Latent_Action_Modeling_in_Vision-Language-Action__Models/)
+- [[논문리뷰] iLRM: An Iterative Large 3D Reconstruction Model (2025.08.03)](https://secrett2633.github.io/ai/review/2025-8-3-iLRM__An_Iterative_Large_3D_Reconstruction_Model/)
+- [[논문리뷰] TARS: MinMax Token-Adaptive Preference Strategy for Hallucination Reduction in MLLMs (2025.08.03)](https://secrett2633.github.io/ai/review/2025-8-3-TARS__MinMax_Token-Adaptive_Preference_Strategy_for_Hallucination__Reduction_in_MLLMs/)
+- [[논문리뷰] Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving (2025.08.03)](https://secrett2633.github.io/ai/review/2025-8-3-Seed-Prover__Deep_and_Broad_Reasoning_for_Automated_Theorem_Proving/)
+- [[논문리뷰] Scalable Multi-Task Reinforcement Learning for Generalizable Spatial Intelligence in Visuomotor Agents (2025.08.03)](https://secrett2633.github.io/ai/review/2025-8-3-Scalable_Multi-Task_Reinforcement_Learning_for_Generalizable_Spatial__Intelligence_in_Visuomotor_Agents/)
