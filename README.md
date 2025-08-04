@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [Spa2v__harnessing_spatial_auditory_cues_for_audio Driven_spatially Aware __video_generation (2025.08.04)](https://secrett2633.github.io/SpA2V__Harnessing_Spatial_Auditory_Cues_for_Audio-driven_Spatially-aware-__Video_Generation/)
-- [Swe Exp__experience Driven_software_issue_resolution (2025.08.04)](https://secrett2633.github.io/SWE-Exp__Experience-Driven_Software_Issue_Resolution/)
-- [Swe Debate__competitive_multi Agent_debate_for_software_issue_resolution (2025.08.04)](https://secrett2633.github.io/SWE-Debate__Competitive_Multi-Agent_Debate_for_Software_Issue_Resolution/)
-- [Pixnerd__pixel_neural_field_diffusion (2025.08.04)](https://secrett2633.github.io/PixNerd__Pixel_Neural_Field_Diffusion/)
-- [Multimodal_referring_segmentation__a_survey (2025.08.04)](https://secrett2633.github.io/Multimodal_Referring_Segmentation__A_Survey/)
+- [[논문리뷰] SpA2V: Harnessing Spatial Auditory Cues for Audio-driven Spatially-aware Video Generation (2025.08.04)](https://secrett2633.github.io/ai/review/2025-8-4-SpA2V__Harnessing_Spatial_Auditory_Cues_for_Audio-driven_Spatially-aware __Video_Generation/)
+- [[논문리뷰] SWE-Exp: Experience-Driven Software Issue Resolution (2025.08.04)](https://secrett2633.github.io/ai/review/2025-8-4-SWE-Exp__Experience-Driven_Software_Issue_Resolution/)
+- [[논문리뷰] SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution (2025.08.04)](https://secrett2633.github.io/ai/review/2025-8-4-SWE-Debate__Competitive_Multi-Agent_Debate_for_Software_Issue_Resolution/)
+- [[논문리뷰] PixNerd: Pixel Neural Field Diffusion (2025.08.04)](https://secrett2633.github.io/ai/review/2025-8-4-PixNerd__Pixel_Neural_Field_Diffusion/)
+- [[논문리뷰] Multimodal Referring Segmentation: A Survey (2025.08.04)](https://secrett2633.github.io/ai/review/2025-8-4-Multimodal_Referring_Segmentation__A_Survey/)
