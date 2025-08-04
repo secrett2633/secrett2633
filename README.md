@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models (2025.08.03)](https://secrett2633.github.io/ai/review/2025-8-3-villa-X__Enhancing_Latent_Action_Modeling_in_Vision-Language-Action__Models/)
-- [[논문리뷰] iLRM: An Iterative Large 3D Reconstruction Model (2025.08.03)](https://secrett2633.github.io/ai/review/2025-8-3-iLRM__An_Iterative_Large_3D_Reconstruction_Model/)
-- [[논문리뷰] TARS: MinMax Token-Adaptive Preference Strategy for Hallucination Reduction in MLLMs (2025.08.03)](https://secrett2633.github.io/ai/review/2025-8-3-TARS__MinMax_Token-Adaptive_Preference_Strategy_for_Hallucination__Reduction_in_MLLMs/)
-- [[논문리뷰] Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving (2025.08.03)](https://secrett2633.github.io/ai/review/2025-8-3-Seed-Prover__Deep_and_Broad_Reasoning_for_Automated_Theorem_Proving/)
-- [[논문리뷰] Scalable Multi-Task Reinforcement Learning for Generalizable Spatial Intelligence in Visuomotor Agents (2025.08.03)](https://secrett2633.github.io/ai/review/2025-8-3-Scalable_Multi-Task_Reinforcement_Learning_for_Generalizable_Spatial__Intelligence_in_Visuomotor_Agents/)
+- [Spa2v__harnessing_spatial_auditory_cues_for_audio Driven_spatially Aware __video_generation (2025.08.04)](https://secrett2633.github.io/SpA2V__Harnessing_Spatial_Auditory_Cues_for_Audio-driven_Spatially-aware-__Video_Generation/)
+- [Swe Exp__experience Driven_software_issue_resolution (2025.08.04)](https://secrett2633.github.io/SWE-Exp__Experience-Driven_Software_Issue_Resolution/)
+- [Swe Debate__competitive_multi Agent_debate_for_software_issue_resolution (2025.08.04)](https://secrett2633.github.io/SWE-Debate__Competitive_Multi-Agent_Debate_for_Software_Issue_Resolution/)
+- [Pixnerd__pixel_neural_field_diffusion (2025.08.04)](https://secrett2633.github.io/PixNerd__Pixel_Neural_Field_Diffusion/)
+- [Multimodal_referring_segmentation__a_survey (2025.08.04)](https://secrett2633.github.io/Multimodal_Referring_Segmentation__A_Survey/)
