@@ -25,7 +25,7 @@ def build_post_line(post):
     """각 포스트를 마크다운 형식의 문자열로 변환합니다."""
     title = post.title
     date = format_date(post.published)
-    link = post.link
+    link = post.link.replace(" ", "%20")
     return f"- [{title} ({date})]({link})"
 
 def update_readme():
