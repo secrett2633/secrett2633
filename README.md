@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] SpA2V: Harnessing Spatial Auditory Cues for Audio-driven Spatially-aware Video Generation (2025.08.04)](https://secrett2633.github.io/ai/review/2025-8-4-SpA2V__Harnessing_Spatial_Auditory_Cues_for_Audio-driven_Spatially-aware __Video_Generation/)
-- [[논문리뷰] SWE-Exp: Experience-Driven Software Issue Resolution (2025.08.04)](https://secrett2633.github.io/ai/review/2025-8-4-SWE-Exp__Experience-Driven_Software_Issue_Resolution/)
-- [[논문리뷰] SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution (2025.08.04)](https://secrett2633.github.io/ai/review/2025-8-4-SWE-Debate__Competitive_Multi-Agent_Debate_for_Software_Issue_Resolution/)
-- [[논문리뷰] PixNerd: Pixel Neural Field Diffusion (2025.08.04)](https://secrett2633.github.io/ai/review/2025-8-4-PixNerd__Pixel_Neural_Field_Diffusion/)
-- [[논문리뷰] Multimodal Referring Segmentation: A Survey (2025.08.04)](https://secrett2633.github.io/ai/review/2025-8-4-Multimodal_Referring_Segmentation__A_Survey/)
+- [[논문리뷰] VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo (2025.08.05)](https://secrett2633.github.io/ai/review/2025-8-5-VeOmni__Scaling_Any_Modality_Model_Training_with_Model-Centric __Distributed_Recipe_Zoo/)
+- [[논문리뷰] SitEmb-v1.5: Improved Context-Aware Dense Retrieval for Semantic Association and Long Story Comprehension (2025.08.05)](https://secrett2633.github.io/ai/review/2025-8-5-SitEmb-v1.5__Improved_Context-Aware_Dense_Retrieval_for_Semantic __Association_and_Long_Story_Comprehension/)
+- [[논문리뷰] RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Lifelong Learning in Physical Embodied Systems (2025.08.05)](https://secrett2633.github.io/ai/review/2025-8-5-RoboMemory__A_Brain-inspired_Multi-memory_Agentic_Framework_for_Lifelong __Learning_in_Physical_Embodied_Systems/)
+- [[논문리뷰] Qwen-Image Technical Report (2025.08.05)](https://secrett2633.github.io/ai/review/2025-8-5-Qwen-Image_Technical_Report/)
+- [[논문리뷰] Personalized Safety Alignment for Text-to-Image Diffusion Models (2025.08.05)](https://secrett2633.github.io/ai/review/2025-8-5-Personalized_Safety_Alignment_for_Text-to-Image_Diffusion_Models/)
