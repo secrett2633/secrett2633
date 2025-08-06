@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] Voxlect: A Speech Foundation Model Benchmark for Modeling Dialects and Regional Languages Around the Globe (2025.08.05)](https://secrett2633.github.io/ai/review/2025-8-5-Voxlect__A_Speech_Foundation_Model_Benchmark_for_Modeling_Dialects_and%20__Regional_Languages_Around_the_Globe/)
-- [[논문리뷰] VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo (2025.08.05)](https://secrett2633.github.io/ai/review/2025-8-5-VeOmni__Scaling_Any_Modality_Model_Training_with_Model-Centric%20__Distributed_Recipe_Zoo/)
-- [[논문리뷰] Uncertainty-Based Methods for Automated Process Reward Data Construction and Output Aggregation in Mathematical Reasoning (2025.08.05)](https://secrett2633.github.io/ai/review/2025-8-5-Uncertainty-Based_Methods_for_Automated_Process_Reward_Data_Construction%20__and_Output_Aggregation_in_Mathematical_Reasoning/)
-- [[논문리뷰] SitEmb-v1.5: Improved Context-Aware Dense Retrieval for Semantic Association and Long Story Comprehension (2025.08.05)](https://secrett2633.github.io/ai/review/2025-8-5-SitEmb-v1.5__Improved_Context-Aware_Dense_Retrieval_for_Semantic%20__Association_and_Long_Story_Comprehension/)
-- [[논문리뷰] RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Lifelong Learning in Physical Embodied Systems (2025.08.05)](https://secrett2633.github.io/ai/review/2025-8-5-RoboMemory__A_Brain-inspired_Multi-memory_Agentic_Framework_for_Lifelong%20__Learning_in_Physical_Embodied_Systems/)
+- [[논문리뷰] Tool-integrated Reinforcement Learning for Repo Deep Search (2025.08.06)](https://secrett2633.github.io/ai/review/2025-8-6-Tool-integrated_Reinforcement_Learning_for_Repo_Deep_Search/)
+- [[논문리뷰] TRACEALIGN -- Tracing the Drift: Attributing Alignment Failures to Training-Time Belief Sources in LLMs (2025.08.06)](https://secrett2633.github.io/ai/review/2025-8-6-TRACEALIGN_--_Tracing_the_Drift_Attributing_Alignment_Failures_to_Training-Time_Belief_Sources_in_LLMs/)
+- [[논문리뷰] Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding and Generation (2025.08.06)](https://secrett2633.github.io/ai/review/2025-8-6-Skywork_UniPic_Unified_Autoregressive_Modeling_for_Visual_Understanding_and_Generation/)
+- [[논문리뷰] Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference (2025.08.06)](https://secrett2633.github.io/ai/review/2025-8-6-Seed_Diffusion_A_Large-Scale_Diffusion_Language_Model_with_High-Speed_Inference/)
+- [[논문리뷰] Multi-human Interactive Talking Dataset (2025.08.06)](https://secrett2633.github.io/ai/review/2025-8-6-Multi-human_Interactive_Talking_Dataset/)
