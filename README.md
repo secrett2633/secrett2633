@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] Tool-integrated Reinforcement Learning for Repo Deep Search (2025.08.06)](https://secrett2633.github.io/ai/review/2025-8-6-Tool-integrated_Reinforcement_Learning_for_Repo_Deep_Search/)
-- [[논문리뷰] TRACEALIGN -- Tracing the Drift: Attributing Alignment Failures to Training-Time Belief Sources in LLMs (2025.08.06)](https://secrett2633.github.io/ai/review/2025-8-6-TRACEALIGN_--_Tracing_the_Drift_Attributing_Alignment_Failures_to_Training-Time_Belief_Sources_in_LLMs/)
-- [[논문리뷰] Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding and Generation (2025.08.06)](https://secrett2633.github.io/ai/review/2025-8-6-Skywork_UniPic_Unified_Autoregressive_Modeling_for_Visual_Understanding_and_Generation/)
-- [[논문리뷰] Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference (2025.08.06)](https://secrett2633.github.io/ai/review/2025-8-6-Seed_Diffusion_A_Large-Scale_Diffusion_Language_Model_with_High-Speed_Inference/)
-- [[논문리뷰] Multi-human Interactive Talking Dataset (2025.08.06)](https://secrett2633.github.io/ai/review/2025-8-6-Multi-human_Interactive_Talking_Dataset/)
+- [[논문리뷰] Web-CogReasoner: Towards Knowledge-Induced Cognitive Reasoning for Web Agents (2025.08.07)](https://secrett2633.github.io/ai/review/2025-8-7-Web-CogReasoner_Towards_Knowledge-Induced_Cognitive_Reasoning_for_Web_Agents/)
+- [[논문리뷰] Training Long-Context, Multi-Turn Software Engineering Agents with Reinforcement Learning (2025.08.07)](https://secrett2633.github.io/ai/review/2025-8-7-Training_Long-Context_Multi-Turn_Software_Engineering_Agents_with_Reinforcement_Learning/)
+- [[논문리뷰] The Cow of Rembrandt - Analyzing Artistic Prompt Interpretation in Text-to-Image Models (2025.08.07)](https://secrett2633.github.io/ai/review/2025-8-7-The_Cow_of_Rembrandt_-_Analyzing_Artistic_Prompt_Interpretation_in_Text-to-Image_Models/)
+- [[논문리뷰] Sotopia-RL: Reward Design for Social Intelligence (2025.08.07)](https://secrett2633.github.io/ai/review/2025-8-7-Sotopia-RL_Reward_Design_for_Social_Intelligence/)
+- [[논문리뷰] SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering (2025.08.07)](https://secrett2633.github.io/ai/review/2025-8-7-SonicMaster_Towards_Controllable_All-in-One_Music_Restoration_and_Mastering/)
