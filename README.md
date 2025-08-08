@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] Web-CogReasoner: Towards Knowledge-Induced Cognitive Reasoning for Web Agents (2025.08.07)](https://secrett2633.github.io/ai/review/2025-8-7-Web-CogReasoner_Towards_Knowledge-Induced_Cognitive_Reasoning_for_Web_Agents/)
-- [[논문리뷰] Training Long-Context, Multi-Turn Software Engineering Agents with Reinforcement Learning (2025.08.07)](https://secrett2633.github.io/ai/review/2025-8-7-Training_Long-Context_Multi-Turn_Software_Engineering_Agents_with_Reinforcement_Learning/)
-- [[논문리뷰] The Cow of Rembrandt - Analyzing Artistic Prompt Interpretation in Text-to-Image Models (2025.08.07)](https://secrett2633.github.io/ai/review/2025-8-7-The_Cow_of_Rembrandt_-_Analyzing_Artistic_Prompt_Interpretation_in_Text-to-Image_Models/)
-- [[논문리뷰] Sotopia-RL: Reward Design for Social Intelligence (2025.08.07)](https://secrett2633.github.io/ai/review/2025-8-7-Sotopia-RL_Reward_Design_for_Social_Intelligence/)
-- [[논문리뷰] SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering (2025.08.07)](https://secrett2633.github.io/ai/review/2025-8-7-SonicMaster_Towards_Controllable_All-in-One_Music_Restoration_and_Mastering/)
+- [[논문리뷰] Visual Document Understanding and Question Answering: A Multi-Agent Collaboration Framework with Test-Time Scaling (2025.08.08)](https://secrett2633.github.io/ai/review/2025-8-8-Visual_Document_Understanding_and_Question_Answering_A_Multi-Agent_Collaboration_Framework_with_Test-Time_Scaling/)
+- [[논문리뷰] StrandDesigner: Towards Practical Strand Generation with Sketch Guidance (2025.08.08)](https://secrett2633.github.io/ai/review/2025-8-8-StrandDesigner_Towards_Practical_Strand_Generation_with_Sketch_Guidance/)
+- [[논문리뷰] Steering One-Step Diffusion Model with Fidelity-Rich Decoder for Fast Image Compression (2025.08.08)](https://secrett2633.github.io/ai/review/2025-8-8-Steering_One-Step_Diffusion_Model_with_Fidelity-Rich_Decoder_for_Fast_Image_Compression/)
+- [[논문리뷰] RPCANet++: Deep Interpretable Robust PCA for Sparse Object Segmentation (2025.08.08)](https://secrett2633.github.io/ai/review/2025-8-8-RPCANet_Deep_Interpretable_Robust_PCA_for_Sparse_Object_Segmentation/)
+- [[논문리뷰] REINA: Regularized Entropy Information-Based Loss for Efficient Simultaneous Speech Translation (2025.08.08)](https://secrett2633.github.io/ai/review/2025-8-8-REINA_Regularized_Entropy_Information-Based_Loss_for_Efficient_Simultaneous_Speech_Translation/)
