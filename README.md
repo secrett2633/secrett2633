@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] Visual Document Understanding and Question Answering: A Multi-Agent Collaboration Framework with Test-Time Scaling (2025.08.08)](https://secrett2633.github.io/ai/review/2025-8-8-Visual_Document_Understanding_and_Question_Answering_A_Multi-Agent_Collaboration_Framework_with_Test-Time_Scaling/)
-- [[논문리뷰] StrandDesigner: Towards Practical Strand Generation with Sketch Guidance (2025.08.08)](https://secrett2633.github.io/ai/review/2025-8-8-StrandDesigner_Towards_Practical_Strand_Generation_with_Sketch_Guidance/)
-- [[논문리뷰] Steering One-Step Diffusion Model with Fidelity-Rich Decoder for Fast Image Compression (2025.08.08)](https://secrett2633.github.io/ai/review/2025-8-8-Steering_One-Step_Diffusion_Model_with_Fidelity-Rich_Decoder_for_Fast_Image_Compression/)
-- [[논문리뷰] RPCANet++: Deep Interpretable Robust PCA for Sparse Object Segmentation (2025.08.08)](https://secrett2633.github.io/ai/review/2025-8-8-RPCANet_Deep_Interpretable_Robust_PCA_for_Sparse_Object_Segmentation/)
-- [[논문리뷰] REINA: Regularized Entropy Information-Based Loss for Efficient Simultaneous Speech Translation (2025.08.08)](https://secrett2633.github.io/ai/review/2025-8-8-REINA_Regularized_Entropy_Information-Based_Loss_for_Efficient_Simultaneous_Speech_Translation/)
+- [[논문리뷰] Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off (2025.08.11)](https://secrett2633.github.io/ai/review/2025-8-11-Voost_A_Unified_and_Scalable_Diffusion_Transformer_for_Bidirectional_Virtual_Try-On_and_Try-Off/)
+- [[논문리뷰] UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding (2025.08.11)](https://secrett2633.github.io/ai/review/2025-8-11-UI-AGILE_Advancing_GUI_Agents_with_Effective_Reinforcement_Learning_and_Precise_Inference-Time_Grounding/)
+- [[논문리뷰] Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal (2025.08.11)](https://secrett2633.github.io/ai/review/2025-8-11-Pruning_the_Unsurprising_Efficient_Code_Reasoning_via_First-Token_Surprisal/)
+- [[논문리뷰] MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh (2025.08.11)](https://secrett2633.github.io/ai/review/2025-8-11-MeshLLM_Empowering_Large_Language_Models_to_Progressively_Understand_and_Generate_3D_Mesh/)
+- [[논문리뷰] Memp: Exploring Agent Procedural Memory (2025.08.11)](https://secrett2633.github.io/ai/review/2025-8-11-Memp_Exploring_Agent_Procedural_Memory/)
