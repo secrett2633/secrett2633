@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off (2025.08.11)](https://secrett2633.github.io/ai/review/2025-8-11-Voost_A_Unified_and_Scalable_Diffusion_Transformer_for_Bidirectional_Virtual_Try-On_and_Try-Off/)
-- [[논문리뷰] UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding (2025.08.11)](https://secrett2633.github.io/ai/review/2025-8-11-UI-AGILE_Advancing_GUI_Agents_with_Effective_Reinforcement_Learning_and_Precise_Inference-Time_Grounding/)
-- [[논문리뷰] Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal (2025.08.11)](https://secrett2633.github.io/ai/review/2025-8-11-Pruning_the_Unsurprising_Efficient_Code_Reasoning_via_First-Token_Surprisal/)
-- [[논문리뷰] MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh (2025.08.11)](https://secrett2633.github.io/ai/review/2025-8-11-MeshLLM_Empowering_Large_Language_Models_to_Progressively_Understand_and_Generate_3D_Mesh/)
-- [[논문리뷰] Memp: Exploring Agent Procedural Memory (2025.08.11)](https://secrett2633.github.io/ai/review/2025-8-11-Memp_Exploring_Agent_Procedural_Memory/)
+- [[논문리뷰] WideSearch: Benchmarking Agentic Broad Info-Seeking (2025.08.12)](https://secrett2633.github.io/ai/review/2025-8-12-WideSearch_Benchmarking_Agentic_Broad_Info-Seeking/)
+- [[논문리뷰] When Good Sounds Go Adversarial: Jailbreaking Audio-Language Models with Benign Inputs (2025.08.12)](https://secrett2633.github.io/ai/review/2025-8-12-When_Good_Sounds_Go_Adversarial_Jailbreaking_Audio-Language_Models_with_Benign_Inputs/)
+- [[논문리뷰] VisR-Bench: An Empirical Study on Visual Retrieval-Augmented Generation for Multilingual Long Document Understanding (2025.08.12)](https://secrett2633.github.io/ai/review/2025-8-12-VisR-Bench_An_Empirical_Study_on_Visual_Retrieval-Augmented_Generation_for_Multilingual_Long_Document_Understanding/)
+- [[논문리뷰] UserBench: An Interactive Gym Environment for User-Centric Agents (2025.08.12)](https://secrett2633.github.io/ai/review/2025-8-12-UserBench_An_Interactive_Gym_Environment_for_User-Centric_Agents/)
+- [[논문리뷰] Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future (2025.08.12)](https://secrett2633.github.io/ai/review/2025-8-12-Temporal_Self-Rewarding_Language_Models_Decoupling_Chosen-Rejected_via_Past-Future/)
