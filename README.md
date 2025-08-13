@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] WideSearch: Benchmarking Agentic Broad Info-Seeking (2025.08.12)](https://secrett2633.github.io/ai/review/2025-8-12-WideSearch_Benchmarking_Agentic_Broad_Info-Seeking/)
-- [[논문리뷰] When Good Sounds Go Adversarial: Jailbreaking Audio-Language Models with Benign Inputs (2025.08.12)](https://secrett2633.github.io/ai/review/2025-8-12-When_Good_Sounds_Go_Adversarial_Jailbreaking_Audio-Language_Models_with_Benign_Inputs/)
-- [[논문리뷰] VisR-Bench: An Empirical Study on Visual Retrieval-Augmented Generation for Multilingual Long Document Understanding (2025.08.12)](https://secrett2633.github.io/ai/review/2025-8-12-VisR-Bench_An_Empirical_Study_on_Visual_Retrieval-Augmented_Generation_for_Multilingual_Long_Document_Understanding/)
-- [[논문리뷰] UserBench: An Interactive Gym Environment for User-Centric Agents (2025.08.12)](https://secrett2633.github.io/ai/review/2025-8-12-UserBench_An_Interactive_Gym_Environment_for_User-Centric_Agents/)
-- [[논문리뷰] Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future (2025.08.12)](https://secrett2633.github.io/ai/review/2025-8-12-Temporal_Self-Rewarding_Language_Models_Decoupling_Chosen-Rejected_via_Past-Future/)
+- [[논문리뷰] WGAST: Weakly-Supervised Generative Network for Daily 10 m Land Surface Temperature Estimation via Spatio-Temporal Fusion (2025.08.13)](https://secrett2633.github.io/ai/review/2025-8-13-WGAST_Weakly-Supervised_Generative_Network_for_Daily_10_m_Land_Surface_Temperature_Estimation_via_Spatio-Temporal_Fusion/)
+- [[논문리뷰] VertexRegen: Mesh Generation with Continuous Level of Detail (2025.08.13)](https://secrett2633.github.io/ai/review/2025-8-13-VertexRegen_Mesh_Generation_with_Continuous_Level_of_Detail/)
+- [[논문리뷰] UNCAGE: Contrastive Attention Guidance for Masked Generative Transformers in Text-to-Image Generation (2025.08.13)](https://secrett2633.github.io/ai/review/2025-8-13-UNCAGE_Contrastive_Attention_Guidance_for_Masked_Generative_Transformers_in_Text-to-Image_Generation/)
+- [[논문리뷰] Train Long, Think Short: Curriculum Learning for Efficient Reasoning (2025.08.13)](https://secrett2633.github.io/ai/review/2025-8-13-Train_Long_Think_Short_Curriculum_Learning_for_Efficient_Reasoning/)
+- [[논문리뷰] Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors (2025.08.13)](https://secrett2633.github.io/ai/review/2025-8-13-Towards_Affordance-Aware_Robotic_Dexterous_Grasping_with_Human-like_Priors/)
