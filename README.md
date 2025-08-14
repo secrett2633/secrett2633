@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] WGAST: Weakly-Supervised Generative Network for Daily 10 m Land Surface Temperature Estimation via Spatio-Temporal Fusion (2025.08.13)](https://secrett2633.github.io/ai/review/2025-8-13-WGAST_Weakly-Supervised_Generative_Network_for_Daily_10_m_Land_Surface_Temperature_Estimation_via_Spatio-Temporal_Fusion/)
-- [[논문리뷰] VertexRegen: Mesh Generation with Continuous Level of Detail (2025.08.13)](https://secrett2633.github.io/ai/review/2025-8-13-VertexRegen_Mesh_Generation_with_Continuous_Level_of_Detail/)
-- [[논문리뷰] UNCAGE: Contrastive Attention Guidance for Masked Generative Transformers in Text-to-Image Generation (2025.08.13)](https://secrett2633.github.io/ai/review/2025-8-13-UNCAGE_Contrastive_Attention_Guidance_for_Masked_Generative_Transformers_in_Text-to-Image_Generation/)
-- [[논문리뷰] Train Long, Think Short: Curriculum Learning for Efficient Reasoning (2025.08.13)](https://secrett2633.github.io/ai/review/2025-8-13-Train_Long_Think_Short_Curriculum_Learning_for_Efficient_Reasoning/)
-- [[논문리뷰] Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors (2025.08.13)](https://secrett2633.github.io/ai/review/2025-8-13-Towards_Affordance-Aware_Robotic_Dexterous_Grasping_with_Human-like_Priors/)
+- [[논문리뷰] VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models (2025.08.14)](https://secrett2633.github.io/ai/review/2025-8-14-VisCodex_Unified_Multimodal_Code_Generation_via_Merging_Vision_and_Coding_Models/)
+- [[논문리뷰] Story2Board: A Training-Free Approach for Expressive Storyboard Generation (2025.08.14)](https://secrett2633.github.io/ai/review/2025-8-14-Story2Board_A_Training-Free_Approach_for_Expressive_Storyboard_Generation/)
+- [[논문리뷰] Stand-In: A Lightweight and Plug-and-Play Identity Control for Video Generation (2025.08.14)](https://secrett2633.github.io/ai/review/2025-8-14-Stand-In_A_Lightweight_and_Plug-and-Play_Identity_Control_for_Video_Generation/)
+- [[논문리뷰] Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory (2025.08.14)](https://secrett2633.github.io/ai/review/2025-8-14-Seeing_Listening_Remembering_and_Reasoning_A_Multimodal_Agent_with_Long-Term_Memory/)
+- [[논문리뷰] Noise Hypernetworks: Amortizing Test-Time Compute in Diffusion Models (2025.08.14)](https://secrett2633.github.io/ai/review/2025-8-14-Noise_Hypernetworks_Amortizing_Test-Time_Compute_in_Diffusion_Models/)
