@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models (2025.08.14)](https://secrett2633.github.io/ai/review/2025-8-14-VisCodex_Unified_Multimodal_Code_Generation_via_Merging_Vision_and_Coding_Models/)
-- [[논문리뷰] Story2Board: A Training-Free Approach for Expressive Storyboard Generation (2025.08.14)](https://secrett2633.github.io/ai/review/2025-8-14-Story2Board_A_Training-Free_Approach_for_Expressive_Storyboard_Generation/)
-- [[논문리뷰] Stand-In: A Lightweight and Plug-and-Play Identity Control for Video Generation (2025.08.14)](https://secrett2633.github.io/ai/review/2025-8-14-Stand-In_A_Lightweight_and_Plug-and-Play_Identity_Control_for_Video_Generation/)
-- [[논문리뷰] Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory (2025.08.14)](https://secrett2633.github.io/ai/review/2025-8-14-Seeing_Listening_Remembering_and_Reasoning_A_Multimodal_Agent_with_Long-Term_Memory/)
-- [[논문리뷰] Noise Hypernetworks: Amortizing Test-Time Compute in Diffusion Models (2025.08.14)](https://secrett2633.github.io/ai/review/2025-8-14-Noise_Hypernetworks_Amortizing_Test-Time_Compute_in_Diffusion_Models/)
+- [[논문리뷰] When Explainability Meets Privacy: An Investigation at the Intersection of Post-hoc Explainability and Differential Privacy in the Context of Natural Language Processing (2025.08.15)](https://secrett2633.github.io/ai/review/2025-8-15-When_Explainability_Meets_Privacy_An_Investigation_at_the_Intersection_of_Post-hoc_Explainability_and_Differential_Privacy_in_the_Context_of_Natural_Language_Processing/)
+- [[논문리뷰] We-Math 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning (2025.08.15)](https://secrett2633.github.io/ai/review/2025-8-15-We-Math_2.0_A_Versatile_MathBook_System_for_Incentivizing_Visual_Mathematical_Reasoning/)
+- [[논문리뷰] UI-Venus Technical Report: Building High-performance UI Agents with RFT (2025.08.15)](https://secrett2633.github.io/ai/review/2025-8-15-UI-Venus_Technical_Report_Building_High-performance_UI_Agents_with_RFT/)
+- [[논문리뷰] ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing (2025.08.15)](https://secrett2633.github.io/ai/review/2025-8-15-ToonComposer_Streamlining_Cartoon_Production_with_Generative_Post-Keyframing/)
+- [[논문리뷰] STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer (2025.08.15)](https://secrett2633.github.io/ai/review/2025-8-15-STream3R_Scalable_Sequential_3D_Reconstruction_with_Causal_Transformer/)
