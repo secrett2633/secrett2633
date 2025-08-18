@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] When Explainability Meets Privacy: An Investigation at the Intersection of Post-hoc Explainability and Differential Privacy in the Context of Natural Language Processing (2025.08.15)](https://secrett2633.github.io/ai/review/2025-8-15-When_Explainability_Meets_Privacy_An_Investigation_at_the_Intersection_of_Post-hoc_Explainability_and_Differential_Privacy_in_the_Context_of_Natural_Language_Processing/)
-- [[논문리뷰] We-Math 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning (2025.08.15)](https://secrett2633.github.io/ai/review/2025-8-15-We-Math_2.0_A_Versatile_MathBook_System_for_Incentivizing_Visual_Mathematical_Reasoning/)
-- [[논문리뷰] UI-Venus Technical Report: Building High-performance UI Agents with RFT (2025.08.15)](https://secrett2633.github.io/ai/review/2025-8-15-UI-Venus_Technical_Report_Building_High-performance_UI_Agents_with_RFT/)
-- [[논문리뷰] ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing (2025.08.15)](https://secrett2633.github.io/ai/review/2025-8-15-ToonComposer_Streamlining_Cartoon_Production_with_Generative_Post-Keyframing/)
-- [[논문리뷰] STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer (2025.08.15)](https://secrett2633.github.io/ai/review/2025-8-15-STream3R_Scalable_Sequential_3D_Reconstruction_with_Causal_Transformer/)
+- [[논문리뷰] X-Node: Self-Explanation is All We Need (2025.08.18)](https://secrett2633.github.io/ai/review/2025-8-18-X-Node_Self-Explanation_is_All_We_Need/)
+- [[논문리뷰] Thyme: Think Beyond Images (2025.08.18)](https://secrett2633.github.io/ai/review/2025-8-18-Thyme_Think_Beyond_Images/)
+- [[논문리뷰] TexVerse: A Universe of 3D Objects with High-Resolution Textures (2025.08.18)](https://secrett2633.github.io/ai/review/2025-8-18-TexVerse_A_Universe_of_3D_Objects_with_High-Resolution_Textures/)
+- [[논문리뷰] StyleMM: Stylized 3D Morphable Face Model via Text-Driven Aligned Image Translation (2025.08.18)](https://secrett2633.github.io/ai/review/2025-8-18-StyleMM_Stylized_3D_Morphable_Face_Model_via_Text-Driven_Aligned_Image_Translation/)
+- [[논문리뷰] SSRL: Self-Search Reinforcement Learning (2025.08.18)](https://secrett2633.github.io/ai/review/2025-8-18-SSRL_Self-Search_Reinforcement_Learning/)
