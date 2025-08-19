@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] X-Node: Self-Explanation is All We Need (2025.08.18)](https://secrett2633.github.io/ai/review/2025-8-18-X-Node_Self-Explanation_is_All_We_Need/)
-- [[논문리뷰] Thyme: Think Beyond Images (2025.08.18)](https://secrett2633.github.io/ai/review/2025-8-18-Thyme_Think_Beyond_Images/)
-- [[논문리뷰] TexVerse: A Universe of 3D Objects with High-Resolution Textures (2025.08.18)](https://secrett2633.github.io/ai/review/2025-8-18-TexVerse_A_Universe_of_3D_Objects_with_High-Resolution_Textures/)
-- [[논문리뷰] StyleMM: Stylized 3D Morphable Face Model via Text-Driven Aligned Image Translation (2025.08.18)](https://secrett2633.github.io/ai/review/2025-8-18-StyleMM_Stylized_3D_Morphable_Face_Model_via_Text-Driven_Aligned_Image_Translation/)
-- [[논문리뷰] SSRL: Self-Search Reinforcement Learning (2025.08.18)](https://secrett2633.github.io/ai/review/2025-8-18-SSRL_Self-Search_Reinforcement_Learning/)
+- [[논문리뷰] When Punctuation Matters: A Large-Scale Comparison of Prompt Robustness Methods for LLMs (2025.08.19)](https://secrett2633.github.io/ai/review/2025-8-19-When_Punctuation_Matters_A_Large-Scale_Comparison_of_Prompt_Robustness_Methods_for_LLMs/)
+- [[논문리뷰] Speed Always Wins: A Survey on Efficient Architectures for Large Language Models (2025.08.19)](https://secrett2633.github.io/ai/review/2025-8-19-Speed_Always_Wins_A_Survey_on_Efficient_Architectures_for_Large_Language_Models/)
+- [[논문리뷰] S^2-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models (2025.08.19)](https://secrett2633.github.io/ai/review/2025-8-19-S2-Guidance_Stochastic_Self_Guidance_for_Training-Free_Enhancement_of_Diffusion_Models/)
+- [[논문리뷰] Representing Speech Through Autoregressive Prediction of Cochlear Tokens (2025.08.19)](https://secrett2633.github.io/ai/review/2025-8-19-Representing_Speech_Through_Autoregressive_Prediction_of_Cochlear_Tokens/)
+- [[논문리뷰] Reinforcement Learning with Rubric Anchors (2025.08.19)](https://secrett2633.github.io/ai/review/2025-8-19-Reinforcement_Learning_with_Rubric_Anchors/)
