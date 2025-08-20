@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] When Punctuation Matters: A Large-Scale Comparison of Prompt Robustness Methods for LLMs (2025.08.19)](https://secrett2633.github.io/ai/review/2025-8-19-When_Punctuation_Matters_A_Large-Scale_Comparison_of_Prompt_Robustness_Methods_for_LLMs/)
-- [[논문리뷰] Speed Always Wins: A Survey on Efficient Architectures for Large Language Models (2025.08.19)](https://secrett2633.github.io/ai/review/2025-8-19-Speed_Always_Wins_A_Survey_on_Efficient_Architectures_for_Large_Language_Models/)
-- [[논문리뷰] S^2-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models (2025.08.19)](https://secrett2633.github.io/ai/review/2025-8-19-S2-Guidance_Stochastic_Self_Guidance_for_Training-Free_Enhancement_of_Diffusion_Models/)
-- [[논문리뷰] Representing Speech Through Autoregressive Prediction of Cochlear Tokens (2025.08.19)](https://secrett2633.github.io/ai/review/2025-8-19-Representing_Speech_Through_Autoregressive_Prediction_of_Cochlear_Tokens/)
-- [[논문리뷰] Reinforcement Learning with Rubric Anchors (2025.08.19)](https://secrett2633.github.io/ai/review/2025-8-19-Reinforcement_Learning_with_Rubric_Anchors/)
+- [[논문리뷰] ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents (2025.08.20)](https://secrett2633.github.io/ai/review/2025-8-20-ZARA_Zero-shot_Motion_Time-Series_Analysis_via_Knowledge_and_Retrieval_Driven_LLM_Agents/)
+- [[논문리뷰] Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer (2025.08.20)](https://secrett2633.github.io/ai/review/2025-8-20-Training-Free_Text-Guided_Color_Editing_with_Multi-Modal_Diffusion_Transformer/)
+- [[논문리뷰] TempFlow-GRPO: When Timing Matters for GRPO in Flow Models (2025.08.20)](https://secrett2633.github.io/ai/review/2025-8-20-TempFlow-GRPO_When_Timing_Matters_for_GRPO_in_Flow_Models/)
+- [[논문리뷰] Semantic IDs for Joint Generative Search and Recommendation (2025.08.20)](https://secrett2633.github.io/ai/review/2025-8-20-Semantic_IDs_for_Joint_Generative_Search_and_Recommendation/)
+- [[논문리뷰] Radiance Fields in XR: A Survey on How Radiance Fields are Envisioned and Addressed for XR Research (2025.08.20)](https://secrett2633.github.io/ai/review/2025-8-20-Radiance_Fields_in_XR_A_Survey_on_How_Radiance_Fields_are_Envisioned_and_Addressed_for_XR_Research/)
