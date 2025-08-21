@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents (2025.08.20)](https://secrett2633.github.io/ai/review/2025-8-20-ZARA_Zero-shot_Motion_Time-Series_Analysis_via_Knowledge_and_Retrieval_Driven_LLM_Agents/)
-- [[논문리뷰] Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer (2025.08.20)](https://secrett2633.github.io/ai/review/2025-8-20-Training-Free_Text-Guided_Color_Editing_with_Multi-Modal_Diffusion_Transformer/)
-- [[논문리뷰] TempFlow-GRPO: When Timing Matters for GRPO in Flow Models (2025.08.20)](https://secrett2633.github.io/ai/review/2025-8-20-TempFlow-GRPO_When_Timing_Matters_for_GRPO_in_Flow_Models/)
-- [[논문리뷰] Semantic IDs for Joint Generative Search and Recommendation (2025.08.20)](https://secrett2633.github.io/ai/review/2025-8-20-Semantic_IDs_for_Joint_Generative_Search_and_Recommendation/)
-- [[논문리뷰] Radiance Fields in XR: A Survey on How Radiance Fields are Envisioned and Addressed for XR Research (2025.08.20)](https://secrett2633.github.io/ai/review/2025-8-20-Radiance_Fields_in_XR_A_Survey_on_How_Radiance_Fields_are_Envisioned_and_Addressed_for_XR_Research/)
+- [[논문리뷰] mSCoRe: a Multilingual and Scalable Benchmark for Skill-based Commonsense Reasoning (2025.08.21)](https://secrett2633.github.io/ai/review/2025-8-21-mSCoRe_a_Multilingual_and_Scalable_Benchmark_for_Skill-based_Commonsense_Reasoning/)
+- [[논문리뷰] ViExam: Are Vision Language Models Better than Humans on Vietnamese Multimodal Exam Questions? (2025.08.21)](https://secrett2633.github.io/ai/review/2025-8-21-ViExam_Are_Vision_Language_Models_Better_than_Humans_on_Vietnamese_Multimodal_Exam_Questions/)
+- [[논문리뷰] Tinker: Diffusion's Gift to 3D--Multi-View Consistent Editing From Sparse Inputs without Per-Scene Optimization (2025.08.21)](https://secrett2633.github.io/ai/review/2025-8-21-Tinker_Diffusions_Gift_to_3D--Multi-View_Consistent_Editing_From_Sparse_Inputs_without_Per-Scene_Optimization/)
+- [[논문리뷰] RynnEC: Bringing MLLMs into Embodied World (2025.08.21)](https://secrett2633.github.io/ai/review/2025-8-21-RynnEC_Bringing_MLLMs_into_Embodied_World/)
+- [[논문리뷰] Refining Contrastive Learning and Homography Relations for Multi-Modal Recommendation (2025.08.21)](https://secrett2633.github.io/ai/review/2025-8-21-Refining_Contrastive_Learning_and_Homography_Relations_for_Multi-Modal_Recommendation/)
