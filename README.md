@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] Selective Contrastive Learning for Weakly Supervised Affordance Grounding (2025.08.25)](https://secrett2633.github.io/ai/review/2025-8-25-Selective_Contrastive_Learning_for_Weakly_Supervised_Affordance_Grounding/)
-- [[논문리뷰] Learnable SMPLify: A Neural Solution for Optimization-Free Human Pose Inverse Kinematics (2025.08.25)](https://secrett2633.github.io/ai/review/2025-8-25-Learnable_SMPLify_A_Neural_Solution_for_Optimization-Free_Human_Pose_Inverse_Kinematics/)
-- [[논문리뷰] Jailbreaking Commercial Black-Box LLMs with Explicitly Harmful Prompts (2025.08.25)](https://secrett2633.github.io/ai/review/2025-8-25-Jailbreaking_Commercial_Black-Box_LLMs_with_Explicitly_Harmful_Prompts/)
-- [[논문리뷰] InMind: Evaluating LLMs in Capturing and Applying Individual Human Reasoning Styles (2025.08.25)](https://secrett2633.github.io/ai/review/2025-8-25-InMind_Evaluating_LLMs_in_Capturing_and_Applying_Individual_Human_Reasoning_Styles/)
-- [[논문리뷰] End-to-End Agentic RAG System Training for Traceable Diagnostic Reasoning (2025.08.25)](https://secrett2633.github.io/ai/review/2025-8-25-End-to-End_Agentic_RAG_System_Training_for_Traceable_Diagnostic_Reasoning/)
+- [[논문리뷰] Visual-CoG: Stage-Aware Reinforcement Learning with Chain of Guidance for Text-to-Image Generation (2025.08.26)](https://secrett2633.github.io/ai/review/2025-8-26-Visual-CoG_Stage-Aware_Reinforcement_Learning_with_Chain_of_Guidance_for_Text-to-Image_Generation/)
+- [[논문리뷰] UQ: Assessing Language Models on Unsolved Questions (2025.08.26)](https://secrett2633.github.io/ai/review/2025-8-26-UQ_Assessing_Language_Models_on_Unsolved_Questions/)
+- [[논문리뷰] TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling (2025.08.26)](https://secrett2633.github.io/ai/review/2025-8-26-TaDiCodec_Text-aware_Diffusion_Speech_Tokenizer_for_Speech_Language_Modeling/)
+- [[논문리뷰] T2I-ReasonBench: Benchmarking Reasoning-Informed Text-to-Image Generation (2025.08.26)](https://secrett2633.github.io/ai/review/2025-8-26-T2I-ReasonBench_Benchmarking_Reasoning-Informed_Text-to-Image_Generation/)
+- [[논문리뷰] SpotEdit: Evaluating Visually-Guided Image Editing Methods (2025.08.26)](https://secrett2633.github.io/ai/review/2025-8-26-SpotEdit_Evaluating_Visually-Guided_Image_Editing_Methods/)
