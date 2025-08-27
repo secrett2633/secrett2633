@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] Visual-CoG: Stage-Aware Reinforcement Learning with Chain of Guidance for Text-to-Image Generation (2025.08.26)](https://secrett2633.github.io/ai/review/2025-8-26-Visual-CoG_Stage-Aware_Reinforcement_Learning_with_Chain_of_Guidance_for_Text-to-Image_Generation/)
-- [[논문리뷰] UQ: Assessing Language Models on Unsolved Questions (2025.08.26)](https://secrett2633.github.io/ai/review/2025-8-26-UQ_Assessing_Language_Models_on_Unsolved_Questions/)
-- [[논문리뷰] TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling (2025.08.26)](https://secrett2633.github.io/ai/review/2025-8-26-TaDiCodec_Text-aware_Diffusion_Speech_Tokenizer_for_Speech_Language_Modeling/)
-- [[논문리뷰] T2I-ReasonBench: Benchmarking Reasoning-Informed Text-to-Image Generation (2025.08.26)](https://secrett2633.github.io/ai/review/2025-8-26-T2I-ReasonBench_Benchmarking_Reasoning-Informed_Text-to-Image_Generation/)
-- [[논문리뷰] SpotEdit: Evaluating Visually-Guided Image Editing Methods (2025.08.26)](https://secrett2633.github.io/ai/review/2025-8-26-SpotEdit_Evaluating_Visually-Guided_Image_Editing_Methods/)
+- [[논문리뷰] Wan-S2V: Audio-Driven Cinematic Video Generation (2025.08.27)](https://secrett2633.github.io/ai/review/2025-8-27-Wan-S2V_Audio-Driven_Cinematic_Video_Generation/)
+- [[논문리뷰] VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D Space (2025.08.27)](https://secrett2633.github.io/ai/review/2025-8-27-VoxHammer_Training-Free_Precise_and_Coherent_3D_Editing_in_Native_3D_Space/)
+- [[논문리뷰] VibeVoice Technical Report (2025.08.27)](https://secrett2633.github.io/ai/review/2025-8-27-VibeVoice_Technical_Report/)
+- [[논문리뷰] Unraveling the cognitive patterns of Large Language Models through module communities (2025.08.27)](https://secrett2633.github.io/ai/review/2025-8-27-Unraveling_the_cognitive_patterns_of_Large_Language_Models_through_module_communities/)
+- [[논문리뷰] UltraMemV2: Memory Networks Scaling to 120B Parameters with Superior Long-Context Learning (2025.08.27)](https://secrett2633.github.io/ai/review/2025-8-27-UltraMemV2_Memory_Networks_Scaling_to_120B_Parameters_with_Superior_Long-Context_Learning/)
