@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] Wan-S2V: Audio-Driven Cinematic Video Generation (2025.08.27)](https://secrett2633.github.io/ai/review/2025-8-27-Wan-S2V_Audio-Driven_Cinematic_Video_Generation/)
-- [[논문리뷰] VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D Space (2025.08.27)](https://secrett2633.github.io/ai/review/2025-8-27-VoxHammer_Training-Free_Precise_and_Coherent_3D_Editing_in_Native_3D_Space/)
-- [[논문리뷰] VibeVoice Technical Report (2025.08.27)](https://secrett2633.github.io/ai/review/2025-8-27-VibeVoice_Technical_Report/)
-- [[논문리뷰] Unraveling the cognitive patterns of Large Language Models through module communities (2025.08.27)](https://secrett2633.github.io/ai/review/2025-8-27-Unraveling_the_cognitive_patterns_of_Large_Language_Models_through_module_communities/)
-- [[논문리뷰] UltraMemV2: Memory Networks Scaling to 120B Parameters with Superior Long-Context Learning (2025.08.27)](https://secrett2633.github.io/ai/review/2025-8-27-UltraMemV2_Memory_Networks_Scaling_to_120B_Parameters_with_Superior_Long-Context_Learning/)
+- [[논문리뷰] Taming the Chaos: Coordinated Autoscaling for Heterogeneous and Disaggregated LLM Inference (2025.08.28)](https://secrett2633.github.io/ai/review/2025-8-28-Taming_the_Chaos_Coordinated_Autoscaling_for_Heterogeneous_and_Disaggregated_LLM_Inference/)
+- [[논문리뷰] StepWiser: Stepwise Generative Judges for Wiser Reasoning (2025.08.28)](https://secrett2633.github.io/ai/review/2025-8-28-StepWiser_Stepwise_Generative_Judges_for_Wiser_Reasoning/)
+- [[논문리뷰] Self-Rewarding Vision-Language Model via Reasoning Decomposition (2025.08.28)](https://secrett2633.github.io/ai/review/2025-8-28-Self-Rewarding_Vision-Language_Model_via_Reasoning_Decomposition/)
+- [[논문리뷰] Predicting the Order of Upcoming Tokens Improves Language Modeling (2025.08.28)](https://secrett2633.github.io/ai/review/2025-8-28-Predicting_the_Order_of_Upcoming_Tokens_Improves_Language_Modeling/)
+- [[논문리뷰] MotionFlux: Efficient Text-Guided Motion Generation through Rectified Flow Matching and Preference Alignment (2025.08.28)](https://secrett2633.github.io/ai/review/2025-8-28-MotionFlux_Efficient_Text-Guided_Motion_Generation_through_Rectified_Flow_Matching_and_Preference_Alignment/)
