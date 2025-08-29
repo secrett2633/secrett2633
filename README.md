@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] Taming the Chaos: Coordinated Autoscaling for Heterogeneous and Disaggregated LLM Inference (2025.08.28)](https://secrett2633.github.io/ai/review/2025-8-28-Taming_the_Chaos_Coordinated_Autoscaling_for_Heterogeneous_and_Disaggregated_LLM_Inference/)
-- [[논문리뷰] StepWiser: Stepwise Generative Judges for Wiser Reasoning (2025.08.28)](https://secrett2633.github.io/ai/review/2025-8-28-StepWiser_Stepwise_Generative_Judges_for_Wiser_Reasoning/)
-- [[논문리뷰] Self-Rewarding Vision-Language Model via Reasoning Decomposition (2025.08.28)](https://secrett2633.github.io/ai/review/2025-8-28-Self-Rewarding_Vision-Language_Model_via_Reasoning_Decomposition/)
-- [[논문리뷰] Predicting the Order of Upcoming Tokens Improves Language Modeling (2025.08.28)](https://secrett2633.github.io/ai/review/2025-8-28-Predicting_the_Order_of_Upcoming_Tokens_Improves_Language_Modeling/)
-- [[논문리뷰] MotionFlux: Efficient Text-Guided Motion Generation through Rectified Flow Matching and Preference Alignment (2025.08.28)](https://secrett2633.github.io/ai/review/2025-8-28-MotionFlux_Efficient_Text-Guided_Motion_Generation_through_Rectified_Flow_Matching_and_Preference_Alignment/)
+- [[논문리뷰] rStar2-Agent: Agentic Reasoning Technical Report (2025.08.29)](https://secrett2633.github.io/ai/review/2025-8-29-rStar2-Agent_Agentic_Reasoning_Technical_Report/)
+- [[논문리뷰] USO: Unified Style and Subject-Driven Generation via Disentangled and Reward Learning (2025.08.29)](https://secrett2633.github.io/ai/review/2025-8-29-USO_Unified_Style_and_Subject-Driven_Generation_via_Disentangled_and_Reward_Learning/)
+- [[논문리뷰] Turning the Spell Around: Lightweight Alignment Amplification via Rank-One Safety Injection (2025.08.29)](https://secrett2633.github.io/ai/review/2025-8-29-Turning_the_Spell_Around_Lightweight_Alignment_Amplification_via_Rank-One_Safety_Injection/)
+- [[논문리뷰] TCIA: A Task-Centric Instruction Augmentation Method for Instruction Finetuning (2025.08.29)](https://secrett2633.github.io/ai/review/2025-8-29-TCIA_A_Task-Centric_Instruction_Augmentation_Method_for_Instruction_Finetuning/)
+- [[논문리뷰] ROSE: Remove Objects with Side Effects in Videos (2025.08.29)](https://secrett2633.github.io/ai/review/2025-8-29-ROSE_Remove_Objects_with_Side_Effects_in_Videos/)
