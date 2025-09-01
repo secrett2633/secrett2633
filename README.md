@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] rStar2-Agent: Agentic Reasoning Technical Report (2025.08.29)](https://secrett2633.github.io/ai/review/2025-8-29-rStar2-Agent_Agentic_Reasoning_Technical_Report/)
-- [[논문리뷰] USO: Unified Style and Subject-Driven Generation via Disentangled and Reward Learning (2025.08.29)](https://secrett2633.github.io/ai/review/2025-8-29-USO_Unified_Style_and_Subject-Driven_Generation_via_Disentangled_and_Reward_Learning/)
-- [[논문리뷰] Turning the Spell Around: Lightweight Alignment Amplification via Rank-One Safety Injection (2025.08.29)](https://secrett2633.github.io/ai/review/2025-8-29-Turning_the_Spell_Around_Lightweight_Alignment_Amplification_via_Rank-One_Safety_Injection/)
-- [[논문리뷰] TCIA: A Task-Centric Instruction Augmentation Method for Instruction Finetuning (2025.08.29)](https://secrett2633.github.io/ai/review/2025-8-29-TCIA_A_Task-Centric_Instruction_Augmentation_Method_for_Instruction_Finetuning/)
-- [[논문리뷰] ROSE: Remove Objects with Side Effects in Videos (2025.08.29)](https://secrett2633.github.io/ai/review/2025-8-29-ROSE_Remove_Objects_with_Side_Effects_in_Videos/)
+- [[논문리뷰] UItron: Foundational GUI Agent with Advanced Perception and Planning (2025.09.01)](https://secrett2633.github.io/ai/review/2025-9-1-UItron_Foundational_GUI_Agent_with_Advanced_Perception_and_Planning/)
+- [[논문리뷰] TiKMiX: Take Data Influence into Dynamic Mixture for Language Model Pre-training (2025.09.01)](https://secrett2633.github.io/ai/review/2025-9-1-TiKMiX_Take_Data_Influence_into_Dynamic_Mixture_for_Language_Model_Pre-training/)
+- [[논문리뷰] Think in Games: Learning to Reason in Games via Reinforcement Learning with Large Language Models (2025.09.01)](https://secrett2633.github.io/ai/review/2025-9-1-Think_in_Games_Learning_to_Reason_in_Games_via_Reinforcement_Learning_with_Large_Language_Models/)
+- [[논문리뷰] TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis (2025.09.01)](https://secrett2633.github.io/ai/review/2025-9-1-TalkVid_A_Large-Scale_Diversified_Dataset_for_Audio-Driven_Talking_Head_Synthesis/)
+- [[논문리뷰] R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning (2025.09.01)](https://secrett2633.github.io/ai/review/2025-9-1-R-4B_Incentivizing_General-Purpose_Auto-Thinking_Capability_in_MLLMs_via_Bi-Mode_Annealing_and_Reinforce_Learning/)
