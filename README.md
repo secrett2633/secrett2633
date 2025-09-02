@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] UItron: Foundational GUI Agent with Advanced Perception and Planning (2025.09.01)](https://secrett2633.github.io/ai/review/2025-9-1-UItron_Foundational_GUI_Agent_with_Advanced_Perception_and_Planning/)
-- [[논문리뷰] TiKMiX: Take Data Influence into Dynamic Mixture for Language Model Pre-training (2025.09.01)](https://secrett2633.github.io/ai/review/2025-9-1-TiKMiX_Take_Data_Influence_into_Dynamic_Mixture_for_Language_Model_Pre-training/)
-- [[논문리뷰] Think in Games: Learning to Reason in Games via Reinforcement Learning with Large Language Models (2025.09.01)](https://secrett2633.github.io/ai/review/2025-9-1-Think_in_Games_Learning_to_Reason_in_Games_via_Reinforcement_Learning_with_Large_Language_Models/)
-- [[논문리뷰] TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis (2025.09.01)](https://secrett2633.github.io/ai/review/2025-9-1-TalkVid_A_Large-Scale_Diversified_Dataset_for_Audio-Driven_Talking_Head_Synthesis/)
-- [[논문리뷰] R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning (2025.09.01)](https://secrett2633.github.io/ai/review/2025-9-1-R-4B_Incentivizing_General-Purpose_Auto-Thinking_Capability_in_MLLMs_via_Bi-Mode_Annealing_and_Reinforce_Learning/)
+- [[논문리뷰] UI-Level Evaluation of ALLaM 34B: Measuring an Arabic-Centric LLM via HUMAIN Chat (2025.09.02)](https://secrett2633.github.io/ai/review/2025-9-2-UI-Level_Evaluation_of_ALLaM_34B_Measuring_an_Arabic-Centric_LLM_via_HUMAIN_Chat/)
+- [[논문리뷰] T2R-bench: A Benchmark for Generating Article-Level Reports from Real World Industrial Tables (2025.09.02)](https://secrett2633.github.io/ai/review/2025-9-2-T2R-bench_A_Benchmark_for_Generating_Article-Level_Reports_from_Real_World_Industrial_Tables/)
+- [[논문리뷰] PVPO: Pre-Estimated Value-Based Policy Optimization for Agentic Reasoning (2025.09.02)](https://secrett2633.github.io/ai/review/2025-9-2-PVPO_Pre-Estimated_Value-Based_Policy_Optimization_for_Agentic_Reasoning/)
+- [[논문리뷰] No Label Left Behind: A Unified Surface Defect Detection Model for all Supervision Regimes (2025.09.02)](https://secrett2633.github.io/ai/review/2025-9-2-No_Label_Left_Behind_A_Unified_Surface_Defect_Detection_Model_for_all_Supervision_Regimes/)
+- [[논문리뷰] How Can Input Reformulation Improve Tool Usage Accuracy in a Complex Dynamic Environment? A Study on τ-bench (2025.09.02)](https://secrett2633.github.io/ai/review/2025-9-2-How_Can_Input_Reformulation_Improve_Tool_Usage_Accuracy_in_a_Complex_Dynamic_Environment_A_Study_on_τ-bench/)
