@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] UI-Level Evaluation of ALLaM 34B: Measuring an Arabic-Centric LLM via HUMAIN Chat (2025.09.02)](https://secrett2633.github.io/ai/review/2025-9-2-UI-Level_Evaluation_of_ALLaM_34B_Measuring_an_Arabic-Centric_LLM_via_HUMAIN_Chat/)
-- [[논문리뷰] T2R-bench: A Benchmark for Generating Article-Level Reports from Real World Industrial Tables (2025.09.02)](https://secrett2633.github.io/ai/review/2025-9-2-T2R-bench_A_Benchmark_for_Generating_Article-Level_Reports_from_Real_World_Industrial_Tables/)
-- [[논문리뷰] PVPO: Pre-Estimated Value-Based Policy Optimization for Agentic Reasoning (2025.09.02)](https://secrett2633.github.io/ai/review/2025-9-2-PVPO_Pre-Estimated_Value-Based_Policy_Optimization_for_Agentic_Reasoning/)
-- [[논문리뷰] No Label Left Behind: A Unified Surface Defect Detection Model for all Supervision Regimes (2025.09.02)](https://secrett2633.github.io/ai/review/2025-9-2-No_Label_Left_Behind_A_Unified_Surface_Defect_Detection_Model_for_all_Supervision_Regimes/)
-- [[논문리뷰] How Can Input Reformulation Improve Tool Usage Accuracy in a Complex Dynamic Environment? A Study on τ-bench (2025.09.02)](https://secrett2633.github.io/ai/review/2025-9-2-How_Can_Input_Reformulation_Improve_Tool_Usage_Accuracy_in_a_Complex_Dynamic_Environment_A_Study_on_τ-bench/)
+- [[논문리뷰] ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association (2025.09.03)](https://secrett2633.github.io/ai/review/2025-9-3-ViSTA-SLAM_Visual_SLAM_with_Symmetric_Two-view_Association/)
+- [[논문리뷰] VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use (2025.09.03)](https://secrett2633.github.io/ai/review/2025-9-3-VerlTool_Towards_Holistic_Agentic_Reinforcement_Learning_with_Tool_Use/)
+- [[논문리뷰] Universal Deep Research: Bring Your Own Model and Strategy (2025.09.03)](https://secrett2633.github.io/ai/review/2025-9-3-Universal_Deep_Research_Bring_Your_Own_Model_and_Strategy/)
+- [[논문리뷰] UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning (2025.09.03)](https://secrett2633.github.io/ai/review/2025-9-3-UI-TARS-2_Technical_Report_Advancing_GUI_Agent_with_Multi-Turn_Reinforcement_Learning/)
+- [[논문리뷰] Towards More Diverse and Challenging Pre-training for Point Cloud Learning: Self-Supervised Cross Reconstruction with Decoupled Views (2025.09.03)](https://secrett2633.github.io/ai/review/2025-9-3-Towards_More_Diverse_and_Challenging_Pre-training_for_Point_Cloud_Learning_Self-Supervised_Cross_Reconstruction_with_Decoupled_Views/)
