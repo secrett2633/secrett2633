@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association (2025.09.03)](https://secrett2633.github.io/ai/review/2025-9-3-ViSTA-SLAM_Visual_SLAM_with_Symmetric_Two-view_Association/)
-- [[논문리뷰] VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use (2025.09.03)](https://secrett2633.github.io/ai/review/2025-9-3-VerlTool_Towards_Holistic_Agentic_Reinforcement_Learning_with_Tool_Use/)
-- [[논문리뷰] Universal Deep Research: Bring Your Own Model and Strategy (2025.09.03)](https://secrett2633.github.io/ai/review/2025-9-3-Universal_Deep_Research_Bring_Your_Own_Model_and_Strategy/)
-- [[논문리뷰] UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning (2025.09.03)](https://secrett2633.github.io/ai/review/2025-9-3-UI-TARS-2_Technical_Report_Advancing_GUI_Agent_with_Multi-Turn_Reinforcement_Learning/)
-- [[논문리뷰] Towards More Diverse and Challenging Pre-training for Point Cloud Learning: Self-Supervised Cross Reconstruction with Decoupled Views (2025.09.03)](https://secrett2633.github.io/ai/review/2025-9-3-Towards_More_Diverse_and_Challenging_Pre-training_for_Point_Cloud_Learning_Self-Supervised_Cross_Reconstruction_with_Decoupled_Views/)
+- [[논문리뷰] Robix: A Unified Model for Robot Interaction, Reasoning and Planning (2025.09.04)](https://secrett2633.github.io/ai/review/2025-9-4-Robix_A_Unified_Model_for_Robot_Interaction_Reasoning_and_Planning/)
+- [[논문리뷰] Open Data Synthesis For Deep Research (2025.09.04)](https://secrett2633.github.io/ai/review/2025-9-4-Open_Data_Synthesis_For_Deep_Research/)
+- [[논문리뷰] Mixture of Global and Local Experts with Diffusion Transformer for Controllable Face Generation (2025.09.04)](https://secrett2633.github.io/ai/review/2025-9-4-Mixture_of_Global_and_Local_Experts_with_Diffusion_Transformer_for_Controllable_Face_Generation/)
+- [[논문리뷰] MOSAIC: Multi-Subject Personalized Generation via Correspondence-Aware Alignment and Disentanglement (2025.09.04)](https://secrett2633.github.io/ai/review/2025-9-4-MOSAIC_Multi-Subject_Personalized_Generation_via_Correspondence-Aware_Alignment_and_Disentanglement/)
+- [[논문리뷰] LMEnt: A Suite for Analyzing Knowledge in Language Models from Pretraining Data to Representations (2025.09.04)](https://secrett2633.github.io/ai/review/2025-9-4-LMEnt_A_Suite_for_Analyzing_Knowledge_in_Language_Models_from_Pretraining_Data_to_Representations/)
