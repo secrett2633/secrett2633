@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] Robix: A Unified Model for Robot Interaction, Reasoning and Planning (2025.09.04)](https://secrett2633.github.io/ai/review/2025-9-4-Robix_A_Unified_Model_for_Robot_Interaction_Reasoning_and_Planning/)
-- [[논문리뷰] Open Data Synthesis For Deep Research (2025.09.04)](https://secrett2633.github.io/ai/review/2025-9-4-Open_Data_Synthesis_For_Deep_Research/)
-- [[논문리뷰] Mixture of Global and Local Experts with Diffusion Transformer for Controllable Face Generation (2025.09.04)](https://secrett2633.github.io/ai/review/2025-9-4-Mixture_of_Global_and_Local_Experts_with_Diffusion_Transformer_for_Controllable_Face_Generation/)
-- [[논문리뷰] MOSAIC: Multi-Subject Personalized Generation via Correspondence-Aware Alignment and Disentanglement (2025.09.04)](https://secrett2633.github.io/ai/review/2025-9-4-MOSAIC_Multi-Subject_Personalized_Generation_via_Correspondence-Aware_Alignment_and_Disentanglement/)
-- [[논문리뷰] LMEnt: A Suite for Analyzing Knowledge in Language Models from Pretraining Data to Representations (2025.09.04)](https://secrett2633.github.io/ai/review/2025-9-4-LMEnt_A_Suite_for_Analyzing_Knowledge_in_Language_Models_from_Pretraining_Data_to_Representations/)
+- [[논문리뷰] Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding (2025.09.05)](https://secrett2633.github.io/ai/review/2025-9-5-Video-MTR_Reinforced_Multi-Turn_Reasoning_for_Long_Video_Understanding/)
+- [[논문리뷰] Transition Models: Rethinking the Generative Learning Objective (2025.09.05)](https://secrett2633.github.io/ai/review/2025-9-5-Transition_Models_Rethinking_the_Generative_Learning_Objective/)
+- [[논문리뷰] Towards a Unified View of Large Language Model Post-Training (2025.09.05)](https://secrett2633.github.io/ai/review/2025-9-5-Towards_a_Unified_View_of_Large_Language_Model_Post-Training/)
+- [[논문리뷰] NER Retriever: Zero-Shot Named Entity Retrieval with Type-Aware Embeddings (2025.09.05)](https://secrett2633.github.io/ai/review/2025-9-5-NER_Retriever_Zero-Shot_Named_Entity_Retrieval_with_Type-Aware_Embeddings/)
+- [[논문리뷰] Inverse IFEval: Can LLMs Unlearn Stubborn Training Conventions to Follow Real Instructions? (2025.09.05)](https://secrett2633.github.io/ai/review/2025-9-5-Inverse_IFEval_Can_LLMs_Unlearn_Stubborn_Training_Conventions_to_Follow_Real_Instructions/)
