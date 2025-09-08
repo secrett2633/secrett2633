@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding (2025.09.05)](https://secrett2633.github.io/ai/review/2025-9-5-Video-MTR_Reinforced_Multi-Turn_Reasoning_for_Long_Video_Understanding/)
-- [[논문리뷰] Transition Models: Rethinking the Generative Learning Objective (2025.09.05)](https://secrett2633.github.io/ai/review/2025-9-5-Transition_Models_Rethinking_the_Generative_Learning_Objective/)
-- [[논문리뷰] Towards a Unified View of Large Language Model Post-Training (2025.09.05)](https://secrett2633.github.io/ai/review/2025-9-5-Towards_a_Unified_View_of_Large_Language_Model_Post-Training/)
-- [[논문리뷰] NER Retriever: Zero-Shot Named Entity Retrieval with Type-Aware Embeddings (2025.09.05)](https://secrett2633.github.io/ai/review/2025-9-5-NER_Retriever_Zero-Shot_Named_Entity_Retrieval_with_Type-Aware_Embeddings/)
-- [[논문리뷰] Inverse IFEval: Can LLMs Unlearn Stubborn Training Conventions to Follow Real Instructions? (2025.09.05)](https://secrett2633.github.io/ai/review/2025-9-5-Inverse_IFEval_Can_LLMs_Unlearn_Stubborn_Training_Conventions_to_Follow_Real_Instructions/)
+- [[논문리뷰] WinT3R: Window-Based Streaming Reconstruction with Camera Token Pool (2025.09.08)](https://secrett2633.github.io/ai/review/2025-9-8-WinT3R_Window-Based_Streaming_Reconstruction_with_Camera_Token_Pool/)
+- [[논문리뷰] WildScore: Benchmarking MLLMs in-the-Wild Symbolic Music Reasoning (2025.09.08)](https://secrett2633.github.io/ai/review/2025-9-8-WildScore_Benchmarking_MLLMs_in-the-Wild_Symbolic_Music_Reasoning/)
+- [[논문리뷰] Why Language Models Hallucinate (2025.09.08)](https://secrett2633.github.io/ai/review/2025-9-8-Why_Language_Models_Hallucinate/)
+- [[논문리뷰] U-ARM : Ultra low-cost general teleoperation interface for robot manipulation (2025.09.08)](https://secrett2633.github.io/ai/review/2025-9-8-U-ARM_Ultra_low-cost_general_teleoperation_interface_for_robot_manipulation/)
+- [[논문리뷰] Symbolic Graphics Programming with Large Language Models (2025.09.08)](https://secrett2633.github.io/ai/review/2025-9-8-Symbolic_Graphics_Programming_with_Large_Language_Models/)
