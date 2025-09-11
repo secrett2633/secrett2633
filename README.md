@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] ΔL Normalization: Rethink Loss Aggregation in RLVR (2025.09.10)](https://secrett2633.github.io/ai/review/2025-9-10-ΔL_Normalization_Rethink_Loss_Aggregation_in_RLVR/)
-- [[논문리뷰] Visual Representation Alignment for Multimodal Large Language Models (2025.09.10)](https://secrett2633.github.io/ai/review/2025-9-10-Visual_Representation_Alignment_for_Multimodal_Large_Language_Models/)
-- [[논문리뷰] UMO: Scaling Multi-Identity Consistency for Image Customization via Matching Reward (2025.09.10)](https://secrett2633.github.io/ai/review/2025-9-10-UMO_Scaling_Multi-Identity_Consistency_for_Image_Customization_via_Matching_Reward/)
-- [[논문리뷰] Staying in the Sweet Spot: Responsive Reasoning Evolution via Capability-Adaptive Hint Scaffolding (2025.09.10)](https://secrett2633.github.io/ai/review/2025-9-10-Staying_in_the_Sweet_Spot_Responsive_Reasoning_Evolution_via_Capability-Adaptive_Hint_Scaffolding/)
-- [[논문리뷰] SimpleQA Verified: A Reliable Factuality Benchmark to Measure Parametric Knowledge (2025.09.10)](https://secrett2633.github.io/ai/review/2025-9-10-SimpleQA_Verified_A_Reliable_Factuality_Benchmark_to_Measure_Parametric_Knowledge/)
+- [[논문리뷰] <think> So let's replace this phrase with insult... </think> Lessons learned from generation of toxic texts with LLMs (2025.09.11)](https://secrett2633.github.io/ai/review/2025-9-11-think_So_lets_replace_this_phrase_with_insult/._think_Lessons_learned_from_generation_of_toxic_texts_with_LLMs/)
+- [[논문리뷰] RewardDance: Reward Scaling in Visual Generation (2025.09.11)](https://secrett2633.github.io/ai/review/2025-9-11-RewardDance_Reward_Scaling_in_Visual_Generation/)
+- [[논문리뷰] P3-SAM: Native 3D Part Segmentation (2025.09.11)](https://secrett2633.github.io/ai/review/2025-9-11-P3-SAM_Native_3D_Part_Segmentation/)
+- [[논문리뷰] Hunyuan-MT Technical Report (2025.09.11)](https://secrett2633.github.io/ai/review/2025-9-11-Hunyuan-MT_Technical_Report/)
+- [[논문리뷰] HumanAgencyBench: Scalable Evaluation of Human Agency Support in AI Assistants (2025.09.11)](https://secrett2633.github.io/ai/review/2025-9-11-HumanAgencyBench_Scalable_Evaluation_of_Human_Agency_Support_in_AI_Assistants/)
