@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] <think> So let's replace this phrase with insult... </think> Lessons learned from generation of toxic texts with LLMs (2025.09.11)](https://secrett2633.github.io/ai/review/2025-9-11-think_So_lets_replace_this_phrase_with_insult/._think_Lessons_learned_from_generation_of_toxic_texts_with_LLMs/)
-- [[논문리뷰] RewardDance: Reward Scaling in Visual Generation (2025.09.11)](https://secrett2633.github.io/ai/review/2025-9-11-RewardDance_Reward_Scaling_in_Visual_Generation/)
-- [[논문리뷰] P3-SAM: Native 3D Part Segmentation (2025.09.11)](https://secrett2633.github.io/ai/review/2025-9-11-P3-SAM_Native_3D_Part_Segmentation/)
-- [[논문리뷰] Hunyuan-MT Technical Report (2025.09.11)](https://secrett2633.github.io/ai/review/2025-9-11-Hunyuan-MT_Technical_Report/)
-- [[논문리뷰] HumanAgencyBench: Scalable Evaluation of Human Agency Support in AI Assistants (2025.09.11)](https://secrett2633.github.io/ai/review/2025-9-11-HumanAgencyBench_Scalable_Evaluation_of_Human_Agency_Support_in_AI_Assistants/)
+- [[논문리뷰] Visual Programmability: A Guide for Code-as-Thought in Chart Understanding (2025.09.12)](https://secrett2633.github.io/ai/review/2025-9-12-Visual_Programmability_A_Guide_for_Code-as-Thought_in_Chart_Understanding/)
+- [[논문리뷰] VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model (2025.09.12)](https://secrett2633.github.io/ai/review/2025-9-12-VLA-Adapter_An_Effective_Paradigm_for_Tiny-Scale_Vision-Language-Action_Model/)
+- [[논문리뷰] The Choice of Divergence: A Neglected Key to Mitigating Diversity Collapse in Reinforcement Learning with Verifiable Reward (2025.09.12)](https://secrett2633.github.io/ai/review/2025-9-12-The_Choice_of_Divergence_A_Neglected_Key_to_Mitigating_Diversity_Collapse_in_Reinforcement_Learning_with_Verifiable_Reward/)
+- [[논문리뷰] SpatialVID: A Large-Scale Video Dataset with Spatial Annotations (2025.09.12)](https://secrett2633.github.io/ai/review/2025-9-12-SpatialVID_A_Large-Scale_Video_Dataset_with_Spatial_Annotations/)
+- [[논문리뷰] SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning (2025.09.12)](https://secrett2633.github.io/ai/review/2025-9-12-SimpleVLA-RL_Scaling_VLA_Training_via_Reinforcement_Learning/)
