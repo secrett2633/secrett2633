@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] Visual Programmability: A Guide for Code-as-Thought in Chart Understanding (2025.09.12)](https://secrett2633.github.io/ai/review/2025-9-12-Visual_Programmability_A_Guide_for_Code-as-Thought_in_Chart_Understanding/)
-- [[논문리뷰] VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model (2025.09.12)](https://secrett2633.github.io/ai/review/2025-9-12-VLA-Adapter_An_Effective_Paradigm_for_Tiny-Scale_Vision-Language-Action_Model/)
-- [[논문리뷰] The Choice of Divergence: A Neglected Key to Mitigating Diversity Collapse in Reinforcement Learning with Verifiable Reward (2025.09.12)](https://secrett2633.github.io/ai/review/2025-9-12-The_Choice_of_Divergence_A_Neglected_Key_to_Mitigating_Diversity_Collapse_in_Reinforcement_Learning_with_Verifiable_Reward/)
-- [[논문리뷰] SpatialVID: A Large-Scale Video Dataset with Spatial Annotations (2025.09.12)](https://secrett2633.github.io/ai/review/2025-9-12-SpatialVID_A_Large-Scale_Video_Dataset_with_Spatial_Annotations/)
-- [[논문리뷰] SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning (2025.09.12)](https://secrett2633.github.io/ai/review/2025-9-12-SimpleVLA-RL_Scaling_VLA_Training_via_Reinforcement_Learning/)
+- [[논문리뷰] X-Part: high fidelity and structure coherent shape decomposition (2025.09.15)](https://secrett2633.github.io/ai/review/2025-9-15-X-Part_high_fidelity_and_structure_coherent_shape_decomposition/)
+- [[논문리뷰] Virtual Agent Economies (2025.09.15)](https://secrett2633.github.io/ai/review/2025-9-15-Virtual_Agent_Economies/)
+- [[논문리뷰] VStyle: A Benchmark for Voice Style Adaptation with Spoken Instructions (2025.09.15)](https://secrett2633.github.io/ai/review/2025-9-15-VStyle_A_Benchmark_for_Voice_Style_Adaptation_with_Spoken_Instructions/)
+- [[논문리뷰] The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs (2025.09.15)](https://secrett2633.github.io/ai/review/2025-9-15-The_Illusion_of_Diminishing_Returns_Measuring_Long_Horizon_Execution_in_LLMs/)
+- [[논문리뷰] QuantAgent: Price-Driven Multi-Agent LLMs for High-Frequency Trading (2025.09.15)](https://secrett2633.github.io/ai/review/2025-9-15-QuantAgent_Price-Driven_Multi-Agent_LLMs_for_High-Frequency_Trading/)
