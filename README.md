@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] X-Part: high fidelity and structure coherent shape decomposition (2025.09.15)](https://secrett2633.github.io/ai/review/2025-9-15-X-Part_high_fidelity_and_structure_coherent_shape_decomposition/)
-- [[논문리뷰] Virtual Agent Economies (2025.09.15)](https://secrett2633.github.io/ai/review/2025-9-15-Virtual_Agent_Economies/)
-- [[논문리뷰] VStyle: A Benchmark for Voice Style Adaptation with Spoken Instructions (2025.09.15)](https://secrett2633.github.io/ai/review/2025-9-15-VStyle_A_Benchmark_for_Voice_Style_Adaptation_with_Spoken_Instructions/)
-- [[논문리뷰] The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs (2025.09.15)](https://secrett2633.github.io/ai/review/2025-9-15-The_Illusion_of_Diminishing_Returns_Measuring_Long_Horizon_Execution_in_LLMs/)
-- [[논문리뷰] QuantAgent: Price-Driven Multi-Agent LLMs for High-Frequency Trading (2025.09.15)](https://secrett2633.github.io/ai/review/2025-9-15-QuantAgent_Price-Driven_Multi-Agent_LLMs_for_High-Frequency_Trading/)
+- [[논문리뷰] UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning (2025.09.16)](https://secrett2633.github.io/ai/review/2025-9-16-UI-S1_Advancing_GUI_Automation_via_Semi-online_Reinforcement_Learning/)
+- [[논문리뷰] SearchInstruct: Enhancing Domain Adaptation via Retrieval-Based Instruction Dataset Creation (2025.09.16)](https://secrett2633.github.io/ai/review/2025-9-16-SearchInstruct_Enhancing_Domain_Adaptation_via_Retrieval-Based_Instruction_Dataset_Creation/)
+- [[논문리뷰] PersonaX: Multimodal Datasets with LLM-Inferred Behavior Traits (2025.09.16)](https://secrett2633.github.io/ai/review/2025-9-16-PersonaX_Multimodal_Datasets_with_LLM-Inferred_Behavior_Traits/)
+- [[논문리뷰] OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling (2025.09.16)](https://secrett2633.github.io/ai/review/2025-9-16-OmniWorld_A_Multi-Domain_and_Multi-Modal_Dataset_for_4D_World_Modeling/)
+- [[논문리뷰] Measuring Epistemic Humility in Multimodal Large Language Models (2025.09.16)](https://secrett2633.github.io/ai/review/2025-9-16-Measuring_Epistemic_Humility_in_Multimodal_Large_Language_Models/)
