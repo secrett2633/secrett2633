@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning (2025.09.16)](https://secrett2633.github.io/ai/review/2025-9-16-UI-S1_Advancing_GUI_Automation_via_Semi-online_Reinforcement_Learning/)
-- [[논문리뷰] SearchInstruct: Enhancing Domain Adaptation via Retrieval-Based Instruction Dataset Creation (2025.09.16)](https://secrett2633.github.io/ai/review/2025-9-16-SearchInstruct_Enhancing_Domain_Adaptation_via_Retrieval-Based_Instruction_Dataset_Creation/)
-- [[논문리뷰] PersonaX: Multimodal Datasets with LLM-Inferred Behavior Traits (2025.09.16)](https://secrett2633.github.io/ai/review/2025-9-16-PersonaX_Multimodal_Datasets_with_LLM-Inferred_Behavior_Traits/)
-- [[논문리뷰] OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling (2025.09.16)](https://secrett2633.github.io/ai/review/2025-9-16-OmniWorld_A_Multi-Domain_and_Multi-Modal_Dataset_for_4D_World_Modeling/)
-- [[논문리뷰] Measuring Epistemic Humility in Multimodal Large Language Models (2025.09.16)](https://secrett2633.github.io/ai/review/2025-9-16-Measuring_Epistemic_Humility_in_Multimodal_Large_Language_Models/)
+- [[논문리뷰] WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research (2025.09.17)](https://secrett2633.github.io/ai/review/2025-9-17-WebWeaver_Structuring_Web-Scale_Evidence_with_Dynamic_Outlines_for_Open-Ended_Deep_Research/)
+- [[논문리뷰] WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning (2025.09.17)](https://secrett2633.github.io/ai/review/2025-9-17-WebSailor-V2_Bridging_the_Chasm_to_Proprietary_Agents_via_Synthetic_Data_and_Scalable_Reinforcement_Learning/)
+- [[논문리뷰] WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents (2025.09.17)](https://secrett2633.github.io/ai/review/2025-9-17-WebResearcher_Unleashing_unbounded_reasoning_capability_in_Long-Horizon_Agents/)
+- [[논문리뷰] Towards General Agentic Intelligence via Environment Scaling (2025.09.17)](https://secrett2633.github.io/ai/review/2025-9-17-Towards_General_Agentic_Intelligence_via_Environment_Scaling/)
+- [[논문리뷰] Single-stream Policy Optimization (2025.09.17)](https://secrett2633.github.io/ai/review/2025-9-17-Single-stream_Policy_Optimization/)
