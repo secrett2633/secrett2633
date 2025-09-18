@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research (2025.09.17)](https://secrett2633.github.io/ai/review/2025-9-17-WebWeaver_Structuring_Web-Scale_Evidence_with_Dynamic_Outlines_for_Open-Ended_Deep_Research/)
-- [[논문리뷰] WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning (2025.09.17)](https://secrett2633.github.io/ai/review/2025-9-17-WebSailor-V2_Bridging_the_Chasm_to_Proprietary_Agents_via_Synthetic_Data_and_Scalable_Reinforcement_Learning/)
-- [[논문리뷰] WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents (2025.09.17)](https://secrett2633.github.io/ai/review/2025-9-17-WebResearcher_Unleashing_unbounded_reasoning_capability_in_Long-Horizon_Agents/)
-- [[논문리뷰] Towards General Agentic Intelligence via Environment Scaling (2025.09.17)](https://secrett2633.github.io/ai/review/2025-9-17-Towards_General_Agentic_Intelligence_via_Environment_Scaling/)
-- [[논문리뷰] Single-stream Policy Optimization (2025.09.17)](https://secrett2633.github.io/ai/review/2025-9-17-Single-stream_Policy_Optimization/)
+- [[논문리뷰] Wan-Animate: Unified Character Animation and Replacement with Holistic Replication (2025.09.18)](https://secrett2633.github.io/ai/review/2025-9-18-Wan-Animate_Unified_Character_Animation_and_Replacement_with_Holistic_Replication/)
+- [[논문리뷰] THOR: Tool-Integrated Hierarchical Optimization via RL for Mathematical Reasoning (2025.09.18)](https://secrett2633.github.io/ai/review/2025-9-18-THOR_Tool-Integrated_Hierarchical_Optimization_via_RL_for_Mathematical_Reasoning/)
+- [[논문리뷰] SteeringControl: Holistic Evaluation of Alignment Steering in LLMs (2025.09.18)](https://secrett2633.github.io/ai/review/2025-9-18-SteeringControl_Holistic_Evaluation_of_Alignment_Steering_in_LLMs/)
+- [[논문리뷰] Scrub It Out! Erasing Sensitive Memorization in Code Language Models via Machine Unlearning (2025.09.18)](https://secrett2633.github.io/ai/review/2025-9-18-Scrub_It_Out_Erasing_Sensitive_Memorization_in_Code_Language_Models_via_Machine_Unlearning/)
+- [[논문리뷰] SAIL-VL2 Technical Report (2025.09.18)](https://secrett2633.github.io/ai/review/2025-9-18-SAIL-VL2_Technical_Report/)
