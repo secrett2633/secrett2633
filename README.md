@@ -27,8 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Latest Blog Posts
-- [[논문리뷰] Wan-Animate: Unified Character Animation and Replacement with Holistic Replication (2025.09.18)](https://secrett2633.github.io/ai/review/2025-9-18-Wan-Animate_Unified_Character_Animation_and_Replacement_with_Holistic_Replication/)
-- [[논문리뷰] THOR: Tool-Integrated Hierarchical Optimization via RL for Mathematical Reasoning (2025.09.18)](https://secrett2633.github.io/ai/review/2025-9-18-THOR_Tool-Integrated_Hierarchical_Optimization_via_RL_for_Mathematical_Reasoning/)
-- [[논문리뷰] SteeringControl: Holistic Evaluation of Alignment Steering in LLMs (2025.09.18)](https://secrett2633.github.io/ai/review/2025-9-18-SteeringControl_Holistic_Evaluation_of_Alignment_Steering_in_LLMs/)
-- [[논문리뷰] Scrub It Out! Erasing Sensitive Memorization in Code Language Models via Machine Unlearning (2025.09.18)](https://secrett2633.github.io/ai/review/2025-9-18-Scrub_It_Out_Erasing_Sensitive_Memorization_in_Code_Language_Models_via_Machine_Unlearning/)
-- [[논문리뷰] SAIL-VL2 Technical Report (2025.09.18)](https://secrett2633.github.io/ai/review/2025-9-18-SAIL-VL2_Technical_Report/)
+- [[논문리뷰] WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model via Training-Free Guidance (2025.09.19)](https://secrett2633.github.io/ai/review/2025-9-19-WorldForge_Unlocking_Emergent_3D4D_Generation_in_Video_Diffusion_Model_via_Training-Free_Guidance/)
+- [[논문리뷰] Unleashing the Potential of Multimodal LLMs for Zero-Shot Spatio-Temporal Video Grounding (2025.09.19)](https://secrett2633.github.io/ai/review/2025-9-19-Unleashing_the_Potential_of_Multimodal_LLMs_for_Zero-Shot_Spatio-Temporal_Video_Grounding/)
+- [[논문리뷰] Understand Before You Generate: Self-Guided Training for Autoregressive Image Generation (2025.09.19)](https://secrett2633.github.io/ai/review/2025-9-19-Understand_Before_You_Generate_Self-Guided_Training_for_Autoregressive_Image_Generation/)
+- [[논문리뷰] ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data (2025.09.19)](https://secrett2633.github.io/ai/review/2025-9-19-ScaleCUA_Scaling_Open-Source_Computer_Use_Agents_with_Cross-Platform_Data/)
+- [[논문리뷰] RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation (2025.09.19)](https://secrett2633.github.io/ai/review/2025-9-19-RynnVLA-001_Using_Human_Demonstrations_to_Improve_Robot_Manipulation/)
