@@ -5,10 +5,6 @@
 
 # 🛠  Contribution
 
-<a href="https://github.com/tiangolo/fastapi"><img height="24px" src="https://img.shields.io/badge/FastAPI-009688?style=flat-round&logo=fastapi&logoColor=white" /></a>
-<a href="https://github.com/Kludex/starlette"><img height="24px" src="https://img.shields.io/badge/✨ Starlette-2D3748?style=flat-round&logoColor=white" /></a>
-<a href="https://github.com/Kludex/uvicorn"><img height="24px" src="https://img.shields.io/badge/🦄 Uvicorn-4B8BBE?style=flat-round&logoColor=white" /></a>
-
 | library | summary | link |
 | --- | --- | --- |
 | <a href="https://github.com/tiangolo/fastapi"><img height="24px" src="https://img.shields.io/badge/FastAPI-009688?style=flat-round&logo=fastapi&logoColor=white" /></a> | I requested review PR that fix `inspect.getcoroutinefunction()` can break testing with `unittest.mock.patch()` | [PR](https://github.com/fastapi/fastapi/pull/14022) |
