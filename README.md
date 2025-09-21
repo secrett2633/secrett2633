@@ -1,4 +1,11 @@
-# Hong Jae Hyeong
+## Small commits, big impact.
+
+Hi! I'm Hong Jae Hyeong, an AI Engineer from Korea.
+
+I work on AI systems, backend services, and scalable infrastructure, always aiming to build reliable and efficient solutions.
+
+I also enjoy contributing to the open source ecosystem and collaborating with developers to make tools and frameworks even better.
+
 <a href="https://solved.ac/profile/secrett2633"><img style="height:150px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=secrett2633"/></a>
 <a href="https://github.com/secrett2633"><img style="height:150px" src="https://github-readme-stats.vercel.app/api?username=secrett2633"/></a>
 
