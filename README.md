@@ -2,7 +2,7 @@
 <a href="https://solved.ac/profile/secrett2633"><img style="height:150px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=secrett2633"/></a>
 <a href="https://github.com/secrett2633"><img style="height:150px" src="https://github-readme-stats.vercel.app/api?username=secrett2633"/></a>
 
-# Contribution
+### Contribution
 | library | stars | summary | link |
 | --- | --- | --- | --- |
 | [![FastAPI][fastapi-badge]][fastapi-repo] | [![GitHub stars][fastapi-stars]][fastapi-repo] | I requested review PR that fix `inspect.getcoroutinefunction()` can break testing with `unittest.mock.patch()` | [PR][fastapi-pr] |
@@ -10,24 +10,21 @@
 | [![🦄 Uvicorn][uvicorn-badge]][uvicorn-repo] | [![GitHub stars][uvicorn-stars]][uvicorn-repo] | I requested review PR that update repository references from 'encode' to 'Kludex' | [PR][uvicorn-pr] |
 
 
-# Certifications
+### Certifications
 - [AWS Certified Solutions Architect - Associate (SAA-C03)][aws-saa-cert]
 
-# Skills
+### Skills
 ![React][react-badge]
 ![Next.js][nextjs-badge]
-![HTML5][html5-badge]
-![CSS3][css3-badge]
-![JavaScript][js-badge]
-![TypeScript][ts-badge]
-![Vercel][vercel-badge]
+![Vue.js][vuejs-badge]
+![TypeScript][ts-badge]<br>
 ![Django][django-badge]
 ![FastAPI][fastapi-skill-badge]
 ![Poetry][poetry-badge]
-![Celery][celery-badge]
-![Redis][redis-badge]
-![Streamlit][streamlit-badge]
+![Uv][uv-badge]
+![Celery][celery-badge]<br>
 ![PostgreSQL][postgresql-badge]
+![Redis][redis-badge]
 ![Nginx][nginx-badge]
 ![Docker][docker-badge]
 ![Jenkins][jenkins-badge]
@@ -52,24 +49,22 @@
 
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
-[react-badge]: https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white
-[nextjs-badge]: https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white
-[html5-badge]: https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white
-[css3-badge]: https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white
-[js-badge]: https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white
-[ts-badge]: https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white
-[vercel-badge]: https://img.shields.io/badge/Vercel-000000.svg?&style=for-the-badge&logo=Vercel&logoColor=white
-[django-badge]: https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white
-[fastapi-skill-badge]: https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white
-[poetry-badge]: https://img.shields.io/badge/Poetry-7031B9.svg?&style=for-the-badge&logo=Poetry&logoColor=white
-[celery-badge]: https://img.shields.io/badge/Celery-378B29.svg?&style=for-the-badge&logo=Celery&logoColor=white
-[redis-badge]: https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white
-[streamlit-badge]: https://img.shields.io/badge/Streamlit-FF4B4B.svg?&style=for-the-badge&logo=Streamlit&logoColor=white
-[postgresql-badge]: https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white
-[nginx-badge]: https://img.shields.io/badge/Nginx-009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white
-[docker-badge]: https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white
-[jenkins-badge]: https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white
-[github-actions-badge]: https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white
+[react-badge]: https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white
+[nextjs-badge]: https://img.shields.io/badge/Next.js-000000.svg?&style=flat-square&logo=Next.js&logoColor=white
+[vuejs-badge]: https://img.shields.io/badge/Vue.js-378B29.svg?&style=flat-square&logo=Vue.js&logoColor=white
+[ts-badge]: https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white
+[vercel-badge]: https://img.shields.io/badge/Vercel-000000.svg?&style=flat-square&logo=Vercel&logoColor=white
+[django-badge]: https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white
+[fastapi-skill-badge]: https://img.shields.io/badge/FastAPI-009688.svg?&style=flat-square&logo=FastAPI&logoColor=white
+[poetry-badge]: https://img.shields.io/badge/Poetry-7031B9.svg?&style=flat-square&logo=Poetry&logoColor=white
+[uv-badge]: https://img.shields.io/badge/Uv-092E20.svg?&style=flat-square&logo=Uv&logoColor=white
+[celery-badge]: https://img.shields.io/badge/Celery-378B29.svg?&style=flat-square&logo=Celery&logoColor=white
+[redis-badge]: https://img.shields.io/badge/Redis-DC382D.svg?&style=flat-square&logo=Redis&logoColor=white
+[postgresql-badge]: https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat-square&logo=PostgreSQL&logoColor=white
+[nginx-badge]: https://img.shields.io/badge/Nginx-009639.svg?&style=flat-square&logo=Nginx&logoColor=white
+[docker-badge]: https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white
+[jenkins-badge]: https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat-square&logo=Jenkins&logoColor=white
+[github-actions-badge]: https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white
 
 ### Latest Blog Posts
 - [[논문리뷰] WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model via Training-Free Guidance (2025.09.19)](https://secrett2633.github.io/ai/review/2025-9-19-WorldForge_Unlocking_Emergent_3D4D_Generation_in_Video_Diffusion_Model_via_Training-Free_Guidance/)
