@@ -3,6 +3,18 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=secrett2633)](https://solved.ac/secrett2633/)  
 ![secrett2633's GitHub stats](https://github-readme-stats.vercel.app/api?username=secrett2633&show_icons=true&theme=radical)  
 
+# 🛠  Contribution
+
+<a href="https://github.com/tiangolo/fastapi"><img height="24px" src="https://img.shields.io/badge/FastAPI-009688?style=flat-round&logo=fastapi&logoColor=white" /></a>
+<a href="https://github.com/Kludex/starlette"><img height="24px" src="https://img.shields.io/badge/✨ Starlette-2D3748?style=flat-round&logoColor=white" /></a>
+<a href="https://github.com/Kludex/uvicorn"><img height="24px" src="https://img.shields.io/badge/🦄 Uvicorn-4B8BBE?style=flat-round&logoColor=white" /></a>
+
+| library | summary | link |
+| --- | --- | --- |
+| <a href="https://github.com/tiangolo/fastapi"><img height="24px" src="https://img.shields.io/badge/FastAPI-009688?style=flat-round&logo=fastapi&logoColor=white" /></a> | I requested review PR that fix `inspect.getcoroutinefunction()` can break testing with `unittest.mock.patch()` | [PR](https://github.com/fastapi/fastapi/pull/14022) |
+| <a href="https://github.com/Kludex/starlette"><img height="24px" src="https://img.shields.io/badge/✨ Starlette-2D3748?style=flat-round&logoColor=white" /></a> | I requested review PR that set encodings when reading config files | [PR](https://github.com/Kludex/starlette/pull/2996) |
+| <a href="https://github.com/Kludex/uvicorn"><img height="24px" src="https://img.shields.io/badge/🦄 Uvicorn-4B8BBE?style=flat-round&logoColor=white" /></a> | I requested review PR that update repository references from 'encode' to 'Kludex' | [PR](https://github.com/Kludex/uvicorn/pull/2684) |
+
 # Certifications
 - [AWS Certified Solutions Architect - Associate (SAA-C03)](https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url)
 
