@@ -74,8 +74,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [github-actions-badge]: https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white
 
 ### Latest Blog Posts
-- [[논문리뷰] WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model via Training-Free Guidance (2025.09.19)](https://secrett2633.github.io/ai/review/2025-9-19-WorldForge_Unlocking_Emergent_3D4D_Generation_in_Video_Diffusion_Model_via_Training-Free_Guidance/)
-- [[논문리뷰] Unleashing the Potential of Multimodal LLMs for Zero-Shot Spatio-Temporal Video Grounding (2025.09.19)](https://secrett2633.github.io/ai/review/2025-9-19-Unleashing_the_Potential_of_Multimodal_LLMs_for_Zero-Shot_Spatio-Temporal_Video_Grounding/)
-- [[논문리뷰] Understand Before You Generate: Self-Guided Training for Autoregressive Image Generation (2025.09.19)](https://secrett2633.github.io/ai/review/2025-9-19-Understand_Before_You_Generate_Self-Guided_Training_for_Autoregressive_Image_Generation/)
-- [[논문리뷰] ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data (2025.09.19)](https://secrett2633.github.io/ai/review/2025-9-19-ScaleCUA_Scaling_Open-Source_Computer_Use_Agents_with_Cross-Platform_Data/)
-- [[논문리뷰] RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation (2025.09.19)](https://secrett2633.github.io/ai/review/2025-9-19-RynnVLA-001_Using_Human_Demonstrations_to_Improve_Robot_Manipulation/)
+- [[논문리뷰] WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained Speech Recognition Transformers (2025.09.22)](https://secrett2633.github.io/ai/review/2025-9-22-WhisTLE_Deeply_Supervised_Text-Only_Domain_Adaptation_for_Pretrained_Speech_Recognition_Transformers/)
+- [[논문리뷰] Video2Roleplay: A Multimodal Dataset and Framework for Video-Guided Role-playing Agents (2025.09.22)](https://secrett2633.github.io/ai/review/2025-9-22-Video2Roleplay_A_Multimodal_Dataset_and_Framework_for_Video-Guided_Role-playing_Agents/)
+- [[논문리뷰] SPATIALGEN: Layout-guided 3D Indoor Scene Generation (2025.09.22)](https://secrett2633.github.io/ai/review/2025-9-22-SPATIALGEN_Layout-guided_3D_Indoor_Scene_Generation/)
+- [[논문리뷰] RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation (2025.09.22)](https://secrett2633.github.io/ai/review/2025-9-22-RPG_A_Repository_Planning_Graph_for_Unified_and_Scalable_Codebase_Generation/)
+- [[논문리뷰] RGB-Only Supervised Camera Parameter Optimization in Dynamic Scenes (2025.09.22)](https://secrett2633.github.io/ai/review/2025-9-22-RGB-Only_Supervised_Camera_Parameter_Optimization_in_Dynamic_Scenes/)
