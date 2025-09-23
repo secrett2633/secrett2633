@@ -74,8 +74,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [github-actions-badge]: https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white
 
 ### Latest Blog Posts
-- [[논문리뷰] WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained Speech Recognition Transformers (2025.09.22)](https://secrett2633.github.io/ai/review/2025-9-22-WhisTLE_Deeply_Supervised_Text-Only_Domain_Adaptation_for_Pretrained_Speech_Recognition_Transformers/)
-- [[논문리뷰] Video2Roleplay: A Multimodal Dataset and Framework for Video-Guided Role-playing Agents (2025.09.22)](https://secrett2633.github.io/ai/review/2025-9-22-Video2Roleplay_A_Multimodal_Dataset_and_Framework_for_Video-Guided_Role-playing_Agents/)
-- [[논문리뷰] SPATIALGEN: Layout-guided 3D Indoor Scene Generation (2025.09.22)](https://secrett2633.github.io/ai/review/2025-9-22-SPATIALGEN_Layout-guided_3D_Indoor_Scene_Generation/)
-- [[논문리뷰] RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation (2025.09.22)](https://secrett2633.github.io/ai/review/2025-9-22-RPG_A_Repository_Planning_Graph_for_Unified_and_Scalable_Codebase_Generation/)
-- [[논문리뷰] RGB-Only Supervised Camera Parameter Optimization in Dynamic Scenes (2025.09.22)](https://secrett2633.github.io/ai/review/2025-9-22-RGB-Only_Supervised_Camera_Parameter_Optimization_in_Dynamic_Scenes/)
+- [[논문리뷰] When Big Models Train Small Ones: Label-Free Model Parity Alignment for Efficient Visual Question Answering using Small VLMs (2025.09.23)](https://secrett2633.github.io/ai/review/2025-9-23-When_Big_Models_Train_Small_Ones_Label-Free_Model_Parity_Alignment_for_Efficient_Visual_Question_Answering_using_Small_VLMs/)
+- [[논문리뷰] VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models (2025.09.23)](https://secrett2633.github.io/ai/review/2025-9-23-VideoFrom3D_3D_Scene_Video_Generation_via_Complementary_Image_and_Video_Diffusion_Models/)
+- [[논문리뷰] VaseVQA: Multimodal Agent and Benchmark for Ancient Greek Pottery (2025.09.23)](https://secrett2633.github.io/ai/review/2025-9-23-VaseVQA_Multimodal_Agent_and_Benchmark_for_Ancient_Greek_Pottery/)
+- [[논문리뷰] Understanding Embedding Scaling in Collaborative Filtering (2025.09.23)](https://secrett2633.github.io/ai/review/2025-9-23-Understanding_Embedding_Scaling_in_Collaborative_Filtering/)
+- [[논문리뷰] Turk-LettuceDetect: A Hallucination Detection Models for Turkish RAG Applications (2025.09.23)](https://secrett2633.github.io/ai/review/2025-9-23-Turk-LettuceDetect_A_Hallucination_Detection_Models_for_Turkish_RAG_Applications/)
