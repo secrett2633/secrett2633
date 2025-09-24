@@ -74,8 +74,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [github-actions-badge]: https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white
 
 ### Latest Blog Posts
-- [[논문리뷰] When Big Models Train Small Ones: Label-Free Model Parity Alignment for Efficient Visual Question Answering using Small VLMs (2025.09.23)](https://secrett2633.github.io/ai/review/2025-9-23-When_Big_Models_Train_Small_Ones_Label-Free_Model_Parity_Alignment_for_Efficient_Visual_Question_Answering_using_Small_VLMs/)
-- [[논문리뷰] VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models (2025.09.23)](https://secrett2633.github.io/ai/review/2025-9-23-VideoFrom3D_3D_Scene_Video_Generation_via_Complementary_Image_and_Video_Diffusion_Models/)
-- [[논문리뷰] VaseVQA: Multimodal Agent and Benchmark for Ancient Greek Pottery (2025.09.23)](https://secrett2633.github.io/ai/review/2025-9-23-VaseVQA_Multimodal_Agent_and_Benchmark_for_Ancient_Greek_Pottery/)
-- [[논문리뷰] Understanding Embedding Scaling in Collaborative Filtering (2025.09.23)](https://secrett2633.github.io/ai/review/2025-9-23-Understanding_Embedding_Scaling_in_Collaborative_Filtering/)
-- [[논문리뷰] Turk-LettuceDetect: A Hallucination Detection Models for Turkish RAG Applications (2025.09.23)](https://secrett2633.github.io/ai/review/2025-9-23-Turk-LettuceDetect_A_Hallucination_Detection_Models_for_Turkish_RAG_Applications/)
+- [[논문리뷰] Zero-Shot Multi-Spectral Learning: Reimagining a Generalist Multimodal Gemini 2.5 Model for Remote Sensing Applications (2025.09.24)](https://secrett2633.github.io/ai/review/2025-9-24-Zero-Shot_Multi-Spectral_Learning_Reimagining_a_Generalist_Multimodal_Gemini_2.5_Model_for_Remote_Sensing_Applications/)
+- [[논문리뷰] What Characterizes Effective Reasoning? Revisiting Length, Review, and Structure of CoT (2025.09.24)](https://secrett2633.github.io/ai/review/2025-9-24-What_Characterizes_Effective_Reasoning_Revisiting_Length_Review_and_Structure_of_CoT/)
+- [[논문리뷰] VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction (2025.09.24)](https://secrett2633.github.io/ai/review/2025-9-24-VolSplat_Rethinking_Feed-Forward_3D_Gaussian_Splatting_with_Voxel-Aligned_Prediction/)
+- [[논문리뷰] VIR-Bench: Evaluating Geospatial and Temporal Understanding of MLLMs via Travel Video Itinerary Reconstruction (2025.09.24)](https://secrett2633.github.io/ai/review/2025-9-24-VIR-Bench_Evaluating_Geospatial_and_Temporal_Understanding_of_MLLMs_via_Travel_Video_Itinerary_Reconstruction/)
+- [[논문리뷰] Reinforcement Learning on Pre-Training Data (2025.09.24)](https://secrett2633.github.io/ai/review/2025-9-24-Reinforcement_Learning_on_Pre-Training_Data/)
