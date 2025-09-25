@@ -74,8 +74,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [github-actions-badge]: https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white
 
 ### Latest Blog Posts
-- [[논문리뷰] Zero-Shot Multi-Spectral Learning: Reimagining a Generalist Multimodal Gemini 2.5 Model for Remote Sensing Applications (2025.09.24)](https://secrett2633.github.io/ai/review/2025-9-24-Zero-Shot_Multi-Spectral_Learning_Reimagining_a_Generalist_Multimodal_Gemini_2.5_Model_for_Remote_Sensing_Applications/)
-- [[논문리뷰] What Characterizes Effective Reasoning? Revisiting Length, Review, and Structure of CoT (2025.09.24)](https://secrett2633.github.io/ai/review/2025-9-24-What_Characterizes_Effective_Reasoning_Revisiting_Length_Review_and_Structure_of_CoT/)
-- [[논문리뷰] VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction (2025.09.24)](https://secrett2633.github.io/ai/review/2025-9-24-VolSplat_Rethinking_Feed-Forward_3D_Gaussian_Splatting_with_Voxel-Aligned_Prediction/)
-- [[논문리뷰] VIR-Bench: Evaluating Geospatial and Temporal Understanding of MLLMs via Travel Video Itinerary Reconstruction (2025.09.24)](https://secrett2633.github.io/ai/review/2025-9-24-VIR-Bench_Evaluating_Geospatial_and_Temporal_Understanding_of_MLLMs_via_Travel_Video_Itinerary_Reconstruction/)
-- [[논문리뷰] Reinforcement Learning on Pre-Training Data (2025.09.24)](https://secrett2633.github.io/ai/review/2025-9-24-Reinforcement_Learning_on_Pre-Training_Data/)
+- [[논문리뷰] Video models are zero-shot learners and reasoners (2025.09.25)](https://secrett2633.github.io/ai/review/2025-9-25-Video_models_are_zero-shot_learners_and_reasoners/)
+- [[논문리뷰] SIM-CoT: Supervised Implicit Chain-of-Thought (2025.09.25)](https://secrett2633.github.io/ai/review/2025-9-25-SIM-CoT_Supervised_Implicit_Chain-of-Thought/)
+- [[논문리뷰] PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation (2025.09.25)](https://secrett2633.github.io/ai/review/2025-9-25-PhysCtrl_Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/)
+- [[논문리뷰] On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub (2025.09.25)](https://secrett2633.github.io/ai/review/2025-9-25-On_the_Use_of_Agentic_Coding_An_Empirical_Study_of_Pull_Requests_on_GitHub/)
+- [[논문리뷰] Logics-Parsing Technical Report (2025.09.25)](https://secrett2633.github.io/ai/review/2025-9-25-Logics-Parsing_Technical_Report/)
