@@ -74,8 +74,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [github-actions-badge]: https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white
 
 ### Latest Blog Posts
-- [[Draft] PEP 694 - Upload 2.0 API for Python Package Indexes (2025.09.27)](https://secrett2633.github.io/python/pep/694/)
-- [[Active] PEP 693 - Python 3.12 Release Schedule (2025.09.27)](https://secrett2633.github.io/python/pep/693/)
-- [[Final] PEP 692 - Using TypedDict for more precise **kwargs typing (2025.09.27)](https://secrett2633.github.io/python/pep/692/)
-- [[Accepted] PEP 691 - JSON-based Simple API for Python Package Indexes (2025.09.27)](https://secrett2633.github.io/python/pep/691/)
-- [[Rejected] PEP 690 - Lazy Imports (2025.09.27)](https://secrett2633.github.io/python/pep/690/)
+- [[Active] PEP 0 - Index of Python Enhancement Proposals (PEPs) (2025.09.27)](https://secrett2633.github.io/python/pep/0/)
+- [[Final] PEP 8106 - 2025 Term Steering Council election (2025.09.27)](https://secrett2633.github.io/python/pep/8106/)
+- [[Final] PEP 8105 - 2024 Term Steering Council election (2025.09.27)](https://secrett2633.github.io/python/pep/8105/)
+- [[Final] PEP 8104 - 2023 Term Steering Council election (2025.09.27)](https://secrett2633.github.io/python/pep/8104/)
+- [[Final] PEP 8103 - 2022 Term Steering Council election (2025.09.27)](https://secrett2633.github.io/python/pep/8103/)
