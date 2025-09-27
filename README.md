@@ -74,8 +74,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [github-actions-badge]: https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white
 
 ### Latest Blog Posts
-- [[Rejected] PEP 363 - Syntax For Dynamic Attribute Access (2025.09.26)](https://secrett2633.github.io/python/pep/363/)
-- [[Final] PEP 362 - Function Signature Object (2025.09.26)](https://secrett2633.github.io/python/pep/362/)
-- [[Final] PEP 361 - Python 2.6 and 3.0 Release Schedule (2025.09.26)](https://secrett2633.github.io/python/pep/361/)
-- [[Final] PEP 360 - Externally Maintained Packages (2025.09.26)](https://secrett2633.github.io/python/pep/360/)
-- [[Withdrawn] PEP 359 - The “make” Statement (2025.09.26)](https://secrett2633.github.io/python/pep/359/)
+- [[Draft] PEP 694 - Upload 2.0 API for Python Package Indexes (2025.09.27)](https://secrett2633.github.io/python/pep/694/)
+- [[Active] PEP 693 - Python 3.12 Release Schedule (2025.09.27)](https://secrett2633.github.io/python/pep/693/)
+- [[Final] PEP 692 - Using TypedDict for more precise **kwargs typing (2025.09.27)](https://secrett2633.github.io/python/pep/692/)
+- [[Accepted] PEP 691 - JSON-based Simple API for Python Package Indexes (2025.09.27)](https://secrett2633.github.io/python/pep/691/)
+- [[Rejected] PEP 690 - Lazy Imports (2025.09.27)](https://secrett2633.github.io/python/pep/690/)
