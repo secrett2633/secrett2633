@@ -74,8 +74,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [github-actions-badge]: https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white
 
 ### Latest Blog Posts
-- [[Active] PEP 0 - Index of Python Enhancement Proposals (PEPs) (2025.09.27)](https://secrett2633.github.io/python/pep/0/)
-- [[Final] PEP 8106 - 2025 Term Steering Council election (2025.09.27)](https://secrett2633.github.io/python/pep/8106/)
-- [[Final] PEP 8105 - 2024 Term Steering Council election (2025.09.27)](https://secrett2633.github.io/python/pep/8105/)
-- [[Final] PEP 8104 - 2023 Term Steering Council election (2025.09.27)](https://secrett2633.github.io/python/pep/8104/)
-- [[Final] PEP 8103 - 2022 Term Steering Council election (2025.09.27)](https://secrett2633.github.io/python/pep/8103/)
+- [[논문리뷰] X-Streamer: Unified Human World Modeling with Audiovisual Interaction (2025.09.29)](https://secrett2633.github.io/ai/review/2025-9-29-X-Streamer_Unified_Human_World_Modeling_with_Audiovisual_Interaction/)
+- [[논문리뷰] X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning (2025.09.29)](https://secrett2633.github.io/ai/review/2025-9-29-X-CoT_Explainable_Text-to-Video_Retrieval_via_LLM-based_Chain-of-Thought_Reasoning/)
+- [[논문리뷰] WoW: Towards a World omniscient World model Through Embodied Interaction (2025.09.29)](https://secrett2633.github.io/ai/review/2025-9-29-WoW_Towards_a_World_omniscient_World_model_Through_Embodied_Interaction/)
+- [[논문리뷰] Where MLLMs Attend and What They Rely On: Explaining Autoregressive Token Generation (2025.09.29)](https://secrett2633.github.io/ai/review/2025-9-29-Where_MLLMs_Attend_and_What_They_Rely_On_Explaining_Autoregressive_Token_Generation/)
+- [[논문리뷰] WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning (2025.09.29)](https://secrett2633.github.io/ai/review/2025-9-29-WebGen-Agent_Enhancing_Interactive_Website_Generation_with_Multi-Level_Feedback_and_Step-Level_Reinforcement_Learning/)
