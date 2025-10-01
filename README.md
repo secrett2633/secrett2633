@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] Visual Jigsaw Post-Training Improves MLLMs (2025.09.30)](https://secrett2633.github.io/ai/review/2025-9-30-Visual_Jigsaw_Post-Training_Improves_MLLMs/)
-- [[논문리뷰] StableToken: A Noise-Robust Semantic Speech Tokenizer for Resilient SpeechLLMs (2025.09.30)](https://secrett2633.github.io/ai/review/2025-9-30-StableToken_A_Noise-Robust_Semantic_Speech_Tokenizer_for_Resilient_SpeechLLMs/)
-- [[논문리뷰] SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse-Linear Attention (2025.09.30)](https://secrett2633.github.io/ai/review/2025-9-30-SLA_Beyond_Sparsity_in_Diffusion_Transformers_via_Fine-Tunable_Sparse-Linear_Attention/)
-- [[논문리뷰] SANA-Video: Efficient Video Generation with Block Linear Diffusion Transformer (2025.09.30)](https://secrett2633.github.io/ai/review/2025-9-30-SANA-Video_Efficient_Video_Generation_with_Block_Linear_Diffusion_Transformer/)
-- [[논문리뷰] RealUnify: Do Unified Models Truly Benefit from Unification? A Comprehensive Benchmark (2025.09.30)](https://secrett2633.github.io/ai/review/2025-9-30-RealUnify_Do_Unified_Models_Truly_Benefit_from_Unification_A_Comprehensive_Benchmark/)
+- [[논문리뷰] jina-reranker-v3: Last but Not Late Interaction for Document Reranking (2025.10.01)](https://secrett2633.github.io/ai/review/2025-10-1-jina-reranker-v3_Last_but_Not_Late_Interaction_for_Document_Reranking/)
+- [[논문리뷰] dParallel: Learnable Parallel Decoding for dLLMs (2025.10.01)](https://secrett2633.github.io/ai/review/2025-10-1-dParallel_Learnable_Parallel_Decoding_for_dLLMs/)
+- [[논문리뷰] d^2Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching (2025.10.01)](https://secrett2633.github.io/ai/review/2025-10-1-d2Cache_Accelerating_Diffusion-Based_LLMs_via_Dual_Adaptive_Caching/)
+- [[논문리뷰] Winning the Pruning Gamble: A Unified Approach to Joint Sample and Token Pruning for Efficient Supervised Fine-Tuning (2025.10.01)](https://secrett2633.github.io/ai/review/2025-10-1-Winning_the_Pruning_Gamble_A_Unified_Approach_to_Joint_Sample_and_Token_Pruning_for_Efficient_Supervised_Fine-Tuning/)
+- [[논문리뷰] Who's Your Judge? On the Detectability of LLM-Generated Judgments (2025.10.01)](https://secrett2633.github.io/ai/review/2025-10-1-Whos_Your_Judge_On_the_Detectability_of_LLM-Generated_Judgments/)
