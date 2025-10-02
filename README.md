@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] jina-reranker-v3: Last but Not Late Interaction for Document Reranking (2025.10.01)](https://secrett2633.github.io/ai/review/2025-10-1-jina-reranker-v3_Last_but_Not_Late_Interaction_for_Document_Reranking/)
-- [[논문리뷰] dParallel: Learnable Parallel Decoding for dLLMs (2025.10.01)](https://secrett2633.github.io/ai/review/2025-10-1-dParallel_Learnable_Parallel_Decoding_for_dLLMs/)
-- [[논문리뷰] d^2Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching (2025.10.01)](https://secrett2633.github.io/ai/review/2025-10-1-d2Cache_Accelerating_Diffusion-Based_LLMs_via_Dual_Adaptive_Caching/)
-- [[논문리뷰] Winning the Pruning Gamble: A Unified Approach to Joint Sample and Token Pruning for Efficient Supervised Fine-Tuning (2025.10.01)](https://secrett2633.github.io/ai/review/2025-10-1-Winning_the_Pruning_Gamble_A_Unified_Approach_to_Joint_Sample_and_Token_Pruning_for_Efficient_Supervised_Fine-Tuning/)
-- [[논문리뷰] Who's Your Judge? On the Detectability of LLM-Generated Judgments (2025.10.01)](https://secrett2633.github.io/ai/review/2025-10-1-Whos_Your_Judge_On_the_Detectability_of_LLM-Generated_Judgments/)
+- [[논문리뷰] Why Can't Transformers Learn Multiplication? Reverse-Engineering Reveals Long-Range Dependency Pitfalls (2025.10.02)](https://secrett2633.github.io/ai/review/2025-10-2-Why_Cant_Transformers_Learn_Multiplication_Reverse-Engineering_Reveals_Long-Range_Dependency_Pitfalls/)
+- [[논문리뷰] VLM-FO1: Bridging the Gap Between High-Level Reasoning and Fine-Grained Perception in VLMs (2025.10.02)](https://secrett2633.github.io/ai/review/2025-10-2-VLM-FO1_Bridging_the_Gap_Between_High-Level_Reasoning_and_Fine-Grained_Perception_in_VLMs/)
+- [[논문리뷰] VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators (2025.10.02)](https://secrett2633.github.io/ai/review/2025-10-2-VLA-RFT_Vision-Language-Action_Reinforcement_Fine-tuning_with_Verified_Rewards_in_World_Simulators/)
+- [[논문리뷰] Training Vision-Language Process Reward Models for Test-Time Scaling in Multimodal Reasoning: Key Insights and Lessons Learned (2025.10.02)](https://secrett2633.github.io/ai/review/2025-10-2-Training_Vision-Language_Process_Reward_Models_for_Test-Time_Scaling_in_Multimodal_Reasoning_Key_Insights_and_Lessons_Learned/)
+- [[논문리뷰] ReSWD: ReSTIR'd, not shaken. Combining Reservoir Sampling and Sliced Wasserstein Distance for Variance Reduction (2025.10.02)](https://secrett2633.github.io/ai/review/2025-10-2-ReSWD_ReSTIRd_not_shaken._Combining_Reservoir_Sampling_and_Sliced_Wasserstein_Distance_for_Variance_Reduction/)
