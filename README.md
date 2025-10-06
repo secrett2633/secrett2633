@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] Why Can't Transformers Learn Multiplication? Reverse-Engineering Reveals Long-Range Dependency Pitfalls (2025.10.02)](https://secrett2633.github.io/ai/review/2025-10-2-Why_Cant_Transformers_Learn_Multiplication_Reverse-Engineering_Reveals_Long-Range_Dependency_Pitfalls/)
-- [[논문리뷰] VLM-FO1: Bridging the Gap Between High-Level Reasoning and Fine-Grained Perception in VLMs (2025.10.02)](https://secrett2633.github.io/ai/review/2025-10-2-VLM-FO1_Bridging_the_Gap_Between_High-Level_Reasoning_and_Fine-Grained_Perception_in_VLMs/)
-- [[논문리뷰] VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators (2025.10.02)](https://secrett2633.github.io/ai/review/2025-10-2-VLA-RFT_Vision-Language-Action_Reinforcement_Fine-tuning_with_Verified_Rewards_in_World_Simulators/)
-- [[논문리뷰] Training Vision-Language Process Reward Models for Test-Time Scaling in Multimodal Reasoning: Key Insights and Lessons Learned (2025.10.02)](https://secrett2633.github.io/ai/review/2025-10-2-Training_Vision-Language_Process_Reward_Models_for_Test-Time_Scaling_in_Multimodal_Reasoning_Key_Insights_and_Lessons_Learned/)
-- [[논문리뷰] ReSWD: ReSTIR'd, not shaken. Combining Reservoir Sampling and Sliced Wasserstein Distance for Variance Reduction (2025.10.02)](https://secrett2633.github.io/ai/review/2025-10-2-ReSWD_ReSTIRd_not_shaken._Combining_Reservoir_Sampling_and_Sliced_Wasserstein_Distance_for_Variance_Reduction/)
+- [[논문리뷰] Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents (2025.10.06)](https://secrett2633.github.io/ai/review/2025-10-6-Your_Agent_May_Misevolve_Emergent_Risks_in_Self-evolving_LLM_Agents/)
+- [[논문리뷰] WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents (2025.10.06)](https://secrett2633.github.io/ai/review/2025-10-6-WAInjectBench_Benchmarking_Prompt_Injection_Detections_for_Web_Agents/)
+- [[논문리뷰] Triangle Splatting+: Differentiable Rendering with Opaque Triangles (2025.10.06)](https://secrett2633.github.io/ai/review/2025-10-6-Triangle_Splatting_Differentiable_Rendering_with_Opaque_Triangles/)
+- [[논문리뷰] TalkPlay-Tools: Conversational Music Recommendation with LLM Tool Calling (2025.10.06)](https://secrett2633.github.io/ai/review/2025-10-6-TalkPlay-Tools_Conversational_Music_Recommendation_with_LLM_Tool_Calling/)
+- [[논문리뷰] SurveyBench: How Well Can LLM(-Agents) Write Academic Surveys? (2025.10.06)](https://secrett2633.github.io/ai/review/2025-10-6-SurveyBench_How_Well_Can_LLM-Agents_Write_Academic_Surveys/)
