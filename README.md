@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents (2025.10.06)](https://secrett2633.github.io/ai/review/2025-10-6-Your_Agent_May_Misevolve_Emergent_Risks_in_Self-evolving_LLM_Agents/)
-- [[논문리뷰] WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents (2025.10.06)](https://secrett2633.github.io/ai/review/2025-10-6-WAInjectBench_Benchmarking_Prompt_Injection_Detections_for_Web_Agents/)
-- [[논문리뷰] Triangle Splatting+: Differentiable Rendering with Opaque Triangles (2025.10.06)](https://secrett2633.github.io/ai/review/2025-10-6-Triangle_Splatting_Differentiable_Rendering_with_Opaque_Triangles/)
-- [[논문리뷰] TalkPlay-Tools: Conversational Music Recommendation with LLM Tool Calling (2025.10.06)](https://secrett2633.github.io/ai/review/2025-10-6-TalkPlay-Tools_Conversational_Music_Recommendation_with_LLM_Tool_Calling/)
-- [[논문리뷰] SurveyBench: How Well Can LLM(-Agents) Write Academic Surveys? (2025.10.06)](https://secrett2633.github.io/ai/review/2025-10-6-SurveyBench_How_Well_Can_LLM-Agents_Write_Academic_Surveys/)
+- [[논문리뷰] Watch and Learn: Learning to Use Computers from Online Videos (2025.10.07)](https://secrett2633.github.io/ai/review/2025-10-7-Watch_and_Learn_Learning_to_Use_Computers_from_Online_Videos/)
+- [[논문리뷰] Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models (2025.10.07)](https://secrett2633.github.io/ai/review/2025-10-7-Video-LMM_Post-Training_A_Deep_Dive_into_Video_Reasoning_with_Large_Multimodal_Models/)
+- [[논문리뷰] VChain: Chain-of-Visual-Thought for Reasoning in Video Generation (2025.10.07)](https://secrett2633.github.io/ai/review/2025-10-7-VChain_Chain-of-Visual-Thought_for_Reasoning_in_Video_Generation/)
+- [[논문리뷰] Utility-Learning Tension in Self-Modifying Agents (2025.10.07)](https://secrett2633.github.io/ai/review/2025-10-7-Utility-Learning_Tension_in_Self-Modifying_Agents/)
+- [[논문리뷰] Thai Semantic End-of-Turn Detection for Real-Time Voice Agents (2025.10.07)](https://secrett2633.github.io/ai/review/2025-10-7-Thai_Semantic_End-of-Turn_Detection_for_Real-Time_Voice_Agents/)
