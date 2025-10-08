@@ -7,7 +7,7 @@ I work on AI systems, backend services, and scalable infrastructure, always aimi
 I also enjoy contributing to the open source ecosystem and collaborating with developers to make tools and frameworks even better.
 
 <a href="https://solved.ac/profile/secrett2633"><img style="height:150px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=secrett2633"/></a>
-<a href="https://github.com/secrett2633"><img style="height:150px" src="https://github-readme-stats.vercel.app/api?username=secrett2633"/></a>
+<a href="https://github.com/secrett2633"><img style="height:150px" src="https://github-readme-stats.vercel.app/api?username=secrett2633&count_private=true"/></a>
 
 ### Contribution
 | library | stars | summary | link |
