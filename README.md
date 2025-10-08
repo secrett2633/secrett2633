@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] Watch and Learn: Learning to Use Computers from Online Videos (2025.10.07)](https://secrett2633.github.io/ai/review/2025-10-7-Watch_and_Learn_Learning_to_Use_Computers_from_Online_Videos/)
-- [[논문리뷰] Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models (2025.10.07)](https://secrett2633.github.io/ai/review/2025-10-7-Video-LMM_Post-Training_A_Deep_Dive_into_Video_Reasoning_with_Large_Multimodal_Models/)
-- [[논문리뷰] VChain: Chain-of-Visual-Thought for Reasoning in Video Generation (2025.10.07)](https://secrett2633.github.io/ai/review/2025-10-7-VChain_Chain-of-Visual-Thought_for_Reasoning_in_Video_Generation/)
-- [[논문리뷰] Utility-Learning Tension in Self-Modifying Agents (2025.10.07)](https://secrett2633.github.io/ai/review/2025-10-7-Utility-Learning_Tension_in_Self-Modifying_Agents/)
-- [[논문리뷰] Thai Semantic End-of-Turn Detection for Real-Time Voice Agents (2025.10.07)](https://secrett2633.github.io/ai/review/2025-10-7-Thai_Semantic_End-of-Turn_Detection_for_Real-Time_Voice_Agents/)
+- [[논문리뷰] VeriGuard: Enhancing LLM Agent Safety via Verified Code Generation (2025.10.08)](https://secrett2633.github.io/ai/review/2025-10-8-VeriGuard_Enhancing_LLM_Agent_Safety_via_Verified_Code_Generation/)
+- [[논문리뷰] Training Dynamics Impact Post-Training Quantization Robustness (2025.10.08)](https://secrett2633.github.io/ai/review/2025-10-8-Training_Dynamics_Impact_Post-Training_Quantization_Robustness/)
+- [[논문리뷰] TensorBLEU: Vectorized GPU-based BLEU Score Implementation for Per-Sentence In-Training Evaluation (2025.10.08)](https://secrett2633.github.io/ai/review/2025-10-8-TensorBLEU_Vectorized_GPU-based_BLEU_Score_Implementation_for_Per-Sentence_In-Training_Evaluation/)
+- [[논문리뷰] TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular Reasoning (2025.10.08)](https://secrett2633.github.io/ai/review/2025-10-8-TaTToo_Tool-Grounded_Thinking_PRM_for_Test-Time_Scaling_in_Tabular_Reasoning/)
+- [[논문리뷰] ShapeGen4D: Towards High Quality 4D Shape Generation from Videos (2025.10.08)](https://secrett2633.github.io/ai/review/2025-10-8-ShapeGen4D_Towards_High_Quality_4D_Shape_Generation_from_Videos/)
