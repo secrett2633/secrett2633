@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] VeriGuard: Enhancing LLM Agent Safety via Verified Code Generation (2025.10.08)](https://secrett2633.github.io/ai/review/2025-10-8-VeriGuard_Enhancing_LLM_Agent_Safety_via_Verified_Code_Generation/)
-- [[논문리뷰] Training Dynamics Impact Post-Training Quantization Robustness (2025.10.08)](https://secrett2633.github.io/ai/review/2025-10-8-Training_Dynamics_Impact_Post-Training_Quantization_Robustness/)
-- [[논문리뷰] TensorBLEU: Vectorized GPU-based BLEU Score Implementation for Per-Sentence In-Training Evaluation (2025.10.08)](https://secrett2633.github.io/ai/review/2025-10-8-TensorBLEU_Vectorized_GPU-based_BLEU_Score_Implementation_for_Per-Sentence_In-Training_Evaluation/)
-- [[논문리뷰] TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular Reasoning (2025.10.08)](https://secrett2633.github.io/ai/review/2025-10-8-TaTToo_Tool-Grounded_Thinking_PRM_for_Test-Time_Scaling_in_Tabular_Reasoning/)
-- [[논문리뷰] ShapeGen4D: Towards High Quality 4D Shape Generation from Videos (2025.10.08)](https://secrett2633.github.io/ai/review/2025-10-8-ShapeGen4D_Towards_High_Quality_4D_Shape_Generation_from_Videos/)
+- [[논문리뷰] WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation (2025.10.09)](https://secrett2633.github.io/ai/review/2025-10-9-WristWorld_Generating_Wrist-Views_via_4D_World_Models_for_Robotic_Manipulation/)
+- [[논문리뷰] Why Low-Precision Transformer Training Fails: An Analysis on Flash Attention (2025.10.09)](https://secrett2633.github.io/ai/review/2025-10-9-Why_Low-Precision_Transformer_Training_Fails_An_Analysis_on_Flash_Attention/)
+- [[논문리뷰] When Benchmarks Age: Temporal Misalignment through Large Language Model Factuality Evaluation (2025.10.09)](https://secrett2633.github.io/ai/review/2025-10-9-When_Benchmarks_Age_Temporal_Misalignment_through_Large_Language_Model_Factuality_Evaluation/)
+- [[논문리뷰] Vibe Checker: Aligning Code Evaluation with Human Preference (2025.10.09)](https://secrett2633.github.io/ai/review/2025-10-9-Vibe_Checker_Aligning_Code_Evaluation_with_Human_Preference/)
+- [[논문리뷰] U-Bench: A Comprehensive Understanding of U-Net through 100-Variant Benchmarking (2025.10.09)](https://secrett2633.github.io/ai/review/2025-10-9-U-Bench_A_Comprehensive_Understanding_of_U-Net_through_100-Variant_Benchmarking/)
