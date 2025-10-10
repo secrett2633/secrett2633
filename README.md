@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation (2025.10.09)](https://secrett2633.github.io/ai/review/2025-10-9-WristWorld_Generating_Wrist-Views_via_4D_World_Models_for_Robotic_Manipulation/)
-- [[논문리뷰] Why Low-Precision Transformer Training Fails: An Analysis on Flash Attention (2025.10.09)](https://secrett2633.github.io/ai/review/2025-10-9-Why_Low-Precision_Transformer_Training_Fails_An_Analysis_on_Flash_Attention/)
-- [[논문리뷰] When Benchmarks Age: Temporal Misalignment through Large Language Model Factuality Evaluation (2025.10.09)](https://secrett2633.github.io/ai/review/2025-10-9-When_Benchmarks_Age_Temporal_Misalignment_through_Large_Language_Model_Factuality_Evaluation/)
-- [[논문리뷰] Vibe Checker: Aligning Code Evaluation with Human Preference (2025.10.09)](https://secrett2633.github.io/ai/review/2025-10-9-Vibe_Checker_Aligning_Code_Evaluation_with_Human_Preference/)
-- [[논문리뷰] U-Bench: A Comprehensive Understanding of U-Net through 100-Variant Benchmarking (2025.10.09)](https://secrett2633.github.io/ai/review/2025-10-9-U-Bench_A_Comprehensive_Understanding_of_U-Net_through_100-Variant_Benchmarking/)
+- [[논문리뷰] When Thoughts Meet Facts: Reusable Reasoning for Long-Context LMs (2025.10.10)](https://secrett2633.github.io/ai/review/2025-10-10-When_Thoughts_Meet_Facts_Reusable_Reasoning_for_Long-Context_LMs/)
+- [[논문리뷰] VideoCanvas: Unified Video Completion from Arbitrary Spatiotemporal Patches via In-Context Conditioning (2025.10.10)](https://secrett2633.github.io/ai/review/2025-10-10-VideoCanvas_Unified_Video_Completion_from_Arbitrary_Spatiotemporal_Patches_via_In-Context_Conditioning/)
+- [[논문리뷰] UniVideo: Unified Understanding, Generation, and Editing for Videos (2025.10.10)](https://secrett2633.github.io/ai/review/2025-10-10-UniVideo_Unified_Understanding_Generation_and_Editing_for_Videos/)
+- [[논문리뷰] UniMMVSR: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution (2025.10.10)](https://secrett2633.github.io/ai/review/2025-10-10-UniMMVSR_A_Unified_Multi-Modal_Framework_for_Cascaded_Video_Super-Resolution/)
+- [[논문리뷰] UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections (2025.10.10)](https://secrett2633.github.io/ai/review/2025-10-10-UP2You_Fast_Reconstruction_of_Yourself_from_Unconstrained_Photo_Collections/)
