@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] Which Heads Matter for Reasoning? RL-Guided KV Cache Compression (2025.10.13)](https://secrett2633.github.io/ai/review/2025-10-13-Which_Heads_Matter_for_Reasoning_RL-Guided_KV_Cache_Compression/)
-- [[논문리뷰] Webscale-RL: Automated Data Pipeline for Scaling RL Data to Pretraining Levels (2025.10.13)](https://secrett2633.github.io/ai/review/2025-10-13-Webscale-RL_Automated_Data_Pipeline_for_Scaling_RL_Data_to_Pretraining_Levels/)
-- [[논문리뷰] Understanding DeepResearch via Reports (2025.10.13)](https://secrett2633.github.io/ai/review/2025-10-13-Understanding_DeepResearch_via_Reports/)
-- [[논문리뷰] Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation (2025.10.13)](https://secrett2633.github.io/ai/review/2025-10-13-Thinking_with_Camera_A_Unified_Multimodal_Model_for_Camera-Centric_Understanding_and_Generation/)
-- [[논문리뷰] Temporal Prompting Matters: Rethinking Referring Video Object Segmentation (2025.10.13)](https://secrett2633.github.io/ai/review/2025-10-13-Temporal_Prompting_Matters_Rethinking_Referring_Video_Object_Segmentation/)
+- [[논문리뷰] What If : Understanding Motion Through Sparse Interactions (2025.10.15)](https://secrett2633.github.io/ai/review/2025-10-15-What_If_Understanding_Motion_Through_Sparse_Interactions/)
+- [[논문리뷰] ViCO: A Training Strategy towards Semantic Aware Dynamic High-Resolution (2025.10.15)](https://secrett2633.github.io/ai/review/2025-10-15-ViCO_A_Training_Strategy_towards_Semantic_Aware_Dynamic_High-Resolution/)
+- [[논문리뷰] UniFusion: Vision-Language Model as Unified Encoder in Image Generation (2025.10.15)](https://secrett2633.github.io/ai/review/2025-10-15-UniFusion_Vision-Language_Model_as_Unified_Encoder_in_Image_Generation/)
+- [[논문리뷰] Tensor Logic: The Language of AI (2025.10.15)](https://secrett2633.github.io/ai/review/2025-10-15-Tensor_Logic_The_Language_of_AI/)
+- [[논문리뷰] Temporal Alignment Guidance: On-Manifold Sampling in Diffusion Models (2025.10.15)](https://secrett2633.github.io/ai/review/2025-10-15-Temporal_Alignment_Guidance_On-Manifold_Sampling_in_Diffusion_Models/)
