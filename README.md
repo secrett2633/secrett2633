@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] Why Can't Transformers Learn Multiplication? Reverse-Engineering Reveals Long-Range Dependency Pitfalls (2025.10.02)](https://secrett2633.github.io/ai/review/2025-10-2-Why_Cant_Transformers_Learn_Multiplication_Reverse-Engineering_Reveals_Long-Range_Dependency_Pitfalls/)
-- [[논문리뷰] VLM-FO1: Bridging the Gap Between High-Level Reasoning and Fine-Grained Perception in VLMs (2025.10.02)](https://secrett2633.github.io/ai/review/2025-10-2-VLM-FO1_Bridging_the_Gap_Between_High-Level_Reasoning_and_Fine-Grained_Perception_in_VLMs/)
-- [[논문리뷰] VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators (2025.10.02)](https://secrett2633.github.io/ai/review/2025-10-2-VLA-RFT_Vision-Language-Action_Reinforcement_Fine-tuning_with_Verified_Rewards_in_World_Simulators/)
-- [[논문리뷰] Training Vision-Language Process Reward Models for Test-Time Scaling in Multimodal Reasoning: Key Insights and Lessons Learned (2025.10.02)](https://secrett2633.github.io/ai/review/2025-10-2-Training_Vision-Language_Process_Reward_Models_for_Test-Time_Scaling_in_Multimodal_Reasoning_Key_Insights_and_Lessons_Learned/)
-- [[논문리뷰] ReSWD: ReSTIR'd, not shaken. Combining Reservoir Sampling and Sliced Wasserstein Distance for Variance Reduction (2025.10.02)](https://secrett2633.github.io/ai/review/2025-10-2-ReSWD_ReSTIRd_not_shaken._Combining_Reservoir_Sampling_and_Sliced_Wasserstein_Distance_for_Variance_Reduction/)
+- [[논문리뷰] Which Heads Matter for Reasoning? RL-Guided KV Cache Compression (2025.10.13)](https://secrett2633.github.io/ai/review/2025-10-13-Which_Heads_Matter_for_Reasoning_RL-Guided_KV_Cache_Compression/)
+- [[논문리뷰] Webscale-RL: Automated Data Pipeline for Scaling RL Data to Pretraining Levels (2025.10.13)](https://secrett2633.github.io/ai/review/2025-10-13-Webscale-RL_Automated_Data_Pipeline_for_Scaling_RL_Data_to_Pretraining_Levels/)
+- [[논문리뷰] Understanding DeepResearch via Reports (2025.10.13)](https://secrett2633.github.io/ai/review/2025-10-13-Understanding_DeepResearch_via_Reports/)
+- [[논문리뷰] Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation (2025.10.13)](https://secrett2633.github.io/ai/review/2025-10-13-Thinking_with_Camera_A_Unified_Multimodal_Model_for_Camera-Centric_Understanding_and_Generation/)
+- [[논문리뷰] Temporal Prompting Matters: Rethinking Referring Video Object Segmentation (2025.10.13)](https://secrett2633.github.io/ai/review/2025-10-13-Temporal_Prompting_Matters_Rethinking_Referring_Video_Object_Segmentation/)
