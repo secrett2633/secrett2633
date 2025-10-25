@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] WithAnyone: Towards Controllable and ID Consistent Image Generation (2025.10.17)](https://secrett2633.github.io/ai/review/2025-10-17-WithAnyone_Towards_Controllable_and_ID_Consistent_Image_Generation/)
-- [[논문리뷰] When Models Lie, We Learn: Multilingual Span-Level Hallucination Detection with PsiloQA (2025.10.17)](https://secrett2633.github.io/ai/review/2025-10-17-When_Models_Lie_We_Learn_Multilingual_Span-Level_Hallucination_Detection_with_PsiloQA/)
-- [[논문리뷰] VR-Thinker: Boosting Video Reward Models through Thinking-with-Image Reasoning (2025.10.17)](https://secrett2633.github.io/ai/review/2025-10-17-VR-Thinker_Boosting_Video_Reward_Models_through_Thinking-with-Image_Reasoning/)
-- [[논문리뷰] VLA^2: Empowering Vision-Language-Action Models with an Agentic Framework for Unseen Concept Manipulation (2025.10.17)](https://secrett2633.github.io/ai/review/2025-10-17-VLA2_Empowering_Vision-Language-Action_Models_with_an_Agentic_Framework_for_Unseen_Concept_Manipulation/)
-- [[논문리뷰] VLA-0: Building State-of-the-Art VLAs with Zero Modification (2025.10.17)](https://secrett2633.github.io/ai/review/2025-10-17-VLA-0_Building_State-of-the-Art_VLAs_with_Zero_Modification/)
+- [[논문리뷰] Thought Communication in Multiagent Collaboration (2025.10.24)](https://secrett2633.github.io/ai/review/2025-10-24-Thought_Communication_in_Multiagent_Collaboration/)
+- [[논문리뷰] The Massive Legal Embedding Benchmark (MLEB) (2025.10.24)](https://secrett2633.github.io/ai/review/2025-10-24-The_Massive_Legal_Embedding_Benchmark_MLEB/)
+- [[논문리뷰] Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets (2025.10.24)](https://secrett2633.github.io/ai/review/2025-10-24-Seed3D_1.0_From_Images_to_High-Fidelity_Simulation-Ready_3D_Assets/)
+- [[논문리뷰] Search Self-play: Pushing the Frontier of Agent Capability without Supervision (2025.10.24)](https://secrett2633.github.io/ai/review/2025-10-24-Search_Self-play_Pushing_the_Frontier_of_Agent_Capability_without_Supervision/)
+- [[논문리뷰] SAKE: Towards Editing Auditory Attribute Knowledge of Large Audio-Language Models (2025.10.24)](https://secrett2633.github.io/ai/review/2025-10-24-SAKE_Towards_Editing_Auditory_Attribute_Knowledge_of_Large_Audio-Language_Models/)
