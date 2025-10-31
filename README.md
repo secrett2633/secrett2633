@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] Thought Communication in Multiagent Collaboration (2025.10.24)](https://secrett2633.github.io/ai/review/2025-10-24-Thought_Communication_in_Multiagent_Collaboration/)
-- [[논문리뷰] The Massive Legal Embedding Benchmark (MLEB) (2025.10.24)](https://secrett2633.github.io/ai/review/2025-10-24-The_Massive_Legal_Embedding_Benchmark_MLEB/)
-- [[논문리뷰] Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets (2025.10.24)](https://secrett2633.github.io/ai/review/2025-10-24-Seed3D_1.0_From_Images_to_High-Fidelity_Simulation-Ready_3D_Assets/)
-- [[논문리뷰] Search Self-play: Pushing the Frontier of Agent Capability without Supervision (2025.10.24)](https://secrett2633.github.io/ai/review/2025-10-24-Search_Self-play_Pushing_the_Frontier_of_Agent_Capability_without_Supervision/)
-- [[논문리뷰] SAKE: Towards Editing Auditory Attribute Knowledge of Large Audio-Language Models (2025.10.24)](https://secrett2633.github.io/ai/review/2025-10-24-SAKE_Towards_Editing_Auditory_Attribute_Knowledge_of_Large_Audio-Language_Models/)
+- [[논문리뷰] Video-Thinker: Sparking 'Thinking with Videos' via Reinforcement Learning (2025.10.30)](https://secrett2633.github.io/ai/review/2025-10-30-Video-Thinker_Sparking_Thinking_with_Videos_via_Reinforcement_Learning/)
+- [[논문리뷰] VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning (2025.10.30)](https://secrett2633.github.io/ai/review/2025-10-30-VFXMaster_Unlocking_Dynamic_Visual_Effect_Generation_via_In-Context_Learning/)
+- [[논문리뷰] The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution (2025.10.30)](https://secrett2633.github.io/ai/review/2025-10-30-The_Tool_Decathlon_Benchmarking_Language_Agents_for_Diverse_Realistic_and_Long-Horizon_Task_Execution/)
+- [[논문리뷰] The Principles of Diffusion Models (2025.10.30)](https://secrett2633.github.io/ai/review/2025-10-30-The_Principles_of_Diffusion_Models/)
+- [[논문리뷰] TheraMind: A Strategic and Adaptive Agent for Longitudinal Psychological Counseling (2025.10.30)](https://secrett2633.github.io/ai/review/2025-10-30-TheraMind_A_Strategic_and_Adaptive_Agent_for_Longitudinal_Psychological_Counseling/)
