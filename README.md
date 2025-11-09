@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] Video-Thinker: Sparking 'Thinking with Videos' via Reinforcement Learning (2025.10.30)](https://secrett2633.github.io/ai/review/2025-10-30-Video-Thinker_Sparking_Thinking_with_Videos_via_Reinforcement_Learning/)
-- [[논문리뷰] VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning (2025.10.30)](https://secrett2633.github.io/ai/review/2025-10-30-VFXMaster_Unlocking_Dynamic_Visual_Effect_Generation_via_In-Context_Learning/)
-- [[논문리뷰] The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution (2025.10.30)](https://secrett2633.github.io/ai/review/2025-10-30-The_Tool_Decathlon_Benchmarking_Language_Agents_for_Diverse_Realistic_and_Long-Horizon_Task_Execution/)
-- [[논문리뷰] The Principles of Diffusion Models (2025.10.30)](https://secrett2633.github.io/ai/review/2025-10-30-The_Principles_of_Diffusion_Models/)
-- [[논문리뷰] TheraMind: A Strategic and Adaptive Agent for Longitudinal Psychological Counseling (2025.10.30)](https://secrett2633.github.io/ai/review/2025-10-30-TheraMind_A_Strategic_and_Adaptive_Agent_for_Longitudinal_Psychological_Counseling/)
+- [[논문리뷰] V-Thinker: Interactive Thinking with Images (2025.11.09)](https://secrett2633.github.io/ai/review/2025-11-7-V-Thinker_Interactive_Thinking_with_Images/)
+- [[논문리뷰] Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm (2025.11.09)](https://secrett2633.github.io/ai/review/2025-11-7-Thinking_with_Video_Video_Generation_as_a_Promising_Multimodal_Reasoning_Paradigm/)
+- [[논문리뷰] The Strong Lottery Ticket Hypothesis for Multi-Head Attention Mechanisms (2025.11.09)](https://secrett2633.github.io/ai/review/2025-11-7-The_Strong_Lottery_Ticket_Hypothesis_for_Multi-Head_Attention_Mechanisms/)
+- [[논문리뷰] SIMS-V: Simulated Instruction-Tuning for Spatial Video Understanding (2025.11.09)](https://secrett2633.github.io/ai/review/2025-11-7-SIMS-V_Simulated_Instruction-Tuning_for_Spatial_Video_Understanding/)
+- [[논문리뷰] Scaling Agent Learning via Experience Synthesis (2025.11.09)](https://secrett2633.github.io/ai/review/2025-11-7-Scaling_Agent_Learning_via_Experience_Synthesis/)
