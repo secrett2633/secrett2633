@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] V-Thinker: Interactive Thinking with Images (2025.11.09)](https://secrett2633.github.io/ai/review/2025-11-7-V-Thinker_Interactive_Thinking_with_Images/)
-- [[논문리뷰] Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm (2025.11.09)](https://secrett2633.github.io/ai/review/2025-11-7-Thinking_with_Video_Video_Generation_as_a_Promising_Multimodal_Reasoning_Paradigm/)
-- [[논문리뷰] The Strong Lottery Ticket Hypothesis for Multi-Head Attention Mechanisms (2025.11.09)](https://secrett2633.github.io/ai/review/2025-11-7-The_Strong_Lottery_Ticket_Hypothesis_for_Multi-Head_Attention_Mechanisms/)
-- [[논문리뷰] SIMS-V: Simulated Instruction-Tuning for Spatial Video Understanding (2025.11.09)](https://secrett2633.github.io/ai/review/2025-11-7-SIMS-V_Simulated_Instruction-Tuning_for_Spatial_Video_Understanding/)
-- [[논문리뷰] Scaling Agent Learning via Experience Synthesis (2025.11.09)](https://secrett2633.github.io/ai/review/2025-11-7-Scaling_Agent_Learning_via_Experience_Synthesis/)
+- [[논문리뷰] What Does It Take to Be a Good AI Research Agent? Studying the Role of Ideation Diversity (2025.11.19)](https://secrett2633.github.io/ai/review/2025-11-20-What_Does_It_Take_to_Be_a_Good_AI_Research_Agent_Studying_the_Role_of_Ideation_Diversity/)
+- [[논문리뷰] VisPlay: Self-Evolving Vision-Language Models from Images (2025.11.19)](https://secrett2633.github.io/ai/review/2025-11-20-VisPlay_Self-Evolving_Vision-Language_Models_from_Images/)
+- [[논문리뷰] Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks (2025.11.19)](https://secrett2633.github.io/ai/review/2025-11-20-Reasoning_via_Video_The_First_Evaluation_of_Video_Models_Reasoning_Abilities_through_Maze-Solving_Tasks/)
+- [[논문리뷰] Mixture of States: Routing Token-Level Dynamics for Multimodal Generation (2025.11.19)](https://secrett2633.github.io/ai/review/2025-11-20-Mixture_of_States_Routing_Token-Level_Dynamics_for_Multimodal_Generation/)
+- [[논문리뷰] Medal S: Spatio-Textual Prompt Model for Medical Segmentation (2025.11.19)](https://secrett2633.github.io/ai/review/2025-11-20-Medal_S_Spatio-Textual_Prompt_Model_for_Medical_Segmentation/)
