@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] What Does It Take to Be a Good AI Research Agent? Studying the Role of Ideation Diversity (2025.11.19)](https://secrett2633.github.io/ai/review/2025-11-20-What_Does_It_Take_to_Be_a_Good_AI_Research_Agent_Studying_the_Role_of_Ideation_Diversity/)
-- [[논문리뷰] VisPlay: Self-Evolving Vision-Language Models from Images (2025.11.19)](https://secrett2633.github.io/ai/review/2025-11-20-VisPlay_Self-Evolving_Vision-Language_Models_from_Images/)
-- [[논문리뷰] Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks (2025.11.19)](https://secrett2633.github.io/ai/review/2025-11-20-Reasoning_via_Video_The_First_Evaluation_of_Video_Models_Reasoning_Abilities_through_Maze-Solving_Tasks/)
-- [[논문리뷰] Mixture of States: Routing Token-Level Dynamics for Multimodal Generation (2025.11.19)](https://secrett2633.github.io/ai/review/2025-11-20-Mixture_of_States_Routing_Token-Level_Dynamics_for_Multimodal_Generation/)
-- [[논문리뷰] Medal S: Spatio-Textual Prompt Model for Medical Segmentation (2025.11.19)](https://secrett2633.github.io/ai/review/2025-11-20-Medal_S_Spatio-Textual_Prompt_Model_for_Medical_Segmentation/)
+- [[논문리뷰] Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO (2025.11.20)](https://secrett2633.github.io/ai/review/2025-11-21-Video-as-Answer_Predict_and_Generate_Next_Video_Event_with_Joint-GRPO/)
+- [[논문리뷰] V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models (2025.11.20)](https://secrett2633.github.io/ai/review/2025-11-21-V-ReasonBench_Toward_Unified_Reasoning_Benchmark_Suite_for_Video_Generation_Models/)
+- [[논문리뷰] TurkColBERT: A Benchmark of Dense and Late-Interaction Models for Turkish Information Retrieval (2025.11.20)](https://secrett2633.github.io/ai/review/2025-11-21-TurkColBERT_A_Benchmark_of_Dense_and_Late-Interaction_Models_for_Turkish_Information_Retrieval/)
+- [[논문리뷰] TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding (2025.11.20)](https://secrett2633.github.io/ai/review/2025-11-21-TimeViper_A_Hybrid_Mamba-Transformer_Vision-Language_Model_for_Efficient_Long_Video_Understanding/)
+- [[논문리뷰] Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation (2025.11.20)](https://secrett2633.github.io/ai/review/2025-11-21-Thinking-while-Generating_Interleaving_Textual_Reasoning_throughout_Visual_Generation/)
