@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO (2025.11.20)](https://secrett2633.github.io/ai/review/2025-11-21-Video-as-Answer_Predict_and_Generate_Next_Video_Event_with_Joint-GRPO/)
-- [[논문리뷰] V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models (2025.11.20)](https://secrett2633.github.io/ai/review/2025-11-21-V-ReasonBench_Toward_Unified_Reasoning_Benchmark_Suite_for_Video_Generation_Models/)
-- [[논문리뷰] TurkColBERT: A Benchmark of Dense and Late-Interaction Models for Turkish Information Retrieval (2025.11.20)](https://secrett2633.github.io/ai/review/2025-11-21-TurkColBERT_A_Benchmark_of_Dense_and_Late-Interaction_Models_for_Turkish_Information_Retrieval/)
-- [[논문리뷰] TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding (2025.11.20)](https://secrett2633.github.io/ai/review/2025-11-21-TimeViper_A_Hybrid_Mamba-Transformer_Vision-Language_Model_for_Efficient_Long_Video_Understanding/)
-- [[논문리뷰] Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation (2025.11.20)](https://secrett2633.github.io/ai/review/2025-11-21-Thinking-while-Generating_Interleaving_Textual_Reasoning_throughout_Visual_Generation/)
+- [[논문리뷰] Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO (2025.11.20)](https://blog.secrett2633.site/ai/review/2025-11-21-Video-as-Answer-Predict-and-Generate-Next-Video-Event-with-Joint-GRPO/)
+- [[논문리뷰] V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models (2025.11.20)](https://blog.secrett2633.site/ai/review/2025-11-21-V-ReasonBench-Toward-Unified-Reasoning-Benchmark-Suite-for-Video-Generation-Models/)
+- [[논문리뷰] TurkColBERT: A Benchmark of Dense and Late-Interaction Models for Turkish Information Retrieval (2025.11.20)](https://blog.secrett2633.site/ai/review/2025-11-21-TurkColBERT-A-Benchmark-of-Dense-and-Late-Interaction-Models-for-Turkish-Information-Retrieval/)
+- [[논문리뷰] TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding (2025.11.20)](https://blog.secrett2633.site/ai/review/2025-11-21-TimeViper-A-Hybrid-Mamba-Transformer-Vision-Language-Model-for-Efficient-Long-Video-Understanding/)
+- [[논문리뷰] Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation (2025.11.20)](https://blog.secrett2633.site/ai/review/2025-11-21-Thinking-while-Generating-Interleaving-Textual-Reasoning-throughout-Visual-Generation/)
