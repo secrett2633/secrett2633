@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] WorldGen: From Text to Traversable and Interactive 3D Worlds (2025.11.23)](https://blog.secrett2633.site/ai/review/2025-11-24-WorldGen-From-Text-to-Traversable-and-Interactive-3D-Worlds/)
-- [[논문리뷰] VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Models (2025.11.23)](https://blog.secrett2633.site/ai/review/2025-11-24-VisMem-Latent-Vision-Memory-Unlocks-Potential-of-Vision-Language-Models/)
-- [[논문리뷰] Video-R4: Reinforcing Text-Rich Video Reasoning with Visual Rumination (2025.11.23)](https://blog.secrett2633.site/ai/review/2025-11-24-Video-R4-Reinforcing-Text-Rich-Video-Reasoning-with-Visual-Rumination/)
-- [[논문리뷰] VLA-4D: Embedding 4D Awareness into Vision-Language-Action Models for SpatioTemporally Coherent Robotic Manipulation (2025.11.23)](https://blog.secrett2633.site/ai/review/2025-11-24-VLA-4D-Embedding-4D-Awareness-into-Vision-Language-Action-Models-for-SpatioTemporally-Coherent-Robotic-Manipulation/)
-- [[논문리뷰] Unveiling Intrinsic Dimension of Texts: from Academic Abstract to Creative Story (2025.11.23)](https://blog.secrett2633.site/ai/review/2025-11-24-Unveiling-Intrinsic-Dimension-of-Texts-from-Academic-Abstract-to-Creative-Story/)
+- [[논문리뷰] UltraFlux: Data-Model Co-Design for High-quality Native 4K Text-to-Image Generation across Diverse Aspect Ratios (2025.11.24)](https://blog.secrett2633.site/ai/review/2025-11-25-UltraFlux-Data-Model-Co-Design-for-High-quality-Native-4K-Text-to-Image-Generation-across-Diverse-Aspect-Ratios/)
+- [[논문리뷰] Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets? (2025.11.24)](https://blog.secrett2633.site/ai/review/2025-11-25-Target-Bench-Can-World-Models-Achieve-Mapless-Path-Planning-with-Semantic-Targets/)
+- [[논문리뷰] SyncMV4D: Synchronized Multi-view Joint Diffusion of Appearance and Motion for Hand-Object Interaction Synthesis (2025.11.24)](https://blog.secrett2633.site/ai/review/2025-11-25-SyncMV4D-Synchronized-Multi-view-Joint-Diffusion-of-Appearance-and-Motion-for-Hand-Object-Interaction-Synthesis/)
+- [[논문리뷰] Plan-X: Instruct Video Generation via Semantic Planning (2025.11.24)](https://blog.secrett2633.site/ai/review/2025-11-25-Plan-X-Instruct-Video-Generation-via-Semantic-Planning/)
+- [[논문리뷰] Pillar-0: A New Frontier for Radiology Foundation Models (2025.11.24)](https://blog.secrett2633.site/ai/review/2025-11-25-Pillar-0-A-New-Frontier-for-Radiology-Foundation-Models/)
