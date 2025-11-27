@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] UltraFlux: Data-Model Co-Design for High-quality Native 4K Text-to-Image Generation across Diverse Aspect Ratios (2025.11.24)](https://blog.secrett2633.site/ai/review/2025-11-25-UltraFlux-Data-Model-Co-Design-for-High-quality-Native-4K-Text-to-Image-Generation-across-Diverse-Aspect-Ratios/)
-- [[논문리뷰] Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets? (2025.11.24)](https://blog.secrett2633.site/ai/review/2025-11-25-Target-Bench-Can-World-Models-Achieve-Mapless-Path-Planning-with-Semantic-Targets/)
-- [[논문리뷰] SyncMV4D: Synchronized Multi-view Joint Diffusion of Appearance and Motion for Hand-Object Interaction Synthesis (2025.11.24)](https://blog.secrett2633.site/ai/review/2025-11-25-SyncMV4D-Synchronized-Multi-view-Joint-Diffusion-of-Appearance-and-Motion-for-Hand-Object-Interaction-Synthesis/)
-- [[논문리뷰] Plan-X: Instruct Video Generation via Semantic Planning (2025.11.24)](https://blog.secrett2633.site/ai/review/2025-11-25-Plan-X-Instruct-Video-Generation-via-Semantic-Planning/)
-- [[논문리뷰] Pillar-0: A New Frontier for Radiology Foundation Models (2025.11.24)](https://blog.secrett2633.site/ai/review/2025-11-25-Pillar-0-A-New-Frontier-for-Radiology-Foundation-Models/)
+- [[논문리뷰] iMontage: Unified, Versatile, Highly Dynamic Many-to-many Image Generation (2025.11.25)](https://blog.secrett2633.site/ai/review/2025-11-26-iMontage-Unified-Versatile-Highly-Dynamic-Many-to-many-Image-Generation/)
+- [[논문리뷰] Yo'City: Personalized and Boundless 3D Realistic City Scene Generation via Self-Critic Expansion (2025.11.25)](https://blog.secrett2633.site/ai/review/2025-11-26-YoCity-Personalized-and-Boundless-3D-Realistic-City-Scene-Generation-via-Self-Critic-Expansion/)
+- [[논문리뷰] VQ-VA World: Towards High-Quality Visual Question-Visual Answering (2025.11.25)](https://blog.secrett2633.site/ai/review/2025-11-26-VQ-VA-World-Towards-High-Quality-Visual-Question-Visual-Answering/)
+- [[논문리뷰] Unified all-atom molecule generation with neural fields (2025.11.25)](https://blog.secrett2633.site/ai/review/2025-11-26-Unified-all-atom-molecule-generation-with-neural-fields/)
+- [[논문리뷰] UltraViCo: Breaking Extrapolation Limits in Video Diffusion Transformers (2025.11.25)](https://blog.secrett2633.site/ai/review/2025-11-26-UltraViCo-Breaking-Extrapolation-Limits-in-Video-Diffusion-Transformers/)
