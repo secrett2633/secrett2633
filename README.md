@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] iMontage: Unified, Versatile, Highly Dynamic Many-to-many Image Generation (2025.11.26)](https://blog.secrett2633.site/ai/review/2025-11-26-iMontage-Unified-Versatile-Highly-Dynamic-Many-to-many-Image-Generation/)
-- [[논문리뷰] Yo'City: Personalized and Boundless 3D Realistic City Scene Generation via Self-Critic Expansion (2025.11.26)](https://blog.secrett2633.site/ai/review/2025-11-26-YoCity-Personalized-and-Boundless-3D-Realistic-City-Scene-Generation-via-Self-Critic-Expansion/)
-- [[논문리뷰] VQ-VA World: Towards High-Quality Visual Question-Visual Answering (2025.11.26)](https://blog.secrett2633.site/ai/review/2025-11-26-VQ-VA-World-Towards-High-Quality-Visual-Question-Visual-Answering/)
-- [[논문리뷰] Unified all-atom molecule generation with neural fields (2025.11.26)](https://blog.secrett2633.site/ai/review/2025-11-26-Unified-all-atom-molecule-generation-with-neural-fields/)
-- [[논문리뷰] UltraViCo: Breaking Extrapolation Limits in Video Diffusion Transformers (2025.11.26)](https://blog.secrett2633.site/ai/review/2025-11-26-UltraViCo-Breaking-Extrapolation-Limits-in-Video-Diffusion-Transformers/)
+- [[논문리뷰] Terminal Velocity Matching (2025.11.27)](https://blog.secrett2633.site/ai/review/2025-11-27-Terminal-Velocity-Matching/)
+- [[논문리뷰] SPHINX: A Synthetic Environment for Visual Perception and Reasoning (2025.11.27)](https://blog.secrett2633.site/ai/review/2025-11-27-SPHINX-A-Synthetic-Environment-for-Visual-Perception-and-Reasoning/)
+- [[논문리뷰] Revisiting Generalization Across Difficulty Levels: It's Not So Easy (2025.11.27)](https://blog.secrett2633.site/ai/review/2025-11-27-Revisiting-Generalization-Across-Difficulty-Levels-Its-Not-So-Easy/)
+- [[논문리뷰] RAISECity: A Multimodal Agent Framework for Reality-Aligned 3D World Generation at City-Scale (2025.11.27)](https://blog.secrett2633.site/ai/review/2025-11-27-RAISECity-A-Multimodal-Agent-Framework-for-Reality-Aligned-3D-World-Generation-at-City-Scale/)
+- [[논문리뷰] NVIDIA Nemotron Parse 1.1 (2025.11.27)](https://blog.secrett2633.site/ai/review/2025-11-27-NVIDIA-Nemotron-Parse-1-1/)
