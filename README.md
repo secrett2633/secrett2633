@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] Terminal Velocity Matching (2025.11.27)](https://blog.secrett2633.site/ai/review/2025-11-27-Terminal-Velocity-Matching/)
-- [[논문리뷰] SPHINX: A Synthetic Environment for Visual Perception and Reasoning (2025.11.27)](https://blog.secrett2633.site/ai/review/2025-11-27-SPHINX-A-Synthetic-Environment-for-Visual-Perception-and-Reasoning/)
-- [[논문리뷰] Revisiting Generalization Across Difficulty Levels: It's Not So Easy (2025.11.27)](https://blog.secrett2633.site/ai/review/2025-11-27-Revisiting-Generalization-Across-Difficulty-Levels-Its-Not-So-Easy/)
-- [[논문리뷰] RAISECity: A Multimodal Agent Framework for Reality-Aligned 3D World Generation at City-Scale (2025.11.27)](https://blog.secrett2633.site/ai/review/2025-11-27-RAISECity-A-Multimodal-Agent-Framework-for-Reality-Aligned-3D-World-Generation-at-City-Scale/)
-- [[논문리뷰] NVIDIA Nemotron Parse 1.1 (2025.11.27)](https://blog.secrett2633.site/ai/review/2025-11-27-NVIDIA-Nemotron-Parse-1-1/)
+- [[논문리뷰] What does it mean to understand language? (2025.11.28)](https://blog.secrett2633.site/ai/review/2025-11-28-What-does-it-mean-to-understand-language/)
+- [[논문리뷰] Video Generation Models Are Good Latent Reward Models (2025.11.28)](https://blog.secrett2633.site/ai/review/2025-11-28-Video-Generation-Models-Are-Good-Latent-Reward-Models/)
+- [[논문리뷰] Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following (2025.11.28)](https://blog.secrett2633.site/ai/review/2025-11-28-Multi-Crit-Benchmarking-Multimodal-Judges-on-Pluralistic-Criteria-Following/)
+- [[논문리뷰] MIRA: Multimodal Iterative Reasoning Agent for Image Editing (2025.11.28)](https://blog.secrett2633.site/ai/review/2025-11-28-MIRA-Multimodal-Iterative-Reasoning-Agent-for-Image-Editing/)
+- [[논문리뷰] Canvas-to-Image: Compositional Image Generation with Multimodal Controls (2025.11.28)](https://blog.secrett2633.site/ai/review/2025-11-28-Canvas-to-Image-Compositional-Image-Generation-with-Multimodal-Controls/)
