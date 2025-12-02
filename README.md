@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] What does it mean to understand language? (2025.11.28)](https://blog.secrett2633.site/ai/review/2025-11-28-What-does-it-mean-to-understand-language/)
-- [[논문리뷰] Video Generation Models Are Good Latent Reward Models (2025.11.28)](https://blog.secrett2633.site/ai/review/2025-11-28-Video-Generation-Models-Are-Good-Latent-Reward-Models/)
-- [[논문리뷰] Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following (2025.11.28)](https://blog.secrett2633.site/ai/review/2025-11-28-Multi-Crit-Benchmarking-Multimodal-Judges-on-Pluralistic-Criteria-Following/)
-- [[논문리뷰] MIRA: Multimodal Iterative Reasoning Agent for Image Editing (2025.11.28)](https://blog.secrett2633.site/ai/review/2025-11-28-MIRA-Multimodal-Iterative-Reasoning-Agent-for-Image-Editing/)
-- [[논문리뷰] Canvas-to-Image: Compositional Image Generation with Multimodal Controls (2025.11.28)](https://blog.secrett2633.site/ai/review/2025-11-28-Canvas-to-Image-Compositional-Image-Generation-with-Multimodal-Controls/)
+- [[논문리뷰] Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer (2025.12.01)](https://blog.secrett2633.site/ai/review/2025-12-01-Z-Image-An-Efficient-Image-Generation-Foundation-Model-with-Single-Stream-Diffusion-Transformer/)
+- [[논문리뷰] YOLO Meets Mixture-of-Experts: Adaptive Expert Routing for Robust Object Detection (2025.12.01)](https://blog.secrett2633.site/ai/review/2025-12-01-YOLO-Meets-Mixture-of-Experts-Adaptive-Expert-Routing-for-Robust-Object-Detection/)
+- [[논문리뷰] Xmodel-2.5: 1.3B Data-Efficient Reasoning SLM (2025.12.01)](https://blog.secrett2633.site/ai/review/2025-12-01-Xmodel-2-5-1-3B-Data-Efficient-Reasoning-SLM/)
+- [[논문리뷰] World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models (2025.12.01)](https://blog.secrett2633.site/ai/review/2025-12-01-World-in-a-Frame-Understanding-Culture-Mixing-as-a-New-Challenge-for-Vision-Language-Models/)
+- [[논문리뷰] Vision Bridge Transformer at Scale (2025.12.01)](https://blog.secrett2633.site/ai/review/2025-12-01-Vision-Bridge-Transformer-at-Scale/)
