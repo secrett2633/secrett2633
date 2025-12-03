@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer (2025.12.01)](https://blog.secrett2633.site/ai/review/2025-12-01-Z-Image-An-Efficient-Image-Generation-Foundation-Model-with-Single-Stream-Diffusion-Transformer/)
-- [[논문리뷰] YOLO Meets Mixture-of-Experts: Adaptive Expert Routing for Robust Object Detection (2025.12.01)](https://blog.secrett2633.site/ai/review/2025-12-01-YOLO-Meets-Mixture-of-Experts-Adaptive-Expert-Routing-for-Robust-Object-Detection/)
-- [[논문리뷰] Xmodel-2.5: 1.3B Data-Efficient Reasoning SLM (2025.12.01)](https://blog.secrett2633.site/ai/review/2025-12-01-Xmodel-2-5-1-3B-Data-Efficient-Reasoning-SLM/)
-- [[논문리뷰] World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models (2025.12.01)](https://blog.secrett2633.site/ai/review/2025-12-01-World-in-a-Frame-Understanding-Culture-Mixing-as-a-New-Challenge-for-Vision-Language-Models/)
-- [[논문리뷰] Vision Bridge Transformer at Scale (2025.12.01)](https://blog.secrett2633.site/ai/review/2025-12-01-Vision-Bridge-Transformer-at-Scale/)
+- [[논문리뷰] WiseEdit: Benchmarking Cognition- and Creativity-Informed Image Editing (2025.12.02)](https://blog.secrett2633.site/ai/review/2025-12-02-WiseEdit-Benchmarking-Cognition-and-Creativity-Informed-Image-Editing/)
+- [[논문리뷰] Wikontic: Constructing Wikidata-Aligned, Ontology-Aware Knowledge Graphs with Large Language Models (2025.12.02)](https://blog.secrett2633.site/ai/review/2025-12-02-Wikontic-Constructing-Wikidata-Aligned-Ontology-Aware-Knowledge-Graphs-with-Large-Language-Models/)
+- [[논문리뷰] Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation (2025.12.02)](https://blog.secrett2633.site/ai/review/2025-12-02-Where-Culture-Fades-Revealing-the-Cultural-Gap-in-Text-to-Image-Generation/)
+- [[논문리뷰] What about gravity in video generation? Post-Training Newton's Laws with Verifiable Rewards (2025.12.02)](https://blog.secrett2633.site/ai/review/2025-12-02-What-about-gravity-in-video-generation-Post-Training-Newtons-Laws-with-Verifiable-Rewards/)
+- [[논문리뷰] VLASH: Real-Time VLAs via Future-State-Aware Asynchronous Inference (2025.12.02)](https://blog.secrett2633.site/ai/review/2025-12-02-VLASH-Real-Time-VLAs-via-Future-State-Aware-Asynchronous-Inference/)
