@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] WiseEdit: Benchmarking Cognition- and Creativity-Informed Image Editing (2025.12.02)](https://blog.secrett2633.site/ai/review/2025-12-02-WiseEdit-Benchmarking-Cognition-and-Creativity-Informed-Image-Editing/)
-- [[논문리뷰] Wikontic: Constructing Wikidata-Aligned, Ontology-Aware Knowledge Graphs with Large Language Models (2025.12.02)](https://blog.secrett2633.site/ai/review/2025-12-02-Wikontic-Constructing-Wikidata-Aligned-Ontology-Aware-Knowledge-Graphs-with-Large-Language-Models/)
-- [[논문리뷰] Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation (2025.12.02)](https://blog.secrett2633.site/ai/review/2025-12-02-Where-Culture-Fades-Revealing-the-Cultural-Gap-in-Text-to-Image-Generation/)
-- [[논문리뷰] What about gravity in video generation? Post-Training Newton's Laws with Verifiable Rewards (2025.12.02)](https://blog.secrett2633.site/ai/review/2025-12-02-What-about-gravity-in-video-generation-Post-Training-Newtons-Laws-with-Verifiable-Rewards/)
-- [[논문리뷰] VLASH: Real-Time VLAs via Future-State-Aware Asynchronous Inference (2025.12.02)](https://blog.secrett2633.site/ai/review/2025-12-02-VLASH-Real-Time-VLAs-via-Future-State-Aware-Asynchronous-Inference/)
+- [[논문리뷰] UltraImage: Rethinking Resolution Extrapolation in Image Diffusion Transformers (2025.12.05)](https://blog.secrett2633.site/ai/review/2025-12-05-UltraImage-Rethinking-Resolution-Extrapolation-in-Image-Diffusion-Transformers/)
+- [[논문리뷰] TV2TV: A Unified Framework for Interleaved Language and Video Generation (2025.12.05)](https://blog.secrett2633.site/ai/review/2025-12-05-TV2TV-A-Unified-Framework-for-Interleaved-Language-and-Video-Generation/)
+- [[논문리뷰] Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting (2025.12.05)](https://blog.secrett2633.site/ai/review/2025-12-05-Splannequin-Freezing-Monocular-Mannequin-Challenge-Footage-with-Dual-Detection-Splatting/)
+- [[논문리뷰] SignRoundV2: Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs (2025.12.05)](https://blog.secrett2633.site/ai/review/2025-12-05-SignRoundV2-Closing-the-Performance-Gap-in-Extremely-Low-Bit-Post-Training-Quantization-for-LLMs/)
+- [[논문리뷰] Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion (2025.12.05)](https://blog.secrett2633.site/ai/review/2025-12-05-Semantics-Lead-the-Way-Harmonizing-Semantic-and-Texture-Modeling-with-Asynchronous-Latent-Diffusion/)
