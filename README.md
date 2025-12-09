@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] UltraImage: Rethinking Resolution Extrapolation in Image Diffusion Transformers (2025.12.05)](https://blog.secrett2633.site/ai/review/2025-12-05-UltraImage-Rethinking-Resolution-Extrapolation-in-Image-Diffusion-Transformers/)
-- [[논문리뷰] TV2TV: A Unified Framework for Interleaved Language and Video Generation (2025.12.05)](https://blog.secrett2633.site/ai/review/2025-12-05-TV2TV-A-Unified-Framework-for-Interleaved-Language-and-Video-Generation/)
-- [[논문리뷰] Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting (2025.12.05)](https://blog.secrett2633.site/ai/review/2025-12-05-Splannequin-Freezing-Monocular-Mannequin-Challenge-Footage-with-Dual-Detection-Splatting/)
-- [[논문리뷰] SignRoundV2: Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs (2025.12.05)](https://blog.secrett2633.site/ai/review/2025-12-05-SignRoundV2-Closing-the-Performance-Gap-in-Extremely-Low-Bit-Post-Training-Quantization-for-LLMs/)
-- [[논문리뷰] Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion (2025.12.05)](https://blog.secrett2633.site/ai/review/2025-12-05-Semantics-Lead-the-Way-Harmonizing-Semantic-and-Texture-Modeling-with-Asynchronous-Latent-Diffusion/)
+- [[논문리뷰] World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty (2025.12.08)](https://blog.secrett2633.site/ai/review/2025-12-08-World-Models-That-Know-When-They-Dont-Know-Controllable-Video-Generation-with-Calibrated-Uncertainty/)
+- [[논문리뷰] TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows (2025.12.08)](https://blog.secrett2633.site/ai/review/2025-12-08-TwinFlow-Realizing-One-step-Generation-on-Large-Models-with-Self-adversarial-Flows/)
+- [[논문리뷰] TimesNet-Gen: Deep Learning-based Site Specific Strong Motion Generation (2025.12.08)](https://blog.secrett2633.site/ai/review/2025-12-08-TimesNet-Gen-Deep-Learning-based-Site-Specific-Strong-Motion-Generation/)
+- [[논문리뷰] SpaceControl: Introducing Test-Time Spatial Control to 3D Generative Modeling (2025.12.08)](https://blog.secrett2633.site/ai/review/2025-12-08-SpaceControl-Introducing-Test-Time-Spatial-Control-to-3D-Generative-Modeling/)
+- [[논문리뷰] Self-Improving VLM Judges Without Human Annotations (2025.12.08)](https://blog.secrett2633.site/ai/review/2025-12-08-Self-Improving-VLM-Judges-Without-Human-Annotations/)
