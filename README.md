@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty (2025.12.08)](https://blog.secrett2633.site/ai/review/2025-12-08-World-Models-That-Know-When-They-Dont-Know-Controllable-Video-Generation-with-Calibrated-Uncertainty/)
-- [[논문리뷰] TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows (2025.12.08)](https://blog.secrett2633.site/ai/review/2025-12-08-TwinFlow-Realizing-One-step-Generation-on-Large-Models-with-Self-adversarial-Flows/)
-- [[논문리뷰] TimesNet-Gen: Deep Learning-based Site Specific Strong Motion Generation (2025.12.08)](https://blog.secrett2633.site/ai/review/2025-12-08-TimesNet-Gen-Deep-Learning-based-Site-Specific-Strong-Motion-Generation/)
-- [[논문리뷰] SpaceControl: Introducing Test-Time Spatial Control to 3D Generative Modeling (2025.12.08)](https://blog.secrett2633.site/ai/review/2025-12-08-SpaceControl-Introducing-Test-Time-Spatial-Control-to-3D-Generative-Modeling/)
-- [[논문리뷰] Self-Improving VLM Judges Without Human Annotations (2025.12.08)](https://blog.secrett2633.site/ai/review/2025-12-08-Self-Improving-VLM-Judges-Without-Human-Annotations/)
+- [[논문리뷰] Voxify3D: Pixel Art Meets Volumetric Rendering (2025.12.09)](https://blog.secrett2633.site/ai/review/2025-12-09-Voxify3D-Pixel-Art-Meets-Volumetric-Rendering/)
+- [[논문리뷰] VideoVLA: Video Generators Can Be Generalizable Robot Manipulators (2025.12.09)](https://blog.secrett2633.site/ai/review/2025-12-09-VideoVLA-Video-Generators-Can-Be-Generalizable-Robot-Manipulators/)
+- [[논문리뷰] VG-Refiner: Towards Tool-Refined Referring Grounded Reasoning via Agentic Reinforcement Learning (2025.12.09)](https://blog.secrett2633.site/ai/review/2025-12-09-VG-Refiner-Towards-Tool-Refined-Referring-Grounded-Reasoning-via-Agentic-Reinforcement-Learning/)
+- [[논문리뷰] UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation (2025.12.09)](https://blog.secrett2633.site/ai/review/2025-12-09-UnityVideo-Unified-Multi-Modal-Multi-Task-Learning-for-Enhancing-World-Aware-Video-Generation/)
+- [[논문리뷰] Unified Video Editing with Temporal Reasoner (2025.12.09)](https://blog.secrett2633.site/ai/review/2025-12-09-Unified-Video-Editing-with-Temporal-Reasoner/)
