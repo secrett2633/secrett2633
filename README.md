@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] Voxify3D: Pixel Art Meets Volumetric Rendering (2025.12.09)](https://blog.secrett2633.site/ai/review/2025-12-09-Voxify3D-Pixel-Art-Meets-Volumetric-Rendering/)
-- [[논문리뷰] VideoVLA: Video Generators Can Be Generalizable Robot Manipulators (2025.12.09)](https://blog.secrett2633.site/ai/review/2025-12-09-VideoVLA-Video-Generators-Can-Be-Generalizable-Robot-Manipulators/)
-- [[논문리뷰] VG-Refiner: Towards Tool-Refined Referring Grounded Reasoning via Agentic Reinforcement Learning (2025.12.09)](https://blog.secrett2633.site/ai/review/2025-12-09-VG-Refiner-Towards-Tool-Refined-Referring-Grounded-Reasoning-via-Agentic-Reinforcement-Learning/)
-- [[논문리뷰] UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation (2025.12.09)](https://blog.secrett2633.site/ai/review/2025-12-09-UnityVideo-Unified-Multi-Modal-Multi-Task-Learning-for-Enhancing-World-Aware-Video-Generation/)
-- [[논문리뷰] Unified Video Editing with Temporal Reasoner (2025.12.09)](https://blog.secrett2633.site/ai/review/2025-12-09-Unified-Video-Editing-with-Temporal-Reasoner/)
+- [[논문리뷰] Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance (2025.12.10)](https://blog.secrett2633.site/ai/review/2025-12-10-Wan-Move-Motion-controllable-Video-Generation-via-Latent-Trajectory-Guidance/)
+- [[논문리뷰] Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform (2025.12.10)](https://blog.secrett2633.site/ai/review/2025-12-10-Visionary-The-World-Model-Carrier-Built-on-WebGPU-Powered-Gaussian-Splatting-Platform/)
+- [[논문리뷰] TreeGRPO: Tree-Advantage GRPO for Online RL Post-Training of Diffusion Models (2025.12.10)](https://blog.secrett2633.site/ai/review/2025-12-10-TreeGRPO-Tree-Advantage-GRPO-for-Online-RL-Post-Training-of-Diffusion-Models/)
+- [[논문리뷰] TrackingWorld: World-centric Monocular 3D Tracking of Almost All Pixels (2025.12.10)](https://blog.secrett2633.site/ai/review/2025-12-10-TrackingWorld-World-centric-Monocular-3D-Tracking-of-Almost-All-Pixels/)
+- [[논문리뷰] ThreadWeaver: Adaptive Threading for Efficient Parallel Reasoning in Language Models (2025.12.10)](https://blog.secrett2633.site/ai/review/2025-12-10-ThreadWeaver-Adaptive-Threading-for-Efficient-Parallel-Reasoning-in-Language-Models/)
