@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance (2025.12.10)](https://blog.secrett2633.site/ai/review/2025-12-10-Wan-Move-Motion-controllable-Video-Generation-via-Latent-Trajectory-Guidance/)
-- [[논문리뷰] Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform (2025.12.10)](https://blog.secrett2633.site/ai/review/2025-12-10-Visionary-The-World-Model-Carrier-Built-on-WebGPU-Powered-Gaussian-Splatting-Platform/)
-- [[논문리뷰] TreeGRPO: Tree-Advantage GRPO for Online RL Post-Training of Diffusion Models (2025.12.10)](https://blog.secrett2633.site/ai/review/2025-12-10-TreeGRPO-Tree-Advantage-GRPO-for-Online-RL-Post-Training-of-Diffusion-Models/)
-- [[논문리뷰] TrackingWorld: World-centric Monocular 3D Tracking of Almost All Pixels (2025.12.10)](https://blog.secrett2633.site/ai/review/2025-12-10-TrackingWorld-World-centric-Monocular-3D-Tracking-of-Almost-All-Pixels/)
-- [[논문리뷰] ThreadWeaver: Adaptive Threading for Efficient Parallel Reasoning in Language Models (2025.12.10)](https://blog.secrett2633.site/ai/review/2025-12-10-ThreadWeaver-Adaptive-Threading-for-Efficient-Parallel-Reasoning-in-Language-Models/)
+- [[논문리뷰] V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions (2025.12.16)](https://blog.secrett2633.site/ai/review/2025-12-16-V-REX-Benchmarking-Exploratory-Visual-Reasoning-via-Chain-of-Questions/)
+- [[논문리뷰] Towards Scalable Pre-training of Visual Tokenizers for Generation (2025.12.16)](https://blog.secrett2633.site/ai/review/2025-12-16-Towards-Scalable-Pre-training-of-Visual-Tokenizers-for-Generation/)
+- [[논문리뷰] Towards Interactive Intelligence for Digital Humans (2025.12.16)](https://blog.secrett2633.site/ai/review/2025-12-16-Towards-Interactive-Intelligence-for-Digital-Humans/)
+- [[논문리뷰] Toward Ambulatory Vision: Learning Visually-Grounded Active View Selection (2025.12.16)](https://blog.secrett2633.site/ai/review/2025-12-16-Toward-Ambulatory-Vision-Learning-Visually-Grounded-Active-View-Selection/)
+- [[논문리뷰] Openpi Comet: Competition Solution For 2025 BEHAVIOR Challenge (2025.12.16)](https://blog.secrett2633.site/ai/review/2025-12-16-Openpi-Comet-Competition-Solution-For-2025-BEHAVIOR-Challenge/)
