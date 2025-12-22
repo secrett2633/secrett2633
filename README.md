@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions (2025.12.16)](https://blog.secrett2633.site/ai/review/2025-12-16-V-REX-Benchmarking-Exploratory-Visual-Reasoning-via-Chain-of-Questions/)
-- [[논문리뷰] Towards Scalable Pre-training of Visual Tokenizers for Generation (2025.12.16)](https://blog.secrett2633.site/ai/review/2025-12-16-Towards-Scalable-Pre-training-of-Visual-Tokenizers-for-Generation/)
-- [[논문리뷰] Towards Interactive Intelligence for Digital Humans (2025.12.16)](https://blog.secrett2633.site/ai/review/2025-12-16-Towards-Interactive-Intelligence-for-Digital-Humans/)
-- [[논문리뷰] Toward Ambulatory Vision: Learning Visually-Grounded Active View Selection (2025.12.16)](https://blog.secrett2633.site/ai/review/2025-12-16-Toward-Ambulatory-Vision-Learning-Visually-Grounded-Active-View-Selection/)
-- [[논문리뷰] Openpi Comet: Competition Solution For 2025 BEHAVIOR Challenge (2025.12.16)](https://blog.secrett2633.site/ai/review/2025-12-16-Openpi-Comet-Competition-Solution-For-2025-BEHAVIOR-Challenge/)
+- [[논문리뷰] VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks (2025.12.19)](https://blog.secrett2633.site/ai/review/2025-12-19-VenusBench-GD-A-Comprehensive-Multi-Platform-GUI-Benchmark-for-Diverse-Grounding-Tasks/)
+- [[논문리뷰] The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text (2025.12.19)](https://blog.secrett2633.site/ai/review/2025-12-19-The-World-is-Your-Canvas-Painting-Promptable-Events-with-Reference-Images-Trajectories-and-Text/)
+- [[논문리뷰] StereoPilot: Learning Unified and Efficient Stereo Conversion via Generative Priors (2025.12.19)](https://blog.secrett2633.site/ai/review/2025-12-19-StereoPilot-Learning-Unified-and-Efficient-Stereo-Conversion-via-Generative-Priors/)
+- [[논문리뷰] Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model (2025.12.19)](https://blog.secrett2633.site/ai/review/2025-12-19-Seedance-1-5-pro-A-Native-Audio-Visual-Joint-Generation-Foundation-Model/)
+- [[논문리뷰] RePlan: Reasoning-guided Region Planning for Complex Instruction-based Image Editing (2025.12.19)](https://blog.secrett2633.site/ai/review/2025-12-19-RePlan-Reasoning-guided-Region-Planning-for-Complex-Instruction-based-Image-Editing/)
