@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks (2025.12.19)](https://blog.secrett2633.site/ai/review/2025-12-19-VenusBench-GD-A-Comprehensive-Multi-Platform-GUI-Benchmark-for-Diverse-Grounding-Tasks/)
-- [[논문리뷰] The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text (2025.12.19)](https://blog.secrett2633.site/ai/review/2025-12-19-The-World-is-Your-Canvas-Painting-Promptable-Events-with-Reference-Images-Trajectories-and-Text/)
-- [[논문리뷰] StereoPilot: Learning Unified and Efficient Stereo Conversion via Generative Priors (2025.12.19)](https://blog.secrett2633.site/ai/review/2025-12-19-StereoPilot-Learning-Unified-and-Efficient-Stereo-Conversion-via-Generative-Priors/)
-- [[논문리뷰] Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model (2025.12.19)](https://blog.secrett2633.site/ai/review/2025-12-19-Seedance-1-5-pro-A-Native-Audio-Visual-Joint-Generation-Foundation-Model/)
-- [[논문리뷰] RePlan: Reasoning-guided Region Planning for Complex Instruction-based Image Editing (2025.12.19)](https://blog.secrett2633.site/ai/review/2025-12-19-RePlan-Reasoning-guided-Region-Planning-for-Complex-Instruction-based-Image-Editing/)
+- [[논문리뷰] VA-π: Variational Policy Alignment for Pixel-Aware Autoregressive Generation (2025.12.26)](https://blog.secrett2633.site/ai/review/2025-12-26-VA-π-Variational-Policy-Alignment-for-Pixel-Aware-Autoregressive-Generation/)
+- [[논문리뷰] Spatia: Video Generation with Updatable Spatial Memory (2025.12.26)](https://blog.secrett2633.site/ai/review/2025-12-26-Spatia-Video-Generation-with-Updatable-Spatial-Memory/)
+- [[논문리뷰] Schoenfeld's Anatomy of Mathematical Reasoning by Language Models (2025.12.26)](https://blog.secrett2633.site/ai/review/2025-12-26-Schoenfelds-Anatomy-of-Mathematical-Reasoning-by-Language-Models/)
+- [[논문리뷰] Latent Implicit Visual Reasoning (2025.12.26)](https://blog.secrett2633.site/ai/review/2025-12-26-Latent-Implicit-Visual-Reasoning/)
+- [[논문리뷰] How Much 3D Do Video Foundation Models Encode? (2025.12.26)](https://blog.secrett2633.site/ai/review/2025-12-26-How-Much-3D-Do-Video-Foundation-Models-Encode/)
