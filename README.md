@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice (2026.01.09)](https://blog.secrett2633.site/ai/review/2026-01-09-VideoAuto-R1-Video-Auto-Reasoning-via-Thinking-Once-Answering-Twice/)
-- [[논문리뷰] VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control (2026.01.09)](https://blog.secrett2633.site/ai/review/2026-01-09-VerseCrafter-Dynamic-Realistic-Video-World-Model-with-4D-Geometric-Control/)
-- [[논문리뷰] Towards Open-Vocabulary Industrial Defect Understanding with a Large-Scale Multimodal Dataset (2026.01.09)](https://blog.secrett2633.site/ai/review/2026-01-09-Towards-Open-Vocabulary-Industrial-Defect-Understanding-with-a-Large-Scale-Multimodal-Dataset/)
-- [[논문리뷰] Token-Level LLM Collaboration via FusionRoute (2026.01.09)](https://blog.secrett2633.site/ai/review/2026-01-09-Token-Level-LLM-Collaboration-via-FusionRoute/)
-- [[논문리뷰] The Illusion of Specialization: Unveiling the Domain-Invariant 'Standing Committee' in Mixture-of-Experts Models (2026.01.09)](https://blog.secrett2633.site/ai/review/2026-01-09-The-Illusion-of-Specialization-Unveiling-the-Domain-Invariant-Standing-Committee-in-Mixture-of-Experts-Models/)
+- [[논문리뷰] VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction (2026.01.12)](https://blog.secrett2633.cloud/ai/review/2026-01-12-VideoAR-Autoregressive-Video-Generation-via-Next-Frame-Scale-Prediction/)
+- [[논문리뷰] Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization (2026.01.12)](https://blog.secrett2633.cloud/ai/review/2026-01-12-Thinking-with-Map-Reinforced-Parallel-Map-Augmented-Agent-for-Geolocalization/)
+- [[논문리뷰] SmartSearch: Process Reward-Guided Query Refinement for Search Agents (2026.01.12)](https://blog.secrett2633.cloud/ai/review/2026-01-12-SmartSearch-Process-Reward-Guided-Query-Refinement-for-Search-Agents/)
+- [[논문리뷰] Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking (2026.01.12)](https://blog.secrett2633.cloud/ai/review/2026-01-12-Qwen3-VL-Embedding-and-Qwen3-VL-Reranker-A-Unified-Framework-for-State-of-the-Art-Multimodal-Retrieval-and-Ranking/)
+- [[논문리뷰] Memory Matters More: Event-Centric Memory as a Logic Map for Agent Searching and Reasoning (2026.01.12)](https://blog.secrett2633.cloud/ai/review/2026-01-12-Memory-Matters-More-Event-Centric-Memory-as-a-Logic-Map-for-Agent-Searching-and-Reasoning/)
