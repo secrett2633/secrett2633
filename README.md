@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction (2026.01.12)](https://blog.secrett2633.cloud/ai/review/2026-01-12-VideoAR-Autoregressive-Video-Generation-via-Next-Frame-Scale-Prediction/)
-- [[논문리뷰] Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization (2026.01.12)](https://blog.secrett2633.cloud/ai/review/2026-01-12-Thinking-with-Map-Reinforced-Parallel-Map-Augmented-Agent-for-Geolocalization/)
-- [[논문리뷰] SmartSearch: Process Reward-Guided Query Refinement for Search Agents (2026.01.12)](https://blog.secrett2633.cloud/ai/review/2026-01-12-SmartSearch-Process-Reward-Guided-Query-Refinement-for-Search-Agents/)
-- [[논문리뷰] Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking (2026.01.12)](https://blog.secrett2633.cloud/ai/review/2026-01-12-Qwen3-VL-Embedding-and-Qwen3-VL-Reranker-A-Unified-Framework-for-State-of-the-Art-Multimodal-Retrieval-and-Ranking/)
-- [[논문리뷰] Memory Matters More: Event-Centric Memory as a Logic Map for Agent Searching and Reasoning (2026.01.12)](https://blog.secrett2633.cloud/ai/review/2026-01-12-Memory-Matters-More-Event-Centric-Memory-as-a-Logic-Map-for-Agent-Searching-and-Reasoning/)
+- [[논문리뷰] TranslateGemma Technical Report (2026.01.15)](https://blog.secrett2633.cloud/ai/review/2026-01-15-TranslateGemma-Technical-Report/)
+- [[논문리뷰] The AI Hippocampus: How Far are We From Human Memory? (2026.01.15)](https://blog.secrett2633.cloud/ai/review/2026-01-15-The-AI-Hippocampus-How-Far-are-We-From-Human-Memory/)
+- [[논문리뷰] SkinFlow: Efficient Information Transmission for Open Dermatological Diagnosis via Dynamic Visual Encoding and Staged RL (2026.01.15)](https://blog.secrett2633.cloud/ai/review/2026-01-15-SkinFlow-Efficient-Information-Transmission-for-Open-Dermatological-Diagnosis-via-Dynamic-Visual-Encoding-and-Staged-RL/)
+- [[논문리뷰] OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding (2026.01.15)](https://blog.secrett2633.cloud/ai/review/2026-01-15-OpenVoxel-Training-Free-Grouping-and-Captioning-Voxels-for-Open-Vocabulary-3D-Scene-Understanding/)
+- [[논문리뷰] Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models (2026.01.15)](https://blog.secrett2633.cloud/ai/review/2026-01-15-Imagine-then-Plan-Agent-Learning-from-Adaptive-Lookahead-with-World-Models/)
