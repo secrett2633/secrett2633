@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] TranslateGemma Technical Report (2026.01.15)](https://blog.secrett2633.cloud/ai/review/2026-01-15-TranslateGemma-Technical-Report/)
-- [[논문리뷰] The AI Hippocampus: How Far are We From Human Memory? (2026.01.15)](https://blog.secrett2633.cloud/ai/review/2026-01-15-The-AI-Hippocampus-How-Far-are-We-From-Human-Memory/)
-- [[논문리뷰] SkinFlow: Efficient Information Transmission for Open Dermatological Diagnosis via Dynamic Visual Encoding and Staged RL (2026.01.15)](https://blog.secrett2633.cloud/ai/review/2026-01-15-SkinFlow-Efficient-Information-Transmission-for-Open-Dermatological-Diagnosis-via-Dynamic-Visual-Encoding-and-Staged-RL/)
-- [[논문리뷰] OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding (2026.01.15)](https://blog.secrett2633.cloud/ai/review/2026-01-15-OpenVoxel-Training-Free-Grouping-and-Captioning-Voxels-for-Open-Vocabulary-3D-Scene-Understanding/)
-- [[논문리뷰] Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models (2026.01.15)](https://blog.secrett2633.cloud/ai/review/2026-01-15-Imagine-then-Plan-Agent-Learning-from-Adaptive-Lookahead-with-World-Models/)
+- [[논문리뷰] UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation (2026.01.21)](https://blog.secrett2633.cloud/ai/review/2026-01-21-UniX-Unifying-Autoregression-and-Diffusion-for-Chest-X-Ray-Understanding-and-Generation/)
+- [[논문리뷰] Toward Efficient Agents: Memory, Tool learning, and Planning (2026.01.21)](https://blog.secrett2633.cloud/ai/review/2026-01-21-Toward-Efficient-Agents-Memory-Tool-learning-and-Planning/)
+- [[논문리뷰] ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents (2026.01.21)](https://blog.secrett2633.cloud/ai/review/2026-01-21-ToolPRMBench-Evaluating-and-Advancing-Process-Reward-Models-for-Tool-using-Agents/)
+- [[논문리뷰] Think3D: Thinking with Space for Spatial Reasoning (2026.01.21)](https://blog.secrett2633.cloud/ai/review/2026-01-21-Think3D-Thinking-with-Space-for-Spatial-Reasoning/)
+- [[논문리뷰] SciCoQA: Quality Assurance for Scientific Paper--Code Alignment (2026.01.21)](https://blog.secrett2633.cloud/ai/review/2026-01-21-SciCoQA-Quality-Assurance-for-Scientific-Paper-Code-Alignment/)
