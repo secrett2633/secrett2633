@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation (2026.01.21)](https://blog.secrett2633.cloud/ai/review/2026-01-21-UniX-Unifying-Autoregression-and-Diffusion-for-Chest-X-Ray-Understanding-and-Generation/)
-- [[논문리뷰] Toward Efficient Agents: Memory, Tool learning, and Planning (2026.01.21)](https://blog.secrett2633.cloud/ai/review/2026-01-21-Toward-Efficient-Agents-Memory-Tool-learning-and-Planning/)
-- [[논문리뷰] ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents (2026.01.21)](https://blog.secrett2633.cloud/ai/review/2026-01-21-ToolPRMBench-Evaluating-and-Advancing-Process-Reward-Models-for-Tool-using-Agents/)
-- [[논문리뷰] Think3D: Thinking with Space for Spatial Reasoning (2026.01.21)](https://blog.secrett2633.cloud/ai/review/2026-01-21-Think3D-Thinking-with-Space-for-Spatial-Reasoning/)
-- [[논문리뷰] SciCoQA: Quality Assurance for Scientific Paper--Code Alignment (2026.01.21)](https://blog.secrett2633.cloud/ai/review/2026-01-21-SciCoQA-Quality-Assurance-for-Scientific-Paper-Code-Alignment/)
+- [[논문리뷰] sangkuriang: A pseudo-spectral Python library for Korteweg-de Vries soliton simulation (2026.01.22)](https://blog.secrett2633.cloud/ai/review/2026-01-22-sangkuriang-A-pseudo-spectral-Python-library-for-Korteweg-de-Vries-soliton-simulation/)
+- [[논문리뷰] XR: Cross-Modal Agents for Composed Image Retrieval (2026.01.22)](https://blog.secrett2633.cloud/ai/review/2026-01-22-XR-Cross-Modal-Agents-for-Composed-Image-Retrieval/)
+- [[논문리뷰] Typhoon OCR: Open Vision-Language Model For Thai Document Extraction (2026.01.22)](https://blog.secrett2633.cloud/ai/review/2026-01-22-Typhoon-OCR-Open-Vision-Language-Model-For-Thai-Document-Extraction/)
+- [[논문리뷰] Typhoon ASR Real-time: FastConformer-Transducer for Thai Automatic Speech Recognition (2026.01.22)](https://blog.secrett2633.cloud/ai/review/2026-01-22-Typhoon-ASR-Real-time-FastConformer-Transducer-for-Thai-Automatic-Speech-Recognition/)
+- [[논문리뷰] The Responsibility Vacuum: Organizational Failure in Scaled Agent Systems (2026.01.22)](https://blog.secrett2633.cloud/ai/review/2026-01-22-The-Responsibility-Vacuum-Organizational-Failure-in-Scaled-Agent-Systems/)
