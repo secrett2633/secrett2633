@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] sangkuriang: A pseudo-spectral Python library for Korteweg-de Vries soliton simulation (2026.01.22)](https://blog.secrett2633.cloud/ai/review/2026-01-22-sangkuriang-A-pseudo-spectral-Python-library-for-Korteweg-de-Vries-soliton-simulation/)
-- [[논문리뷰] XR: Cross-Modal Agents for Composed Image Retrieval (2026.01.22)](https://blog.secrett2633.cloud/ai/review/2026-01-22-XR-Cross-Modal-Agents-for-Composed-Image-Retrieval/)
-- [[논문리뷰] Typhoon OCR: Open Vision-Language Model For Thai Document Extraction (2026.01.22)](https://blog.secrett2633.cloud/ai/review/2026-01-22-Typhoon-OCR-Open-Vision-Language-Model-For-Thai-Document-Extraction/)
-- [[논문리뷰] Typhoon ASR Real-time: FastConformer-Transducer for Thai Automatic Speech Recognition (2026.01.22)](https://blog.secrett2633.cloud/ai/review/2026-01-22-Typhoon-ASR-Real-time-FastConformer-Transducer-for-Thai-Automatic-Speech-Recognition/)
-- [[논문리뷰] The Responsibility Vacuum: Organizational Failure in Scaled Agent Systems (2026.01.22)](https://blog.secrett2633.cloud/ai/review/2026-01-22-The-Responsibility-Vacuum-Organizational-Failure-in-Scaled-Agent-Systems/)
+- [[논문리뷰] World Craft: Agentic Framework to Create Visualizable Worlds via Text (2026.01.28)](https://blog.secrett2633.cloud/ai/review/2026-01-28-World-Craft-Agentic-Framework-to-Create-Visualizable-Worlds-via-Text/)
+- [[논문리뷰] Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models (2026.01.28)](https://blog.secrett2633.cloud/ai/review/2026-01-28-Visual-Generation-Unlocks-Human-Like-Reasoning-through-Multimodal-World-Models/)
+- [[논문리뷰] TriPlay-RL: Tri-Role Self-Play Reinforcement Learning for LLM Safety Alignment (2026.01.28)](https://blog.secrett2633.cloud/ai/review/2026-01-28-TriPlay-RL-Tri-Role-Self-Play-Reinforcement-Learning-for-LLM-Safety-Alignment/)
+- [[논문리뷰] Selective Steering: Norm-Preserving Control Through Discriminative Layer Selection (2026.01.28)](https://blog.secrett2633.cloud/ai/review/2026-01-28-Selective-Steering-Norm-Preserving-Control-Through-Discriminative-Layer-Selection/)
+- [[논문리뷰] Revisiting Parameter Server in LLM Post-Training (2026.01.28)](https://blog.secrett2633.cloud/ai/review/2026-01-28-Revisiting-Parameter-Server-in-LLM-Post-Training/)
