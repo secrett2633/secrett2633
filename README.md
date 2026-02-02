@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] World Craft: Agentic Framework to Create Visualizable Worlds via Text (2026.01.28)](https://blog.secrett2633.cloud/ai/review/2026-01-28-World-Craft-Agentic-Framework-to-Create-Visualizable-Worlds-via-Text/)
-- [[논문리뷰] Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models (2026.01.28)](https://blog.secrett2633.cloud/ai/review/2026-01-28-Visual-Generation-Unlocks-Human-Like-Reasoning-through-Multimodal-World-Models/)
-- [[논문리뷰] TriPlay-RL: Tri-Role Self-Play Reinforcement Learning for LLM Safety Alignment (2026.01.28)](https://blog.secrett2633.cloud/ai/review/2026-01-28-TriPlay-RL-Tri-Role-Self-Play-Reinforcement-Learning-for-LLM-Safety-Alignment/)
-- [[논문리뷰] Selective Steering: Norm-Preserving Control Through Discriminative Layer Selection (2026.01.28)](https://blog.secrett2633.cloud/ai/review/2026-01-28-Selective-Steering-Norm-Preserving-Control-Through-Discriminative-Layer-Selection/)
-- [[논문리뷰] Revisiting Parameter Server in LLM Post-Training (2026.01.28)](https://blog.secrett2633.cloud/ai/review/2026-01-28-Revisiting-Parameter-Server-in-LLM-Post-Training/)
+- [[논문리뷰] VTC-R1: Vision-Text Compression for Efficient Long-Context Reasoning (2026.01.30)](https://blog.secrett2633.cloud/ai/review/2026-01-30-VTC-R1-Vision-Text-Compression-for-Efficient-Long-Context-Reasoning/)
+- [[논문리뷰] Typhoon-S: Minimal Open Post-Training for Sovereign Large Language Models (2026.01.30)](https://blog.secrett2633.cloud/ai/review/2026-01-30-Typhoon-S-Minimal-Open-Post-Training-for-Sovereign-Large-Language-Models/)
+- [[논문리뷰] Self-Improving Pretraining: using post-trained models to pretrain better models (2026.01.30)](https://blog.secrett2633.cloud/ai/review/2026-01-30-Self-Improving-Pretraining-using-post-trained-models-to-pretrain-better-models/)
+- [[논문리뷰] Scaling Embeddings Outperforms Scaling Experts in Language Models (2026.01.30)](https://blog.secrett2633.cloud/ai/review/2026-01-30-Scaling-Embeddings-Outperforms-Scaling-Experts-in-Language-Models/)
+- [[논문리뷰] Scalable Power Sampling: Unlocking Efficient, Training-Free Reasoning for LLMs via Distribution Sharpening (2026.01.30)](https://blog.secrett2633.cloud/ai/review/2026-01-30-Scalable-Power-Sampling-Unlocking-Efficient-Training-Free-Reasoning-for-LLMs-via-Distribution-Sharpening/)
