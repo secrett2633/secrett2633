@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model (2026.02.11)](https://blog.secrett2633.cloud/ai/review/2026-02-11-VLA-JEPA-Enhancing-Vision-Language-Action-Model-with-Latent-World-Model/)
-- [[논문리뷰] VideoWorld 2: Learning Transferable Knowledge from Real-world Videos (2026.02.11)](https://blog.secrett2633.cloud/ai/review/2026-02-11-VideoWorld-2-Learning-Transferable-Knowledge-from-Real-world-Videos/)
-- [[논문리뷰] UI-Venus-1.5 Technical Report (2026.02.11)](https://blog.secrett2633.cloud/ai/review/2026-02-11-UI-Venus-1-5-Technical-Report/)
-- [[논문리뷰] TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution (2026.02.11)](https://blog.secrett2633.cloud/ai/review/2026-02-11-TreeCUA-Efficiently-Scaling-GUI-Automation-with-Tree-Structured-Verifiable-Evolution/)
-- [[논문리뷰] SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning (2026.02.11)](https://blog.secrett2633.cloud/ai/review/2026-02-11-SkillRL-Evolving-Agents-via-Recursive-Skill-Augmented-Reinforcement-Learning/)
+- [[논문리뷰] When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning (2026.02.12)](https://blog.secrett2633.cloud/ai/review/2026-02-12-When-to-Memorize-and-When-to-Stop-Gated-Recurrent-Memory-for-Long-Context-Reasoning/)
+- [[논문리뷰] When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models (2026.02.12)](https://blog.secrett2633.cloud/ai/review/2026-02-12-When-the-Prompt-Becomes-Visual-Vision-Centric-Jailbreak-Attacks-for-Large-Image-Editing-Models/)
+- [[논문리뷰] Towards Autonomous Mathematics Research (2026.02.12)](https://blog.secrett2633.cloud/ai/review/2026-02-12-Towards-Autonomous-Mathematics-Research/)
+- [[논문리뷰] TimeChat-Captioner: Scripting Multi-Scene Videos with Time-Aware and Structural Audio-Visual Captions (2026.02.12)](https://blog.secrett2633.cloud/ai/review/2026-02-12-TimeChat-Captioner-Scripting-Multi-Scene-Videos-with-Time-Aware-and-Structural-Audio-Visual-Captions/)
+- [[논문리뷰] Stroke3D: Lifting 2D strokes into rigged 3D model via latent diffusion models (2026.02.12)](https://blog.secrett2633.cloud/ai/review/2026-02-12-Stroke3D-Lifting-2D-strokes-into-rigged-3D-model-via-latent-diffusion-models/)
