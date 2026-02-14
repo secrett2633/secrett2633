@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning (2026.02.12)](https://blog.secrett2633.cloud/ai/review/2026-02-12-When-to-Memorize-and-When-to-Stop-Gated-Recurrent-Memory-for-Long-Context-Reasoning/)
-- [[논문리뷰] When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models (2026.02.12)](https://blog.secrett2633.cloud/ai/review/2026-02-12-When-the-Prompt-Becomes-Visual-Vision-Centric-Jailbreak-Attacks-for-Large-Image-Editing-Models/)
-- [[논문리뷰] Towards Autonomous Mathematics Research (2026.02.12)](https://blog.secrett2633.cloud/ai/review/2026-02-12-Towards-Autonomous-Mathematics-Research/)
-- [[논문리뷰] TimeChat-Captioner: Scripting Multi-Scene Videos with Time-Aware and Structural Audio-Visual Captions (2026.02.12)](https://blog.secrett2633.cloud/ai/review/2026-02-12-TimeChat-Captioner-Scripting-Multi-Scene-Videos-with-Time-Aware-and-Structural-Audio-Visual-Captions/)
-- [[논문리뷰] Stroke3D: Lifting 2D strokes into rigged 3D model via latent diffusion models (2026.02.12)](https://blog.secrett2633.cloud/ai/review/2026-02-12-Stroke3D-Lifting-2D-strokes-into-rigged-3D-model-via-latent-diffusion-models/)
+- [[논문리뷰] χ_{0}: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies (2026.02.13)](https://blog.secrett2633.cloud/ai/review/2026-02-13-χ_0-Resource-Aware-Robust-Manipulation-via-Taming-Distributional-Inconsistencies/)
+- [[논문리뷰] Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation (2026.02.13)](https://blog.secrett2633.cloud/ai/review/2026-02-13-Unveiling-Implicit-Advantage-Symmetry-Why-GRPO-Struggles-with-Exploration-and-Difficulty-Adaptation/)
+- [[논문리뷰] ThinkRouter: Efficient Reasoning via Routing Thinking between Latent and Discrete Spaces (2026.02.13)](https://blog.secrett2633.cloud/ai/review/2026-02-13-ThinkRouter-Efficient-Reasoning-via-Routing-Thinking-between-Latent-and-Discrete-Spaces/)
+- [[논문리뷰] Thinking with Drafting: Optical Decompression via Logical Reconstruction (2026.02.13)](https://blog.secrett2633.cloud/ai/review/2026-02-13-Thinking-with-Drafting-Optical-Decompression-via-Logical-Reconstruction/)
+- [[논문리뷰] Think Longer to Explore Deeper: Learn to Explore In-Context via Length-Incentivized Reinforcement Learning (2026.02.13)](https://blog.secrett2633.cloud/ai/review/2026-02-13-Think-Longer-to-Explore-Deeper-Learn-to-Explore-In-Context-via-Length-Incentivized-Reinforcement-Learning/)
