@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] χ_{0}: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies (2026.02.13)](https://blog.secrett2633.cloud/ai/review/2026-02-13-χ_0-Resource-Aware-Robust-Manipulation-via-Taming-Distributional-Inconsistencies/)
-- [[논문리뷰] Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation (2026.02.13)](https://blog.secrett2633.cloud/ai/review/2026-02-13-Unveiling-Implicit-Advantage-Symmetry-Why-GRPO-Struggles-with-Exploration-and-Difficulty-Adaptation/)
-- [[논문리뷰] ThinkRouter: Efficient Reasoning via Routing Thinking between Latent and Discrete Spaces (2026.02.13)](https://blog.secrett2633.cloud/ai/review/2026-02-13-ThinkRouter-Efficient-Reasoning-via-Routing-Thinking-between-Latent-and-Discrete-Spaces/)
-- [[논문리뷰] Thinking with Drafting: Optical Decompression via Logical Reconstruction (2026.02.13)](https://blog.secrett2633.cloud/ai/review/2026-02-13-Thinking-with-Drafting-Optical-Decompression-via-Logical-Reconstruction/)
-- [[논문리뷰] Think Longer to Explore Deeper: Learn to Explore In-Context via Length-Incentivized Reinforcement Learning (2026.02.13)](https://blog.secrett2633.cloud/ai/review/2026-02-13-Think-Longer-to-Explore-Deeper-Learn-to-Explore-In-Context-via-Length-Incentivized-Reinforcement-Learning/)
+- [[논문리뷰] Visual Persuasion: What Influences Decisions of Vision-Language Models? (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-18-Visual-Persuasion-What-Influences-Decisions-of-Vision-Language-Models)
+- [[논문리뷰] UniT: Unified Multimodal Chain-of-Thought Test-time Scaling (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-18-UniT-Unified-Multimodal-Chain-of-Thought-Test-time-Scaling)
+- [[논문리뷰] Understanding vs. Generation: Navigating Optimization Dilemma in Multimodal Models (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-18-Understanding-vs-Generation-Navigating-Optimization-Dilemma-in-Multimodal-Models)
+- [[논문리뷰] STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-18-STAPO-Stabilizing-Reinforcement-Learning-for-LLMs-by-Silencing-Rare-Spurious-Tokens)
+- [[논문리뷰] Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines? (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-18-Sanity-Checks-for-Sparse-Autoencoders-Do-SAEs-Beat-Random-Baselines)
