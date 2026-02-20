@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] Visual Persuasion: What Influences Decisions of Vision-Language Models? (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-18-Visual-Persuasion-What-Influences-Decisions-of-Vision-Language-Models)
-- [[논문리뷰] UniT: Unified Multimodal Chain-of-Thought Test-time Scaling (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-18-UniT-Unified-Multimodal-Chain-of-Thought-Test-time-Scaling)
-- [[논문리뷰] Understanding vs. Generation: Navigating Optimization Dilemma in Multimodal Models (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-18-Understanding-vs-Generation-Navigating-Optimization-Dilemma-in-Multimodal-Models)
-- [[논문리뷰] STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-18-STAPO-Stabilizing-Reinforcement-Learning-for-LLMs-by-Silencing-Rare-Spurious-Tokens)
-- [[논문리뷰] Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines? (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-18-Sanity-Checks-for-Sparse-Autoencoders-Do-SAEs-Beat-Random-Baselines)
+- [[논문리뷰] World Action Models are Zero-shot Policies (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-19-World-Action-Models-are-Zero-shot-Policies)
+- [[논문리뷰] Visual Memory Injection Attacks for Multi-Turn Conversations (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-19-Visual-Memory-Injection-Attacks-for-Multi-Turn-Conversations)
+- [[논문리뷰] Towards a Science of AI Agent Reliability (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-19-Towards-a-Science-of-AI-Agent-Reliability)
+- [[논문리뷰] SLA2: Sparse-Linear Attention with Learnable Routing and QAT (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-19-SLA2-Sparse-Linear-Attention-with-Learnable-Routing-and-QAT)
+- [[논문리뷰] SAM 3D Body: Robust Full-Body Human Mesh Recovery (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-19-SAM-3D-Body-Robust-Full-Body-Human-Mesh-Recovery)
