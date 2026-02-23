@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] World Action Models are Zero-shot Policies (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-19-World-Action-Models-are-Zero-shot-Policies)
-- [[논문리뷰] Visual Memory Injection Attacks for Multi-Turn Conversations (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-19-Visual-Memory-Injection-Attacks-for-Multi-Turn-Conversations)
-- [[논문리뷰] Towards a Science of AI Agent Reliability (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-19-Towards-a-Science-of-AI-Agent-Reliability)
-- [[논문리뷰] SLA2: Sparse-Linear Attention with Learnable Routing and QAT (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-19-SLA2-Sparse-Linear-Attention-with-Learnable-Routing-and-QAT)
-- [[논문리뷰] SAM 3D Body: Robust Full-Body Human Mesh Recovery (2026.02.18)](https://blog.secrett2633.cloud/ai/review/2026-02-19-SAM-3D-Body-Robust-Full-Body-Human-Mesh-Recovery)
+- [[논문리뷰] World Models for Policy Refinement in StarCraft II (2026.02.19)](https://blog.secrett2633.cloud/ai/review/2026-02-20-World-Models-for-Policy-Refinement-in-StarCraft-II)
+- [[논문리뷰] 'What Are You Doing?': Effects of Intermediate Feedback from Agentic LLM In-Car Assistants During Multi-Step Processing (2026.02.19)](https://blog.secrett2633.cloud/ai/review/2026-02-20-What-Are-You-Doing-Effects-of-Intermediate-Feedback-from-Agentic-LLM-In-Car-Assistants-During-Multi-Step-Processing)
+- [[논문리뷰] Unified Latents (UL): How to train your latents (2026.02.19)](https://blog.secrett2633.cloud/ai/review/2026-02-20-Unified-Latents-UL-How-to-train-your-latents)
+- [[논문리뷰] TactAlign: Human-to-Robot Policy Transfer via Tactile Alignment (2026.02.19)](https://blog.secrett2633.cloud/ai/review/2026-02-20-TactAlign-Human-to-Robot-Policy-Transfer-via-Tactile-Alignment)
+- [[논문리뷰] StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation (2026.02.19)](https://blog.secrett2633.cloud/ai/review/2026-02-20-StereoAdapter-2-Globally-Structure-Consistent-Underwater-Stereo-Depth-Estimation)
