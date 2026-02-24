@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] World Models for Policy Refinement in StarCraft II (2026.02.19)](https://blog.secrett2633.cloud/ai/review/2026-02-20-World-Models-for-Policy-Refinement-in-StarCraft-II)
-- [[논문리뷰] 'What Are You Doing?': Effects of Intermediate Feedback from Agentic LLM In-Car Assistants During Multi-Step Processing (2026.02.19)](https://blog.secrett2633.cloud/ai/review/2026-02-20-What-Are-You-Doing-Effects-of-Intermediate-Feedback-from-Agentic-LLM-In-Car-Assistants-During-Multi-Step-Processing)
-- [[논문리뷰] Unified Latents (UL): How to train your latents (2026.02.19)](https://blog.secrett2633.cloud/ai/review/2026-02-20-Unified-Latents-UL-How-to-train-your-latents)
-- [[논문리뷰] TactAlign: Human-to-Robot Policy Transfer via Tactile Alignment (2026.02.19)](https://blog.secrett2633.cloud/ai/review/2026-02-20-TactAlign-Human-to-Robot-Policy-Transfer-via-Tactile-Alignment)
-- [[논문리뷰] StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation (2026.02.19)](https://blog.secrett2633.cloud/ai/review/2026-02-20-StereoAdapter-2-Globally-Structure-Consistent-Underwater-Stereo-Depth-Estimation)
+- [[논문리뷰] VLANeXt: Recipes for Building Strong VLA Models (2026.02.23)](https://blog.secrett2633.cloud/ai/review/2026-02-24-VLANeXt-Recipes-for-Building-Strong-VLA-Models)
+- [[논문리뷰] tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction (2026.02.23)](https://blog.secrett2633.cloud/ai/review/2026-02-24-tttLRM-Test-Time-Training-for-Long-Context-and-Autoregressive-3D-Reconstruction)
+- [[논문리뷰] TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics (2026.02.23)](https://blog.secrett2633.cloud/ai/review/2026-02-24-TOPReward-Token-Probabilities-as-Hidden-Zero-Shot-Rewards-for-Robotics)
+- [[논문리뷰] SkillOrchestra: Learning to Route Agents via Skill Transfer (2026.02.23)](https://blog.secrett2633.cloud/ai/review/2026-02-24-SkillOrchestra-Learning-to-Route-Agents-via-Skill-Transfer)
+- [[논문리뷰] SimVLA: A Simple VLA Baseline for Robotic Manipulation (2026.02.23)](https://blog.secrett2633.cloud/ai/review/2026-02-24-SimVLA-A-Simple-VLA-Baseline-for-Robotic-Manipulation)
