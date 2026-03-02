@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] veScale-FSDP: Flexible and High-Performance FSDP at Scale (2026.02.26)](https://blog.secrett2633.cloud/ai/review/2026-02-27-veScale-FSDP-Flexible-and-High-Performance-FSDP-at-Scale)
-- [[논문리뷰] The Trinity of Consistency as a Defining Principle for General World Models (2026.02.26)](https://blog.secrett2633.cloud/ai/review/2026-02-27-The-Trinity-of-Consistency-as-a-Defining-Principle-for-General-World-Models)
-- [[논문리뷰] Search More, Think Less: Rethinking Long-Horizon Agentic Search for Efficiency and Generalization (2026.02.26)](https://blog.secrett2633.cloud/ai/review/2026-02-27-Search-More-Think-Less-Rethinking-Long-Horizon-Agentic-Search-for-Efficiency-and-Generalization)
-- [[논문리뷰] Risk-Aware World Model Predictive Control for Generalizable End-to-End Autonomous Driving (2026.02.26)](https://blog.secrett2633.cloud/ai/review/2026-02-27-Risk-Aware-World-Model-Predictive-Control-for-Generalizable-End-to-End-Autonomous-Driving)
-- [[논문리뷰] OmniGAIA: Towards Native Omni-Modal AI Agents (2026.02.26)](https://blog.secrett2633.cloud/ai/review/2026-02-27-OmniGAIA-Towards-Native-Omni-Modal-AI-Agents)
+- [[논문리뷰] Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators (2026.03.01)](https://blog.secrett2633.cloud/ai/review/2026-03-02-Vectorizing-the-Trie-Efficient-Constrained-Decoding-for-LLM-based-Generative-Retrieval-on-Accelerators)
+- [[논문리뷰] SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching (2026.03.01)](https://blog.secrett2633.cloud/ai/review/2026-03-02-SenCache-Accelerating-Diffusion-Model-Inference-via-Sensitivity-Aware-Caching)
+- [[논문리뷰] Ref-Adv: Exploring MLLM Visual Reasoning in Referring Expression Tasks (2026.03.01)](https://blog.secrett2633.cloud/ai/review/2026-03-02-Ref-Adv-Exploring-MLLM-Visual-Reasoning-in-Referring-Expression-Tasks)
+- [[논문리뷰] Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets (2026.03.01)](https://blog.secrett2633.cloud/ai/review/2026-03-02-Recovered-in-Translation-Efficient-Pipeline-for-Automated-Translation-of-Benchmarks-and-Datasets)
+- [[논문리뷰] Mode Seeking meets Mean Seeking for Fast Long Video Generation (2026.03.01)](https://blog.secrett2633.cloud/ai/review/2026-03-02-Mode-Seeking-meets-Mean-Seeking-for-Fast-Long-Video-Generation)
