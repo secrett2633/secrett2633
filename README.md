@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators (2026.03.01)](https://blog.secrett2633.cloud/ai/review/2026-03-02-Vectorizing-the-Trie-Efficient-Constrained-Decoding-for-LLM-based-Generative-Retrieval-on-Accelerators)
-- [[논문리뷰] SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching (2026.03.01)](https://blog.secrett2633.cloud/ai/review/2026-03-02-SenCache-Accelerating-Diffusion-Model-Inference-via-Sensitivity-Aware-Caching)
-- [[논문리뷰] Ref-Adv: Exploring MLLM Visual Reasoning in Referring Expression Tasks (2026.03.01)](https://blog.secrett2633.cloud/ai/review/2026-03-02-Ref-Adv-Exploring-MLLM-Visual-Reasoning-in-Referring-Expression-Tasks)
-- [[논문리뷰] Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets (2026.03.01)](https://blog.secrett2633.cloud/ai/review/2026-03-02-Recovered-in-Translation-Efficient-Pipeline-for-Automated-Translation-of-Benchmarks-and-Datasets)
-- [[논문리뷰] Mode Seeking meets Mean Seeking for Fast Long Video Generation (2026.03.01)](https://blog.secrett2633.cloud/ai/review/2026-03-02-Mode-Seeking-meets-Mean-Seeking-for-Fast-Long-Video-Generation)
+- [[논문리뷰] T2S-Bench & Structure-of-Thought: Benchmarking and Prompting Comprehensive Text-to-Structure Reasoning (2026.03.04)](https://blog.secrett2633.cloud/ai/review/2026-03-05-T2S-Bench-Structure-of-Thought-Benchmarking-and-Prompting-Comprehensive-Text-to-Structure-Reasoning)
+- [[논문리뷰] Specificity-aware reinforcement learning for fine-grained open-world classification (2026.03.04)](https://blog.secrett2633.cloud/ai/review/2026-03-05-Specificity-aware-reinforcement-learning-for-fine-grained-open-world-classification)
+- [[논문리뷰] SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via Continuous Integration (2026.03.04)](https://blog.secrett2633.cloud/ai/review/2026-03-05-SWE-CI-Evaluating-Agent-Capabilities-in-Maintaining-Codebases-via-Continuous-Integration)
+- [[논문리뷰] RIVER: A Real-Time Interaction Benchmark for Video LLMs (2026.03.04)](https://blog.secrett2633.cloud/ai/review/2026-03-05-RIVER-A-Real-Time-Interaction-Benchmark-for-Video-LLMs)
+- [[논문리뷰] Phi-4-reasoning-vision-15B Technical Report (2026.03.04)](https://blog.secrett2633.cloud/ai/review/2026-03-05-Phi-4-reasoning-vision-15B-Technical-Report)
