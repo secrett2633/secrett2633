@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] π-StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs (2026.03.08)](https://blog.secrett2633.cloud/ai/review/2026-03-09-π-StepNFT-Wider-Space-Needs-Finer-Steps-in-Online-RL-for-Flow-based-VLAs)
-- [[논문리뷰] WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching (2026.03.08)](https://blog.secrett2633.cloud/ai/review/2026-03-09-WorldCache-Accelerating-World-Models-for-Free-via-Heterogeneous-Token-Caching)
-- [[논문리뷰] WildActor: Unconstrained Identity-Preserving Video Generation (2026.03.08)](https://blog.secrett2633.cloud/ai/review/2026-03-09-WildActor-Unconstrained-Identity-Preserving-Video-Generation)
-- [[논문리뷰] SLER-IR: Spherical Layer-wise Expert Routing for All-in-One Image Restoration (2026.03.08)](https://blog.secrett2633.cloud/ai/review/2026-03-09-SLER-IR-Spherical-Layer-wise-Expert-Routing-for-All-in-One-Image-Restoration)
-- [[논문리뷰] RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies (2026.03.08)](https://blog.secrett2633.cloud/ai/review/2026-03-09-RoboMME-Benchmarking-and-Understanding-Memory-for-Robotic-Generalist-Policies)
+- [[논문리뷰] VLM-SubtleBench: How Far Are VLMs from Human-Level Subtle Comparative Reasoning? (2026.03.10)](https://blog.secrett2633.cloud/ai/review/2026-03-11-VLM-SubtleBench-How-Far-Are-VLMs-from-Human-Level-Subtle-Comparative-Reasoning)
+- [[논문리뷰] Towards a Neural Debugger for Python (2026.03.10)](https://blog.secrett2633.cloud/ai/review/2026-03-11-Towards-a-Neural-Debugger-for-Python)
+- [[논문리뷰] Thinking to Recall: How Reasoning Unlocks Parametric Knowledge in LLMs (2026.03.10)](https://blog.secrett2633.cloud/ai/review/2026-03-11-Thinking-to-Recall-How-Reasoning-Unlocks-Parametric-Knowledge-in-LLMs)
+- [[논문리뷰] The Reasoning Trap -- Logical Reasoning as a Mechanistic Pathway to Situational Awareness (2026.03.10)](https://blog.secrett2633.cloud/ai/review/2026-03-11-The-Reasoning-Trap-Logical-Reasoning-as-a-Mechanistic-Pathway-to-Situational-Awareness)
+- [[논문리뷰] Streaming Autoregressive Video Generation via Diagonal Distillation (2026.03.10)](https://blog.secrett2633.cloud/ai/review/2026-03-11-Streaming-Autoregressive-Video-Generation-via-Diagonal-Distillation)
