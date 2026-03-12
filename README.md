@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] VLM-SubtleBench: How Far Are VLMs from Human-Level Subtle Comparative Reasoning? (2026.03.10)](https://blog.secrett2633.cloud/ai/review/2026-03-11-VLM-SubtleBench-How-Far-Are-VLMs-from-Human-Level-Subtle-Comparative-Reasoning)
-- [[논문리뷰] Towards a Neural Debugger for Python (2026.03.10)](https://blog.secrett2633.cloud/ai/review/2026-03-11-Towards-a-Neural-Debugger-for-Python)
-- [[논문리뷰] Thinking to Recall: How Reasoning Unlocks Parametric Knowledge in LLMs (2026.03.10)](https://blog.secrett2633.cloud/ai/review/2026-03-11-Thinking-to-Recall-How-Reasoning-Unlocks-Parametric-Knowledge-in-LLMs)
-- [[논문리뷰] The Reasoning Trap -- Logical Reasoning as a Mechanistic Pathway to Situational Awareness (2026.03.10)](https://blog.secrett2633.cloud/ai/review/2026-03-11-The-Reasoning-Trap-Logical-Reasoning-as-a-Mechanistic-Pathway-to-Situational-Awareness)
-- [[논문리뷰] Streaming Autoregressive Video Generation via Diagonal Distillation (2026.03.10)](https://blog.secrett2633.cloud/ai/review/2026-03-11-Streaming-Autoregressive-Video-Generation-via-Diagonal-Distillation)
+- [[논문리뷰] V_{0.5}: Generalist Value Model as a Prior for Sparse RL Rollouts (2026.03.11)](https://blog.secrett2633.cloud/ai/review/2026-03-12-V_0-5-Generalist-Value-Model-as-a-Prior-for-Sparse-RL-Rollouts)
+- [[논문리뷰] V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation (2026.03.11)](https://blog.secrett2633.cloud/ai/review/2026-03-12-V2M-Zero-Zero-Pair-Time-Aligned-Video-to-Music-Generation)
+- [[논문리뷰] UniCom: Unified Multimodal Modeling via Compressed Continuous Semantic Representations (2026.03.11)](https://blog.secrett2633.cloud/ai/review/2026-03-12-UniCom-Unified-Multimodal-Modeling-via-Compressed-Continuous-Semantic-Representations)
+- [[논문리뷰] RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback (2026.03.11)](https://blog.secrett2633.cloud/ai/review/2026-03-12-RetroAgent-From-Solving-to-Evolving-via-Retrospective-Dual-Intrinsic-Feedback)
+- [[논문리뷰] ReMix: Reinforcement routing for mixtures of LoRAs in LLM finetuning (2026.03.11)](https://blog.secrett2633.cloud/ai/review/2026-03-12-ReMix-Reinforcement-routing-for-mixtures-of-LoRAs-in-LLM-finetuning)
