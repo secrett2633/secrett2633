@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] V_{0.5}: Generalist Value Model as a Prior for Sparse RL Rollouts (2026.03.11)](https://blog.secrett2633.cloud/ai/review/2026-03-12-V_0-5-Generalist-Value-Model-as-a-Prior-for-Sparse-RL-Rollouts)
-- [[논문리뷰] V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation (2026.03.11)](https://blog.secrett2633.cloud/ai/review/2026-03-12-V2M-Zero-Zero-Pair-Time-Aligned-Video-to-Music-Generation)
-- [[논문리뷰] UniCom: Unified Multimodal Modeling via Compressed Continuous Semantic Representations (2026.03.11)](https://blog.secrett2633.cloud/ai/review/2026-03-12-UniCom-Unified-Multimodal-Modeling-via-Compressed-Continuous-Semantic-Representations)
-- [[논문리뷰] RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback (2026.03.11)](https://blog.secrett2633.cloud/ai/review/2026-03-12-RetroAgent-From-Solving-to-Evolving-via-Retrospective-Dual-Intrinsic-Feedback)
-- [[논문리뷰] ReMix: Reinforcement routing for mixtures of LoRAs in LLM finetuning (2026.03.11)](https://blog.secrett2633.cloud/ai/review/2026-03-12-ReMix-Reinforcement-routing-for-mixtures-of-LoRAs-in-LLM-finetuning)
+- [[논문리뷰] XSkill: Continual Learning from Experience and Skills in Multimodal Agents (2026.03.12)](https://blog.secrett2633.cloud/ai/review/2026-03-13-XSkill-Continual-Learning-from-Experience-and-Skills-in-Multimodal-Agents)
+- [[논문리뷰] WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing (2026.03.12)](https://blog.secrett2633.cloud/ai/review/2026-03-13-WeEdit-A-Dataset-Benchmark-and-Glyph-Guided-Framework-for-Text-centric-Image-Editing)
+- [[논문리뷰] Video-Based Reward Modeling for Computer-Use Agents (2026.03.12)](https://blog.secrett2633.cloud/ai/review/2026-03-13-Video-Based-Reward-Modeling-for-Computer-Use-Agents)
+- [[논문리뷰] Understanding by Reconstruction: Reversing the Software Development Process for LLM Pretraining (2026.03.12)](https://blog.secrett2633.cloud/ai/review/2026-03-13-Understanding-by-Reconstruction-Reversing-the-Software-Development-Process-for-LLM-Pretraining)
+- [[논문리뷰] Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation (2026.03.12)](https://blog.secrett2633.cloud/ai/review/2026-03-13-Trust-Your-Critic-Robust-Reward-Modeling-and-Reinforcement-Learning-for-Faithful-Image-Editing-and-Generation)
