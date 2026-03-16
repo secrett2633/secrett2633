@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] XSkill: Continual Learning from Experience and Skills in Multimodal Agents (2026.03.12)](https://blog.secrett2633.cloud/ai/review/2026-03-13-XSkill-Continual-Learning-from-Experience-and-Skills-in-Multimodal-Agents)
-- [[논문리뷰] WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing (2026.03.12)](https://blog.secrett2633.cloud/ai/review/2026-03-13-WeEdit-A-Dataset-Benchmark-and-Glyph-Guided-Framework-for-Text-centric-Image-Editing)
-- [[논문리뷰] Video-Based Reward Modeling for Computer-Use Agents (2026.03.12)](https://blog.secrett2633.cloud/ai/review/2026-03-13-Video-Based-Reward-Modeling-for-Computer-Use-Agents)
-- [[논문리뷰] Understanding by Reconstruction: Reversing the Software Development Process for LLM Pretraining (2026.03.12)](https://blog.secrett2633.cloud/ai/review/2026-03-13-Understanding-by-Reconstruction-Reversing-the-Software-Development-Process-for-LLM-Pretraining)
-- [[논문리뷰] Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation (2026.03.12)](https://blog.secrett2633.cloud/ai/review/2026-03-13-Trust-Your-Critic-Robust-Reward-Modeling-and-Reinforcement-Learning-for-Faithful-Image-Editing-and-Generation)
+- [[논문리뷰] daVinci-Env: Open SWE Environment Synthesis at Scale (2026.03.15)](https://blog.secrett2633.cloud/ai/review/2026-03-16-daVinci-Env-Open-SWE-Environment-Synthesis-at-Scale)
+- [[논문리뷰] Visual-ERM: Reward Modeling for Visual Equivalence (2026.03.15)](https://blog.secrett2633.cloud/ai/review/2026-03-16-Visual-ERM-Reward-Modeling-for-Visual-Equivalence)
+- [[논문리뷰] Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously (2026.03.15)](https://blog.secrett2633.cloud/ai/review/2026-03-16-Video-Streaming-Thinking-VideoLLMs-Can-Watch-and-Think-Simultaneously)
+- [[논문리뷰] VQQA: An Agentic Approach for Video Evaluation and Quality Improvement (2026.03.15)](https://blog.secrett2633.cloud/ai/review/2026-03-16-VQQA-An-Agentic-Approach-for-Video-Evaluation-and-Quality-Improvement)
+- [[논문리뷰] V-Bridge: Bridging Video Generative Priors to Versatile Few-shot Image Restoration (2026.03.15)](https://blog.secrett2633.cloud/ai/review/2026-03-16-V-Bridge-Bridging-Video-Generative-Priors-to-Versatile-Few-shot-Image-Restoration)
