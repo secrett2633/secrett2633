@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] daVinci-Env: Open SWE Environment Synthesis at Scale (2026.03.15)](https://blog.secrett2633.cloud/ai/review/2026-03-16-daVinci-Env-Open-SWE-Environment-Synthesis-at-Scale)
-- [[논문리뷰] Visual-ERM: Reward Modeling for Visual Equivalence (2026.03.15)](https://blog.secrett2633.cloud/ai/review/2026-03-16-Visual-ERM-Reward-Modeling-for-Visual-Equivalence)
-- [[논문리뷰] Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously (2026.03.15)](https://blog.secrett2633.cloud/ai/review/2026-03-16-Video-Streaming-Thinking-VideoLLMs-Can-Watch-and-Think-Simultaneously)
-- [[논문리뷰] VQQA: An Agentic Approach for Video Evaluation and Quality Improvement (2026.03.15)](https://blog.secrett2633.cloud/ai/review/2026-03-16-VQQA-An-Agentic-Approach-for-Video-Evaluation-and-Quality-Improvement)
-- [[논문리뷰] V-Bridge: Bridging Video Generative Priors to Versatile Few-shot Image Restoration (2026.03.15)](https://blog.secrett2633.cloud/ai/review/2026-03-16-V-Bridge-Bridging-Video-Generative-Priors-to-Versatile-Few-shot-Image-Restoration)
+- [[논문리뷰] WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation (2026.03.17)](https://blog.secrett2633.cloud/ai/review/2026-03-18-WorldCam-Interactive-Autoregressive-3D-Gaming-Worlds-with-Camera-Pose-as-a-Unifying-Geometric-Representation)
+- [[논문리뷰] WiT: Waypoint Diffusion Transformers via Trajectory Conflict Navigation (2026.03.17)](https://blog.secrett2633.cloud/ai/review/2026-03-18-WiT-Waypoint-Diffusion-Transformers-via-Trajectory-Conflict-Navigation)
+- [[논문리뷰] Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding (2026.03.17)](https://blog.secrett2633.cloud/ai/review/2026-03-18-Thinking-in-Uncertainty-Mitigating-Hallucinations-in-MLRMs-with-Latent-Entropy-Aware-Decoding)
+- [[논문리뷰] TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas (2026.03.17)](https://blog.secrett2633.cloud/ai/review/2026-03-18-TRUST-SQL-Tool-Integrated-Multi-Turn-Reinforcement-Learning-for-Text-to-SQL-over-Unknown-Schemas)
+- [[논문리뷰] SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models (2026.03.17)](https://blog.secrett2633.cloud/ai/review/2026-03-18-SocialOmni-Benchmarking-Audio-Visual-Social-Interactivity-in-Omni-Models)
