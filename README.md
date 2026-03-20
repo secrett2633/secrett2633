@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] When AI Navigates the Fog of War (2026.03.18)](https://blog.secrett2633.cloud/ai/review/2026-03-19-When-AI-Navigates-the-Fog-of-War)
-- [[논문리뷰] VideoAtlas: Navigating Long-Form Video in Logarithmic Compute (2026.03.18)](https://blog.secrett2633.cloud/ai/review/2026-03-19-VideoAtlas-Navigating-Long-Form-Video-in-Logarithmic-Compute)
-- [[논문리뷰] Video-CoE: Reinforcing Video Event Prediction via Chain of Events (2026.03.18)](https://blog.secrett2633.cloud/ai/review/2026-03-19-Video-CoE-Reinforcing-Video-Event-Prediction-via-Chain-of-Events)
-- [[논문리뷰] Unified Spatio-Temporal Token Scoring for Efficient Video VLMs (2026.03.18)](https://blog.secrett2633.cloud/ai/review/2026-03-19-Unified-Spatio-Temporal-Token-Scoring-for-Efficient-Video-VLMs)
-- [[논문리뷰] Temporal Gains, Spatial Costs: Revisiting Video Fine-Tuning in Multimodal Large Language Models (2026.03.18)](https://blog.secrett2633.cloud/ai/review/2026-03-19-Temporal-Gains-Spatial-Costs-Revisiting-Video-Fine-Tuning-in-Multimodal-Large-Language-Models)
+- [[논문리뷰] VTC-Bench: Evaluating Agentic Multimodal Models via Compositional Visual Tool Chaining (2026.03.19)](https://blog.secrett2633.cloud/ai/review/2026-03-20-VTC-Bench-Evaluating-Agentic-Multimodal-Models-via-Compositional-Visual-Tool-Chaining)
+- [[논문리뷰] SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing (2026.03.19)](https://blog.secrett2633.cloud/ai/review/2026-03-20-SAMA-Factorized-Semantic-Anchoring-and-Motion-Alignment-for-Instruction-Guided-Video-Editing)
+- [[논문리뷰] Reasoning over mathematical objects: on-policy reward modeling and test time aggregation (2026.03.19)](https://blog.secrett2633.cloud/ai/review/2026-03-20-Reasoning-over-mathematical-objects-on-policy-reward-modeling-and-test-time-aggregation)
+- [[논문리뷰] Prompt-Free Universal Region Proposal Network (2026.03.19)](https://blog.secrett2633.cloud/ai/review/2026-03-20-Prompt-Free-Universal-Region-Proposal-Network)
+- [[논문리뷰] ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents (2026.03.19)](https://blog.secrett2633.cloud/ai/review/2026-03-20-ProRL-Agent-Rollout-as-a-Service-for-RL-Training-of-Multi-Turn-LLM-Agents)
