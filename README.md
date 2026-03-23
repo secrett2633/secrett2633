@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] VTC-Bench: Evaluating Agentic Multimodal Models via Compositional Visual Tool Chaining (2026.03.19)](https://blog.secrett2633.cloud/ai/review/2026-03-20-VTC-Bench-Evaluating-Agentic-Multimodal-Models-via-Compositional-Visual-Tool-Chaining)
-- [[논문리뷰] SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing (2026.03.19)](https://blog.secrett2633.cloud/ai/review/2026-03-20-SAMA-Factorized-Semantic-Anchoring-and-Motion-Alignment-for-Instruction-Guided-Video-Editing)
-- [[논문리뷰] Reasoning over mathematical objects: on-policy reward modeling and test time aggregation (2026.03.19)](https://blog.secrett2633.cloud/ai/review/2026-03-20-Reasoning-over-mathematical-objects-on-policy-reward-modeling-and-test-time-aggregation)
-- [[논문리뷰] Prompt-Free Universal Region Proposal Network (2026.03.19)](https://blog.secrett2633.cloud/ai/review/2026-03-20-Prompt-Free-Universal-Region-Proposal-Network)
-- [[논문리뷰] ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents (2026.03.19)](https://blog.secrett2633.cloud/ai/review/2026-03-20-ProRL-Agent-Rollout-as-a-Service-for-RL-Training-of-Multi-Turn-LLM-Agents)
+- [[논문리뷰] s2n-bignum-bench: A practical benchmark for evaluating low-level code reasoning of LLMs (2026.03.22)](https://blog.secrett2633.cloud/ai/review/2026-03-23-s2n-bignum-bench-A-practical-benchmark-for-evaluating-low-level-code-reasoning-of-LLMs)
+- [[논문리뷰] WorldAgents: Can Foundation Image Models be Agents for 3D World Models? (2026.03.22)](https://blog.secrett2633.cloud/ai/review/2026-03-23-WorldAgents-Can-Foundation-Image-Models-be-Agents-for-3D-World-Models)
+- [[논문리뷰] Versatile Editing of Video Content, Actions, and Dynamics without Training (2026.03.22)](https://blog.secrett2633.cloud/ai/review/2026-03-23-Versatile-Editing-of-Video-Content-Actions-and-Dynamics-without-Training)
+- [[논문리뷰] TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation (2026.03.22)](https://blog.secrett2633.cloud/ai/review/2026-03-23-TerraScope-Pixel-Grounded-Visual-Reasoning-for-Earth-Observation)
+- [[논문리뷰] TAPESTRY: From Geometry to Appearance via Consistent Turntable Videos (2026.03.22)](https://blog.secrett2633.cloud/ai/review/2026-03-23-TAPESTRY-From-Geometry-to-Appearance-via-Consistent-Turntable-Videos)
