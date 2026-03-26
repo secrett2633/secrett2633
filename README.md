@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG (2026.03.24)](https://blog.secrett2633.cloud/ai/review/2026-03-25-WildWorld-A-Large-Scale-Dataset-for-Dynamic-World-Modeling-with-Actions-and-Explicit-State-toward-Generative-ARPG)
-- [[논문리뷰] VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions (2026.03.24)](https://blog.secrett2633.cloud/ai/review/2026-03-25-VISion-On-Request-Enhanced-VLLM-efficiency-with-sparse-dynamically-selected-vision-language-interactions)
-- [[논문리뷰] UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation (2026.03.24)](https://blog.secrett2633.cloud/ai/review/2026-03-25-UniGRPO-Unified-Policy-Optimization-for-Reasoning-Driven-Visual-Generation)
-- [[논문리뷰] Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models (2026.03.24)](https://blog.secrett2633.cloud/ai/review/2026-03-25-Uncertainty-guided-Compositional-Alignment-with-Part-to-Whole-Semantic-Representativeness-in-Hyperbolic-Vision-Language-Models)
-- [[논문리뷰] TrajLoom: Dense Future Trajectory Generation from Video (2026.03.24)](https://blog.secrett2633.cloud/ai/review/2026-03-25-TrajLoom-Dense-Future-Trajectory-Generation-from-Video)
+- [[논문리뷰] When Models Judge Themselves: Unsupervised Self-Evolution for Multimodal Reasoning (2026.03.25)](https://blog.secrett2633.cloud/ai/review/2026-03-26-When-Models-Judge-Themselves-Unsupervised-Self-Evolution-for-Multimodal-Reasoning)
+- [[논문리뷰] Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning (2026.03.25)](https://blog.secrett2633.cloud/ai/review/2026-03-26-Unleashing-Spatial-Reasoning-in-Multimodal-Large-Language-Models-via-Textual-Representation-Guided-Reasoning)
+- [[논문리뷰] UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience (2026.03.25)](https://blog.secrett2633.cloud/ai/review/2026-03-26-UI-Voyager-A-Self-Evolving-GUI-Agent-Learning-via-Failed-Experience)
+- [[논문리뷰] Toward Physically Consistent Driving Video World Models under Challenging Trajectories (2026.03.25)](https://blog.secrett2633.cloud/ai/review/2026-03-26-Toward-Physically-Consistent-Driving-Video-World-Models-under-Challenging-Trajectories)
+- [[논문리뷰] T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search (2026.03.25)](https://blog.secrett2633.cloud/ai/review/2026-03-26-T-MAP-Red-Teaming-LLM-Agents-with-Trajectory-aware-Evolutionary-Search)
