@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] When Models Judge Themselves: Unsupervised Self-Evolution for Multimodal Reasoning (2026.03.25)](https://blog.secrett2633.cloud/ai/review/2026-03-26-When-Models-Judge-Themselves-Unsupervised-Self-Evolution-for-Multimodal-Reasoning)
-- [[논문리뷰] Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning (2026.03.25)](https://blog.secrett2633.cloud/ai/review/2026-03-26-Unleashing-Spatial-Reasoning-in-Multimodal-Large-Language-Models-via-Textual-Representation-Guided-Reasoning)
-- [[논문리뷰] UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience (2026.03.25)](https://blog.secrett2633.cloud/ai/review/2026-03-26-UI-Voyager-A-Self-Evolving-GUI-Agent-Learning-via-Failed-Experience)
-- [[논문리뷰] Toward Physically Consistent Driving Video World Models under Challenging Trajectories (2026.03.25)](https://blog.secrett2633.cloud/ai/review/2026-03-26-Toward-Physically-Consistent-Driving-Video-World-Models-under-Challenging-Trajectories)
-- [[논문리뷰] T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search (2026.03.25)](https://blog.secrett2633.cloud/ai/review/2026-03-26-T-MAP-Red-Teaming-LLM-Agents-with-Trajectory-aware-Evolutionary-Search)
+- [[논문리뷰] Voxtral TTS (2026.03.26)](https://blog.secrett2633.cloud/ai/review/2026-03-27-Voxtral-TTS)
+- [[논문리뷰] Vega: Learning to Drive with Natural Language Instructions (2026.03.26)](https://blog.secrett2633.cloud/ai/review/2026-03-27-Vega-Learning-to-Drive-with-Natural-Language-Instructions)
+- [[논문리뷰] SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks (2026.03.26)](https://blog.secrett2633.cloud/ai/review/2026-03-27-SlopCodeBench-Benchmarking-How-Coding-Agents-Degrade-Over-Long-Horizon-Iterative-Tasks)
+- [[논문리뷰] S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation (2026.03.26)](https://blog.secrett2633.cloud/ai/review/2026-03-27-S2D2-Fast-Decoding-for-Diffusion-LLMs-via-Training-Free-Self-Speculation)
+- [[논문리뷰] Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes (2026.03.26)](https://blog.secrett2633.cloud/ai/review/2026-03-27-Revisiting-On-Policy-Distillation-Empirical-Failure-Modes-and-Simple-Fixes)
