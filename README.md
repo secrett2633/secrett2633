@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] Voxtral TTS (2026.03.26)](https://blog.secrett2633.cloud/ai/review/2026-03-27-Voxtral-TTS)
-- [[논문리뷰] Vega: Learning to Drive with Natural Language Instructions (2026.03.26)](https://blog.secrett2633.cloud/ai/review/2026-03-27-Vega-Learning-to-Drive-with-Natural-Language-Instructions)
-- [[논문리뷰] SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks (2026.03.26)](https://blog.secrett2633.cloud/ai/review/2026-03-27-SlopCodeBench-Benchmarking-How-Coding-Agents-Degrade-Over-Long-Horizon-Iterative-Tasks)
-- [[논문리뷰] S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation (2026.03.26)](https://blog.secrett2633.cloud/ai/review/2026-03-27-S2D2-Fast-Decoding-for-Diffusion-LLMs-via-Training-Free-Self-Speculation)
-- [[논문리뷰] Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes (2026.03.26)](https://blog.secrett2633.cloud/ai/review/2026-03-27-Revisiting-On-Policy-Distillation-Empirical-Failure-Modes-and-Simple-Fixes)
+- [[논문리뷰] Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills (2026.03.29)](https://blog.secrett2633.cloud/ai/review/2026-03-30-Trace2Skill-Distill-Trajectory-Local-Lessons-into-Transferable-Agent-Skills)
+- [[논문리뷰] Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models (2026.03.29)](https://blog.secrett2633.cloud/ai/review/2026-03-30-Sommelier-Scalable-Open-Multi-turn-Audio-Pre-processing-for-Full-duplex-Speech-Language-Models)
+- [[논문리뷰] ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling (2026.03.29)](https://blog.secrett2633.cloud/ai/review/2026-03-30-ShotStream-Streaming-Multi-Shot-Video-Generation-for-Interactive-Storytelling)
+- [[논문리뷰] RealChart2Code: Advancing Chart-to-Code Generation with Real Data and Multi-Task Evaluation (2026.03.29)](https://blog.secrett2633.cloud/ai/review/2026-03-30-RealChart2Code-Advancing-Chart-to-Code-Generation-with-Real-Data-and-Multi-Task-Evaluation)
+- [[논문리뷰] PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference (2026.03.29)](https://blog.secrett2633.cloud/ai/review/2026-03-30-PackForcing-Short-Video-Training-Suffices-for-Long-Video-Sampling-and-Long-Context-Inference)
