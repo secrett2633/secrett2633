@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills (2026.03.29)](https://blog.secrett2633.cloud/ai/review/2026-03-30-Trace2Skill-Distill-Trajectory-Local-Lessons-into-Transferable-Agent-Skills)
-- [[논문리뷰] Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models (2026.03.29)](https://blog.secrett2633.cloud/ai/review/2026-03-30-Sommelier-Scalable-Open-Multi-turn-Audio-Pre-processing-for-Full-duplex-Speech-Language-Models)
-- [[논문리뷰] ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling (2026.03.29)](https://blog.secrett2633.cloud/ai/review/2026-03-30-ShotStream-Streaming-Multi-Shot-Video-Generation-for-Interactive-Storytelling)
-- [[논문리뷰] RealChart2Code: Advancing Chart-to-Code Generation with Real Data and Multi-Task Evaluation (2026.03.29)](https://blog.secrett2633.cloud/ai/review/2026-03-30-RealChart2Code-Advancing-Chart-to-Code-Generation-with-Real-Data-and-Multi-Task-Evaluation)
-- [[논문리뷰] PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference (2026.03.29)](https://blog.secrett2633.cloud/ai/review/2026-03-30-PackForcing-Short-Video-Training-Suffices-for-Long-Video-Sampling-and-Long-Context-Inference)
+- [[feast] Feast Online Serving 최적화: 3단계 데이터 변환을 단일 패스로 통합하기 (2026.03.31)](https://blog.secrett2633.cloud/opensource/pr-analysis/feast-pr-6186-perf-online-feature-response-constructi)
+- [[sglang] Mamba 호스트 캐시 메커니즘 최적화: 성능 향상과 메모리 관리 개선 (2026.03.31)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-21750-himambatree-optimize-mamba-host-lock)
+- [[sglang] SGLang: Piecewise CUDA Graph와 Sliding Window Attention의 효율적인 공존 (2026.03.31)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-21754-enable-evict-swa-with-piecewise-cuda-gra)
+- [[논문리뷰] Unified Number-Free Text-to-Motion Generation Via Flow Matching (2026.03.30)](https://blog.secrett2633.cloud/ai/review/2026-03-31-Unified-Number-Free-Text-to-Motion-Generation-Via-Flow-Matching)
+- [[논문리뷰] Towards a Medical AI Scientist (2026.03.30)](https://blog.secrett2633.cloud/ai/review/2026-03-31-Towards-a-Medical-AI-Scientist)
