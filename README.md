@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[sglang] SGLang 성능 최적화: Triton 커널을 이용한 Temperature Scaling과 Softmax 융합 (2026.04.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-20501-kernel-fuse-temperature-softmax-in-s)
 - [[openclaw] Vitest 모듈 로딩 최적화 및 테스트 병렬성 증대를 통한 CI 성능 개선 (2026.04.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/openclaw-pr-59033-perftest-reduce-hotspot-reload-churn)
 - [[sglang] SGLang: ROCm 환경에서 Qwen3-VL 디코딩 성능 극대화를 위한 커널 퓨전 최적화 (2026.04.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-21458-amd-optimize-qwen3-vl-decode-fuse-qk)
 - [[논문리뷰] daVinci-LLM:Towards the Science of Pretraining (2026.03.31)](https://blog.secrett2633.cloud/ai/review/2026-04-01-daVinci-LLMTowards-the-Science-of-Pretraining)
 - [[논문리뷰] VectorGym: A Multitask Benchmark for SVG Code Generation, Sketching, and Editing (2026.03.31)](https://blog.secrett2633.cloud/ai/review/2026-04-01-VectorGym-A-Multitask-Benchmark-for-SVG-Code-Generation-Sketching-and-Editing)
-- [[논문리뷰] VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward (2026.03.31)](https://blog.secrett2633.cloud/ai/review/2026-04-01-VGGRPO-Towards-World-Consistent-Video-Generation-with-4D-Latent-Reward)
