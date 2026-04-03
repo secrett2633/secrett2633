@@ -42,5 +42,5 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 - [[sglang] SGLang 스케줄러: 사전 생성 전용 배치 병합 시 is_prefill_only 플래그 로직 개선 (2026.04.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-21840-scheduler-add-prefill-only-update-in-me)
 - [[sglang] SGLang: MiniMax-M2.5 MoE 모델을 위한 FP8 FlashInfer TRT-LLM 라우팅 최적화 (2026.04.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-20394-nvidia-enable-fp8-flashinfer-trtllm-ro)
 - [[sglang] SGLang의 디코드 성능 향상을 위한 Temperature 및 Softmax 커널 융합 (2026.04.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-20501-kernel-fuse-temperature-softmax-in-s)
+- [[Loki] Ingester 타임아웃 반영하여 레이턴시 알림 임계값 1초에서 5초로 조정 (2026.04.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-21370-update-latency-alert-threshold)
 - [[sglang] GSM8K 평가를 Chat API 기반으로 통합 (2026.04.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-21667-unify-gsm8k-eval)
-- [[sglang] Blackwell GPU에서 TRT-LLM 커널을 DSA 기본값으로 설정 (2026.04.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-21914-trtllm-blackwell-default)
