@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[sglang] SGLang에서 DeepSeek V3.2를 위한 IndexCache 최적화 구현 (2026.04.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-21405-enable-indexcache-for-deepseek-v32)
 - [[sglang] SGLang Diffusion 모델의 NVFP4 추론 성능 최적화: CUTLASS 도입 (2026.04.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-22091-diffusion-default-nvfp4-to-cutlass-and)
 - [[sglang] [VLM] 멀티모달 임베딩 최적화: 청크 인식 인코딩과 이미지별 캐싱 도입 (2026.04.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-22038-vlm-chunk-aware-vit-encoding-with-per)
 - [[sglang] SGLang에서 FA4(FlashAttention 4)와 Speculative Decoding의 완벽한 결합 (2026.04.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-21080-speculative-decoding-add-fa4-based-spe)
 - [[ollama] Ollama의 Gemma 4 모델 Flash Attention 비활성화: 성능 회귀(Regression) 해결 사례 (2026.04.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/ollama-pr-15311-revert-enable-flash-attention-for-gemma)
-- [[sglang] SGLang DeepSeekV3 Router GEMM 최적화: FlashInfer 커널 도입 및 벤치마킹 (2026.04.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-17707-add-dsv3-router-gemm-benchmark-on-blackw)
