@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[sglang] SGLang AMD 환경에서의 GLM-5-FP8 성능 벤치마크 도입 및 최적화 (2026.04.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-21710-amd-add-glm-5-fp8-nightly-performance)
-- [[vLLM] Speech-to-Text: 음성 인식 API (2026.04.08)](https://blog.secrett2633.cloud/opensource/vllm/speech-to-text)
-- [[vLLM] CPU/XPU Worker: 비NVIDIA 하드웨어 워커 (2026.04.08)](https://blog.secrett2633.cloud/opensource/vllm/cpu-xpu-worker)
-- [[vLLM] Warmup: 커널 JIT 사전 컴파일 (2026.04.08)](https://blog.secrett2633.cloud/opensource/vllm/warmup)
-- [[vLLM] Tree Attention: 투기적 디코딩용 트리 어텐션 (2026.04.08)](https://blog.secrett2633.cloud/opensource/vllm/tree-attention)
+- [[cpython] CPython JIT 최적화: MAKE_FUNCTION의 불필요한 참조 카운팅 제거 (2026.04.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-144963-gh-134584-optimize-and-eliminate-redun)
+- [[sglang] DeepSeek V3/R1 추론 최적화: DeepEP 공유 전문가(Shared Expert) 융합 기술 분석 (2026.04.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-20089-feat-12-deepep-fuse-shared-expert)
+- [[sglang] SGLang의 AMD GPU 성능 최적화: Aiter CK 커널을 활용한 LayerNorm 오버헤드 제거 (2026.04.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-22424-amd-use-aiter-ck-layernorm2d-for-layer)
+- [[sglang] sglang, GLM-5.1-FP8 모델 성능 및 정확도 벤치마크 추가: AMD GPU 환경에서의 최적화 분석 (2026.04.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-22336-amd-add-glm-51-fp8-nightly-accuracy-a)
+- [[논문리뷰] VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics (2026.04.08)](https://blog.secrett2633.cloud/ai/review/2026-04-09-VenusBench-Mobile-A-Challenging-and-User-Centric-Benchmark-for-Mobile-GUI-Agents-with-Capability-Diagnostics)
