@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[SGLang] Hardware Backends: MLX, NPU, XPU 하드웨어 추상화 (2026.04.15)](https://blog.secrett2633.cloud/opensource/sglang/hw-backends)
-- [[SGLang] Reasoning & Code Completion Parser: 추론 및 코드 파서 (2026.04.14)](https://blog.secrett2633.cloud/opensource/sglang/reasoning-parser)
-- [[SGLang] Debug Utils: 텐서 비교, 스케줄 시뮬레이터 (2026.04.14)](https://blog.secrett2633.cloud/opensource/sglang/debug-utils)
-- [[SGLang] Observability: 추적, 메트릭, 프로파일링 인프라 (2026.04.14)](https://blog.secrett2633.cloud/opensource/sglang/observability)
-- [[SGLang] sgl-kernel: 커스텀 C++/CUDA 커널 라이브러리 (2026.04.14)](https://blog.secrett2633.cloud/opensource/sglang/sgl-kernel)
+- [[ollama] Ollama MLX Gemma4 성능 최적화: Fused Operations를 통한 효율성 증대 (2026.04.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/ollama-pr-15587-mlx-improve-gemma4-performance-with-fus)
+- [[sglang] SGLang, Diffusion 모델의 RL 기반 후처리 최적화를 위한 새로운 Rollout API 및 정밀도 개선 (2026.04.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-22604-diffusion-standalone-rollout-api-den)
+- [[vllm] vLLM TurboQuant: KV 캐시 압축으로 LLM 서빙 효율 극대화 (2026.04.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-38479-attention-backend-turboquant-2-bit-kv)
+- [[sglang] sglang, AMD MI35x 환경에서 GLM-5-MXFP4 모델의 성능 및 정확도 테스트 추가 (2026.04.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-21773-amdci-add-glm-5-mxfp4-accuracy-and-p)
+- [[sglang] [AMD] Triton 커널 퓨전을 통한 Qwen3.5 MoE 라우팅 최적화 분석 (2026.04.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-22844-amd-optimize-append-shared-to-topk-ou)
