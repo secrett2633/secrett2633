@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[ollama] Ollama MLX Gemma4 성능 최적화: Fused Operations를 통한 효율성 증대 (2026.04.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/ollama-pr-15587-mlx-improve-gemma4-performance-with-fus)
-- [[sglang] SGLang, Diffusion 모델의 RL 기반 후처리 최적화를 위한 새로운 Rollout API 및 정밀도 개선 (2026.04.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-22604-diffusion-standalone-rollout-api-den)
-- [[vllm] vLLM TurboQuant: KV 캐시 압축으로 LLM 서빙 효율 극대화 (2026.04.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-38479-attention-backend-turboquant-2-bit-kv)
-- [[sglang] sglang, AMD MI35x 환경에서 GLM-5-MXFP4 모델의 성능 및 정확도 테스트 추가 (2026.04.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-21773-amdci-add-glm-5-mxfp4-accuracy-and-p)
-- [[sglang] [AMD] Triton 커널 퓨전을 통한 Qwen3.5 MoE 라우팅 최적화 분석 (2026.04.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-22844-amd-optimize-append-shared-to-topk-ou)
+- [[vllm] vLLM, Arm CPU의 BF16 GELU 연산을 LUT 기반 구현으로 8배 가속 (2026.04.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-37469-perfcpu-accelerate-bf16-gelu-with-lu)
+- [[cpython] CPython의 BINARY_OP_EXTEND 최적화: 타입 정보 전파를 통한 성능 개선 (2026.04.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-128956-gh-100239-specialize-binary-operations)
+- [[논문리뷰] Target Policy Optimization (2026.04.15)](https://blog.secrett2633.cloud/ai/review/2026-04-16-Target-Policy-Optimization)
+- [[논문리뷰] SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments (2026.04.15)](https://blog.secrett2633.cloud/ai/review/2026-04-16-SpatialEvo-Self-Evolving-Spatial-Intelligence-via-Deterministic-Geometric-Environments)
+- [[논문리뷰] Sema Code: Decoupling AI Coding Agents into Programmable, Embeddable Infrastructure (2026.04.15)](https://blog.secrett2633.cloud/ai/review/2026-04-16-Sema-Code-Decoupling-AI-Coding-Agents-into-Programmable-Embeddable-Infrastructure)
