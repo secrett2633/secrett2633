@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[vllm] vLLM, Arm CPU의 BF16 GELU 연산을 LUT 기반 구현으로 8배 가속 (2026.04.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-37469-perfcpu-accelerate-bf16-gelu-with-lu)
-- [[cpython] CPython의 BINARY_OP_EXTEND 최적화: 타입 정보 전파를 통한 성능 개선 (2026.04.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-128956-gh-100239-specialize-binary-operations)
-- [[논문리뷰] Target Policy Optimization (2026.04.15)](https://blog.secrett2633.cloud/ai/review/2026-04-16-Target-Policy-Optimization)
-- [[논문리뷰] SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments (2026.04.15)](https://blog.secrett2633.cloud/ai/review/2026-04-16-SpatialEvo-Self-Evolving-Spatial-Intelligence-via-Deterministic-Geometric-Environments)
-- [[논문리뷰] Sema Code: Decoupling AI Coding Agents into Programmable, Embeddable Infrastructure (2026.04.15)](https://blog.secrett2633.cloud/ai/review/2026-04-16-Sema-Code-Decoupling-AI-Coding-Agents-into-Programmable-Embeddable-Infrastructure)
+- [[open-webui] Open WebUI 성능 최적화: 불필요한 DB 중복 조회 제거하기 (2026.04.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/open-webui-pr-23794-perfusers-drop-redundant-get-user-by)
+- [[open-webui] Open WebUI 채팅 파일 중복 제거 로직 최적화: O(n*m)에서 O(n+m)으로 (2026.04.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/open-webui-pr-23800-perf-use-set-for-o1-lookup-in-insert)
+- [[open-webui] Open WebUI 성능 개선: DB 세션 재사용으로 프로필 이미지 로딩 최적화 (2026.04.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/open-webui-pr-23796-perf-reuse-request-db-session-in-get-mo)
+- [[cpython] CPython JIT 구현을 위한 내부 API 익스포트: PEP 523 활용 (2026.04.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-148634-gh-148659-export-some-internal-function)
+- [[vllm] vLLM Gemma4 모델의 GPU/CPU 동기화 병목 현상 해결하기: non_blocking 전송의 중요성 (2026.04.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-39234-modelsgemma4-prevent-gpucpu-sync-in)
