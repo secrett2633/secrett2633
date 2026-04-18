@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[vllm] vLLM, MXFP4 양자화 MoE 모델을 위한 CUTLASS 기반 SM100 커널 추가로 성능 향상 (2026.04.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-37463-kernel-add-mxfp4-w4a4-cutlass-moe-kern)
+- [[vllm] vLLM 멀티모달 스케줄러 오버헤드 최적화: Python List 캐싱으로 27% 성능 향상 (2026.04.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-40143-core-reduce-mm-scheduler-get-num-embe)
+- [[vllm] vLLM CI 속도 개선: 70분 걸리던 MoE 테스트를 5분으로 단축하기 (2026.04.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-40178-ci-speed-up-test-fused-marlin-moe)
+- [[triton] Triton AMD 커널 최적화: TDM 로드 파이프라이닝 개선을 통한 성능 향상 (2026.04.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-10057-amd-f16-gemm-gluon-kernel-improve-pipe)
 - [[open-webui] Open WebUI 성능 최적화: 불필요한 DB 중복 조회 제거하기 (2026.04.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/open-webui-pr-23794-perfusers-drop-redundant-get-user-by)
-- [[open-webui] Open WebUI 채팅 파일 중복 제거 로직 최적화: O(n*m)에서 O(n+m)으로 (2026.04.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/open-webui-pr-23800-perf-use-set-for-o1-lookup-in-insert)
-- [[open-webui] Open WebUI 성능 개선: DB 세션 재사용으로 프로필 이미지 로딩 최적화 (2026.04.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/open-webui-pr-23796-perf-reuse-request-db-session-in-get-mo)
-- [[cpython] CPython JIT 구현을 위한 내부 API 익스포트: PEP 523 활용 (2026.04.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-148634-gh-148659-export-some-internal-function)
-- [[vllm] vLLM Gemma4 모델의 GPU/CPU 동기화 병목 현상 해결하기: non_blocking 전송의 중요성 (2026.04.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-39234-modelsgemma4-prevent-gpucpu-sync-in)
