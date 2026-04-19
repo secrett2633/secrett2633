@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[vllm] vLLM, Gemma4 라우팅 함수 Triton 커널로 최적화하여 성능 대폭 향상 (2026.04.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-39083-feat-perf-gemma4-fused-gemma4-rout)
 - [[vllm] vLLM, MXFP4 양자화 MoE 모델을 위한 CUTLASS 기반 SM100 커널 추가로 성능 향상 (2026.04.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-37463-kernel-add-mxfp4-w4a4-cutlass-moe-kern)
 - [[vllm] vLLM 멀티모달 스케줄러 오버헤드 최적화: Python List 캐싱으로 27% 성능 향상 (2026.04.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-40143-core-reduce-mm-scheduler-get-num-embe)
 - [[vllm] vLLM CI 속도 개선: 70분 걸리던 MoE 테스트를 5분으로 단축하기 (2026.04.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-40178-ci-speed-up-test-fused-marlin-moe)
 - [[triton] Triton AMD 커널 최적화: TDM 로드 파이프라이닝 개선을 통한 성능 향상 (2026.04.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-10057-amd-f16-gemm-gluon-kernel-improve-pipe)
-- [[open-webui] Open WebUI 성능 최적화: 불필요한 DB 중복 조회 제거하기 (2026.04.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/open-webui-pr-23794-perfusers-drop-redundant-get-user-by)
