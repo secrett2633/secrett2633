@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[abtop] Codex 세션 파일 검색 성능 개선: lsof 대신 /proc/pid/fd 활용 (2026.04.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/abtop-pr-60-perf-replace-lsof-with-procpidfd-for)
+- [[abtop] Linux 성능 최적화: lsof 대신 /proc/net/tcp 파싱으로 포트 탐색 개선 (2026.04.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/abtop-pr-62-perf-replace-lsof-ports-with-procnet)
+- [[vllm] vLLM의 콜드 스타트 성능을 20% 향상시키는 비동기 최적화 기법 (2026.04.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-40331-startup-parallelize-torchtransformers)
+- [[ollama] Ollama MLX Sampler 최적화: 성능 향상과 Logprobs 지원 (2026.04.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/ollama-pr-15658-mlx-sampler-improvements)
 - [[논문리뷰] Web Retrieval-Aware Chunking (W-RAC) for Efficient and Cost-Effective Retrieval-Augmented Generation Systems (2026.04.19)](https://blog.secrett2633.cloud/ai/review/2026-04-20-Web-Retrieval-Aware-Chunking-W-RAC-for-Efficient-and-Cost-Effective-Retrieval-Augmented-Generation-Systems)
-- [[논문리뷰] VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects (2026.04.19)](https://blog.secrett2633.cloud/ai/review/2026-04-20-VEFX-Bench-A-Holistic-Benchmark-for-Generic-Video-Editing-and-Visual-Effects)
-- [[논문리뷰] TwinTrack: Post-hoc Multi-Rater Calibration for Medical Image Segmentation (2026.04.19)](https://blog.secrett2633.cloud/ai/review/2026-04-20-TwinTrack-Post-hoc-Multi-Rater-Calibration-for-Medical-Image-Segmentation)
-- [[논문리뷰] TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment (2026.04.19)](https://blog.secrett2633.cloud/ai/review/2026-04-20-TIPSv2-Advancing-Vision-Language-Pretraining-with-Enhanced-Patch-Text-Alignment)
-- [[논문리뷰] Repurposing 3D Generative Model for Autoregressive Layout Generation (2026.04.19)](https://blog.secrett2633.cloud/ai/review/2026-04-20-Repurposing-3D-Generative-Model-for-Autoregressive-Layout-Generation)
