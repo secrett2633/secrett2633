@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[abtop] Codex 세션 파일 검색 성능 개선: lsof 대신 /proc/pid/fd 활용 (2026.04.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/abtop-pr-60-perf-replace-lsof-with-procpidfd-for)
-- [[abtop] Linux 성능 최적화: lsof 대신 /proc/net/tcp 파싱으로 포트 탐색 개선 (2026.04.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/abtop-pr-62-perf-replace-lsof-ports-with-procnet)
-- [[vllm] vLLM의 콜드 스타트 성능을 20% 향상시키는 비동기 최적화 기법 (2026.04.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-40331-startup-parallelize-torchtransformers)
-- [[ollama] Ollama MLX Sampler 최적화: 성능 향상과 Logprobs 지원 (2026.04.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/ollama-pr-15658-mlx-sampler-improvements)
-- [[논문리뷰] Web Retrieval-Aware Chunking (W-RAC) for Efficient and Cost-Effective Retrieval-Augmented Generation Systems (2026.04.19)](https://blog.secrett2633.cloud/ai/review/2026-04-20-Web-Retrieval-Aware-Chunking-W-RAC-for-Efficient-and-Cost-Effective-Retrieval-Augmented-Generation-Systems)
+- [[sglang] SGLang Triton 커널 최적화: libdevice.tanh 도입과 2D Strided Tensor 지원 (2026.04.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-23157-use-libdevice-tanh-and-support-2d-stride)
+- [[sglang] SGLang 고성능 서빙: 비동기 알림 배치 처리와 SSE 고속 경로 최적화 분석 (2026.04.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-22658-pd-streaming-batch-notify-sse-fast-pa)
+- [[논문리뷰] UniMesh: Unifying 3D Mesh Understanding and Generation (2026.04.21)](https://blog.secrett2633.cloud/ai/review/2026-04-22-UniMesh-Unifying-3D-Mesh-Understanding-and-Generation)
+- [[논문리뷰] Understanding and Enforcing Weight Disentanglement in Task Arithmetic (2026.04.21)](https://blog.secrett2633.cloud/ai/review/2026-04-22-Understanding-and-Enforcing-Weight-Disentanglement-in-Task-Arithmetic)
+- [[논문리뷰] UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models (2026.04.21)](https://blog.secrett2633.cloud/ai/review/2026-04-22-UDM-GRPO-Stable-and-Efficient-Group-Relative-Policy-Optimization-for-Uniform-Discrete-Diffusion-Models)
