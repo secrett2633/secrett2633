@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[sglang] SGLang Triton 커널 최적화: libdevice.tanh 도입과 2D Strided Tensor 지원 (2026.04.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-23157-use-libdevice-tanh-and-support-2d-stride)
-- [[sglang] SGLang 고성능 서빙: 비동기 알림 배치 처리와 SSE 고속 경로 최적화 분석 (2026.04.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-22658-pd-streaming-batch-notify-sse-fast-pa)
-- [[논문리뷰] UniMesh: Unifying 3D Mesh Understanding and Generation (2026.04.21)](https://blog.secrett2633.cloud/ai/review/2026-04-22-UniMesh-Unifying-3D-Mesh-Understanding-and-Generation)
-- [[논문리뷰] Understanding and Enforcing Weight Disentanglement in Task Arithmetic (2026.04.21)](https://blog.secrett2633.cloud/ai/review/2026-04-22-Understanding-and-Enforcing-Weight-Disentanglement-in-Task-Arithmetic)
-- [[논문리뷰] UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models (2026.04.21)](https://blog.secrett2633.cloud/ai/review/2026-04-22-UDM-GRPO-Stable-and-Efficient-Group-Relative-Policy-Optimization-for-Uniform-Discrete-Diffusion-Models)
+- [[ACE-Step-1.5] ACE-Step에 파동대역 보정(DCW) 샘플러 훅 추가: SNR-t 편향 개선 (2026.04.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/ace-step-15-pr-1120-feat-add-differential-correction-in-wav)
+- [[cpython] Python statistics.fmean() 성능 최적화: itertools.compress를 활용한 오버헤드 제거 (2026.04.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-148875-speed-up-counting-in-statisticsfmean)
+- [[triton] Triton Gluon Attention 커널의 Autotuning을 통한 성능 최적화 분석 (2026.04.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-10110-gluonexamples-some-autotuning-of-the)
+- [[cpython] Python JIT Shim 빌드 프로세스 개선: 런타임 컴파일에서 빌드 타임 링크로 (2026.04.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-148872-gh-126910-buildlink-the-jit-shim-in-th)
+- [[vllm] vLLM CPU 성능 최적화: NEON 하드웨어를 위한 고속 Exp 연산 도입 (2026.04.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-38112-cpu-added-faster-exp-routine-for-lower)
