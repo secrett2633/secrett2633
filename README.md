@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[ACE-Step-1.5] ACE-Step에 파동대역 보정(DCW) 샘플러 훅 추가: SNR-t 편향 개선 (2026.04.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/ace-step-15-pr-1120-feat-add-differential-correction-in-wav)
-- [[cpython] Python statistics.fmean() 성능 최적화: itertools.compress를 활용한 오버헤드 제거 (2026.04.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-148875-speed-up-counting-in-statisticsfmean)
-- [[triton] Triton Gluon Attention 커널의 Autotuning을 통한 성능 최적화 분석 (2026.04.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-10110-gluonexamples-some-autotuning-of-the)
-- [[cpython] Python JIT Shim 빌드 프로세스 개선: 런타임 컴파일에서 빌드 타임 링크로 (2026.04.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-148872-gh-126910-buildlink-the-jit-shim-in-th)
-- [[vllm] vLLM CPU 성능 최적화: NEON 하드웨어를 위한 고속 Exp 연산 도입 (2026.04.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-38112-cpu-added-faster-exp-routine-for-lower)
+- [[flashinfer] FlashInfer 오토튜너 최적화: 하이브리드 토큰 버킷 도입 (2026.04.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3115-perfautotuner-replace-power-of-2-toke)
+- [[flashinfer] FlashInfer, CuTe DSL 기반 FMHA 커널 통합으로 사전 생성(Prefill) 성능 극대화 (2026.04.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3039-feat-integrate-cute-dsl-fmha-prefill-ke)
+- [[vllm] vLLM에 고성능 JIT 양자화 커널 'Humming' 도입하기 (2026.04.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-34556-quantization-add-humming-quantization)
+- [[onnxruntime] ONNX Runtime 스레드 풀의 지능형 대기: Exponential Backoff 도입으로 성능 및 전력 효율성 향상 (2026.04.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-28096-add-exponential-backoff-option-for-threa)
+- [[flashinfer] FlashInfer의 고성능 분산 연산: All-Gather Matmul 최적화 분석 (2026.04.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-2665-add-all-gather-matmul)
