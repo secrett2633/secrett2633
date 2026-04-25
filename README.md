@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[sglang] SGLang 성능 최적화: torch.cuda.empty_cache() 호출 제어를 통한 가중치 업데이트 병목 해결 (2026.04.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-22998-skip-torchcudaempty-cache-in-weight)
+- [[sglang] AMD ROCm 환경에서의 성능 최적화: Triton을 활용한 Fused QK GemmaRMSNorm 구현 (2026.04.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-23575-amd-fused-qk-gemma-norm-kernels-to-red)
+- [[sglang] SGLang MoE 라우팅 최적화: AMD GPU에서 aiter.biased_grouped_topk 활용 (2026.04.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-23611-amd-optimize-minimax-m25-use-aiter)
+- [[sglang] AMD GPU에서 FP8 KV 캐시 쓰기 최적화: Triton 커널 융합으로 성능 향상 (2026.04.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-23620-amd-optimize-minimax-m25-enable-fus)
 - [[flashinfer] FlashInfer 오토튜너 최적화: 하이브리드 토큰 버킷 도입 (2026.04.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3115-perfautotuner-replace-power-of-2-toke)
-- [[flashinfer] FlashInfer, CuTe DSL 기반 FMHA 커널 통합으로 사전 생성(Prefill) 성능 극대화 (2026.04.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3039-feat-integrate-cute-dsl-fmha-prefill-ke)
-- [[vllm] vLLM에 고성능 JIT 양자화 커널 'Humming' 도입하기 (2026.04.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-34556-quantization-add-humming-quantization)
-- [[onnxruntime] ONNX Runtime 스레드 풀의 지능형 대기: Exponential Backoff 도입으로 성능 및 전력 효율성 향상 (2026.04.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-28096-add-exponential-backoff-option-for-threa)
-- [[flashinfer] FlashInfer의 고성능 분산 연산: All-Gather Matmul 최적화 분석 (2026.04.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-2665-add-all-gather-matmul)
