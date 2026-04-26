@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[cpython] Python subprocess.communicate() 타임아웃 성능 개선: 느린 자식 프로세스 응답 방식 변경 (2026.04.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-149003-gh-141473-speed-up-subprocess-test-comm)
+- [[cpython] Python dataclasses 모듈의 성능 최적화: inspect 모듈의 Lazy Import 도입 (2026.04.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-144387-gh-137855-lazy-import-inspect-module)
+- [[cpython] Python `subprocess` 테스트 최적화: `communicate()` 타임아웃 테스트 속도 향상 (2026.04.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-149004-314-gh-141473-speed-up-subprocess-te)
+- [[cpython] CPython 테스트 최적화: 30초의 대기를 1초 미만으로 단축하는 소켓 핸드셰이크 기법 (2026.04.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-149005-313-gh-141473-speed-up-subprocess-te)
 - [[sglang] SGLang 성능 최적화: torch.cuda.empty_cache() 호출 제어를 통한 가중치 업데이트 병목 해결 (2026.04.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-22998-skip-torchcudaempty-cache-in-weight)
-- [[sglang] AMD ROCm 환경에서의 성능 최적화: Triton을 활용한 Fused QK GemmaRMSNorm 구현 (2026.04.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-23575-amd-fused-qk-gemma-norm-kernels-to-red)
-- [[sglang] SGLang MoE 라우팅 최적화: AMD GPU에서 aiter.biased_grouped_topk 활용 (2026.04.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-23611-amd-optimize-minimax-m25-use-aiter)
-- [[sglang] AMD GPU에서 FP8 KV 캐시 쓰기 최적화: Triton 커널 융합으로 성능 향상 (2026.04.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-23620-amd-optimize-minimax-m25-enable-fus)
-- [[flashinfer] FlashInfer 오토튜너 최적화: 하이브리드 토큰 버킷 도입 (2026.04.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3115-perfautotuner-replace-power-of-2-toke)
