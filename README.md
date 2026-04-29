@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[cpython] Python subprocess.communicate() 타임아웃 성능 개선: 느린 자식 프로세스 응답 방식 변경 (2026.04.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-149003-gh-141473-speed-up-subprocess-test-comm)
-- [[cpython] Python dataclasses 모듈의 성능 최적화: inspect 모듈의 Lazy Import 도입 (2026.04.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-144387-gh-137855-lazy-import-inspect-module)
-- [[cpython] Python `subprocess` 테스트 최적화: `communicate()` 타임아웃 테스트 속도 향상 (2026.04.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-149004-314-gh-141473-speed-up-subprocess-te)
-- [[cpython] CPython 테스트 최적화: 30초의 대기를 1초 미만으로 단축하는 소켓 핸드셰이크 기법 (2026.04.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-149005-313-gh-141473-speed-up-subprocess-te)
-- [[sglang] SGLang 성능 최적화: torch.cuda.empty_cache() 호출 제어를 통한 가중치 업데이트 병목 해결 (2026.04.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-22998-skip-torchcudaempty-cache-in-weight)
+- [[triton] Triton의 Ragged Matmul 메타데이터 계산 최적화: CPU 동기화 없는 효율적인 프로파일링 (2026.04.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-10150-triton-kernels-optimize-matmul-metadat)
+- [[sglang] FlashInfer TRTLLM-Gen MoE 커널 최적화: NemotronH 모델 지원 및 성능 향상 (2026.04.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-21321-kernel-support-flashinfer-trtllm-gen-f)
+- [[sglang] SGLang, FP4 KV 캐시 도입으로 LLM 추론 성능 극대화: NVFP4 최적화 분석 (2026.04.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-21954-14-nvfp4-kv-cache-quantization-stra)
+- [[논문리뷰] GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction (2026.04.28)](https://blog.secrett2633.cloud/ai/review/2026-04-29-GoClick-Lightweight-Element-Grounding-Model-for-Autonomous-GUI-Interaction)
+- [[논문리뷰] AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark (2026.04.28)](https://blog.secrett2633.cloud/ai/review/2026-04-29-AutoGUI-v2-A-Comprehensive-Multi-Modal-GUI-Functionality-Understanding-Benchmark)
