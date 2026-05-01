@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[sglang] CUDA 그래프 호환성을 위한 LoRA 연산 최적화: 스칼라 할당 대신 슬라이스 제로화 사용 (2026.04.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-23738-fixlora-avoid-cuda-graph-breaking-sca)
-- [[vllm] vLLM의 분산 추론 성능 극대화: 양방향 KV 캐시 전송을 통한 Prefill 최적화 (2026.04.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-32553-pd-prefill-compute-optimizations-with)
-- [[vllm] vLLM chunk_kda 커널의 숨겨진 상태(h) 레이아웃 불일치 버그 수정 및 정확도 개선 (2026.04.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-40956-bugfix-correct-h-matrix-layout-in-chun)
-- [[onnxruntime] ONNX Runtime의 RISC-V Vector(RVV) 최적화: SGEMM과 Softmax 성능을 3배로 끌어올리기 (2026.04.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-28261-add-risc-v-vector-rvv-support-for-cpu)
-- [[논문리뷰] Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising (2026.04.29)](https://blog.secrett2633.cloud/ai/review/2026-04-30-Unified-4D-World-Action-Modeling-from-Video-Priors-with-Asynchronous-Denoising)
+- [[flashinfer] FlashInfer의 DiT 최적화: SageAttention과 Int8/FP8 혼합 정밀도 커널 도입 분석 (2026.05.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-2711-feat-add-dit-oriented-kernels-where-qk)
+- [[vllm] [vLLM] ROCm 환경에서의 DeepSeek-V2/V3 성능 극대화를 위한 MLA 최적화 분석 (2026.05.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41217-rocmdeepseek-dsv32-further-optimiza)
+- [[vllm] vLLM의 첫 추론 지연 문제 해결: forward_native 샘플러 커널 웜업 최적화 (2026.05.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41375-perf-warmup-forward-native-sampler-ker)
+- [[sglang] SGLang P/D Disaggregation: Decode-Side Radix Cache 도입으로 LLM 추론 성능 극대화 (2026.05.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-19746-pd-disagg-support-decode-side-radix)
+- [[vllm] vLLM, DCP A2A 어텐션 백엔드 최적화: 단일 All-to-All 콜렉티브로 성능 향상 (2026.05.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41160-kernel-pack-output-and-lse-in-dcp-a2a)
