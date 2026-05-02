@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer의 DiT 최적화: SageAttention과 Int8/FP8 혼합 정밀도 커널 도입 분석 (2026.05.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-2711-feat-add-dit-oriented-kernels-where-qk)
-- [[vllm] [vLLM] ROCm 환경에서의 DeepSeek-V2/V3 성능 극대화를 위한 MLA 최적화 분석 (2026.05.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41217-rocmdeepseek-dsv32-further-optimiza)
-- [[vllm] vLLM의 첫 추론 지연 문제 해결: forward_native 샘플러 커널 웜업 최적화 (2026.05.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41375-perf-warmup-forward-native-sampler-ker)
-- [[sglang] SGLang P/D Disaggregation: Decode-Side Radix Cache 도입으로 LLM 추론 성능 극대화 (2026.05.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-19746-pd-disagg-support-decode-side-radix)
-- [[vllm] vLLM, DCP A2A 어텐션 백엔드 최적화: 단일 All-to-All 콜렉티브로 성능 향상 (2026.05.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41160-kernel-pack-output-and-lse-in-dcp-a2a)
+- [[vllm] vLLM IR의 진화: maybe_inplace 오버로드를 통한 메모리 최적화 (2026.05.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-36823-vllm-ir-2n-fused-add-rms-norm-and-may)
+- [[openclaw] OpenClaw: 런타임 플러그인 레지스트리 재사용을 통한 성능 최적화 (2026.05.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/openclaw-pr-76004-perfplugins-reuse-startup-runtime-reg)
+- [[sglang] HunyuanVideo VAE 디코딩 성능 향상: GroupNorm SiLU 커널 최적화 (2026.05.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-23938-optimize-large-groupnorm-silu-apply)
+- [[sglang] SGLang NPU 성능 최적화: INT8 TP 통신 압축 도입 (2026.05.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-20520-nputp-communications-compression-for-q)
+- [[cpython] Python JIT의 GDB 디버깅 지원: .eh_frame 생성을 통한 스택 언와인딩 구현 (2026.05.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-146071-gh-126910-add-gdb-support-for-unwinding)
