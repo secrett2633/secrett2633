@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[vllm] vLLM IR의 진화: maybe_inplace 오버로드를 통한 메모리 최적화 (2026.05.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-36823-vllm-ir-2n-fused-add-rms-norm-and-may)
-- [[openclaw] OpenClaw: 런타임 플러그인 레지스트리 재사용을 통한 성능 최적화 (2026.05.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/openclaw-pr-76004-perfplugins-reuse-startup-runtime-reg)
-- [[sglang] HunyuanVideo VAE 디코딩 성능 향상: GroupNorm SiLU 커널 최적화 (2026.05.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-23938-optimize-large-groupnorm-silu-apply)
-- [[sglang] SGLang NPU 성능 최적화: INT8 TP 통신 압축 도입 (2026.05.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-20520-nputp-communications-compression-for-q)
-- [[cpython] Python JIT의 GDB 디버깅 지원: .eh_frame 생성을 통한 스택 언와인딩 구현 (2026.05.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-146071-gh-126910-add-gdb-support-for-unwinding)
+- [[cpython] CPython JIT 최적화: 불변 및 불사 객체에 대한 불필요한 의존성 제거하기 (2026.05.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-149256-gh-149217-avoid-adding-dependencies-on)
+- [[sglang] LTX2.3 HQ Denoising 성능 최적화: Attention Skip을 활용한 효율적인 모델 호출 (2026.05.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-24298-codex-optimize-ltx23-hq-denoising-spl)
+- [[sglang] SGLang UnifiedRadixTree에 HiCache 프레임워크 도입: 하이브리드 모델 성능 최적화 (2026.05.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-23316-unifiedradixtree-support-hicache-fram)
+- [[vllm] vLLM에 Humming MXFP4 MoE 백엔드 통합: 성능 최적화와 양자화의 만남 (2026.05.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41083-quantization-add-humming-mxfp4-moe-bac)
+- [[LlamaFactory] LlamaFactory: Qwen-VL 비디오 토큰 전처리 최적화로 450배 성능 향상 달성 (2026.05.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/llamafactory-pr-10404-optimize-qwen-video-token-metadata-prepr)
