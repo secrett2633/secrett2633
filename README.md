@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[cpython] CPython JIT 최적화: 불변 및 불사 객체에 대한 불필요한 의존성 제거하기 (2026.05.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-149256-gh-149217-avoid-adding-dependencies-on)
-- [[sglang] LTX2.3 HQ Denoising 성능 최적화: Attention Skip을 활용한 효율적인 모델 호출 (2026.05.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-24298-codex-optimize-ltx23-hq-denoising-spl)
-- [[sglang] SGLang UnifiedRadixTree에 HiCache 프레임워크 도입: 하이브리드 모델 성능 최적화 (2026.05.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-23316-unifiedradixtree-support-hicache-fram)
-- [[vllm] vLLM에 Humming MXFP4 MoE 백엔드 통합: 성능 최적화와 양자화의 만남 (2026.05.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41083-quantization-add-humming-mxfp4-moe-bac)
-- [[LlamaFactory] LlamaFactory: Qwen-VL 비디오 토큰 전처리 최적화로 450배 성능 향상 달성 (2026.05.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/llamafactory-pr-10404-optimize-qwen-video-token-metadata-prepr)
+- [[cpython] CPython arraymodule 최적화: 구조체 메모리 레이아웃 개선을 통한 성능 향상 (2026.05.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-149455-gh-148675-optimize-arraydescr-structure)
+- [[sglang] SGLang의 Unified Radix Cache를 위한 SWA HiCache 지원 최적화 (2026.05.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-23391-support-swa-hicache-for-unified-radix-ca)
+- [[vllm] vLLM, Gemma 4 모델에 양자화된 Speculative Decoding 적용: 성능 향상의 비밀 (2026.05.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41745-spec-decode-add-gemma4-mtp-speculative)
+- [[flashinfer] FlashInfer, CUDA 그래프 호환성을 높이고 성능을 최적화하다: TRT-LLM FMHA v2 통합 및 불필요한 H2D 제거 (2026.05.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-2841-perf-add-fmhav2-to-flashinfer-benchmar)
+- [[flashinfer] FlashInfer: Wide Vector 최적화와 1900줄의 코드 삭제로 달성한 성능 개선 (2026.05.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3147-ameynwide-vec-t1)
