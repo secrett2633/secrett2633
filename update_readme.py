@@ -4,6 +4,7 @@ import os
 from pathlib import Path
 from email.utils import parsedate_to_datetime
 
+
 # 상수 정의
 BLOG_URL = "https://secrett2633.github.io/feed.xml"
 MAX_POSTS = 5
