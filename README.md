@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] NVIDIA Blackwell SM120을 위한 MoE Short-Decode 최적화 분석 (2026.05.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3193-perfmoe-optimize-sm120-b12x-moe-short)
-- [[flashinfer] FlashInfer, FP8 지원으로 장문 컨텍스트 추론 성능을 극적으로 향상시키다 (2026.05.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3129-feat-enable-fp8-e4m3e5m2-in-concat-m)
-- [[sglang] DeepSeek-V4를 위한 MXFP4 Marlin MoE 커널 최적화 및 JIT 통합 분석 (2026.05.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-24490-port-mxfp4-marlin-moe-support-to-jit-ker)
-- [[sglang] NixlKVManager 성능 향상: 비동기 및 멀티스레드 KV 전송 도입 (2026.05.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-23967-nixl-async-transfer)
-- [[flashinfer] FlashInfer BF16 XQA MLA 커널의 10가지 버그 수정 및 최적화 분석 (2026.05.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-2689-fix-10-bugs-in-bf16-xqa-mla-kernel-for-s)
+- [[cpython] CPython inspect.getattr_static 성능 개선: 일반적인 메타클래스 사례 최적화 (2026.05.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-149437-gh-149436-speed-up-inspectgetattr-stat)
+- [[sglang] SGLang의 MHC 파이프라인 최적화: 커널 퓨전과 DeepGemm 도입 (2026.05.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-24775-optimize-mhc-pipeline-deepgemm-fused-n)
+- [[openclaw] Telegram 메시지 캐시 최적화: 전체 파일 재작성 대신 변경분만 기록하기 (2026.05.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/openclaw-pr-79789-perftelegram-append-reply-chain-cache)
+- [[sglang] SGLang의 FP4 GEMM 성능 최적화: CuTe DSL 백엔드 도입 (2026.05.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-23590-reland-cute-dsl-fp4-dense-gemm)
+- [[sglang] SGLang: Triton 버전 업그레이드에 따른 MoE 성능 회귀 해결 및 설정 자동화 (2026.05.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-24562-fix-performance-regression-on-deepseek-v)
