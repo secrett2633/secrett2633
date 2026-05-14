@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[cpython] CPython inspect.getattr_static 성능 개선: 일반적인 메타클래스 사례 최적화 (2026.05.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-149437-gh-149436-speed-up-inspectgetattr-stat)
-- [[sglang] SGLang의 MHC 파이프라인 최적화: 커널 퓨전과 DeepGemm 도입 (2026.05.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-24775-optimize-mhc-pipeline-deepgemm-fused-n)
-- [[openclaw] Telegram 메시지 캐시 최적화: 전체 파일 재작성 대신 변경분만 기록하기 (2026.05.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/openclaw-pr-79789-perftelegram-append-reply-chain-cache)
-- [[sglang] SGLang의 FP4 GEMM 성능 최적화: CuTe DSL 백엔드 도입 (2026.05.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-23590-reland-cute-dsl-fp4-dense-gemm)
-- [[sglang] SGLang: Triton 버전 업그레이드에 따른 MoE 성능 회귀 해결 및 설정 자동화 (2026.05.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-24562-fix-performance-regression-on-deepseek-v)
+- [[pydantic-ai] Pydantic AI, 도구 검색 기능 도입으로 에이전트의 도구 관리 혁신 (2026.05.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/pydantic-ai-pr-5143-feat-native-tool-search-on-anthropic-an)
+- [[vllm] vLLM의 Triton 통합 어텐션 커널에 Tensor Descriptor 최적화 도입 (2026.05.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-40327-attention-add-use-td-constexpr-for-tens)
+- [[vllm] vLLM XPU 가속을 위한 MXFP4 W4A4 GEMM 커널 도입 분석 (2026.05.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-38896-xpu-ct-enable-ct-w4a4mxfp4-path-and)
+- [[flashinfer] FlashInfer Mamba SSU 커널 최적화: Async State Prefetching과 Vectorized Load를 통한 성능 혁신 (2026.05.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-2962-improved-simple-mamba-ssu-kernel)
+- [[vllm] vLLM ROCm 환경에서 AITER를 활용한 Multi-Head Convolutions(MHC) 성능 최적화 및 안정성 개선 (2026.05.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41946-bugfix-rocm-dsv4-perf-add-aiter)
