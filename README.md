@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[pydantic-ai] Pydantic AI, 도구 검색 기능 도입으로 에이전트의 도구 관리 혁신 (2026.05.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/pydantic-ai-pr-5143-feat-native-tool-search-on-anthropic-an)
-- [[vllm] vLLM의 Triton 통합 어텐션 커널에 Tensor Descriptor 최적화 도입 (2026.05.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-40327-attention-add-use-td-constexpr-for-tens)
-- [[vllm] vLLM XPU 가속을 위한 MXFP4 W4A4 GEMM 커널 도입 분석 (2026.05.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-38896-xpu-ct-enable-ct-w4a4mxfp4-path-and)
-- [[flashinfer] FlashInfer Mamba SSU 커널 최적화: Async State Prefetching과 Vectorized Load를 통한 성능 혁신 (2026.05.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-2962-improved-simple-mamba-ssu-kernel)
-- [[vllm] vLLM ROCm 환경에서 AITER를 활용한 Multi-Head Convolutions(MHC) 성능 최적화 및 안정성 개선 (2026.05.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41946-bugfix-rocm-dsv4-perf-add-aiter)
+- [[vllm] vLLM의 NIXL KV 전송을 활용한 GDN(Gated Delta Net) 모델 지원 최적화 (2026.05.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41869-pd-disagg-with-nixl-connector-gdn-suppo)
+- [[onnxruntime] Apple M4 Max를 위한 FlashAttention 최적화: 20배 성능 향상 분석 (2026.05.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-27780-optimize-flashattention-for-m4-max-20x)
+- [[vllm] Blackwell을 위한 새로운 MLA 백엔드: TOKENSPEED_MLA 분석 (DeepSeek R1 최적화) (2026.05.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41778-mla-attention-backend-add-tokenspeed-m)
+- [[vllm] vLLM, DeepSeek V4 모델의 저지연을 위한 RMSNorm과 라우터 GEMV 연산 융합으로 성능 극대화 (2026.05.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41263-dsv4-fuse-norm-and-router-for-low-la)
+- [[논문리뷰] WriteSAE: Sparse Autoencoders for Recurrent State (2026.05.13)](https://blog.secrett2633.cloud/ai/review/2026-05-14-WriteSAE-Sparse-Autoencoders-for-Recurrent-State)
