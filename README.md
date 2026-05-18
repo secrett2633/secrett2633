@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[vllm] vLLM의 NIXL KV 전송을 활용한 GDN(Gated Delta Net) 모델 지원 최적화 (2026.05.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41869-pd-disagg-with-nixl-connector-gdn-suppo)
-- [[onnxruntime] Apple M4 Max를 위한 FlashAttention 최적화: 20배 성능 향상 분석 (2026.05.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-27780-optimize-flashattention-for-m4-max-20x)
-- [[vllm] Blackwell을 위한 새로운 MLA 백엔드: TOKENSPEED_MLA 분석 (DeepSeek R1 최적화) (2026.05.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41778-mla-attention-backend-add-tokenspeed-m)
-- [[vllm] vLLM, DeepSeek V4 모델의 저지연을 위한 RMSNorm과 라우터 GEMV 연산 융합으로 성능 극대화 (2026.05.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41263-dsv4-fuse-norm-and-router-for-low-la)
-- [[논문리뷰] WriteSAE: Sparse Autoencoders for Recurrent State (2026.05.13)](https://blog.secrett2633.cloud/ai/review/2026-05-14-WriteSAE-Sparse-Autoencoders-for-Recurrent-State)
+- [[sglang] SGLang, 레이어별 오프로딩 기본값 설정을 통한 인코더/VAE 성능 최적화 (2026.05.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-25517-diffusion-feat-configure-encoder-as-l)
+- [[sglang] SGLang에서 torch.compile을 활용한 Wan 모델 추론 가속화 (2026.05.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-25256-musadiffusion-improve-wan-model-inf)
+- [[sglang] SGLang 멀티모달 파이프라인의 VAE 정밀도 최적화: bf16 도입을 통한 메모리 효율 개선 (2026.05.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-25411-diffusion-default-qwen-image-vae-preci)
+- [[sglang] LTX2 스플릿 로터리 커널 최적화: 헤드 배치 처리로 성능 2배 향상 (2026.05.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-24732-codex-optimize-ltx2-split-rotary-kerne)
+- [[vllm] vLLM의 혁신: Breakable CUDA Graph로 LLM 추론 성능 최적화 (2026.05.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-42304-experimental-breakable-cuda-graph)
