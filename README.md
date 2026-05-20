@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[sglang] SGLang, 레이어별 오프로딩 기본값 설정을 통한 인코더/VAE 성능 최적화 (2026.05.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-25517-diffusion-feat-configure-encoder-as-l)
-- [[sglang] SGLang에서 torch.compile을 활용한 Wan 모델 추론 가속화 (2026.05.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-25256-musadiffusion-improve-wan-model-inf)
-- [[sglang] SGLang 멀티모달 파이프라인의 VAE 정밀도 최적화: bf16 도입을 통한 메모리 효율 개선 (2026.05.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-25411-diffusion-default-qwen-image-vae-preci)
-- [[sglang] LTX2 스플릿 로터리 커널 최적화: 헤드 배치 처리로 성능 2배 향상 (2026.05.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-24732-codex-optimize-ltx2-split-rotary-kerne)
-- [[vllm] vLLM의 혁신: Breakable CUDA Graph로 LLM 추론 성능 최적화 (2026.05.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-42304-experimental-breakable-cuda-graph)
+- [[ray] [Ray Data] Wide Schema에서 10배 성능 향상을 이끌어낸 한 줄의 설정: Parquet pre_buffer의 마법 (2026.05.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/ray-pr-63466-data-datasourcev2-dont-disable-pre-b)
+- [[vllm] vLLM 성능 최적화: GPU-CPU 간 불필요한 동기화 제거하기 (2026.05.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-42347-perf4n-eliminate-various-gpu-cpu)
+- [[triton] AMD GPU에서 불필요한 워프 로드를 제거하여 성능을 최적화한 Triton PR 분석 (2026.05.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-10332-amdbackendgfx9-optimize-warp-unifo)
+- [[cpython] CPython 성능 최적화: 임시 리스트를 튜플로 변환할 때의 '아이템 스틸' 기법 (2026.05.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-149960-gh-138325-steal-list-items-in-intrinsic)
+- [[loki] Grafana Loki: Range Aggregation 성능 최적화와 메모리 할당 감소 (2026.05.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-21924-chore-reduce-allocs-in-range-agg-node)
