@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[ray] [Ray Data] Wide Schema에서 10배 성능 향상을 이끌어낸 한 줄의 설정: Parquet pre_buffer의 마법 (2026.05.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/ray-pr-63466-data-datasourcev2-dont-disable-pre-b)
-- [[vllm] vLLM 성능 최적화: GPU-CPU 간 불필요한 동기화 제거하기 (2026.05.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-42347-perf4n-eliminate-various-gpu-cpu)
-- [[triton] AMD GPU에서 불필요한 워프 로드를 제거하여 성능을 최적화한 Triton PR 분석 (2026.05.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-10332-amdbackendgfx9-optimize-warp-unifo)
-- [[cpython] CPython 성능 최적화: 임시 리스트를 튜플로 변환할 때의 '아이템 스틸' 기법 (2026.05.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-149960-gh-138325-steal-list-items-in-intrinsic)
-- [[loki] Grafana Loki: Range Aggregation 성능 최적화와 메모리 할당 감소 (2026.05.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-21924-chore-reduce-allocs-in-range-agg-node)
+- [[openclaw] Node.js 오디오 코덱 성능 최적화: TypedArray를 활용한 효율적인 PCM 처리 (2026.05.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/openclaw-pr-86856-perf-use-typed-arrays-for-audio-codec-l)
+- [[sglang] 성능 최적화의 함정: DeepSeek-V3.2 정확도 붕괴를 막기 위한 SGLang의 긴급 롤백 분석 (2026.05.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-26358-revert-perfspec-decoding-skip-full)
+- [[vllm] vLLM, GDN Prefill 커널을 CuteDSL로 최적화하여 성능 향상 (2026.05.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-43273-gdn-gdn-prefill-kernel-for-sm100)
+- [[sglang] SGLang EAGLE 디코딩 최적화: 불필요한 Softmax 연산 제거로 성능 향상 (2026.05.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-26235-perfspec-decoding-skip-full-vocab-so)
+- [[cpython] Python의 os.fork 후 발생하던 성능 프로파일링 충돌 문제 해결 및 최적화 분석 (2026.05.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-150347-gh-149156-fix-perf-trampoline-crash-aft)
