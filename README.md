@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[openclaw] Node.js 오디오 코덱 성능 최적화: TypedArray를 활용한 효율적인 PCM 처리 (2026.05.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/openclaw-pr-86856-perf-use-typed-arrays-for-audio-codec-l)
-- [[sglang] 성능 최적화의 함정: DeepSeek-V3.2 정확도 붕괴를 막기 위한 SGLang의 긴급 롤백 분석 (2026.05.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-26358-revert-perfspec-decoding-skip-full)
-- [[vllm] vLLM, GDN Prefill 커널을 CuteDSL로 최적화하여 성능 향상 (2026.05.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-43273-gdn-gdn-prefill-kernel-for-sm100)
-- [[sglang] SGLang EAGLE 디코딩 최적화: 불필요한 Softmax 연산 제거로 성능 향상 (2026.05.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-26235-perfspec-decoding-skip-full-vocab-so)
-- [[cpython] Python의 os.fork 후 발생하던 성능 프로파일링 충돌 문제 해결 및 최적화 분석 (2026.05.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-150347-gh-149156-fix-perf-trampoline-crash-aft)
+- [[triton] [Triton] Persistent Matmul 성능을 13% 향상시킨 정교한 Shared Memory 계산 기법 분석 (2026.05.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-10386-kernels-change-heuristic-of-smem-calcu)
+- [[vllm] vLLM, ROCm 환경에서 AITER MoE 연산 성능 최적화를 위한 환경 변수 노출 (2026.05.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-39177-rocmperf-expose-aiter-moe-sorting-di)
+- [[vllm] [vLLM] W4A16 양자화 모델의 호환성 문제 해결: Triton 커널을 활용한 CUDA Fallback 구현 (2026.05.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-43731-kernel-enable-tritonw4a16linearkernel)
+- [[onnxruntime] ONNX Runtime CUTLASS FMHA: BiasLoader 정렬 문제 해결로 안정성 및 호환성 향상 (2026.05.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-28369-fix-cutlass-fmha-biasloader-alignment-fo)
+- [[sglang] Pydantic 유효성 검사 최적화: C 루프를 이용한 API 성능 향상 (2026.05.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-26355-api-perf-replace-pydantic-per-element-v)
