@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[triton] [Triton] Persistent Matmul 성능을 13% 향상시킨 정교한 Shared Memory 계산 기법 분석 (2026.05.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-10386-kernels-change-heuristic-of-smem-calcu)
-- [[vllm] vLLM, ROCm 환경에서 AITER MoE 연산 성능 최적화를 위한 환경 변수 노출 (2026.05.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-39177-rocmperf-expose-aiter-moe-sorting-di)
-- [[vllm] [vLLM] W4A16 양자화 모델의 호환성 문제 해결: Triton 커널을 활용한 CUDA Fallback 구현 (2026.05.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-43731-kernel-enable-tritonw4a16linearkernel)
-- [[onnxruntime] ONNX Runtime CUTLASS FMHA: BiasLoader 정렬 문제 해결로 안정성 및 호환성 향상 (2026.05.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-28369-fix-cutlass-fmha-biasloader-alignment-fo)
-- [[sglang] Pydantic 유효성 검사 최적화: C 루프를 이용한 API 성능 향상 (2026.05.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-26355-api-perf-replace-pydantic-per-element-v)
+- [[axolotl] Axolotl MoE 모델 최적화: Tiled-MLP 도입 및 FSDP2 통합으로 성능 극대화 (2026.05.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/axolotl-pr-3666-tiled-mlp-for-moe-moe-block-patcher-f)
+- [[feast] Feast Feature Server의 직렬화 성능 4배 향상: MessageToDict 최적화 (2026.05.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/feast-pr-6015-perf-replace-messagetodict-with-optimiz)
+- [[sglang] [SGLang] Blackwell(B200)에서 Diffusion Attention 성능을 7배 끌어올리는 Triton 커널 최적화 분석 (2026.05.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-26318-diffusionjit-kernel-perf-varlen-fa)
+- [[vllm] vLLM의 MoE Permute 최적화: 버퍼 사전 할당을 통한 성능 향상 (2026.05.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-43014-perf-optimize-moe-permute-by-pre-alloc)
+- [[transformers] Apple Silicon의 MPS에서 Flash Attention 최적화: 속도와 효율성 향상 (2026.05.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/transformers-pr-45974-enable-kernels-communitymetal-flash-sdp)
