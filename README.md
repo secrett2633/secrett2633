@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[vllm] vLLM, DeepSeek-V3.2 모델의 ROCm 성능 최적화: CPU 측 마이크로 최적화 3가지 분석 (2026.05.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-42982-rocmperf-dsv32-mi355x-tp4-decode-st)
-- [[sglang] sglang ROCm MXFP4 어텐션에서 불필요한 contiguous copy 제거를 통한 성능 최적화 (2026.05.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-25463-rocm-eliminate-redundant-contiguous-co)
-- [[vllm] AMD RDNA3 (gfx1100)를 위한 vLLM의 W4A16 GPTQ 커널 최적화 심층 분석 (2026.05.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41394-kernelrocm-native-w4a16-kernel-for-a)
-- [[onnxruntime] ONNX Runtime의 CPU GQA 최적화: Flash Attention과 Flash Decoding 도입 (2026.05.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-28695-flash-attention-style-tiled-computation)
-- [[flashinfer] FlashInfer MLA 커널 최적화: num_heads < 128 환경에서의 성능 극대화 (2026.05.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3309-feat-add-num-heads-128-support-for-m)
+- [[cpython] tarfile 스트리밍 모드(r|*) 성능 개선: 파이썬 압축 파일 처리의 숨겨진 병목 제거 (2026.05.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-121296-gh-121109-fix-performance-of-tarfile-re)
+- [[sglang] SGLang 스케줄러 최적화: input_ids H2D 지연 처리 및 FutureMap 통합 (2026.05.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-25945-scheduler-defer-prefill-input-ids-h2d)
+- [[vllm] [vLLM] MiniMax-M2 MoE Gate 최적화: Fused FP32 Kernel로 서빙 성능 32% 향상시키기 (2026.05.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-38445-perfminimax-m2-gate-kernel)
+- [[sglang] SGLang의 add_constant 커널 최적화: 아키텍처 인지 벡터화(Vectorization) 도입 (2026.05.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-24755-optimize-large-add-constant-tensors)
+- [[sglang] DeepSeek-V4의 Latency 최적화: Fused mHC Post/Pre Kernel 도입 (2026.05.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-25976-deepseek-v4-add-mhc-fused-post-pre-ker)
