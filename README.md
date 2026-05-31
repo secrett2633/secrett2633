@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[sglang] SGLang의 KV-Canary JIT 커널 도입: 효율적인 KV 캐시 검증 최적화 (2026.05.31)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-26805-add-the-kv-canary-verify-jit-kernel-and)
 - [[cpython] tarfile 스트리밍 모드(r|*) 성능 개선: 파이썬 압축 파일 처리의 숨겨진 병목 제거 (2026.05.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-121296-gh-121109-fix-performance-of-tarfile-re)
 - [[sglang] SGLang 스케줄러 최적화: input_ids H2D 지연 처리 및 FutureMap 통합 (2026.05.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-25945-scheduler-defer-prefill-input-ids-h2d)
 - [[vllm] [vLLM] MiniMax-M2 MoE Gate 최적화: Fused FP32 Kernel로 서빙 성능 32% 향상시키기 (2026.05.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-38445-perfminimax-m2-gate-kernel)
 - [[sglang] SGLang의 add_constant 커널 최적화: 아키텍처 인지 벡터화(Vectorization) 도입 (2026.05.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-24755-optimize-large-add-constant-tensors)
-- [[sglang] DeepSeek-V4의 Latency 최적화: Fused mHC Post/Pre Kernel 도입 (2026.05.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-25976-deepseek-v4-add-mhc-fused-post-pre-ker)
