@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[sglang] SGLang NIXL HiCache 리팩토링 및 O_DIRECT 지원 추가: 성능 향상과 안정성 강화 (2026.06.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-25173-refactor-nixl-hicache-add-o-direct-supp)
+- [[vllm] vLLM의 FP8 Scaled MM 최적화: Padding 제거를 통한 20% 성능 향상 (2026.06.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-43706-perf-optimize-cutlass-fp8-scaled-mm-by)
+- [[vllm] [vLLM 분석] DeepSeek V4의 Sparse FP8 Compressor 커널 최적화: CuteDSL을 통한 성능 극대화 (2026.06.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-44161-kerneldsv4-optimize-sparse-fp8-compr)
+- [[uv] uv의 로컬 휠(Wheel) 압축 해제 성능 회귀 문제 해결: astral_async_zip 버전 업데이트 (2026.06.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/uv-pr-19637-fix-performance-regression-in-unzip-of-l)
 - [[논문리뷰] iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning (2026.05.31)](https://blog.secrett2633.cloud/ai/review/2026-06-01-iVGR-Internalizing-Visually-Grounded-Reasoning-for-MLLMs-with-Reinforcement-Learning)
-- [[논문리뷰] dMoE: dLLMs with Learnable Block Experts (2026.05.31)](https://blog.secrett2633.cloud/ai/review/2026-06-01-dMoE-dLLMs-with-Learnable-Block-Experts)
-- [[논문리뷰] When Confidence Misleads: Suffix Anchoring and Anchor-Proximity Confidence Modulation for Diffusion Language Models (2026.05.31)](https://blog.secrett2633.cloud/ai/review/2026-06-01-When-Confidence-Misleads-Suffix-Anchoring-and-Anchor-Proximity-Confidence-Modulation-for-Diffusion-Language-Models)
-- [[논문리뷰] VisualThink-VLA: Visual Intermediate Reasoning for Effective and Low-Latency Vision-Language-Action Policies (2026.05.31)](https://blog.secrett2633.cloud/ai/review/2026-06-01-VisualThink-VLA-Visual-Intermediate-Reasoning-for-Effective-and-Low-Latency-Vision-Language-Action-Policies)
-- [[논문리뷰] VLM3: Vision Language Models Are Native 3D Learners (2026.05.31)](https://blog.secrett2633.cloud/ai/review/2026-06-01-VLM3-Vision-Language-Models-Are-Native-3D-Learners)
