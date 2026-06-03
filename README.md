@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[sglang] DeepSeek V4의 Prefill 성능을 1.35배 향상시킨 FlashAttention 최적화 (2026.06.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-25418-integrate-flash-mla-sparse-fwd)
+- [[feast] Feast 온라인 서빙 성능 튜닝: Sub-2ms 달성을 위한 여정 (2026.06.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/feast-pr-6465-docs-blog-post-about-feature-server-sub)
+- [[vllm] [ROCm CI 최적화] Docker 3단계 빌드 전략으로 빌드 시간 26분 단축하기 (2026.06.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-36949-rocmci-optimize-rocm-docker-build-r)
+- [[transformers] Hugging Face Transformers: Slow Tokenizer 성능 회귀 문제 해결하기 (2026.06.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/transformers-pr-46323-fix-convert-tokens-to-ids-performance-re)
 - [[transformers] Hugging Face Transformers: SequenceFeatureExtractor.pad() 최적화로 불필요한 NumPy 배열 재변환 제거 (2026.06.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/transformers-pr-46329-perffeature-extraction-sequence-skip)
-- [[flashinfer] FlashInfer FP8 KV-Cache Prefill 성능 최적화: Repacking 기법을 통한 오버헤드 제거 (2026.06.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3485-perfattention-speed-up-fp8-kv-cache-p)
-- [[sglang] SGLang의 NIXL 통신 최적화: Prep+Make API 도입을 통한 KV 캐시 전송 성능 향상 (2026.06.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-26406-nixl-use-prepmake-api-to-improve-perfo)
-- [[onnxruntime] ONNX Runtime CUDA Graph: 진정한 비동기 추론을 위한 동기화 지점 제거 (2026.06.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-28686-honor-disable-synchronize-execution-prov)
-- [[sglang] SGLang NIXL HiCache 리팩토링 및 O_DIRECT 지원 추가: 성능 향상과 안정성 강화 (2026.06.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-25173-refactor-nixl-hicache-add-o-direct-supp)
