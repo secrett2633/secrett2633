@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[cpython] CPython 내부 들여다보기: logging.getLogger()는 어떻게 33% 더 빨라졌나? (2026.06.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-150825-gh-150818-speed-up-logginggetlogger)
+- [[sglang] 실시간 RGB 전송 속도 향상을 위한 최적화 분석 (2026.06.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27236-diffusion-speed-up-lossless-realtime-r)
+- [[flashinfer] FlashInfer의 MoE Routing 성능 최적화: Batcher's Odd-Even Merge Sort 도입 (2026.06.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3476-optimize-moe-routing-top-k-reduction-and)
+- [[ray] Ray Data의 hash_partition 성능을 7배 향상시킨 최적화 전략 (2026.06.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/ray-pr-63498-data-boost-hash-partition-w-sort-indi)
 - [[sglang] DeepSeek V4의 Prefill 성능을 1.35배 향상시킨 FlashAttention 최적화 (2026.06.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-25418-integrate-flash-mla-sparse-fwd)
-- [[feast] Feast 온라인 서빙 성능 튜닝: Sub-2ms 달성을 위한 여정 (2026.06.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/feast-pr-6465-docs-blog-post-about-feature-server-sub)
-- [[vllm] [ROCm CI 최적화] Docker 3단계 빌드 전략으로 빌드 시간 26분 단축하기 (2026.06.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-36949-rocmci-optimize-rocm-docker-build-r)
-- [[transformers] Hugging Face Transformers: Slow Tokenizer 성능 회귀 문제 해결하기 (2026.06.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/transformers-pr-46323-fix-convert-tokens-to-ids-performance-re)
-- [[transformers] Hugging Face Transformers: SequenceFeatureExtractor.pad() 최적화로 불필요한 NumPy 배열 재변환 제거 (2026.06.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/transformers-pr-46329-perffeature-extraction-sequence-skip)
