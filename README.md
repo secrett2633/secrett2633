@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[hermes-agent] CLI 사용자 경험 개선: 백그라운드 캐시 워밍을 통한 모델 선택기 응답 속도 최적화 (2026.06.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/hermes-agent-pr-39847-perfmodel-prewarm-picker-provider-mo)
+- [[sglang] [SGLang] LingBot 실시간 서빙 최적화: 카메라 컨디셔닝 캐싱과 전송 프로토콜 개선 (2026.06.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27297-diffusion-optimize-lingbot-realtime-tr)
+- [[uv] uv, 대규모 워크스페이스 탐색 속도 1.8배 향상: 중복 파일 읽기 제거 (2026.06.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/uv-pr-18311-speedup-discovery-of-large-workspaces)
 - [[cpython] CPython 내부 들여다보기: logging.getLogger()는 어떻게 33% 더 빨라졌나? (2026.06.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-150825-gh-150818-speed-up-logginggetlogger)
 - [[sglang] 실시간 RGB 전송 속도 향상을 위한 최적화 분석 (2026.06.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27236-diffusion-speed-up-lossless-realtime-r)
-- [[flashinfer] FlashInfer의 MoE Routing 성능 최적화: Batcher's Odd-Even Merge Sort 도입 (2026.06.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3476-optimize-moe-routing-top-k-reduction-and)
-- [[ray] Ray Data의 hash_partition 성능을 7배 향상시킨 최적화 전략 (2026.06.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/ray-pr-63498-data-boost-hash-partition-w-sort-indi)
-- [[sglang] DeepSeek V4의 Prefill 성능을 1.35배 향상시킨 FlashAttention 최적화 (2026.06.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-25418-integrate-flash-mla-sparse-fwd)
