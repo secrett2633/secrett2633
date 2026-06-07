@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[axolotl] ScatterMoE LoRA 최적화: Grouped-Gram 및 Sync-free 역전파 구현 (2026.06.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/axolotl-pr-3712-perfscattermoe-lora-grouped-gram-dad)
+- [[cpython] Python re 모듈의 findall, sub, subn 성능 개선: PyList_AppendTakeRef 도입 (2026.06.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-150943-gh-150942-speed-up-refindall-and-resu)
+- [[cpython] CPython 내부 최적화: Reference Stealing을 통한 Frame Locals 수집 속도 향상 (2026.06.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-151002-gh-150942-speed-up-frame-local-item-col)
+- [[sglang] SGLang의 Ideogram4 추론 성능 최적화: Denoising 루프 내 오버헤드 제거 (2026.06.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27443-diffusion-precompute-ideogram4-denoisi)
 - [[vllm] vLLM의 GDN 어텐션 최적화: Prefill과 Decode 배치 분리를 통한 2배 성능 향상 (2026.06.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-44700-perf-qwen35-split-mixed-prefilldec)
-- [[sglang] UniPC 스케줄러에서 GPU 동기화 제거를 통한 성능 최적화 분석 (2026.06.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27440-diffusion-avoid-gpu-syncs-in-unipc-sch)
-- [[hermes-agent] CLI 사용자 경험 개선: 백그라운드 캐시 워밍을 통한 모델 선택기 응답 속도 최적화 (2026.06.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/hermes-agent-pr-39847-perfmodel-prewarm-picker-provider-mo)
-- [[sglang] [SGLang] LingBot 실시간 서빙 최적화: 카메라 컨디셔닝 캐싱과 전송 프로토콜 개선 (2026.06.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27297-diffusion-optimize-lingbot-realtime-tr)
-- [[uv] uv, 대규모 워크스페이스 탐색 속도 1.8배 향상: 중복 파일 읽기 제거 (2026.06.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/uv-pr-18311-speedup-discovery-of-large-workspaces)
