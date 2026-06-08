@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[sglang] SGLang의 Spectral Progressive Diffusion 도입: 추론 속도 최대 2.78배 향상 (2026.06.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27524-diffusion-progressive-resolution-growi)
+- [[vllm] vLLM CPU 추론 성능 최적화: Speculative Decoding과 libiomp5의 중요성 (2026.06.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-44419-cpuspec-decode-warn-about-throughput)
+- [[triton] [AMD Triton] LLVM InstCombine의 함정을 피하는 법: TDM 텐서 클램핑 최적화 (2026.06.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-10517-amdrephrase-tdm-tensor-dim-clamping-to)
+- [[sglang] AMD MI300에서의 GPT-OSS 120B 추론 성능 최적화: 새로운 KV 캐시 레이아웃과 커널 통합 (2026.06.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27063-amd-optimize-gpt-oss-120b-performance)
 - [[axolotl] ScatterMoE LoRA 최적화: Grouped-Gram 및 Sync-free 역전파 구현 (2026.06.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/axolotl-pr-3712-perfscattermoe-lora-grouped-gram-dad)
-- [[cpython] Python re 모듈의 findall, sub, subn 성능 개선: PyList_AppendTakeRef 도입 (2026.06.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-150943-gh-150942-speed-up-refindall-and-resu)
-- [[cpython] CPython 내부 최적화: Reference Stealing을 통한 Frame Locals 수집 속도 향상 (2026.06.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-151002-gh-150942-speed-up-frame-local-item-col)
-- [[sglang] SGLang의 Ideogram4 추론 성능 최적화: Denoising 루프 내 오버헤드 제거 (2026.06.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27443-diffusion-precompute-ideogram4-denoisi)
-- [[vllm] vLLM의 GDN 어텐션 최적화: Prefill과 Decode 배치 분리를 통한 2배 성능 향상 (2026.06.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-44700-perf-qwen35-split-mixed-prefilldec)
