@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[onnxruntime] WebGPU 성능 최적화: Graph Capture 재사용을 위한 Session-level Buffer Pool 도입 (2026.06.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-28761-webgpu-add-session-level-buffer-pool-fo)
+- [[sglang] SGLang에서 DP Attention, TBO, Shared Experts Fusion 동시 최적화 구현 (2026.06.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27510-deepseek-enable-dp-attention-tbo-s)
+- [[flashinfer] FlashInfer Unified MoE API: NVFP4 백엔드 통합 및 자동 튜닝 최적화 (2026.06.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3093-unified-moe-api-moelayer-with-cross-bac)
+- [[vllm] vLLM, DFlash 도입으로 추론 속도 1.2배 향상: MRV2와 CUDAGraph의 시너지 (2026.06.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-44586-mrv2spec-decode-dflash)
 - [[loki] Grafana Loki의 Shuffle Sharding 알고리즘 최적화: 성능 향상의 비결 (2026.06.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-22269-perf-optimise-rendezvous-shuffle-shardi)
-- [[sglang] SGLang LTX-2 VAE 디코딩 성능 최적화: channels_last_3d 도입으로 4.5배 속도 향상 (2026.06.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27431-diffusion-run-ltx-2-vae-decode-in-chan)
-- [[transformers] Hugging Face Transformers: 멀티프로세싱 풀 재사용을 통한 모듈식 변환 성능 최적화 (2026.06.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/transformers-pr-46438-speed-up-modular-conversion-by-reusing-p)
-- [[transformers] [Hugging Face] n-to-1 커널 퓨전과 파라미터 변환: KernelConfig API의 진화 (2026.06.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/transformers-pr-46339-extended-simplified-n-to-1-kernel-fusi)
-- [[sglang] SGLang의 Spectral Progressive Diffusion 도입: 추론 속도 최대 2.78배 향상 (2026.06.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27524-diffusion-progressive-resolution-growi)
