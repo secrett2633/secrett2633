@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[sglang] [SGLang] VAE 병렬 디코딩 최적화: CFG 병렬화와의 시너지 분석 (2026.06.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27875-diffusion-optimize-enable-vae-paralle)
+- [[sglang] SGLang PD-Disaggregation 최적화: Mori 백엔드에서의 증분 KV 전송 구현 (2026.06.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-26288-pdamd-incremental-kv-transfer-with)
+- [[sglang] Apple Silicon MLX 환경에서 SwitchGLU MoE 블록의 SwiGLU 활성화를 Gate Gather-QMV로 융합하여 성능 최적화 (2026.06.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-26188-apple-silicon-mlx-fuse-swiglu-activa)
+- [[triton] Triton AMD StreamK GEMM 커널의 Race Condition 해결: 동기화 로직 최적화 분석 (2026.06.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-10594-amd-fix-race-in-f16-streamk-gemm-kerne)
 - [[sglang] Cutlass FP8 Blockwise GEMM 최적화: 불필요한 패딩 제거로 GPU 성능 향상 (2026.06.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27896-perf-skip-per-call-mat-ascales-a-padd)
-- [[vllm] vLLM에서 Lfm2VL 모델을 위한 Encoder CUDA Graph 최적화 적용 (2026.06.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-44930-model-add-encoder-cuda-graph-support-t)
-- [[triton] Triton에서 i8 행렬 곱셈 최적화: 레지스터 압력 감소 및 성능 향상 (2026.06.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-10533-fpsan-optimize-i8-decomposition)
-- [[onnxruntime] ONNX Runtime CUDA MoE: 소규모 배치 디코딩을 위한 SoftmaxTopK 라우터 최적화 (2026.06.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-29026-cuda-optimize-qmoe-softmaxtopk-router)
-- [[onnxruntime] WebGPU FlashAttention 최적화: 커널 퓨전과 가변 시퀀스 길이 지원으로 성능 극대화 (2026.06.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-28389-webgpu-fuse-flashattention-decode-kerne)
