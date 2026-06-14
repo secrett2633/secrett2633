@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[hermes-agent] [성능 최적화] OpenRouter 모델 메타데이터의 디스크 캐싱 도입기: Hermes Agent의 콜드 스타트 개선 (2026.06.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/hermes-agent-pr-46114-perfmodel-metadata-persist-openrouter)
+- [[sglang] SGLang의 긴 문맥 처리 최적화: fill_ids 재구성 오버헤드 줄이기 (2026.06.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27965-perf-reduce-overhead-of-fill-ids-list)
+- [[vllm] vLLM의 동적 추측 디코딩(Dynamic Speculative Decoding) 도입 (2026.06.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-32374-v1spec-decode-add-dynamic-sd)
+- [[sglang] SGLang, GPU 간 VAE 디코딩 최적화를 통한 이미지 생성 속도 향상 (2026.06.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28071-enable-spatial-shard-vae-decode-across-g)
 - [[sglang] [SGLang] VAE 병렬 디코딩 최적화: CFG 병렬화와의 시너지 분석 (2026.06.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27875-diffusion-optimize-enable-vae-paralle)
-- [[sglang] SGLang PD-Disaggregation 최적화: Mori 백엔드에서의 증분 KV 전송 구현 (2026.06.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-26288-pdamd-incremental-kv-transfer-with)
-- [[sglang] Apple Silicon MLX 환경에서 SwitchGLU MoE 블록의 SwiGLU 활성화를 Gate Gather-QMV로 융합하여 성능 최적화 (2026.06.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-26188-apple-silicon-mlx-fuse-swiglu-activa)
-- [[triton] Triton AMD StreamK GEMM 커널의 Race Condition 해결: 동기화 로직 최적화 분석 (2026.06.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-10594-amd-fix-race-in-f16-streamk-gemm-kerne)
-- [[sglang] Cutlass FP8 Blockwise GEMM 최적화: 불필요한 패딩 제거로 GPU 성능 향상 (2026.06.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27896-perf-skip-per-call-mat-ascales-a-padd)
