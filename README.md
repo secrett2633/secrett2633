@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[onnxruntime] ONNX Runtime WebGPU: Reduce 연산 최적화를 통한 성능 향상 (2026.06.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-28174-webgpu-use-naive-reduction)
+- [[sglang] Ascend NPU에서 Qwen3 모델을 위한 W8A8 MXFP8 양자화 지원 (2026.06.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-22352-sparkles-llmnpuquant-add-w8a8-mx)
+- [[sglang] [성능 최적화] Wan2.2 모델을 위한 최적의 torch.compile 모드 찾기: 왜 'default'가 더 빠를까? (2026.06.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28304-perf-use-default-torch-compile-mode-fo)
+- [[sglang] AMD GPU 최적화: Triton 커널 퓨전을 통한 Qwen2 MoE 공유 전문가 게이팅 성능 향상 (2026.06.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27636-amd-fuse-sigmoid-mul-into-single-tri)
 - [[cpython] CPython unicodedata.normalize() 최적화: Py_UCS4 버퍼 직접 조작으로 성능 향상 (2026.06.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-150782-gh-149079-optimize-sorting-in-unicodeda)
-- [[sglang] SGLang: DeepSeek-R1 FP8 GEMM 성능 회귀 문제 해결 및 최적화 (2026.06.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28073-fix-fix-dsr1-perf-regression-due-to-unn)
-- [[flashinfer] FlashInfer, SM120 GPU를 위한 희소 MLA 커널 추가로 LLM 추론 속도 향상 (2026.06.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3395-featattention-add-sm120-sparse-mla-ke)
-- [[sglang] SGLang NPU 성능 최적화: Disaggregation 모드 개선 분석 (2026.06.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28277-npu-docs-op-performance-optimize)
-- [[transformers] Hugging Face Transformers: logits_to_keep을 활용한 메모리 최적화 (2026.06.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/transformers-pr-46660-cb-slice-logits-inside-the-model)
