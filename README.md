@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[ray] Ray Core의 Lock Contention 해결: Publisher의 비동기 처리 도입 (2026.06.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/ray-pr-63983-core-post-all-object-pubsub-publishes)
+- [[sglang] SGLang 성능 최적화: Speculative Decoding의 H2D 병목 해결 및 코드 중복 제거 (2026.06.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28500-perf-make-spec-decode-penalty-h2d-non)
+- [[sglang] [성능 최적화] SGLang `prepare_for_decode`에서 `latest_output_ids` H2D 복사 비동기화로 디코딩 처리량 30% 향상 (2026.06.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28491-perf-make-latest-output-ids-h2d-non-bl)
+- [[vllm] vLLM에서 Flashinfer 기반 Non-gated MoE bf16 지원 최적화 분석 (2026.06.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-43853-feature-enable-flashinfer-non-gated-moe)
 - [[onnxruntime] ONNX Runtime WebGPU: Reduce 연산 최적화를 통한 성능 향상 (2026.06.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-28174-webgpu-use-naive-reduction)
-- [[sglang] Ascend NPU에서 Qwen3 모델을 위한 W8A8 MXFP8 양자화 지원 (2026.06.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-22352-sparkles-llmnpuquant-add-w8a8-mx)
-- [[sglang] [성능 최적화] Wan2.2 모델을 위한 최적의 torch.compile 모드 찾기: 왜 'default'가 더 빠를까? (2026.06.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28304-perf-use-default-torch-compile-mode-fo)
-- [[sglang] AMD GPU 최적화: Triton 커널 퓨전을 통한 Qwen2 MoE 공유 전문가 게이팅 성능 향상 (2026.06.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-27636-amd-fuse-sigmoid-mul-into-single-tri)
-- [[cpython] CPython unicodedata.normalize() 최적화: Py_UCS4 버퍼 직접 조작으로 성능 향상 (2026.06.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-150782-gh-149079-optimize-sorting-in-unicodeda)
