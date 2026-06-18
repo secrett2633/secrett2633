@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[ray] Ray Core의 Lock Contention 해결: Publisher의 비동기 처리 도입 (2026.06.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/ray-pr-63983-core-post-all-object-pubsub-publishes)
-- [[sglang] SGLang 성능 최적화: Speculative Decoding의 H2D 병목 해결 및 코드 중복 제거 (2026.06.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28500-perf-make-spec-decode-penalty-h2d-non)
-- [[sglang] [성능 최적화] SGLang `prepare_for_decode`에서 `latest_output_ids` H2D 복사 비동기화로 디코딩 처리량 30% 향상 (2026.06.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28491-perf-make-latest-output-ids-h2d-non-bl)
-- [[vllm] vLLM에서 Flashinfer 기반 Non-gated MoE bf16 지원 최적화 분석 (2026.06.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-43853-feature-enable-flashinfer-non-gated-moe)
-- [[onnxruntime] ONNX Runtime WebGPU: Reduce 연산 최적화를 통한 성능 향상 (2026.06.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-28174-webgpu-use-naive-reduction)
+- [[triton] Triton Autotuner 최적화: Pruned Config가 하나일 때 불필요한 벤치마크 생략하기 (2026.06.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-10413-skip-benchmarking-single-pruned-autotune)
+- [[ray] Ray RLlib의 비동기 학습 성능 최적화: PULL 기반 EnvRunnerStateServer 도입 (2026.06.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/ray-pr-63849-rllib-pull-based-envrunnerstateserver)
+- [[vllm] vLLM Mooncake KV 오프로딩 최적화: 불필요한 KV 조회 건너뛰기 (2026.06.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-45444-mooncake-skip-kv-lookup-for-non-reacha)
+- [[sglang] Mamba GDN의 컨볼루션 캐시 최적화: 메모리 사용량 절반으로 줄이기 (2026.06.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28302-mambagdn-deduplicate-spec-conv-windo)
+- [[sglang] SGLang의 Linear-Attention 성능 최적화: int8 체크포인트 풀 도입 (2026.06.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28185-gdnkdamem-cache-int8-checkpoint-po)
