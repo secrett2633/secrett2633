@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[sglang] SGLang LTX-2 최적화: LoRA 병합 오버헤드 제거를 통한 추론 성능 향상 (2026.06.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28594-diffusion-perf-merge-ltx-2-stage-1-di)
+- [[sglang] LTX-2 모델 성능 최적화: NPU 및 GPU에서의 지연 시간 단축 분석 (2026.06.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-22445-npu-diffusion-performance-optimizati)
+- [[cpython] CPython의 PyCriticalSection2 최적화: 중복 락 획득 방지 (2026.06.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-151554-315-gh-150902-optimize-pycriticalsec)
+- [[cpython] CPython 3.14: PyCriticalSection2의 동일 락 재획득 방지 최적화 분석 (2026.06.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-151555-314-gh-150902-optimize-pycriticalsec)
 - [[triton] Triton Autotuner 최적화: Pruned Config가 하나일 때 불필요한 벤치마크 생략하기 (2026.06.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-10413-skip-benchmarking-single-pruned-autotune)
-- [[ray] Ray RLlib의 비동기 학습 성능 최적화: PULL 기반 EnvRunnerStateServer 도입 (2026.06.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/ray-pr-63849-rllib-pull-based-envrunnerstateserver)
-- [[vllm] vLLM Mooncake KV 오프로딩 최적화: 불필요한 KV 조회 건너뛰기 (2026.06.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-45444-mooncake-skip-kv-lookup-for-non-reacha)
-- [[sglang] Mamba GDN의 컨볼루션 캐시 최적화: 메모리 사용량 절반으로 줄이기 (2026.06.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28302-mambagdn-deduplicate-spec-conv-windo)
-- [[sglang] SGLang의 Linear-Attention 성능 최적화: int8 체크포인트 풀 도입 (2026.06.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28185-gdnkdamem-cache-int8-checkpoint-po)
