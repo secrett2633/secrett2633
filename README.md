@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[sglang] [HunyuanVideo] Sequence Parallelism 최적화: Text Token Sharding으로 성능 한계 돌파하기 (2026.06.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28319-diffusion-shard-hunyuanvideo-text-toke)
+- [[vllm] vLLM Qwen3-VL 멀티 비디오 프롬프트 처리 최적화 분석 (2026.06.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-46026-perf-optimize-qwen3-vl-multi-video-pro)
+- [[axolotl] Axolotl, Marlin W4A16 도입으로 MoE 모델 추론 속도 1.79배 향상 및 품질 개선 (2026.06.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/axolotl-pr-3745-marlin-w4a16-sm120-forward-backend-for-t)
+- [[sglang] SGLang: AMD GPU 환경에서의 DeepSeek-V4 성능 최적화 분석 (2026.06.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28722-amd-optimize-o-proj-gemm-and-attn-outp)
 - [[sglang] SGLang LTX-2 최적화: LoRA 병합 오버헤드 제거를 통한 추론 성능 향상 (2026.06.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28594-diffusion-perf-merge-ltx-2-stage-1-di)
-- [[sglang] LTX-2 모델 성능 최적화: NPU 및 GPU에서의 지연 시간 단축 분석 (2026.06.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-22445-npu-diffusion-performance-optimizati)
-- [[cpython] CPython의 PyCriticalSection2 최적화: 중복 락 획득 방지 (2026.06.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-151554-315-gh-150902-optimize-pycriticalsec)
-- [[cpython] CPython 3.14: PyCriticalSection2의 동일 락 재획득 방지 최적화 분석 (2026.06.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-151555-314-gh-150902-optimize-pycriticalsec)
-- [[triton] Triton Autotuner 최적화: Pruned Config가 하나일 때 불필요한 벤치마크 생략하기 (2026.06.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-10413-skip-benchmarking-single-pruned-autotune)
