@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[sglang] [HunyuanVideo] Sequence Parallelism 최적화: Text Token Sharding으로 성능 한계 돌파하기 (2026.06.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28319-diffusion-shard-hunyuanvideo-text-toke)
-- [[vllm] vLLM Qwen3-VL 멀티 비디오 프롬프트 처리 최적화 분석 (2026.06.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-46026-perf-optimize-qwen3-vl-multi-video-pro)
-- [[axolotl] Axolotl, Marlin W4A16 도입으로 MoE 모델 추론 속도 1.79배 향상 및 품질 개선 (2026.06.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/axolotl-pr-3745-marlin-w4a16-sm120-forward-backend-for-t)
-- [[sglang] SGLang: AMD GPU 환경에서의 DeepSeek-V4 성능 최적화 분석 (2026.06.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28722-amd-optimize-o-proj-gemm-and-attn-outp)
-- [[sglang] SGLang LTX-2 최적화: LoRA 병합 오버헤드 제거를 통한 추론 성능 향상 (2026.06.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28594-diffusion-perf-merge-ltx-2-stage-1-di)
+- [[loki] Grafana Loki 엔진의 집계 성능 최적화: 메모리 할당 감소와 효율적인 라벨 처리 (2026.06.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-22526-chore-apply-several-aggregation-optimiz)
+- [[sglang] SGLang 성능 최적화: D2H 복사 연산의 비동기 오버랩 구현 (2026.06.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-29075-perf-overlap-result-d2h-copy-with-the)
+- [[axolotl] Axolotl, 대규모 언어 모델 학습 시 메모리 부족 문제 해결: 효율적인 데이터셋 처리 개선 (2026.06.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/axolotl-pr-3711-fix-ram-oom-when-loading-large-preproces)
+- [[onnxruntime] ONNX Runtime: MoE Router GEMV 최적화 및 Bias Fusion 구현 (2026.06.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-29170-cuda-fuse-moe-router-bias-into-matmuln)
+- [[논문리뷰] World Value Models for Robotic Manipulation (2026.06.23)](https://blog.secrett2633.cloud/ai/review/2026-06-24-World-Value-Models-for-Robotic-Manipulation)
