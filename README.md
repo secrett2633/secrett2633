@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[loki] Grafana Loki 엔진의 집계 성능 최적화: 메모리 할당 감소와 효율적인 라벨 처리 (2026.06.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-22526-chore-apply-several-aggregation-optimiz)
-- [[sglang] SGLang 성능 최적화: D2H 복사 연산의 비동기 오버랩 구현 (2026.06.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-29075-perf-overlap-result-d2h-copy-with-the)
-- [[axolotl] Axolotl, 대규모 언어 모델 학습 시 메모리 부족 문제 해결: 효율적인 데이터셋 처리 개선 (2026.06.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/axolotl-pr-3711-fix-ram-oom-when-loading-large-preproces)
-- [[onnxruntime] ONNX Runtime: MoE Router GEMV 최적화 및 Bias Fusion 구현 (2026.06.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-29170-cuda-fuse-moe-router-bias-into-matmuln)
-- [[논문리뷰] World Value Models for Robotic Manipulation (2026.06.23)](https://blog.secrett2633.cloud/ai/review/2026-06-24-World-Value-Models-for-Robotic-Manipulation)
+- [[논문리뷰] When Lower Privileges Suffice: Investigating Over-Privileged Tool Selection in LLM Agents (2026.06.24)](https://blog.secrett2633.cloud/ai/review/2026-06-25-When-Lower-Privileges-Suffice-Investigating-Over-Privileged-Tool-Selection-in-LLM-Agents)
+- [[논문리뷰] What Intermediate Layers Know: Detecting Jailbreaks from Entropy Dynamics (2026.06.24)](https://blog.secrett2633.cloud/ai/review/2026-06-25-What-Intermediate-Layers-Know-Detecting-Jailbreaks-from-Entropy-Dynamics)
+- [[논문리뷰] Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models (2026.06.24)](https://blog.secrett2633.cloud/ai/review/2026-06-25-Wan-Streamer-v0-1-End-to-end-Real-time-Interactive-Foundation-Models)
+- [[논문리뷰] V-Zero: Answer-Label-Free On-Policy Distillation with Contrastive Evidence Gating for Fine-Grained Visual Reasoning (2026.06.24)](https://blog.secrett2633.cloud/ai/review/2026-06-25-V-Zero-Answer-Label-Free-On-Policy-Distillation-with-Contrastive-Evidence-Gating-for-Fine-Grained-Visual-Reasoning)
+- [[논문리뷰] UnityShots: Memory-Driven Multi-Shot Audio-Video Generation with Boundary-Aware Gating (2026.06.24)](https://blog.secrett2633.cloud/ai/review/2026-06-25-UnityShots-Memory-Driven-Multi-Shot-Audio-Video-Generation-with-Boundary-Aware-Gating)
