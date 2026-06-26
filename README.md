@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] When Lower Privileges Suffice: Investigating Over-Privileged Tool Selection in LLM Agents (2026.06.24)](https://blog.secrett2633.cloud/ai/review/2026-06-25-When-Lower-Privileges-Suffice-Investigating-Over-Privileged-Tool-Selection-in-LLM-Agents)
-- [[논문리뷰] What Intermediate Layers Know: Detecting Jailbreaks from Entropy Dynamics (2026.06.24)](https://blog.secrett2633.cloud/ai/review/2026-06-25-What-Intermediate-Layers-Know-Detecting-Jailbreaks-from-Entropy-Dynamics)
-- [[논문리뷰] Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models (2026.06.24)](https://blog.secrett2633.cloud/ai/review/2026-06-25-Wan-Streamer-v0-1-End-to-end-Real-time-Interactive-Foundation-Models)
-- [[논문리뷰] V-Zero: Answer-Label-Free On-Policy Distillation with Contrastive Evidence Gating for Fine-Grained Visual Reasoning (2026.06.24)](https://blog.secrett2633.cloud/ai/review/2026-06-25-V-Zero-Answer-Label-Free-On-Policy-Distillation-with-Contrastive-Evidence-Gating-for-Fine-Grained-Visual-Reasoning)
-- [[논문리뷰] UnityShots: Memory-Driven Multi-Shot Audio-Video Generation with Boundary-Aware Gating (2026.06.24)](https://blog.secrett2633.cloud/ai/review/2026-06-25-UnityShots-Memory-Driven-Multi-Shot-Audio-Video-Generation-with-Boundary-Aware-Gating)
+- [[vllm] vLLM, DeepSeek V4 모델 성능 최적화: AITER MXFP4 BF16 백엔드 개선 (2026.06.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-46122-rocm-performance-optimize-aiter-moe)
+- [[vllm] vLLM ROCm 환경에서 Shared-Expert Fusion을 통한 MoE 추론 성능 최적화 (2026.06.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-46545-rocm-moe-perf-shared-expert-fusion)
+- [[onnxruntime] [ONNX Runtime] SGEMM의 함정에서 벗어나기: GQA 전용 GEMV 커널을 통한 디코딩 최적화 (2026.06.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-29216-cpu-add-fp32-gemv-decode-kernel-for-gr)
+- [[논문리뷰] Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It (2026.06.25)](https://blog.secrett2633.cloud/ai/review/2026-06-26-Why-Multi-Step-Tool-Use-Reinforcement-Learning-Collapses-and-How-Supervisory-Signals-Fix-It)
+- [[논문리뷰] When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models (2026.06.25)](https://blog.secrett2633.cloud/ai/review/2026-06-26-When-Does-Combining-Language-Models-Help-A-Co-Failure-Ceiling-on-Routing-Voting-and-Mixture-of-Agents-Across-67-Frontier-Models)
