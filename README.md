@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[vllm] vLLM, DeepSeek V4 모델 성능 최적화: AITER MXFP4 BF16 백엔드 개선 (2026.06.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-46122-rocm-performance-optimize-aiter-moe)
-- [[vllm] vLLM ROCm 환경에서 Shared-Expert Fusion을 통한 MoE 추론 성능 최적화 (2026.06.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-46545-rocm-moe-perf-shared-expert-fusion)
-- [[onnxruntime] [ONNX Runtime] SGEMM의 함정에서 벗어나기: GQA 전용 GEMV 커널을 통한 디코딩 최적화 (2026.06.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-29216-cpu-add-fp32-gemv-decode-kernel-for-gr)
-- [[논문리뷰] Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It (2026.06.25)](https://blog.secrett2633.cloud/ai/review/2026-06-26-Why-Multi-Step-Tool-Use-Reinforcement-Learning-Collapses-and-How-Supervisory-Signals-Fix-It)
-- [[논문리뷰] When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models (2026.06.25)](https://blog.secrett2633.cloud/ai/review/2026-06-26-When-Does-Combining-Language-Models-Help-A-Co-Failure-Ceiling-on-Routing-Voting-and-Mixture-of-Agents-Across-67-Frontier-Models)
+- [[uv] uv 의존성 해결 성능 최적화: PubGrub 반복 작업 재사용으로 8% 이상 속도 향상 (2026.06.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/uv-pr-20020-reuse-resolver-work-across-pubgrub-itera)
+- [[vllm] vLLM ROCm 환경에서 FlyDSL을 활용한 MXFP8 MoE 성능 최적화 (2026.06.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-46184-rocmperf-use-flydsl-moe-with-minimax)
+- [[sglang] SGLang LTX-2.3 Diffusion 모델 최적화: Residual-Gate 연산 CUDA Fast Path 도입 (2026.06.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-29361-kda-pilot-add-diffusion-residual-gate)
+- [[vllm] vLLM의 GLM5.2 성능 최적화: Triton 커널 융합을 통한 E2E Throughput 향상 (2026.06.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-46862-glm52-perf-fused-indexer-q-rope-quan)
+- [[sglang] SGLang, CUDA 그래프 재실행 시 호스트-디바이스 동기화 제거로 성능 향상 (2026.06.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-29415-dsa-remove-host-h2d-sync-in-apply-cud)
