@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[vllm] vLLM ROCM 최적화: GLM-4 MoE를 위한 Fused Shared Expert(FSE) 도입 (2026.06.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-44313-rocmperf-add-fused-shared-expert-fs)
 - [[uv] uv 의존성 해결 성능 최적화: PubGrub 반복 작업 재사용으로 8% 이상 속도 향상 (2026.06.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/uv-pr-20020-reuse-resolver-work-across-pubgrub-itera)
 - [[vllm] vLLM ROCm 환경에서 FlyDSL을 활용한 MXFP8 MoE 성능 최적화 (2026.06.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-46184-rocmperf-use-flydsl-moe-with-minimax)
 - [[sglang] SGLang LTX-2.3 Diffusion 모델 최적화: Residual-Gate 연산 CUDA Fast Path 도입 (2026.06.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-29361-kda-pilot-add-diffusion-residual-gate)
 - [[vllm] vLLM의 GLM5.2 성능 최적화: Triton 커널 융합을 통한 E2E Throughput 향상 (2026.06.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-46862-glm52-perf-fused-indexer-q-rope-quan)
-- [[sglang] SGLang, CUDA 그래프 재실행 시 호스트-디바이스 동기화 제거로 성능 향상 (2026.06.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-29415-dsa-remove-host-h2d-sync-in-apply-cud)
