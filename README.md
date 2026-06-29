@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[vllm] vLLM ROCM 최적화: GLM-4 MoE를 위한 Fused Shared Expert(FSE) 도입 (2026.06.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-44313-rocmperf-add-fused-shared-expert-fs)
-- [[uv] uv 의존성 해결 성능 최적화: PubGrub 반복 작업 재사용으로 8% 이상 속도 향상 (2026.06.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/uv-pr-20020-reuse-resolver-work-across-pubgrub-itera)
-- [[vllm] vLLM ROCm 환경에서 FlyDSL을 활용한 MXFP8 MoE 성능 최적화 (2026.06.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-46184-rocmperf-use-flydsl-moe-with-minimax)
-- [[sglang] SGLang LTX-2.3 Diffusion 모델 최적화: Residual-Gate 연산 CUDA Fast Path 도입 (2026.06.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-29361-kda-pilot-add-diffusion-residual-gate)
-- [[vllm] vLLM의 GLM5.2 성능 최적화: Triton 커널 융합을 통한 E2E Throughput 향상 (2026.06.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-46862-glm52-perf-fused-indexer-q-rope-quan)
+- [[open-webui] Open WebUI 성능 최적화: Svelte 컴포넌트에서 불필요한 HTML 재정제 방지 (2026.06.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/open-webui-pr-26325-perf-skip-re-sanitizing-unchanged-html)
+- [[flashinfer] FlashInfer의 TRTLLM-Gen MoE 라우팅 최적화: 레지스터 압박 해소와 성능 극대화 (2026.06.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3751-feat-optimize-trtllmgen-moe-routing)
+- [[vllm] vLLM의 성능 극대화: Helion 커널을 활용한 fused_qk_norm_rope 최적화 (2026.06.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-44010-kernelhelion1n-add-helion-kernel)
+- [[faster-qwen3-tts] Qwen3-TTS, GGML 백엔드 통합으로 속도 혁신: C++ 네이티브 백엔드의 놀라운 성능 향상 (2026.06.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/faster-qwen3-tts-pr-116-add-ggml-backend-integration)
+- [[논문리뷰] Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots (2026.06.28)](https://blog.secrett2633.cloud/ai/review/2026-06-29-Translation-as-a-Bridging-Action-Transferring-Manipulation-Skills-from-Humans-to-Robots)
