@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[axolotl] Axolotl에 도입된 Stateless 최적화: SinkGD로 메모리 효율 극대화하기 (2026.06.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/axolotl-pr-3763-featoptimizers-add-sinkgd-stateless-g)
+- [[sglang] [NPU] GLM-4.7-Flash 성능 최적화: Fused Triton 커널로 연산 병목 해결하기 (2026.06.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-29509-npuglm-47-flash-optimize-with-fused-k)
+- [[onnxruntime] ONNX Runtime QMoE SwiGLU GEMV 최적화: Split-K2 커널로 LLM 추론 가속화 (2026.06.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-29167-cuda-split-k2-qmoe-swiglu-gemv-kernel)
+- [[vllm] vLLM에 고성능 추론을 위한 HPC-Ops Attention 백엔드 도입 (2026.06.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-46020-attention-backend-add-hpc-ops-attentio)
 - [[open-webui] Open WebUI 성능 최적화: Svelte 컴포넌트에서 불필요한 HTML 재정제 방지 (2026.06.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/open-webui-pr-26325-perf-skip-re-sanitizing-unchanged-html)
-- [[flashinfer] FlashInfer의 TRTLLM-Gen MoE 라우팅 최적화: 레지스터 압박 해소와 성능 극대화 (2026.06.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3751-feat-optimize-trtllmgen-moe-routing)
-- [[vllm] vLLM의 성능 극대화: Helion 커널을 활용한 fused_qk_norm_rope 최적화 (2026.06.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-44010-kernelhelion1n-add-helion-kernel)
-- [[faster-qwen3-tts] Qwen3-TTS, GGML 백엔드 통합으로 속도 혁신: C++ 네이티브 백엔드의 놀라운 성능 향상 (2026.06.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/faster-qwen3-tts-pr-116-add-ggml-backend-integration)
-- [[논문리뷰] Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots (2026.06.28)](https://blog.secrett2633.cloud/ai/review/2026-06-29-Translation-as-a-Bridging-Action-Transferring-Manipulation-Skills-from-Humans-to-Robots)
