@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[axolotl] Axolotl에 도입된 Stateless 최적화: SinkGD로 메모리 효율 극대화하기 (2026.06.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/axolotl-pr-3763-featoptimizers-add-sinkgd-stateless-g)
-- [[sglang] [NPU] GLM-4.7-Flash 성능 최적화: Fused Triton 커널로 연산 병목 해결하기 (2026.06.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-29509-npuglm-47-flash-optimize-with-fused-k)
-- [[onnxruntime] ONNX Runtime QMoE SwiGLU GEMV 최적화: Split-K2 커널로 LLM 추론 가속화 (2026.06.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-29167-cuda-split-k2-qmoe-swiglu-gemv-kernel)
-- [[vllm] vLLM에 고성능 추론을 위한 HPC-Ops Attention 백엔드 도입 (2026.06.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-46020-attention-backend-add-hpc-ops-attentio)
-- [[open-webui] Open WebUI 성능 최적화: Svelte 컴포넌트에서 불필요한 HTML 재정제 방지 (2026.06.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/open-webui-pr-26325-perf-skip-re-sanitizing-unchanged-html)
+- [[ray] Ray Object Manager의 Pull RPC 배치 처리 최적화 분석 (2026.07.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/ray-pr-64225-core-batch-object-manager-pull-rpcs-by)
+- [[sglang] SGLang HiCache에 AMD UMBP 기반 L3 스토리지 백엔드 도입 (2026.07.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-25377-hicacheamd-add-umbp-tiered-dram-ss)
+- [[uv] uv, SIMD 가속 TOML 파싱으로 성능 향상 (2026.07.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/uv-pr-20079-enable-simd-accelerated-toml-parsing)
+- [[sglang] DeepSeek NextN을 위한 Fused EH Norm 최적화: 커널 융합으로 성능 극대화하기 (2026.07.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-29667-add-fused-eh-norm-for-deepseek-nextn)
+- [[논문리뷰] Xiaomi-GUI-0 Technical Report (2026.06.30)](https://blog.secrett2633.cloud/ai/review/2026-07-01-Xiaomi-GUI-0-Technical-Report)
