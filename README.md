@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[ray] Ray Object Manager의 Pull RPC 배치 처리 최적화 분석 (2026.07.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/ray-pr-64225-core-batch-object-manager-pull-rpcs-by)
-- [[sglang] SGLang HiCache에 AMD UMBP 기반 L3 스토리지 백엔드 도입 (2026.07.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-25377-hicacheamd-add-umbp-tiered-dram-ss)
-- [[uv] uv, SIMD 가속 TOML 파싱으로 성능 향상 (2026.07.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/uv-pr-20079-enable-simd-accelerated-toml-parsing)
-- [[sglang] DeepSeek NextN을 위한 Fused EH Norm 최적화: 커널 융합으로 성능 극대화하기 (2026.07.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-29667-add-fused-eh-norm-for-deepseek-nextn)
-- [[논문리뷰] Xiaomi-GUI-0 Technical Report (2026.06.30)](https://blog.secrett2633.cloud/ai/review/2026-07-01-Xiaomi-GUI-0-Technical-Report)
+- [[논문리뷰] When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors (2026.07.01)](https://blog.secrett2633.cloud/ai/review/2026-07-02-When-LLMs-Read-Tables-Carelessly-Measuring-and-Reducing-Data-Referencing-Errors)
+- [[논문리뷰] Valdi: Value Diffusion World Models (2026.07.01)](https://blog.secrett2633.cloud/ai/review/2026-07-02-Valdi-Value-Diffusion-World-Models)
+- [[논문리뷰] TurboServe: Serving Streaming Video Generation Efficiently and Economically (2026.07.01)](https://blog.secrett2633.cloud/ai/review/2026-07-02-TurboServe-Serving-Streaming-Video-Generation-Efficiently-and-Economically)
+- [[논문리뷰] The State-Prediction Separation Hypothesis (2026.07.01)](https://blog.secrett2633.cloud/ai/review/2026-07-02-The-State-Prediction-Separation-Hypothesis)
+- [[논문리뷰] Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity (2026.07.01)](https://blog.secrett2633.cloud/ai/review/2026-07-02-Seed2-0-Model-Card-Towards-Intelligence-Frontier-for-Real-World-Complexity)
