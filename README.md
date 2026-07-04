@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors (2026.07.01)](https://blog.secrett2633.cloud/ai/review/2026-07-02-When-LLMs-Read-Tables-Carelessly-Measuring-and-Reducing-Data-Referencing-Errors)
-- [[논문리뷰] Valdi: Value Diffusion World Models (2026.07.01)](https://blog.secrett2633.cloud/ai/review/2026-07-02-Valdi-Value-Diffusion-World-Models)
-- [[논문리뷰] TurboServe: Serving Streaming Video Generation Efficiently and Economically (2026.07.01)](https://blog.secrett2633.cloud/ai/review/2026-07-02-TurboServe-Serving-Streaming-Video-Generation-Efficiently-and-Economically)
-- [[논문리뷰] The State-Prediction Separation Hypothesis (2026.07.01)](https://blog.secrett2633.cloud/ai/review/2026-07-02-The-State-Prediction-Separation-Hypothesis)
-- [[논문리뷰] Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity (2026.07.01)](https://blog.secrett2633.cloud/ai/review/2026-07-02-Seed2-0-Model-Card-Towards-Intelligence-Frontier-for-Real-World-Complexity)
+- [[vllm] vLLM XPU 백엔드 최적화: W8A8 및 W8A16 FP8 Linear 커널 도입 (2026.07.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-43645-xpu-add-w8a8-fp8-linear-kernel-with-mu)
+- [[uv] uv, 휠 파일명 파싱 최적화: 중복 작업 제거와 성능 향상 (2026.07.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/uv-pr-20110-reuse-package-names-when-parsing-wheel-f)
+- [[vllm] vLLM의 Dynamic Speculative Decoding을 위한 Full CUDA Graph 최적화 (2026.07.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-45953-mrv2sd-make-dynamic-sd-comatible-wit)
+- [[uv] Interning을 통한 uv의 Simple API 파싱 최적화: 메모리와 속도 두 마리 토끼 잡기 (2026.07.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/uv-pr-20104-intern-requires-python-specifiers-in-s)
+- [[flashinfer] FlashInfer의 새로운 TGV GEMM 백엔드: CuTeDSL을 활용한 Blackwell 최적화 (2026.07.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3281-featgemm-cutedsl-cute-ext-tgv-backe)
