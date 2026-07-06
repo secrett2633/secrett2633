@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[vllm] [vLLM 성능 최적화] Kimi-K2.5/K2.6 이미지 전처리 10배 가속화: Numba와 퓨전 기법 활용 (2026.07.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-47416-perfadd-fused-kimi-image-preprocessing)
+- [[sglang] sglang, 멀티모달 모델 인코더 병렬 처리 최적화: 전체 복제본 활용으로 성능 향상 (2026.07.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-30086-diffusion-perf-tp-shard-every-textim)
+- [[vllm] vLLM 성능 최적화: token_to_req_indices 캐싱을 통한 6배 성능 향상 (2026.07.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-47474-perf-cache-token-to-req-indices-for)
+- [[vllm] vLLM Transformers Modeling Backend 성능 최적화: 네이티브 수준의 속도 달성 (2026.07.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-47187-make-the-transformers-modeling-backend-a)
 - [[axolotl] Qwen3.5 성능 극대화: PEFT의 불필요한 Dtype 캐스팅 제거와 LoRA 커널 퓨전 (2026.07.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/axolotl-pr-3732-perflora-route-gateddeltanet-projecti)
-- [[vllm] vLLM의 Sequence Parallelism 최적화: DP 의존성 제거를 통한 성능 향상 (2026.07.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-47070-feature-support-sequence-parallel-with)
-- [[uv] uv의 패키지 설치 성능 최적화: 불필요한 site-packages 스캔 제거 (2026.07.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/uv-pr-20119-avoid-full-site-packages-scans-for-direc)
-- [[sglang] SGLang: ROCm 환경에서 RMSNorm의 배치 불변성 확보를 통한 결정론적 추론 개선 (2026.07.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28787-amd-fix-rmsnorm-batch-invariance-on-ro)
-- [[vllm] vLLM XPU 백엔드 최적화: W8A8 및 W8A16 FP8 Linear 커널 도입 (2026.07.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-43645-xpu-add-w8a8-fp8-linear-kernel-with-mu)
