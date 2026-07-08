@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[onnxruntime] ONNX Runtime WebGPU: Intel Xe-3LPG를 위한 고성능 GEMM 최적화 분석 (2026.07.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-29271-webgpu-two-optimizations-for-the-subgro)
+- [[flashinfer] FlashInfer, 초저병렬성 환경에서의 CP 델타 규칙 사전 계산 최적화 (2026.07.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3866-perfgdn-optimize-delta-rule-cp-prefil)
+- [[flashinfer] FlashInfer의 BF16 GEMM 성능 극대화: CUDA Graph와 Cold L2 Cache 도입 (2026.07.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3789-add-cold-l2-and-cuda-graph-to-mm-bf16-ap)
+- [[sglang] SGLang MoE Shared Expert 최적화: 3개 커널을 1개로 융합하여 GPU 오버헤드 제거 (2026.07.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28658-amd-fuse-shared-expert-sigmoid-bf16)
 - [[vllm] vLLM, Diffusion-Gemma 샘플러 메모리 최적화: 요청 기반 타일링으로 OOM 문제 해결 (2026.07.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-45672-perf-bound-diffusiongemma-sampler-tran)
-- [[uv] uv-pep440: 일반적인 버전 문자열 파싱 2배 가속화 최적화 분석 (2026.07.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/uv-pr-20118-optimize-version-parsing-for-common-d)
-- [[uv] uv의 휠 태그 호환성 검사 최적화: 불필요한 메모리 할당 제거하기 (2026.07.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/uv-pr-20171-optimize-expanded-tag-compatibility-chec)
-- [[triton] Triton: Blackwell 아키텍처를 위한 TMEM Load-Reduce 연산 퓨전 최적화 (2026.07.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-10551-blackwell-add-pass-to-combine-tmem-loa)
-- [[vllm] [vLLM 성능 최적화] Kimi-K2.5/K2.6 이미지 전처리 10배 가속화: Numba와 퓨전 기법 활용 (2026.07.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-47416-perfadd-fused-kimi-image-preprocessing)
