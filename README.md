@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[onnxruntime] ONNX Runtime WebGPU: Intel Xe-3LPG를 위한 고성능 GEMM 최적화 분석 (2026.07.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-29271-webgpu-two-optimizations-for-the-subgro)
-- [[flashinfer] FlashInfer, 초저병렬성 환경에서의 CP 델타 규칙 사전 계산 최적화 (2026.07.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3866-perfgdn-optimize-delta-rule-cp-prefil)
-- [[flashinfer] FlashInfer의 BF16 GEMM 성능 극대화: CUDA Graph와 Cold L2 Cache 도입 (2026.07.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3789-add-cold-l2-and-cuda-graph-to-mm-bf16-ap)
-- [[sglang] SGLang MoE Shared Expert 최적화: 3개 커널을 1개로 융합하여 GPU 오버헤드 제거 (2026.07.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28658-amd-fuse-shared-expert-sigmoid-bf16)
-- [[vllm] vLLM, Diffusion-Gemma 샘플러 메모리 최적화: 요청 기반 타일링으로 OOM 문제 해결 (2026.07.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-45672-perf-bound-diffusiongemma-sampler-tran)
+- [[onnxruntime] ONNX Runtime WebGPU: FlashAttentionDecodeQKV 성능 최적화 분석 (2026.07.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-29586-webgpu-bump-flashattentiondecodeqkv-wor)
+- [[transformers] Hugging Face Transformers: Apple Silicon(MPS) 환경의 메모리 누수 해결을 위한 MPS Graph Cache 최적화 (2026.07.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/transformers-pr-45818-trainer-clear-mps-graph-cache-via-torch)
+- [[loki] Grafana Loki LogQL 최적화: `max_query_series` 한도 내에서 효율적인 시리즈 누적 (2026.07.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-23123-perflogql-cap-series-accumulation-at)
+- [[axolotl] Axolotl, NVFP4 LoRA 지원으로 MoE 모델 훈련 최적화 (2026.07.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/axolotl-pr-3780-featkernels-add-nvfp4-lora-sonicmoe-s)
+- [[sglang] SGLang, 대규모 언어 모델 디버깅 속도 향상을 위한 스마트한 텐서 비교 최적화 (2026.07.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-30656-cap-diagnostic-detail-computation-for-fa)
