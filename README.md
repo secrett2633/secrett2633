@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[onnxruntime] ONNX Runtime WebGPU: FlashAttentionDecodeQKV 성능 최적화 분석 (2026.07.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-29586-webgpu-bump-flashattentiondecodeqkv-wor)
-- [[transformers] Hugging Face Transformers: Apple Silicon(MPS) 환경의 메모리 누수 해결을 위한 MPS Graph Cache 최적화 (2026.07.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/transformers-pr-45818-trainer-clear-mps-graph-cache-via-torch)
-- [[loki] Grafana Loki LogQL 최적화: `max_query_series` 한도 내에서 효율적인 시리즈 누적 (2026.07.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-23123-perflogql-cap-series-accumulation-at)
-- [[axolotl] Axolotl, NVFP4 LoRA 지원으로 MoE 모델 훈련 최적화 (2026.07.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/axolotl-pr-3780-featkernels-add-nvfp4-lora-sonicmoe-s)
-- [[sglang] SGLang, 대규모 언어 모델 디버깅 속도 향상을 위한 스마트한 텐서 비교 최적화 (2026.07.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-30656-cap-diagnostic-detail-computation-for-fa)
+- [[loki] Grafana Loki의 안정성 향상: Circuit Breaker 도입을 통한 트래픽 제어 (2026.07.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-23157-feat-add-circuit-breaker-to-drop-traffi)
+- [[ray] [Ray 최적화] 액터 제출 병목 현상 해결: Placement Group 번들 정보 캐싱으로 GCS 부하 줄이기 (2026.07.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/ray-pr-64649-coreactor-scalability-prefill-pg-bun)
+- [[transformers] Hugging Face Transformers의 Flash Attention 성능 회귀(Regression) 해결 (2026.07.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/transformers-pr-47134-fix-fa-performance-regression)
+- [[vllm] vLLM, DeepStream NVDEC 백엔드로 비디오 디코딩 성능 혁신: GPU 가속의 힘 (2026.07.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-42424-deepstream-video-backend)
+- [[flashinfer] FlashInfer 분산 오토튜닝 동기화: NCCL 데드락 해결을 위한 전략적 접근 (2026.07.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3187-add-set-autotune-process-group-to-sync)
