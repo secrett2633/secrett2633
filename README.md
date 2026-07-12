@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[sglang] SGLang, MoonViT의 최대 시퀀스 길이 메타데이터 재사용으로 성능 개선 (2026.07.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-30878-perf-reuse-moonvit-fa3-max-seqlen-metad)
+- [[axolotl] Axolotl의 SinkGD 최적화: Triton 커널과 스펙트럼 정규화로 성능 극대화 (2026.07.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/axolotl-pr-3785-featoptimizers-sinkgd-width-transfer)
+- [[vllm] vLLM에서 Qwen MoE 모델의 All-Reduce를 Reduce-Scatter로 최적화하기 (2026.07.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-47006-perfqwen-replace-moe-all-reduce-with)
+- [[vllm] vLLM 하이브리드 모델을 위한 혁신: Partial Prefix Cache Hit 구현 분석 (2026.07.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-46384-2ncore-support-partial-prefix-cache)
 - [[flashinfer] FlashInfer MoE 최적화: PDL 스케줄링 개선 및 GEMM2 균형 잡힌 스토어 구현 (2026.07.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3756-cute-dslmoe-optimize-pdl-startup-a)
-- [[loki] Grafana Loki의 안정성 향상: Circuit Breaker 도입을 통한 트래픽 제어 (2026.07.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-23157-feat-add-circuit-breaker-to-drop-traffi)
-- [[ray] [Ray 최적화] 액터 제출 병목 현상 해결: Placement Group 번들 정보 캐싱으로 GCS 부하 줄이기 (2026.07.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/ray-pr-64649-coreactor-scalability-prefill-pg-bun)
-- [[transformers] Hugging Face Transformers의 Flash Attention 성능 회귀(Regression) 해결 (2026.07.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/transformers-pr-47134-fix-fa-performance-regression)
-- [[vllm] vLLM, DeepStream NVDEC 백엔드로 비디오 디코딩 성능 혁신: GPU 가속의 힘 (2026.07.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-42424-deepstream-video-backend)
