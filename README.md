@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[sglang] SGLang, MoonViT의 최대 시퀀스 길이 메타데이터 재사용으로 성능 개선 (2026.07.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-30878-perf-reuse-moonvit-fa3-max-seqlen-metad)
-- [[axolotl] Axolotl의 SinkGD 최적화: Triton 커널과 스펙트럼 정규화로 성능 극대화 (2026.07.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/axolotl-pr-3785-featoptimizers-sinkgd-width-transfer)
-- [[vllm] vLLM에서 Qwen MoE 모델의 All-Reduce를 Reduce-Scatter로 최적화하기 (2026.07.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-47006-perfqwen-replace-moe-all-reduce-with)
-- [[vllm] vLLM 하이브리드 모델을 위한 혁신: Partial Prefix Cache Hit 구현 분석 (2026.07.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-46384-2ncore-support-partial-prefix-cache)
-- [[flashinfer] FlashInfer MoE 최적화: PDL 스케줄링 개선 및 GEMM2 균형 잡힌 스토어 구현 (2026.07.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3756-cute-dslmoe-optimize-pdl-startup-a)
+- [[vllm] vLLM의 ROCm 환경 성능 최적화: CUDA Graph 메모리 프로파일링 비활성화 (2026.07.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-48440-re-disable-cuda-graph-memory-profiling-o)
+- [[sglang] SGLang, FlashInfer의 CuTe DSL 백엔드 도입으로 NVFP4 양자화 성능 극대화 (2026.07.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-28220-flashinfer-v0613-use-cute-dsl-backen)
+- [[vllm] vLLM의 FlashInfer MNNVL AllReduce RMSNorm 양자화 융합 최적화 (2026.07.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-48064-distributedperf-enable-flashinfer-mn)
+- [[논문리뷰] Video Generation Models are General-Purpose Vision Learners (2026.07.12)](https://blog.secrett2633.cloud/ai/review/2026-07-13-Video-Generation-Models-are-General-Purpose-Vision-Learners)
+- [[논문리뷰] VaseMuseum: Digital Intelligent Museum for Ancient Greek Pottery (2026.07.12)](https://blog.secrett2633.cloud/ai/review/2026-07-13-VaseMuseum-Digital-Intelligent-Museum-for-Ancient-Greek-Pottery)
