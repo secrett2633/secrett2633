@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] FlashInfer의 FP4 GEMM 최적화: 휴리스틱 개선과 Autotuning 효율화 (2026.07.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3948-perfgemm-update-mm-fp4-cute-dsl-tacti)
+- [[ultralytics] [Ultralytics] NDJSON 변환 최적화: 보안과 성능을 동시에 잡는 설계 전략 (2026.07.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-25196-revert-25188-and-secure-ndjson-paths-wi)
+- [[sglang] SGLang에 KDA FlashInfer 백엔드 도입: Blackwell 아키텍처에서의 효율적인 추론 (2026.07.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-30113-kda-add-flashinfer-sm100-kda-decode)
+- [[sglang] SGLang MoE All-Reduce 최적화: NCCL Symmetric Memory 활용으로 지연 시간 50% 단축 (2026.07.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-29007-fix-moe-tp-allreduce-to-use-nccl-symmetr)
 - [[ray] [Ray] gRPC 메트릭 객체 재사용을 통한 GCS 확장성 개선 (13% 성능 향상) (2026.07.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/ray-pr-64732-coreactor-scalability-construct-grpc)
-- [[cutlass] NVIDIA Hopper에서 FP8 GEMM + GELU 퓨전 최적화: CuTe DSL 활용 (2026.07.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/cutlass-pr-3378-hopper-cutedsl-add-fp8-gemm-with-gelu)
-- [[cutlass] NVIDIA CUTLASS CuTeDSL: SM103 Grouped Block-Scaled GEMM 최적화 분석 (2026.07.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/cutlass-pr-3124-cutedsl-add-sm103-grouped-block-scaled)
-- [[flashinfer] FlashInfer: NVIDIA Blackwell(SM120)을 위한 고성능 FP8 MoE GEMM 최적화 (2026.07.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3891-add-fp8-groupwise-moe-gemm-entry-cute-s)
-- [[vllm] vLLM의 ROCm 환경 성능 최적화: CUDA Graph 메모리 프로파일링 비활성화 (2026.07.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-48440-re-disable-cuda-graph-memory-profiling-o)
