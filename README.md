@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[onnxruntime] ONNX Runtime: Arm64 KleidiAI 기반 FP16 GEMM 및 Convolution 최적화 (2026.07.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-28786-mlaskleidiai-add-mlas-arm64-half-gem)
+- [[onnxruntime] ONNX Runtime: AVX2 및 AVX-VNNI를 위한 2-bit 가중치 CPU 커널 최적화 (2026.07.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-29619-mlas-add-avx2-vnni-2-bit-weight-cpu)
+- [[onnxruntime] ONNX Runtime: fpA_intB GEMM 최적화 및 CUDA 그래프 호환성 강화 (2026.07.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-29622-enable-fpa-intb-gemm-in-cuda-builds-and)
 - [[sglang] SGLang Kimi K2.5/K2.7 멀티모달 인코더-DP 성능 최적화: 이미지 피처 전송 샤딩 및 배치 처리 (2026.07.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-31227-perf-shard-kimi-dp-image-feature-transp)
 - [[cutlass] NVIDIA CUTLASS SM100 GEMM 커널 최적화 및 분산 환경 개선 분석 (2026.07.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/cutlass-pr-3381-sm100-gemm-ar-gemm-rs-update)
-- [[vllm] vLLM MoE 성능 최적화: FlashInfer One-Sided Combine을 활용한 메모리 복사 제거 (2026.07.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-47156-perfmoe-write-flashinfer-combine-int)
-- [[sglang] SGLang SM100 CuteDSL Prefill 최적화: State I/O의 커널 퓨전 (2026.07.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-30169-gdnkda-fuse-sm100-cutedsl-prefill-sta)
-- [[flashinfer] FlashInfer의 FP4 GEMM 최적화: 휴리스틱 개선과 Autotuning 효율화 (2026.07.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3948-perfgemm-update-mm-fp4-cute-dsl-tacti)
