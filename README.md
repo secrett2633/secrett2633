@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[sglang] DeepSeek-V3.2를 위한 Native FP8 Sparse MLA 최적화: SGLang DSA 백엔드 통합 분석 (2026.07.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-30514-dsa-integrate-q8kv8-fp8-sparse-mla-pre)
-- [[vllm] vLLM의 대규모 모델 추론을 위한 MRV2 기반 Prefill Context Parallelism(PCP) 도입 (2026.07.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-46570-core-add-mrv2-virtual-batch-pcp-for-ml)
-- [[ultralytics] MuSGD 최적화: Batched Newton-Schulz와 Fused Kernel로 8배 성능 향상 (2026.07.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-25288-8x-faster-musgd-optimizer-step-with-batc)
-- [[openclaw] 프론트엔드 성능 최적화: 엔트리 CSS 번들 다이어트와 코드 스플리팅 전략 (2026.07.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/openclaw-pr-110687-perfui-keep-lazy-page-css-out-of-the)
-- [[sglang] SGLang 성능 최적화: 과도한 Prefill CUDA Graph Padding 방지로 TTFT 개선 (2026.07.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-31487-perf-avoid-excessive-prefill-cuda-graph)
+- [[논문리뷰] xHC: Expanded Hyper-Connections (2026.07.19)](https://blog.secrett2633.cloud/ai/review/2026-07-20-xHC-Expanded-Hyper-Connections)
+- [[논문리뷰] Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories (2026.07.19)](https://blog.secrett2633.cloud/ai/review/2026-07-20-Xiaomi-Robotics-1-Scaling-Vision-Language-Action-Models-with-over-100K-Hours-of-Real-World-Trajectories)
+- [[논문리뷰] When Does Muon Help Agentic Reinforcement Learning? (2026.07.19)](https://blog.secrett2633.cloud/ai/review/2026-07-20-When-Does-Muon-Help-Agentic-Reinforcement-Learning)
+- [[논문리뷰] VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders (2026.07.19)](https://blog.secrett2633.cloud/ai/review/2026-07-20-VideoRAE-Taming-Video-Foundation-Models-for-Generative-Modeling-via-Representation-Autoencoders)
+- [[논문리뷰] Understanding Reasoning from Pretraining to Post-Training (2026.07.19)](https://blog.secrett2633.cloud/ai/review/2026-07-20-Understanding-Reasoning-from-Pretraining-to-Post-Training)
