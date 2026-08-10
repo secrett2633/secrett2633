@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] xHC: Expanded Hyper-Connections (2026.07.19)](https://blog.secrett2633.cloud/ai/review/2026-07-20-xHC-Expanded-Hyper-Connections)
-- [[논문리뷰] Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories (2026.07.19)](https://blog.secrett2633.cloud/ai/review/2026-07-20-Xiaomi-Robotics-1-Scaling-Vision-Language-Action-Models-with-over-100K-Hours-of-Real-World-Trajectories)
-- [[논문리뷰] When Does Muon Help Agentic Reinforcement Learning? (2026.07.19)](https://blog.secrett2633.cloud/ai/review/2026-07-20-When-Does-Muon-Help-Agentic-Reinforcement-Learning)
-- [[논문리뷰] VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders (2026.07.19)](https://blog.secrett2633.cloud/ai/review/2026-07-20-VideoRAE-Taming-Video-Foundation-Models-for-Generative-Modeling-via-Representation-Autoencoders)
-- [[논문리뷰] Understanding Reasoning from Pretraining to Post-Training (2026.07.19)](https://blog.secrett2633.cloud/ai/review/2026-07-20-Understanding-Reasoning-from-Pretraining-to-Post-Training)
+- [[hermes-agent] Hermes Agent: 10배 빠른 프로젝트 그룹화 최적화 분석 (2026.08.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/hermes-agent-pr-82472-perfgateway-10x-faster-cold-project-g)
+- [[sglang] SGLang, Sol-Attn 도입으로 비디오 생성 속도 1.23배 향상 (2026.08.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-33702-diffusion-add-sol-attn-sparse-attentio)
+- [[ultralytics] RT-DETR FLOPs 프로파일링 성능 최적화 및 안정화 (2026.08.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-25652-speed-up-rt-detr-flops-profiling)
+- [[sglang] [Kimi K3] CPU 전송 이미지의 지연 전처리(Deferred Preprocessing)를 통한 VLM 성능 최적화 (2026.08.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-33921-kimi-k3-preprocess-cpu-transport-image)
+- [[ollama] Ollama, DFlash를 통한 추론 속도 향상: 블록 단위 추론의 힘 (2026.08.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/ollama-pr-17571-mlxrunner-add-dflash-block-diffusion-sp)
