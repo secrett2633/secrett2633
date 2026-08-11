@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer: SM120/SM121 아키텍처를 위한 네이티브 MXFP4 W4A4 Fused MoE 지원 (2026.08.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4290-featsm120-add-native-mxfp4-w4a4-fused)
-- [[sglang] Apple Silicon LLM 성능 향상: 슬라이딩 윈도우 KV 캐싱 및 인-그래프 샘플링 도입 (2026.08.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-34166-mlx-window-bounded-swa-kv-storage-and)
-- [[sglang] SGLang HiCache: Mamba 브랜칭을 위한 증분 백업 최적화 (2026.08.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-33639-hicache22support-mamba-branching-in)
-- [[cpython] contextlib.contextmanager 최적화: next() 대신 for 루프 사용 (2026.08.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-141275-gh-151903-use-for-instead-of-next-i)
-- [[논문리뷰] Zero Gap Is Not Restoration: Stratified Per-Question Probability Evaluation and Step-wise Mitigation of Benchmark Contamination (2026.08.09)](https://blog.secrett2633.cloud/ai/review/2026-08-10-Zero-Gap-Is-Not-Restoration-Stratified-Per-Question-Probability-Evaluation-and-Step-wise-Mitigation-of-Benchmark-Contamination)
+- [[flashinfer] [FlashInfer] CUTLASS MoE 커널 최적화: 벡터화와 동적 스레드 할당으로 성능 한계 돌파하기 (2026.08.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3761-perfmoe-optimize-cutlass-fused-moe-me)
+- [[flashinfer] FlashInfer의 GDN 커널 런칭 오버헤드 80% 절감하기: 호스트 측 최적화 전략 (2026.08.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4374-perfgdn-optimize-cp-host-launch-overh)
+- [[sglang] ERNIE-Image의 RoPE와 GELU-mul 융합 및 RoPE cos/sin 호이스팅을 통한 성능 최적화 (2026.08.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-34306-diffusion-ernie-image-fuse-rotate-hal)
+- [[논문리뷰] What to Edit Next: Visually Aligned Image-Editing Follow-Up Suggestions in Conversational Systems (2026.08.10)](https://blog.secrett2633.cloud/ai/review/2026-08-11-What-to-Edit-Next-Visually-Aligned-Image-Editing-Follow-Up-Suggestions-in-Conversational-Systems)
+- [[논문리뷰] WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks (2026.08.10)](https://blog.secrett2633.cloud/ai/review/2026-08-11-WeClawArena-An-Auditable-Sandbox-and-Benchmark-for-Cross-User-Agents-Collaboration-and-Security-in-Human-Centered-Agent-Networks)
