@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] Gemma-4를 위한 Blackwell 최적화: FlashInfer의 비대칭 VO-Split NVFP4 구현 분석 (2026.08.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3684-featattention-asymmetric-vo-split-nvf)
+- [[sglang] SGLang의 Wan2.2-TI2V 최적화: Triton 커널을 통한 메모리 트래픽 병목 해결 (2026.08.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-34584-diffusion-wan22-ti2v-fuse-per-token)
+- [[onnxruntime] WebGPU MatMulNBits 최적화: Subgroup Shuffle을 활용한 성능 향상 (2026.08.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-31703-webgpu-optimize-matmulnbits-wide-tile)
+- [[sglang] SGLang의 FLUX.2 추론 최적화: Eager 모드에서의 커널 융합 기법 (2026.08.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-34616-diffusionflux2-fuse-eager-adaln-and)
 - [[flashinfer] FlashInfer SM120 MoE GEMM 최적화: 웨이브+잔여물 비용 모델 도입 (2026.08.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4318-perfsm120-waveresidue-tile-selection)
-- [[sglang] [Diffusion] MiniMax-H3 비디오 인입 최적화: 87.5% 메모리 절감과 Zero-Copy의 마법 (2026.08.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-34563-diffusion-optimize-bit-exact-h3-refere)
-- [[vllm] vLLM에 Dots3 NOTE 모델 네이티브 지원 추가: 멀티모달 및 하이브리드 MLA 최적화 (2026.08.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-51255-model-add-native-dots3-note-multimodal)
-- [[vllm] vLLM의 성능 병목 해결: Host-to-Device 복사 최적화로 비동기 실행 보장하기 (2026.08.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-51841-avoid-long-blocking-h2d-copies-in-vit)
-- [[논문리뷰] iFAN: Inference-Aware Learning for Plain Mask Transformers (2026.08.11)](https://blog.secrett2633.cloud/ai/review/2026-08-12-iFAN-Inference-Aware-Learning-for-Plain-Mask-Transformers)
