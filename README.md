@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] Gemma-4를 위한 Blackwell 최적화: FlashInfer의 비대칭 VO-Split NVFP4 구현 분석 (2026.08.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-3684-featattention-asymmetric-vo-split-nvf)
-- [[sglang] SGLang의 Wan2.2-TI2V 최적화: Triton 커널을 통한 메모리 트래픽 병목 해결 (2026.08.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-34584-diffusion-wan22-ti2v-fuse-per-token)
-- [[onnxruntime] WebGPU MatMulNBits 최적화: Subgroup Shuffle을 활용한 성능 향상 (2026.08.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-31703-webgpu-optimize-matmulnbits-wide-tile)
-- [[sglang] SGLang의 FLUX.2 추론 최적화: Eager 모드에서의 커널 융합 기법 (2026.08.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-34616-diffusionflux2-fuse-eager-adaln-and)
-- [[flashinfer] FlashInfer SM120 MoE GEMM 최적화: 웨이브+잔여물 비용 모델 도입 (2026.08.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4318-perfsm120-waveresidue-tile-selection)
+- [[vllm] vLLM, Cohere 임베딩 바이너리 압축 성능 4배 개선: NumPy를 활용한 최적화 분석 (2026.08.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-52277-perffrontend-vectorize-cohere-binary)
+- [[sglang] [MoE] SwiGLU 퓨전: Triton 커널 최적화로 메모리 대역폭 한계 돌파하기 (2026.08.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-32944-moe-fuse-swiglu-moe-up-gemm-epilogue)
+- [[sglang] AMD MI355X 환경에서 Triton 3.7 레지스터 스필링 최적화 (2026.08.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-34741-amd-fix-triton-37-gfx950-extend-atten)
+- [[논문리뷰] UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos (2026.08.13)](https://blog.secrett2633.cloud/ai/review/2026-08-14-UniSwap-Streaming-Audio-Visual-Identity-Swapping-for-Talking-Videos)
+- [[논문리뷰] TailBooster: A Dual-Layer Generative Framework for Extreme Value Augmentation with Operational Validity Enforcement (2026.08.13)](https://blog.secrett2633.cloud/ai/review/2026-08-14-TailBooster-A-Dual-Layer-Generative-Framework-for-Extreme-Value-Augmentation-with-Operational-Validity-Enforcement)
