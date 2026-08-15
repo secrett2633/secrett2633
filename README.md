@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[vllm] vLLM, DeepSeek-V3.2/GLM-5.2 MTP 경로 최적화: All-Reduce 융합 및 로컬 Argmax 도입 (2026.08.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-49793-spec-decodeperf-fuse-the-mtp-trailin)
+- [[onnxruntime] ONNX Runtime CUDA ArgMax/ArgMin 연산 최적화: 대규모 행렬 병렬 처리 개선 (2026.08.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32092-cuda-parallelize-argmaxargmin-over-wi)
 - [[vllm] vLLM, Cohere 임베딩 바이너리 압축 성능 4배 개선: NumPy를 활용한 최적화 분석 (2026.08.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-52277-perffrontend-vectorize-cohere-binary)
 - [[sglang] [MoE] SwiGLU 퓨전: Triton 커널 최적화로 메모리 대역폭 한계 돌파하기 (2026.08.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-32944-moe-fuse-swiglu-moe-up-gemm-epilogue)
 - [[sglang] AMD MI355X 환경에서 Triton 3.7 레지스터 스필링 최적화 (2026.08.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-34741-amd-fix-triton-37-gfx950-extend-atten)
-- [[논문리뷰] UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos (2026.08.13)](https://blog.secrett2633.cloud/ai/review/2026-08-14-UniSwap-Streaming-Audio-Visual-Identity-Swapping-for-Talking-Videos)
-- [[논문리뷰] TailBooster: A Dual-Layer Generative Framework for Extreme Value Augmentation with Operational Validity Enforcement (2026.08.13)](https://blog.secrett2633.cloud/ai/review/2026-08-14-TailBooster-A-Dual-Layer-Generative-Framework-for-Extreme-Value-Augmentation-with-Operational-Validity-Enforcement)
