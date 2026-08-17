@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[sglang] Sana 모델의 BCG 성능 향상: 비트-정확 Triton 커널을 활용한 컨볼루션 후처리 최적화 (2026.08.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-34928-diffusionkernel-accelerate-sana-bcg)
-- [[sglang] Cosmos3 T2I 가속화: QKNorm + RoPE 커널 퓨전과 BF16 정밀도 최적화 (2026.08.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-34932-diffusion-accelerate-cosmos3-t2i-qknor)
-- [[vllm] vLLM, DeepSeek-V4 사전 생성 처리량 향상을 위한 Sparse Top-K 메타데이터 커널 최적화 (2026.08.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-52084-perfdsv4-optimize-sparse-top-k-metad)
-- [[sglang] SGLang의 MoE Top-K Softmax 커널: AOT에서 JIT로의 효율적인 전환 (2026.08.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-34509-jit-kernel-migrate-moe-topk-softmax-fr)
-- [[vllm] vLLM, DeepSeek-V3.2/GLM-5.2 MTP 경로 최적화: All-Reduce 융합 및 로컬 Argmax 도입 (2026.08.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-49793-spec-decodeperf-fuse-the-mtp-trailin)
+- [[논문리뷰] Verifier-Induced Support Reshaping in On-Policy Optimization (2026.08.16)](https://blog.secrett2633.cloud/ai/review/2026-08-17-Verifier-Induced-Support-Reshaping-in-On-Policy-Optimization)
+- [[논문리뷰] UniProbe: A Learnable Token-Level Hallucination Detector for Large VLMs using Multi-Structural Internal Representations (2026.08.16)](https://blog.secrett2633.cloud/ai/review/2026-08-17-UniProbe-A-Learnable-Token-Level-Hallucination-Detector-for-Large-VLMs-using-Multi-Structural-Internal-Representations)
+- [[논문리뷰] UNMASK: Discovering and Causally Verifying Spurious Shortcuts in Text Classifiers (2026.08.16)](https://blog.secrett2633.cloud/ai/review/2026-08-17-UNMASK-Discovering-and-Causally-Verifying-Spurious-Shortcuts-in-Text-Classifiers)
+- [[논문리뷰] SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context Reasoning (2026.08.16)](https://blog.secrett2633.cloud/ai/review/2026-08-17-SimpleOPD-Simple-Tokenizer-Agnostic-On-Policy-Distillation-for-Long-Context-Reasoning)
+- [[논문리뷰] Self-Supervised Visual On-Policy Distillation (2026.08.16)](https://blog.secrett2633.cloud/ai/review/2026-08-17-Self-Supervised-Visual-On-Policy-Distillation)
