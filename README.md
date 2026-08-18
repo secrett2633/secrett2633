@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[논문리뷰] Verifier-Induced Support Reshaping in On-Policy Optimization (2026.08.16)](https://blog.secrett2633.cloud/ai/review/2026-08-17-Verifier-Induced-Support-Reshaping-in-On-Policy-Optimization)
-- [[논문리뷰] UniProbe: A Learnable Token-Level Hallucination Detector for Large VLMs using Multi-Structural Internal Representations (2026.08.16)](https://blog.secrett2633.cloud/ai/review/2026-08-17-UniProbe-A-Learnable-Token-Level-Hallucination-Detector-for-Large-VLMs-using-Multi-Structural-Internal-Representations)
-- [[논문리뷰] UNMASK: Discovering and Causally Verifying Spurious Shortcuts in Text Classifiers (2026.08.16)](https://blog.secrett2633.cloud/ai/review/2026-08-17-UNMASK-Discovering-and-Causally-Verifying-Spurious-Shortcuts-in-Text-Classifiers)
-- [[논문리뷰] SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context Reasoning (2026.08.16)](https://blog.secrett2633.cloud/ai/review/2026-08-17-SimpleOPD-Simple-Tokenizer-Agnostic-On-Policy-Distillation-for-Long-Context-Reasoning)
-- [[논문리뷰] Self-Supervised Visual On-Policy Distillation (2026.08.16)](https://blog.secrett2633.cloud/ai/review/2026-08-17-Self-Supervised-Visual-On-Policy-Distillation)
+- [[flashinfer] FlashInfer, SM100 아키텍처를 위한 BF16 x FP4 GEMM 최적화로 성능 극대화 (2026.08.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4466-feat-sm100-cute-dsl-w4a16-gemm)
+- [[sglang] SGLang 성능 최적화: DeepSeek-v4 SWA 인덱스 변환 Hoisting 및 백엔드 통합 (2026.08.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-34890-perf-hoist-dsv4-draft-extend-swa-write)
+- [[vllm] vLLM, DeepSeek V3.2 커널의 대규모 토큰 처리 안정성 강화 (2026.08.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-52381-harden-deepseek-v32-fused-kernel-grids)
+- [[sglang] MiniMax-H3 모델을 24GB GPU에서 가속화하는 INT8 양자화 및 플러그형 어텐션 최적화 (2026.08.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-34581-diffusion-optimizing-minimax-h3-for-co)
+- [[논문리뷰] WorldRover: A Scalable Synthetic Video Data Engine for World Exploration with Rich Annotations (2026.08.17)](https://blog.secrett2633.cloud/ai/review/2026-08-18-WorldRover-A-Scalable-Synthetic-Video-Data-Engine-for-World-Exploration-with-Rich-Annotations)
