@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer, Blackwell 아키텍처를 위한 Recurrent KDA Prefill 최적화: Small-BH 커널 도입 (2026.08.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4571-featcake-kda-optimize-small-bh-recurr)
-- [[flashinfer] FlashInfer의 PrimTS를 활용한 고성능 Block-Sparse Attention 최적화 (2026.08.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4474-featattention-add-primts-q64kv256-an)
-- [[loki] Grafana Loki 성능 최적화: 파일 핸들 풀링을 통한 I/O 오버헤드 개선 (2026.08.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-24037-chore-pool-file-handles)
-- [[sglang] [AMD MI355X] DeepSeek-V4 최적화: FP8 Quantization의 불필요한 Copy 제거하기 (2026.08.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-33165-amd-deepseek-v4-mi355x-eliminate-bpre)
-- [[논문리뷰] aDSL: Agentic 3D Creation via Joint Agent-Program Design (2026.08.18)](https://blog.secrett2633.cloud/ai/review/2026-08-19-aDSL-Agentic-3D-Creation-via-Joint-Agent-Program-Design)
+- [[LlamaFactory] Qwen3.5 모델의 GDN 선형 어텐션에 대한 시퀀스 병렬 처리 및 Pack 지원 추가 (2026.08.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/llamafactory-pr-10727-v1-support-gdn-ulysses-cp)
+- [[flashinfer] Blackwell 아키텍처를 위한 MXFP8/MXFP4 기반 고성능 MoE 추론 최적화 (2026.08.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4529-featmoe-ep-sm100-w4a8-mxfp8xmxfp4-c)
+- [[flashinfer] NVIDIA Blackwell 아키텍처를 위한 FlashInfer의 Router GEMM 최적화 (2026.08.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4594-featcake-backend-add-blackwell-router)
+- [[flashinfer] DeepSeek-V3 라우팅의 혁신: FlashInfer의 Cake 백엔드 가속 분석 (2026.08.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4587-featcake-backend-accelerate-deepseek)
+- [[flashinfer] FlashInfer에 NVIDIA Rubin(SM107) 및 Blackwell FP8 GEMM 지원 추가 (2026.08.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4526-feat-cute-dsl-kernels-for-rubin-sm107)
