@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[LlamaFactory] Qwen3.5 모델의 GDN 선형 어텐션에 대한 시퀀스 병렬 처리 및 Pack 지원 추가 (2026.08.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/llamafactory-pr-10727-v1-support-gdn-ulysses-cp)
-- [[flashinfer] Blackwell 아키텍처를 위한 MXFP8/MXFP4 기반 고성능 MoE 추론 최적화 (2026.08.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4529-featmoe-ep-sm100-w4a8-mxfp8xmxfp4-c)
-- [[flashinfer] NVIDIA Blackwell 아키텍처를 위한 FlashInfer의 Router GEMM 최적화 (2026.08.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4594-featcake-backend-add-blackwell-router)
-- [[flashinfer] DeepSeek-V3 라우팅의 혁신: FlashInfer의 Cake 백엔드 가속 분석 (2026.08.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4587-featcake-backend-accelerate-deepseek)
-- [[flashinfer] FlashInfer에 NVIDIA Rubin(SM107) 및 Blackwell FP8 GEMM 지원 추가 (2026.08.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4526-feat-cute-dsl-kernels-for-rubin-sm107)
+- [[vllm] [vLLM] DFlash2: Speculative Decoding의 새로운 지평 - Local Conv와 Candidate Selector 분석 (2026.08.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-52816-spec-decode-dflash2-local-convolution)
+- [[ultralytics] Ultralytics 체크포인트 로딩 최적화 및 스레드 안전성 강화 (2026.08.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-25885-make-restricted-checkpoint-loading-threa)
+- [[onnxruntime] ONNX Runtime MLAS, AVX-512 최적화로 MobileClip-S0 모델 추론 속도 향상 (2026.08.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-31958-mlas-avx-512-16-wide-erf-kernel-and-nc)
+- [[Liger-Kernel] Liger-Kernel의 RMSNorm 최적화: cuTile 도입과 CuTe DSL 성능 개선 (2026.08.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/liger-kernel-pr-1395-cuda-add-cutile-rmsnorm-and-optimize-c)
+- [[논문리뷰] WithEveryone: Unified Planning and Identity Grounding for Group Image Generation (2026.08.20)](https://blog.secrett2633.cloud/ai/review/2026-08-21-WithEveryone-Unified-Planning-and-Identity-Grounding-for-Group-Image-Generation)
