@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[openclaw] 대규모 세션 카탈로그 업데이트 성능 최적화: 전체 비교에서 부분 비교로 (2026.08.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/openclaw-pr-127819-perfui-stop-re-comparing-the-whole-se)
+- [[flashinfer] SM120(Blackwell)을 위한 초고속 KDA Prefill 커널: FlashInfer의 CuTe DSL 백엔드 분석 (2026.08.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4633-featkda-add-sm120a-cute-dsl-prefill-b)
+- [[onnxruntime] ARM NEON 최적화: LinearAttention 커널 융합으로 3배 성능 향상 (2026.08.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32178-mlas-add-a-neon-fused-kernel-for-linea)
+- [[onnxruntime] ONNX Runtime의 ARM SVE i8mm QGEMM 최적화: 휴대용 머신 코드 전략 (2026.08.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-31146-arm-mlas-sve-i8mm-svmmla-int8-qgemm)
 - [[vllm] [vLLM] DFlash2: Speculative Decoding의 새로운 지평 - Local Conv와 Candidate Selector 분석 (2026.08.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-52816-spec-decode-dflash2-local-convolution)
-- [[ultralytics] Ultralytics 체크포인트 로딩 최적화 및 스레드 안전성 강화 (2026.08.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-25885-make-restricted-checkpoint-loading-threa)
-- [[onnxruntime] ONNX Runtime MLAS, AVX-512 최적화로 MobileClip-S0 모델 추론 속도 향상 (2026.08.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-31958-mlas-avx-512-16-wide-erf-kernel-and-nc)
-- [[Liger-Kernel] Liger-Kernel의 RMSNorm 최적화: cuTile 도입과 CuTe DSL 성능 개선 (2026.08.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/liger-kernel-pr-1395-cuda-add-cutile-rmsnorm-and-optimize-c)
-- [[논문리뷰] WithEveryone: Unified Planning and Identity Grounding for Group Image Generation (2026.08.20)](https://blog.secrett2633.cloud/ai/review/2026-08-21-WithEveryone-Unified-Planning-and-Identity-Grounding-for-Group-Image-Generation)
