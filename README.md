@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[openclaw] OpenConnect Gateway 성능 최적화: 연결 ID 기반 인덱싱 도입 (2026.08.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/openclaw-pr-128198-perfgateway-index-targeted-connection)
+- [[flashinfer] FlashInfer의 SM100/SM103 최적화: CAKE 기반 블록 희소 어텐션(VSA) 도입 (2026.08.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4593-featcake-vsa-add-optimized-sm100sm10)
+- [[starlette] 신뢰할 수 있는 성능 측정을 위한 전략: Starlette의 벤치마크 안정화 기법 (2026.08.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/starlette-pr-3462-stabilize-codspeed-benchmark-state)
+- [[starlette] 벤치마크 일관성 확보: glibc CPU Dispatch 최적화로 GitHub Actions Runner 분산 줄이기 (2026.08.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/starlette-pr-3464-normalize-glibc-cpu-dispatch-in-codspeed)
 - [[openclaw] 대규모 세션 카탈로그 업데이트 성능 최적화: 전체 비교에서 부분 비교로 (2026.08.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/openclaw-pr-127819-perfui-stop-re-comparing-the-whole-se)
-- [[flashinfer] SM120(Blackwell)을 위한 초고속 KDA Prefill 커널: FlashInfer의 CuTe DSL 백엔드 분석 (2026.08.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4633-featkda-add-sm120a-cute-dsl-prefill-b)
-- [[onnxruntime] ARM NEON 최적화: LinearAttention 커널 융합으로 3배 성능 향상 (2026.08.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32178-mlas-add-a-neon-fused-kernel-for-linea)
-- [[onnxruntime] ONNX Runtime의 ARM SVE i8mm QGEMM 최적화: 휴대용 머신 코드 전략 (2026.08.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-31146-arm-mlas-sve-i8mm-svmmla-int8-qgemm)
-- [[vllm] [vLLM] DFlash2: Speculative Decoding의 새로운 지평 - Local Conv와 Candidate Selector 분석 (2026.08.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-52816-spec-decode-dflash2-local-convolution)
