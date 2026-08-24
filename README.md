@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[openclaw] OpenConnect Gateway 성능 최적화: 연결 ID 기반 인덱싱 도입 (2026.08.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/openclaw-pr-128198-perfgateway-index-targeted-connection)
-- [[flashinfer] FlashInfer의 SM100/SM103 최적화: CAKE 기반 블록 희소 어텐션(VSA) 도입 (2026.08.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4593-featcake-vsa-add-optimized-sm100sm10)
-- [[starlette] 신뢰할 수 있는 성능 측정을 위한 전략: Starlette의 벤치마크 안정화 기법 (2026.08.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/starlette-pr-3462-stabilize-codspeed-benchmark-state)
-- [[starlette] 벤치마크 일관성 확보: glibc CPU Dispatch 최적화로 GitHub Actions Runner 분산 줄이기 (2026.08.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/starlette-pr-3464-normalize-glibc-cpu-dispatch-in-codspeed)
-- [[openclaw] 대규모 세션 카탈로그 업데이트 성능 최적화: 전체 비교에서 부분 비교로 (2026.08.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/openclaw-pr-127819-perfui-stop-re-comparing-the-whole-se)
+- [[flashinfer] FlashInfer GDN 커널의 SM90/SM120 비-CP 런치 오버헤드 감소 최적화 분석 (2026.08.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4699-perfgdn-reduce-non-cp-cutedsl-launch)
+- [[open-webui] Open WebUI 스트리밍 성능 190배 개선: O(N^2)에서 O(N)으로의 최적화 (2026.08.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/open-webui-pr-28861-perf-190x-perf-improvement-stop-rescan)
+- [[sglang] LingBot Video 성능 개선: 수동 RMSNorm 체인을 Triton 커널로 최적화하기 (2026.08.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-35969-diffusion-accelerate-lingbot-video-rms)
+- [[triton] Triton 컴파일러의 Reduce 연산 최적화: OptimizeThreadLocality 개선 분석 (2026.08.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-11370-optimizethreadlocality-rewrite-the-pat)
+- [[논문리뷰] UniSpace: Unified Visual Representation and Scalable Multimodal Modeling (2026.08.23)](https://blog.secrett2633.cloud/ai/review/2026-08-24-UniSpace-Unified-Visual-Representation-and-Scalable-Multimodal-Modeling)
