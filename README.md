@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer GDN 커널의 SM90/SM120 비-CP 런치 오버헤드 감소 최적화 분석 (2026.08.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4699-perfgdn-reduce-non-cp-cutedsl-launch)
-- [[open-webui] Open WebUI 스트리밍 성능 190배 개선: O(N^2)에서 O(N)으로의 최적화 (2026.08.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/open-webui-pr-28861-perf-190x-perf-improvement-stop-rescan)
-- [[sglang] LingBot Video 성능 개선: 수동 RMSNorm 체인을 Triton 커널로 최적화하기 (2026.08.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-35969-diffusion-accelerate-lingbot-video-rms)
-- [[triton] Triton 컴파일러의 Reduce 연산 최적화: OptimizeThreadLocality 개선 분석 (2026.08.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-11370-optimizethreadlocality-rewrite-the-pat)
-- [[논문리뷰] UniSpace: Unified Visual Representation and Scalable Multimodal Modeling (2026.08.23)](https://blog.secrett2633.cloud/ai/review/2026-08-24-UniSpace-Unified-Visual-Representation-and-Scalable-Multimodal-Modeling)
+- [[flashinfer] FlashInfer SM120 NVFP4 어텐션 최적화: N64 스코어-슬롯 재사용을 통한 성능 향상 (2026.08.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4502-perfsm120-optimize-nvfp4-attention-wi)
+- [[flashinfer] FlashInfer: Blackwell 아키텍처를 위한 Recurrent-KDA Prefill 최적화 (2026.08.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4675-perfcake-kda-further-optimize-recurre)
+- [[flashinfer] Blackwell 아키텍처를 위한 고성능 Paged MQA Logits 커널 도입 (2026.08.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4365-add-paged-mqa-logits-attn-scores-kerne)
+- [[논문리뷰] WorldToken: Time-First Sequence Modeling for Robotic Imitation Learning (2026.08.24)](https://blog.secrett2633.cloud/ai/review/2026-08-25-WorldToken-Time-First-Sequence-Modeling-for-Robotic-Imitation-Learning)
+- [[논문리뷰] Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision (2026.08.24)](https://blog.secrett2633.cloud/ai/review/2026-08-25-Unlocking-the-Potential-of-Image-Editing-via-Concept-Scaling-and-Dense-Supervision)
