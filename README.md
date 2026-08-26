@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer SM120 NVFP4 어텐션 최적화: N64 스코어-슬롯 재사용을 통한 성능 향상 (2026.08.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4502-perfsm120-optimize-nvfp4-attention-wi)
-- [[flashinfer] FlashInfer: Blackwell 아키텍처를 위한 Recurrent-KDA Prefill 최적화 (2026.08.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4675-perfcake-kda-further-optimize-recurre)
-- [[flashinfer] Blackwell 아키텍처를 위한 고성능 Paged MQA Logits 커널 도입 (2026.08.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4365-add-paged-mqa-logits-attn-scores-kerne)
-- [[논문리뷰] WorldToken: Time-First Sequence Modeling for Robotic Imitation Learning (2026.08.24)](https://blog.secrett2633.cloud/ai/review/2026-08-25-WorldToken-Time-First-Sequence-Modeling-for-Robotic-Imitation-Learning)
-- [[논문리뷰] Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision (2026.08.24)](https://blog.secrett2633.cloud/ai/review/2026-08-25-Unlocking-the-Potential-of-Image-Editing-via-Concept-Scaling-and-Dense-Supervision)
+- [[flashinfer] FlashInfer, CUDA 커널 최적화를 통한 LLM 추론 속도 향상: Recurrence-Piece Persistent M128 도입 (2026.08.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4728-perfcake-kda-add-recurrence-piece-per)
+- [[sglang] SGLang: LongCat-Image DiT의 FFN 연산 최적화 - Tanh-GELU 퓨전 적용 (2026.08.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-36322-diffusion-perf-fuse-tanh-gelu-into-th)
+- [[vllm] vLLM, Pixtral 모델의 멀티모달 인코더 어텐션 최적화: Packed Sequence Metadata 도입 (2026.08.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-52185-model-pixtral-use-packed-multimodal-e)
+- [[vllm] vLLM MoE 성능 최적화: flashinfer_nvlink_one_sided 도입 (2026.08.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-53311-moe-enable-all2all-fi-one-sided-by-def)
+- [[논문리뷰] WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report (2026.08.25)](https://blog.secrett2633.cloud/ai/review/2026-08-26-WeMM-Embedding-WeChat-Multi-Modal-Embedding-Technical-Report)
