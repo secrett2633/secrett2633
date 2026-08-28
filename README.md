@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer, CUDA 커널 최적화를 통한 LLM 추론 속도 향상: Recurrence-Piece Persistent M128 도입 (2026.08.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4728-perfcake-kda-add-recurrence-piece-per)
-- [[sglang] SGLang: LongCat-Image DiT의 FFN 연산 최적화 - Tanh-GELU 퓨전 적용 (2026.08.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-36322-diffusion-perf-fuse-tanh-gelu-into-th)
-- [[vllm] vLLM, Pixtral 모델의 멀티모달 인코더 어텐션 최적화: Packed Sequence Metadata 도입 (2026.08.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-52185-model-pixtral-use-packed-multimodal-e)
-- [[vllm] vLLM MoE 성능 최적화: flashinfer_nvlink_one_sided 도입 (2026.08.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-53311-moe-enable-all2all-fi-one-sided-by-def)
-- [[논문리뷰] WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report (2026.08.25)](https://blog.secrett2633.cloud/ai/review/2026-08-26-WeMM-Embedding-WeChat-Multi-Modal-Embedding-Technical-Report)
+- [[Liger-Kernel] Liger-Kernel의 Fused Linear Cross Entropy 성능 최적화: C=16 전략 (2026.08.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/liger-kernel-pr-1414-perfflce-widen-the-transient-logits-c)
+- [[vllm] vLLM, FlashInfer BF16 CuTeDSL GEMM 통합으로 저지연 추론 성능 향상 (2026.08.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-50572-kernel-integrate-flashinfer-bf16-cuted)
+- [[vllm] vLLM, CUDA 네이티브 SwiGLU 커널 도입으로 Humming MoE 성능 1.4% 향상 (2026.08.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-53685-perfdsv4-use-native-cuda-swiglu-clam)
+- [[vllm] vLLM의 Hopper(SM90) 아키텍처를 위한 GEMM 커널 최적화 (2026.08.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-54088-kimi-perf-tune-hopper-low-latency-gemm)
+- [[논문리뷰] WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation (2026.08.26)](https://blog.secrett2633.cloud/ai/review/2026-08-27-WarpSAC-Towards-the-Pinnacle-of-Scalable-Off-policy-RL-by-Rethinking-Exploration-and-Exploitation)
