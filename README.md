@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] FlashInfer의 Blackwell 아키텍처를 위한 Cake All-Gather Matmul 최적화 분석 (2026.08.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4722-featcake-comm-add-a-cake-blackwell-al)
+- [[triton] Triton GPU 최적화: 스레드 지역성 향상을 위한 Reduce 연산 개선 (2026.08.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-11503-optimizethreadlocality-support-rank-on)
+- [[onnxruntime] GPU 점유율의 미학: Qwen MTP를 위한 ONNX Runtime NVFP4 GEMV 최적화 분석 (2026.08.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32140-cuda-tune-nvfp4-gemv-tiling-for-qwen-m)
+- [[ultralytics] Ultralytics 추론 성능 극대화: CPU 전처리 병목 해소하기 (2026.08.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-25982-accelerate-predictor-preprocessing-on-in)
 - [[flashinfer] FlashInfer Blackwell 블록 희소 어텐션 커널 최적화 분석 (2026.08.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4804-perfcake-vsa-refresh-blackwell-block)
-- [[loki] Go에서 불필요한 String 할당 제거하기: Grafana Loki의 98% Allocation 최적화 사례 (2026.08.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-24245-chore-scan-the-offset-table-and-symbols)
-- [[vllm] vLLM Rust Frontend 최적화: SSE 스트리밍 성능 개선기 (2026.08.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-51321-rust-frontend-optimize-sse-streaming-h)
-- [[triton] Triton FP4 레이아웃 변환 최적화: 불필요한 메모리 할당 및 복사 제거 (2026.08.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-11495-kernels-fuse-forward-fp4-layout-conver)
-- [[Liger-Kernel] Liger-Kernel의 Fused Linear Cross Entropy 성능 최적화: C=16 전략 (2026.08.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/liger-kernel-pr-1414-perfflce-widen-the-transient-logits-c)
