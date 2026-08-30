@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer의 Blackwell 아키텍처를 위한 Cake All-Gather Matmul 최적화 분석 (2026.08.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4722-featcake-comm-add-a-cake-blackwell-al)
-- [[triton] Triton GPU 최적화: 스레드 지역성 향상을 위한 Reduce 연산 개선 (2026.08.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-11503-optimizethreadlocality-support-rank-on)
-- [[onnxruntime] GPU 점유율의 미학: Qwen MTP를 위한 ONNX Runtime NVFP4 GEMV 최적화 분석 (2026.08.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32140-cuda-tune-nvfp4-gemv-tiling-for-qwen-m)
-- [[ultralytics] Ultralytics 추론 성능 극대화: CPU 전처리 병목 해소하기 (2026.08.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-25982-accelerate-predictor-preprocessing-on-in)
-- [[flashinfer] FlashInfer Blackwell 블록 희소 어텐션 커널 최적화 분석 (2026.08.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4804-perfcake-vsa-refresh-blackwell-block)
+- [[flashinfer] FlashInfer: Blackwell 아키텍처를 위한 결정론적 BGMV MoE 최적화 (2026.08.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4821-featcake-bgmv-add-deterministic-prepa)
+- [[sglang] ROCm 환경에서 BF16 All-Reduce의 수치 안정성 확보하기: QuickReduce의 FP16 Saturation 이슈 해결 (2026.08.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-34484-rocm-fix-quickreduce-fp16-saturation-c)
+- [[vllm] vLLM의 ROCm 환경에서 듀얼 스트림 디코드를 통한 성능 최적화 (2026.08.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-52033-perfrocm-dual-stream-decode-with-hip)
+- [[sglang] SGLang, NVIDIA Blackwell GPU를 위한 Wan2.2 모델의 ML P 연산 최적화 (2026.08.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-37075-diffusionkernel-fuse-wan22-nvfp4-bi)
+- [[onnxruntime] ONNX Runtime CUDA 커널 최적화: Speculative Decoding을 위한 GEMV 확장 (2026.08.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32289-cuda-extend-speculative-decode-gemvs-t)
