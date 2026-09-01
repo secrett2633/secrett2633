@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer SM12x MoE 최적화: 정적 MoE 경로 통합 및 성능 향상 (2026.08.31)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4718-perfsm12x-optimize-and-unify-static-m)
-- [[uv] uv의 잠금 파일 의존성 그래프 순회 최적화: 해싱에서 정수 인덱싱으로 (2026.08.31)](https://blog.secrett2633.cloud/opensource/pr-analysis/uv-pr-21373-use-integer-indices-when-traversing-lock)
-- [[uv] macOS에서 uv 캐시 정리가 3.8배 빨라진 비결: getattrlistbulk를 활용한 일괄 메타데이터 조회 (2026.08.31)](https://blog.secrett2633.cloud/opensource/pr-analysis/uv-pr-21344-read-file-cache-link-counts-in-bulk-on-m)
-- [[sglang] FLUX.2 모델 성능 최적화: Token Concatenation과 NVFP4 양자화의 커널 융합 (2026.08.31)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-37141-diffusion-fuse-flux2-token-concatenat)
-- [[flashinfer] FlashInfer: Blackwell 아키텍처를 위한 결정론적 BGMV MoE 최적화 (2026.08.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4821-featcake-bgmv-add-deterministic-prepa)
+- [[flashinfer] FlashInfer의 NVFP4 KV 캐시 성능 최적화: FP4 연산의 병목 현상 해소 (2026.09.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4746-perfattention-cut-nvfp4-kv-dequant-in)
+- [[onnxruntime] ONNX Runtime의 CPU int4 가중치 프리패킹 최적화: 병렬 처리 효율성 개선 (2026.09.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-31690-optimize-int4-prepacking-of-the-weight-o)
+- [[cpython] CPython `PyFloat_Pack/Unpack2` 최적화: 네이티브 `_Float16` 활용으로 성능 향상 (2026.09.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-154796-gh-153740-optimize-pyfloat-packunpack2)
+- [[flashinfer] FlashInfer에 cuTile 기반 Fused MoE 백엔드 도입: 성능과 유지보수성의 균형 (2026.09.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4646-featmoe-add-cutile-fused-moe-backend)
+- [[ray] Ray RDT NIXL 메모리 풀 최적화: 불필요한 복사 제거와 전송 효율 극대화 (2026.09.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/ray-pr-65205-corerdt-implement-sender-side-memory)
