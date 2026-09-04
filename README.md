@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[sglang] SGLang 성능 최적화: RTX 5090 32GB 환경에서의 CUDA Graph 및 Chunked Prefill 개선 (2026.09.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-37898-sm120-32gb-mem-tier-raise-decode-cuda-g)
+- [[flashinfer] [FlashInfer] Blackwell 아키텍처를 위한 Warp Level Split-K BF16 GEMM 최적화 분석 (2026.09.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4908-feat-add-warp-level-split-k-bf16-gemm)
+- [[transformers] Hugging Face Transformers, GGUF 추론 속도 향상을 위한 대대적인 리팩토링 (2026.09.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/transformers-pr-47779-refactor-gguf-to-speed-up-inference)
+- [[vllm] vLLM의 Fast Start: CUDA IPC를 활용한 모델 가중치 제로 카피 로딩 (2026.09.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-54921-fast-start)
 - [[sglang] MiniMax-H3 모델의 AdaLN 추론 최적화: Pinned-Host 캐싱과 LRU 전략 (2026.09.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-37266-diffusion-minimax-h3-tiered-adaln-pla)
-- [[vllm] vLLM의 PLE 메타데이터 전송 최적화: 비동기 전송으로 성능 향상 (2026.09.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-55054-optimize-ple-mtp-metadata-transfers)
-- [[vllm] vLLM의 작은 배치 사이즈를 위한 Triton 기반 Split-row Top-p 샘플링 최적화 (2026.09.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-54651-core-triton-kernel-for-small-batch-top)
-- [[flashinfer] FlashInfer, CuTe DSL을 활용한 저지연 GEMM 커널 도입으로 성능 극대화 (2026.09.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4685-add-cutedsl-low-latency-gemm-tactic-to-m)
-- [[onnxruntime] ONNX Runtime CUDA: int64 CumSum 연산 9배 가속화 최적화 분석 (2026.09.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32238-cuda-speed-up-low-lane-int64-cumsum-by)
