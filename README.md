@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[sglang] SGLang: LFM2-MoE 모델을 위한 SM90 커널 퓨전 최적화 분석 (2026.09.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-37622-perflfm2-fuse-gating-and-short-convol)
+- [[flashinfer] Blackwell 시대를 위한 최적화: FlashInfer의 SM120 Block-Sparse Attention 백엔드 도입기 (2026.09.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4951-featcake-sage-add-sm120-block-sparse)
+- [[flashinfer] Blackwell GPU를 위한 고성능 Recurrent-KDA 커널 최적화 및 통합 (2026.09.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4845-featcake-kda-add-fp32-state-long-co)
+- [[sglang] SGLang, JoyEcho 모델에 Breakable CUDA Graph 적용하여 추론 속도 43% 향상 (2026.09.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-38110-diffusion-enable-breakable-cuda-graph)
 - [[sglang] SGLang 성능 최적화: RTX 5090 32GB 환경에서의 CUDA Graph 및 Chunked Prefill 개선 (2026.09.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-37898-sm120-32gb-mem-tier-raise-decode-cuda-g)
-- [[flashinfer] [FlashInfer] Blackwell 아키텍처를 위한 Warp Level Split-K BF16 GEMM 최적화 분석 (2026.09.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4908-feat-add-warp-level-split-k-bf16-gemm)
-- [[transformers] Hugging Face Transformers, GGUF 추론 속도 향상을 위한 대대적인 리팩토링 (2026.09.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/transformers-pr-47779-refactor-gguf-to-speed-up-inference)
-- [[vllm] vLLM의 Fast Start: CUDA IPC를 활용한 모델 가중치 제로 카피 로딩 (2026.09.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-54921-fast-start)
-- [[sglang] MiniMax-H3 모델의 AdaLN 추론 최적화: Pinned-Host 캐싱과 LRU 전략 (2026.09.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-37266-diffusion-minimax-h3-tiered-adaln-pla)
