@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[sglang] SGLang: LFM2-MoE 모델을 위한 SM90 커널 퓨전 최적화 분석 (2026.09.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-37622-perflfm2-fuse-gating-and-short-convol)
-- [[flashinfer] Blackwell 시대를 위한 최적화: FlashInfer의 SM120 Block-Sparse Attention 백엔드 도입기 (2026.09.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4951-featcake-sage-add-sm120-block-sparse)
-- [[flashinfer] Blackwell GPU를 위한 고성능 Recurrent-KDA 커널 최적화 및 통합 (2026.09.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4845-featcake-kda-add-fp32-state-long-co)
-- [[sglang] SGLang, JoyEcho 모델에 Breakable CUDA Graph 적용하여 추론 속도 43% 향상 (2026.09.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-38110-diffusion-enable-breakable-cuda-graph)
-- [[sglang] SGLang 성능 최적화: RTX 5090 32GB 환경에서의 CUDA Graph 및 Chunked Prefill 개선 (2026.09.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-37898-sm120-32gb-mem-tier-raise-decode-cuda-g)
+- [[sglang] LLM 서빙 최적화: Gumbel-max 트릭으로 CPU 병목 제거하기 (SGLang 사례) (2026.09.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-38117-perf-use-gumbel-max-trick-in-the-main-s)
+- [[starlette] Starlette의 CI 벤치마크 안정화: glibc mmap_threshold 최적화를 통한 업로드 버퍼 할당 개선 (2026.09.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/starlette-pr-3524-stabilize-codspeed-upload-buffer-allocat)
+- [[sglang] SGLang Router의 버킷 기반 라우팅 및 KV Indexer 통합 최적화 분석 (2026.09.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-38108-router-add-bucket-aware-policy-domains)
+- [[sglang] ROCm DSA Indexer Top-K 최적화: 정확성과 성능을 동시에 잡다 (2026.09.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-37591-rocm-make-dsa-indexer-top-k-exact-with)
+- [[vllm] vLLM의 차세대 CPU 가속: Intel Diamond Rapids를 위한 AMX-FP8 어텐션 구현 (2026.09.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-49410-cpu-feat-add-native-amx-fp8-attenti)
