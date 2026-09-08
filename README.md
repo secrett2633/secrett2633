@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[sglang] LLM 서빙 최적화: Gumbel-max 트릭으로 CPU 병목 제거하기 (SGLang 사례) (2026.09.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-38117-perf-use-gumbel-max-trick-in-the-main-s)
-- [[starlette] Starlette의 CI 벤치마크 안정화: glibc mmap_threshold 최적화를 통한 업로드 버퍼 할당 개선 (2026.09.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/starlette-pr-3524-stabilize-codspeed-upload-buffer-allocat)
-- [[sglang] SGLang Router의 버킷 기반 라우팅 및 KV Indexer 통합 최적화 분석 (2026.09.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-38108-router-add-bucket-aware-policy-domains)
-- [[sglang] ROCm DSA Indexer Top-K 최적화: 정확성과 성능을 동시에 잡다 (2026.09.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-37591-rocm-make-dsa-indexer-top-k-exact-with)
-- [[vllm] vLLM의 차세대 CPU 가속: Intel Diamond Rapids를 위한 AMX-FP8 어텐션 구현 (2026.09.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-49410-cpu-feat-add-native-amx-fp8-attenti)
+- [[flashinfer] FlashInfer NVFP4 KV 타일 리팩(Repack)을 통한 성능 최적화 (2026.09.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4769-perfattention-repack-nvfp4-kv-tiles-t)
+- [[cpython] Python difflib의 성능 개선: 비대칭 변경 시 발생하는 Quadratic Time 복잡도 문제 해결 (2026.09.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-156506-gh-156505-speed-up-difflibhtmldiff-for)
+- [[vllm] vLLM Qwen3.8-Flash-Next: QSA Indexer 캐시를 위한 FP8 지원으로 메모리 효율 및 성능 최적화 (2026.09.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-54890-qwen38-flash-next-support-fp8-indexer)
+- [[sglang] H200 NVL에서 Qwen3.8-Flash-Next FP8 성능 극대화하기: Fused MoE Triton 설정 최적화 (2026.09.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-38116-kernel-add-fused-moe-triton-configs-fo)
+- [[ultralytics] Ultralytics YOLO에 INT8 Quantization-Aware Training(QAT) 도입하기 (2026.09.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-26083-add-int8-quantization-aware-training-via)
