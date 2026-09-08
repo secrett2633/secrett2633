@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] NVFP4 MoE All-to-All 성능 최적화: Phased Dispatch 기법 분석 (2026.09.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4067-perfmoe-phase-nvfp4-dispatch-payload)
+- [[sglang] SGLang의 새로운 스케줄링 정책: HRRN 도입을 통한 TTFT 최적화 (2026.09.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-32911-scheduler-add-hrrn-schedule-policy-to)
+- [[vllm] vLLM NVFP4 커널 선택 최적화: SM120/121 환경에서의 성능 향상 (2026.09.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-55170-perfquantnvfp4-prefer-w4a4-linear)
 - [[flashinfer] FlashInfer NVFP4 KV 타일 리팩(Repack)을 통한 성능 최적화 (2026.09.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4769-perfattention-repack-nvfp4-kv-tiles-t)
 - [[cpython] Python difflib의 성능 개선: 비대칭 변경 시 발생하는 Quadratic Time 복잡도 문제 해결 (2026.09.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-156506-gh-156505-speed-up-difflibhtmldiff-for)
-- [[vllm] vLLM Qwen3.8-Flash-Next: QSA Indexer 캐시를 위한 FP8 지원으로 메모리 효율 및 성능 최적화 (2026.09.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-54890-qwen38-flash-next-support-fp8-indexer)
-- [[sglang] H200 NVL에서 Qwen3.8-Flash-Next FP8 성능 극대화하기: Fused MoE Triton 설정 최적화 (2026.09.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-38116-kernel-add-fused-moe-triton-configs-fo)
-- [[ultralytics] Ultralytics YOLO에 INT8 Quantization-Aware Training(QAT) 도입하기 (2026.09.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-26083-add-int8-quantization-aware-training-via)
