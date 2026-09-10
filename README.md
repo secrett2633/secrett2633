@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] NVFP4 MoE All-to-All 성능 최적화: Phased Dispatch 기법 분석 (2026.09.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4067-perfmoe-phase-nvfp4-dispatch-payload)
-- [[sglang] SGLang의 새로운 스케줄링 정책: HRRN 도입을 통한 TTFT 최적화 (2026.09.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-32911-scheduler-add-hrrn-schedule-policy-to)
-- [[vllm] vLLM NVFP4 커널 선택 최적화: SM120/121 환경에서의 성능 향상 (2026.09.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-55170-perfquantnvfp4-prefer-w4a4-linear)
-- [[flashinfer] FlashInfer NVFP4 KV 타일 리팩(Repack)을 통한 성능 최적화 (2026.09.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4769-perfattention-repack-nvfp4-kv-tiles-t)
-- [[cpython] Python difflib의 성능 개선: 비대칭 변경 시 발생하는 Quadratic Time 복잡도 문제 해결 (2026.09.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-156506-gh-156505-speed-up-difflibhtmldiff-for)
+- [[LlamaFactory] LLaMA Factory v1: 멀티모달 및 메모리 효율적인 SFT를 위한 Ulysses CP와 Chunk Loss 지원 (2026.09.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/llamafactory-pr-10762-v1-support-multimodal-ulysses-cp-and-m)
+- [[flashinfer] NVIDIA SM110 GPU를 위한 실험적인 FP16 GQA 디코드 커널 추가 (2026.09.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5052-featcake-gqa-add-an-experimental-sm11)
+- [[sglang] SGLang에서 NPU를 위한 LTX-2/2.3 추론 성능 최적화 및 호환성 개선 (2026.09.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-34722-diffusion-npu-optimize-ltx-223-inf)
+- [[Liger-Kernel] Ascend NPU 성능 극대화: Liger-Kernel의 커널 최적화 분석 (2026.09.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/liger-kernel-pr-1426-npu-optimize-ascend-ceflce-rmsnorm)
+- [[sglang] NVIDIA SM90 GPU를 위한 SGLang SubBlock Sparse Attention 최적화: Sage FP8 Compute 도입 (2026.09.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-37982-diffusionminimax-h3-add-sm90-sage-co)
