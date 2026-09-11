@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] FlashInfer의 GEMM 성능 혁신: cuTile 백엔드 도입과 최적화 여정 (2026.09.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4020-featgemm-cutile-alpha-beta-masked-b)
+- [[flashinfer] NVIDIA Blackwell(SM103a)을 위한 극한의 커널 퓨전: MiniMax-H3 BF16 Pre-attention 최적화 분석 (2026.09.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4690-featcake-diffusion-add-sm103a-bf16-pr)
+- [[vllm] vLLM의 MLA KV 캐시 최적화: 커널 통합을 통한 성능 극대화 (2026.09.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-55356-kimi-perf-group-fp8-mla-cahche-inserti)
+- [[sglang] SGLang aiter 백엔드의 Sliding Window Attention(SWA) 최적화 및 안정성 개선 (2026.09.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-38756-amd-aiter-resolve-swa-kv-pool-for-dra)
 - [[vllm] vLLM, ROCm 환경에서 FP8 GEMM 최적화로 성능 4-9% 향상 (2026.09.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-51692-rocmperf-add-bpreshuffled-blockscale)
-- [[sglang] Ascend NPU 환경에서 HiCache L2 I/O 성능 최적화: Memfabric과 AscendC 활용 (2026.09.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-38826-npuhicache-optimize-hicache-l2-io-wi)
-- [[sglang] DeepSeek-V4.1 모델 성능 향상: DSpark 검증 및 MoE 커널 최적화 (2026.09.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-38879-deepseek-v41-optimize-dspark-verify-a)
-- [[onnxruntime] ONNX Runtime: INT4 Paged KV Cache 도입을 통한 메모리 최적화 (2026.09.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32515-cuda-add-int4-paged-kv-cache-with-per)
-- [[LlamaFactory] LLaMA Factory v1: 멀티모달 및 메모리 효율적인 SFT를 위한 Ulysses CP와 Chunk Loss 지원 (2026.09.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/llamafactory-pr-10762-v1-support-multimodal-ulysses-cp-and-m)
