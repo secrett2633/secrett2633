@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer의 GEMM 성능 혁신: cuTile 백엔드 도입과 최적화 여정 (2026.09.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4020-featgemm-cutile-alpha-beta-masked-b)
-- [[flashinfer] NVIDIA Blackwell(SM103a)을 위한 극한의 커널 퓨전: MiniMax-H3 BF16 Pre-attention 최적화 분석 (2026.09.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4690-featcake-diffusion-add-sm103a-bf16-pr)
-- [[vllm] vLLM의 MLA KV 캐시 최적화: 커널 통합을 통한 성능 극대화 (2026.09.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-55356-kimi-perf-group-fp8-mla-cahche-inserti)
-- [[sglang] SGLang aiter 백엔드의 Sliding Window Attention(SWA) 최적화 및 안정성 개선 (2026.09.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-38756-amd-aiter-resolve-swa-kv-pool-for-dra)
-- [[vllm] vLLM, ROCm 환경에서 FP8 GEMM 최적화로 성능 4-9% 향상 (2026.09.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-51692-rocmperf-add-bpreshuffled-blockscale)
+- [[flashinfer] FlashInfer, BF16 활성화 및 MXFP8 가중치에 대한 Cake MegaMoE EP16 백엔드 최적화 (2026.09.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5148-perfcake-mega-moe-optimize-bf16-x-mxf)
+- [[cpython] CPython 성능 최적화: list/tuple에서 bytes 생성 시 30% 성능 향상 및 Free-threading 대응 (2026.09.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-132590-gh-128213-fast-path-for-bytes-creation)
+- [[flashinfer] NVIDIA Blackwell 아키텍처를 위한 고성능 BF16 x FP4 GEMM 커널 최적화 (2026.09.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5138-featcake-bf16-fp4-gemm-add-sm100sm10)
+- [[sglang] H100에서 Qwen3-VL 단일 이미지 서빙 성능 11% 향상: SGLang 최적화 분석 (2026.09.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-36411-perf-optimize-qwen3-vl-unique-image-se)
+- [[vllm] vLLM Elastic EP의 CUDA Graph 재사용을 통한 리컨피규레이션 다운타임 97% 절감 (2026.09.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-54985-elastic-ep-reuse-cuda-graphs-across-re)
