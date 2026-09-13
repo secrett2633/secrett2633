@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer, BF16 활성화 및 MXFP8 가중치에 대한 Cake MegaMoE EP16 백엔드 최적화 (2026.09.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5148-perfcake-mega-moe-optimize-bf16-x-mxf)
-- [[cpython] CPython 성능 최적화: list/tuple에서 bytes 생성 시 30% 성능 향상 및 Free-threading 대응 (2026.09.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-132590-gh-128213-fast-path-for-bytes-creation)
-- [[flashinfer] NVIDIA Blackwell 아키텍처를 위한 고성능 BF16 x FP4 GEMM 커널 최적화 (2026.09.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5138-featcake-bf16-fp4-gemm-add-sm100sm10)
-- [[sglang] H100에서 Qwen3-VL 단일 이미지 서빙 성능 11% 향상: SGLang 최적화 분석 (2026.09.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-36411-perf-optimize-qwen3-vl-unique-image-se)
-- [[vllm] vLLM Elastic EP의 CUDA Graph 재사용을 통한 리컨피규레이션 다운타임 97% 절감 (2026.09.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-54985-elastic-ep-reuse-cuda-graphs-across-re)
+- [[flashinfer] FlashInfer: Blackwell W8A8 AlphaMoE Expert 계산 커널 퓨전으로 성능 비약적 향상 (2026.09.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4287-featcake-alpha-moe-add-optimized-blac)
+- [[vllm] [vLLM] ROCm 환경에서 4바이트 스칼라 할당이 유발하는 성능 병목 해결하기 (2026.09.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-56170-rocmperformance-avoid-blocking-minim)
+- [[vllm] vLLM에 DeepSeek DeepSelect 커널 통합: Sparse Attention 성능 극대화 (2026.09.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-56464-perfkernel-integrate-deepselect-topk)
+- [[sglang] sglang, DeepSeek V4.1 모델을 위한 Paged KV Cache 최적화: V41 및 FP4 포맷 도입 (2026.09.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-39123-dsv41-paged-kv-cache-layouts-for-flas)
+- [[vllm] vLLM의 멀티모달 추론 성능 극대화: Triton/FlashInfer 복합 어텐션 도입 (2026.09.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-56305-attention-add-tritonflashinfer-compos)
