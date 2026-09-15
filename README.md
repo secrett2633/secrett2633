@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer: Blackwell W8A8 AlphaMoE Expert 계산 커널 퓨전으로 성능 비약적 향상 (2026.09.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4287-featcake-alpha-moe-add-optimized-blac)
-- [[vllm] [vLLM] ROCm 환경에서 4바이트 스칼라 할당이 유발하는 성능 병목 해결하기 (2026.09.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-56170-rocmperformance-avoid-blocking-minim)
-- [[vllm] vLLM에 DeepSeek DeepSelect 커널 통합: Sparse Attention 성능 극대화 (2026.09.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-56464-perfkernel-integrate-deepselect-topk)
-- [[sglang] sglang, DeepSeek V4.1 모델을 위한 Paged KV Cache 최적화: V41 및 FP4 포맷 도입 (2026.09.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-39123-dsv41-paged-kv-cache-layouts-for-flas)
-- [[vllm] vLLM의 멀티모달 추론 성능 극대화: Triton/FlashInfer 복합 어텐션 도입 (2026.09.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-56305-attention-add-tritonflashinfer-compos)
+- [[flashinfer] [FlashInfer] Paged Attention 최적화: 동일 Stride 구조에서의 주소 계산 오버헤드 제거 (2026.09.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4736-perfattention-specialize-paged-fa2-eq)
+- [[cpython] Python 토크나이저 최적화: 불필요한 개행 문자 변환 건너뛰기로 성능 개선 (2026.09.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-153584-gh-153568-skip-newline-translation-for)
+- [[flashinfer] FlashInfer, 통신 최적화를 통한 LLM 추론 속도 향상: Ulysses Head-Chunk Primitives 도입 (2026.09.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5027-featcomm-add-allocation-stable-head-c)
+- [[Liger-Kernel] Liger-Kernel: SM90 MoE 통신 최적화 및 안정성 개선 (2026.09.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/liger-kernel-pr-1463-specialize-sm90-moe-communication-and-fi)
+- [[sglang] NVLink를 활용한 sglang의 DSpark 헤드 최적화: 더 빠른 토큰 생성 (2026.09.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-39414-dsv41-nvlink-collectives-and-the-dsp)
