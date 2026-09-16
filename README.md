@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] [FlashInfer] Paged Attention 최적화: 동일 Stride 구조에서의 주소 계산 오버헤드 제거 (2026.09.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4736-perfattention-specialize-paged-fa2-eq)
-- [[cpython] Python 토크나이저 최적화: 불필요한 개행 문자 변환 건너뛰기로 성능 개선 (2026.09.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-153584-gh-153568-skip-newline-translation-for)
-- [[flashinfer] FlashInfer, 통신 최적화를 통한 LLM 추론 속도 향상: Ulysses Head-Chunk Primitives 도입 (2026.09.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5027-featcomm-add-allocation-stable-head-c)
-- [[Liger-Kernel] Liger-Kernel: SM90 MoE 통신 최적화 및 안정성 개선 (2026.09.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/liger-kernel-pr-1463-specialize-sm90-moe-communication-and-fi)
-- [[sglang] NVLink를 활용한 sglang의 DSpark 헤드 최적화: 더 빠른 토큰 생성 (2026.09.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-39414-dsv41-nvlink-collectives-and-the-dsp)
+- [[loki] Grafana Loki LogQL 성능 최적화: Constant-Label Fast Path 도입 (2026.09.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-24368-perflogql-add-constant-label-fast-pat)
+- [[flashinfer] Blackwell 아키텍처에서 FlashInfer Ragged Prefill 성능 3.3배 향상시키기 (2026.09.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5133-featprefill-let-backendauto-reach)
+- [[onnxruntime] ONNX Runtime WebGPU: NHWC Depthwise Convolution 최적화 분석 (2026.09.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32498-webgpu-vectorize-nhwc-depthwise-convol)
+- [[vllm] [vLLM 성능 최적화] Nemotron-3 디코딩 속도를 13% 향상시킨 Latent-MoE All-Reduce 최적화 분석 (2026.09.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-52301-perfnemotron-skip-redundant-latent-m)
+- [[vllm] vLLM에서 DeepSeek V4.1을 위한 Mega-mHC 커널 최적화 (2026.09.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-56962-perfkernel-integrate-mega-mhc-from-d)
