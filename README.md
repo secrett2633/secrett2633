@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[ultralytics] YOLO 학습 성능 25% 향상: B200 GPU 최적화 분석 (2026.09.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-26180-perf-yolo26x-coco-training-on-b200-22)
+- [[flashinfer] Blackwell 아키텍처를 위한 MoE All-Reduce Fusion 최적화: FlashInfer의 'Cake' 백엔드 분석 (2026.09.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4730-featcake-comm-add-optimized-blackwell)
+- [[ultralytics] RT-DETR의 OpenVINO INT8 양자화 정확도 문제 해결: NNCF Transformer 모드 적용 (2026.09.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-26191-fix-rt-detr-openvino-int8-export-by-keep)
+- [[onnxruntime] ONNX Runtime, SM90 GPU를 위한 네이티브 FP8 행렬 곱셈 최적화 도입 (2026.09.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32599-cuda-add-opt-in-sm90-deepgemm-for-matm)
 - [[loki] Grafana Loki LogQL 성능 최적화: Constant-Label Fast Path 도입 (2026.09.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-24368-perflogql-add-constant-label-fast-pat)
-- [[flashinfer] Blackwell 아키텍처에서 FlashInfer Ragged Prefill 성능 3.3배 향상시키기 (2026.09.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5133-featprefill-let-backendauto-reach)
-- [[onnxruntime] ONNX Runtime WebGPU: NHWC Depthwise Convolution 최적화 분석 (2026.09.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32498-webgpu-vectorize-nhwc-depthwise-convol)
-- [[vllm] [vLLM 성능 최적화] Nemotron-3 디코딩 속도를 13% 향상시킨 Latent-MoE All-Reduce 최적화 분석 (2026.09.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-52301-perfnemotron-skip-redundant-latent-m)
-- [[vllm] vLLM에서 DeepSeek V4.1을 위한 Mega-mHC 커널 최적화 (2026.09.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-56962-perfkernel-integrate-mega-mhc-from-d)
