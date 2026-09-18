@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[onnxruntime] ONNX Runtime의 RISC-V RVV 커널 최적화: 추론 성능 극대화 (2026.09.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32540-mlas-riscv64-rvv-kernel-optimizations)
+- [[onnxruntime] ONNX Runtime MoE 최적화: QMoE CPU GEMM 성능 대폭 향상 (2026.09.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32668-batch-qmoe-cpu-qnbit-expert-gemms-into-g)
+- [[sglang] SGLang의 새로운 캐시 전략: T-LRU로 에이전트 워크로드의 TTFT 최적화하기 (2026.09.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-34012-add-agentic-aware-tail-optimized-lru-evi)
 - [[ultralytics] YOLO 학습 성능 25% 향상: B200 GPU 최적화 분석 (2026.09.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-26180-perf-yolo26x-coco-training-on-b200-22)
 - [[flashinfer] Blackwell 아키텍처를 위한 MoE All-Reduce Fusion 최적화: FlashInfer의 'Cake' 백엔드 분석 (2026.09.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4730-featcake-comm-add-optimized-blackwell)
-- [[ultralytics] RT-DETR의 OpenVINO INT8 양자화 정확도 문제 해결: NNCF Transformer 모드 적용 (2026.09.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-26191-fix-rt-detr-openvino-int8-export-by-keep)
-- [[onnxruntime] ONNX Runtime, SM90 GPU를 위한 네이티브 FP8 행렬 곱셈 최적화 도입 (2026.09.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32599-cuda-add-opt-in-sm90-deepgemm-for-matm)
-- [[loki] Grafana Loki LogQL 성능 최적화: Constant-Label Fast Path 도입 (2026.09.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-24368-perflogql-add-constant-label-fast-pat)
