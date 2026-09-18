@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] FlashInfer, 최신 GPU 아키텍처를 위한 커널 튜닝으로 성능 극대화 (2026.09.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5305-perfnorm-tune-cute-dsl-qk-rmsnorm-and)
+- [[onnxruntime] ONNX Runtime CUDA 데이터 로딩 최적화: Pinned Buffer와 병렬 I/O를 통한 성능 개선 (2026.09.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32437-load-cuda-external-data-through-pinned-b)
+- [[sglang] AMD MI355X에서 GLM-5.2 성능 극대화하기: 왜 다시 HIP Top-K인가? (2026.09.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-40148-amd-glm-52-mi355x-mxfp4-bump-image-t)
 - [[onnxruntime] ONNX Runtime의 RISC-V RVV 커널 최적화: 추론 성능 극대화 (2026.09.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32540-mlas-riscv64-rvv-kernel-optimizations)
 - [[onnxruntime] ONNX Runtime MoE 최적화: QMoE CPU GEMM 성능 대폭 향상 (2026.09.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32668-batch-qmoe-cpu-qnbit-expert-gemms-into-g)
-- [[sglang] SGLang의 새로운 캐시 전략: T-LRU로 에이전트 워크로드의 TTFT 최적화하기 (2026.09.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-34012-add-agentic-aware-tail-optimized-lru-evi)
-- [[ultralytics] YOLO 학습 성능 25% 향상: B200 GPU 최적화 분석 (2026.09.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-26180-perf-yolo26x-coco-training-on-b200-22)
-- [[flashinfer] Blackwell 아키텍처를 위한 MoE All-Reduce Fusion 최적화: FlashInfer의 'Cake' 백엔드 분석 (2026.09.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4730-featcake-comm-add-optimized-blackwell)
