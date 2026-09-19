@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer, 최신 GPU 아키텍처를 위한 커널 튜닝으로 성능 극대화 (2026.09.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5305-perfnorm-tune-cute-dsl-qk-rmsnorm-and)
-- [[onnxruntime] ONNX Runtime CUDA 데이터 로딩 최적화: Pinned Buffer와 병렬 I/O를 통한 성능 개선 (2026.09.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32437-load-cuda-external-data-through-pinned-b)
-- [[sglang] AMD MI355X에서 GLM-5.2 성능 극대화하기: 왜 다시 HIP Top-K인가? (2026.09.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-40148-amd-glm-52-mi355x-mxfp4-bump-image-t)
-- [[onnxruntime] ONNX Runtime의 RISC-V RVV 커널 최적화: 추론 성능 극대화 (2026.09.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32540-mlas-riscv64-rvv-kernel-optimizations)
-- [[onnxruntime] ONNX Runtime MoE 최적화: QMoE CPU GEMM 성능 대폭 향상 (2026.09.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32668-batch-qmoe-cpu-qnbit-expert-gemms-into-g)
+- [[sglang] H200 GPU에서 GLM-5.2 MoE를 위한 W4A8 GEMM 커널 최적화 분석 (2026.09.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-38220-perf-optimize-w4a8-moe-for-glm52-on-h)
+- [[sglang] ROCm 환경에서 SGLang HiCache JIT 전송 커널 최적화 및 유연성 개선 (2026.09.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-37152-rocm-widen-the-hicache-jit-copy-rounds)
+- [[vllm] NVIDIA RTX PRO 6000 GPU에서 VLLM의 행렬 곱셈 성능 최적화: sm120 아키텍처 지원 추가 (2026.09.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-57456-kernelperf-add-sm-120-rtx-pro-6000)
+- [[sglang] DeepSeek-V4.1 성능 최적화: mHC 및 메타데이터 오버헤드 개선 분석 (2026.09.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-39704-dsv41-reduce-mhc-metadata-and-small)
+- [[sglang] [DeepSeek-V4.1] Blackwell(SM100) 성능의 한계를 끌어올리는 Fused WO-A 커널 최적화 분석 (2026.09.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-39957-dsv41-big-fused-wo-a-quant)
