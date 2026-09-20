@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] FlashInfer의 실험적 NVFP4 어텐션 도입: SM103 최적화 (2026.09.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5283-featcake-nvfp4-attn-add-experimental)
+- [[ultralytics] Ultralytics YOLOv10 TensorRT 엔진 성능 최적화: FP16 및 INT8 속도 향상 비결 (2026.09.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-26223-speed-up-tensorrt-fp16-and-int8-engines)
+- [[vllm] [ROCm] DeepSeek V4 성능 극대화: FP8 WO_A 출력 프로젝션 최적화 분석 (2026.09.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-54894-rocmdsv4perf-use-fp8-wo-a-output-p)
+- [[sglang] SGLang에서 SM120 GPU를 위한 SubBlock Sage FP8 어텐션 최적화 (2026.09.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-40116-diffusionminimax-h3-add-sm120-sage-c)
 - [[sglang] H200 GPU에서 GLM-5.2 MoE를 위한 W4A8 GEMM 커널 최적화 분석 (2026.09.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-38220-perf-optimize-w4a8-moe-for-glm52-on-h)
-- [[sglang] ROCm 환경에서 SGLang HiCache JIT 전송 커널 최적화 및 유연성 개선 (2026.09.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-37152-rocm-widen-the-hicache-jit-copy-rounds)
-- [[vllm] NVIDIA RTX PRO 6000 GPU에서 VLLM의 행렬 곱셈 성능 최적화: sm120 아키텍처 지원 추가 (2026.09.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-57456-kernelperf-add-sm-120-rtx-pro-6000)
-- [[sglang] DeepSeek-V4.1 성능 최적화: mHC 및 메타데이터 오버헤드 개선 분석 (2026.09.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-39704-dsv41-reduce-mhc-metadata-and-small)
-- [[sglang] [DeepSeek-V4.1] Blackwell(SM100) 성능의 한계를 끌어올리는 Fused WO-A 커널 최적화 분석 (2026.09.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-39957-dsv41-big-fused-wo-a-quant)
