@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer의 실험적 NVFP4 어텐션 도입: SM103 최적화 (2026.09.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5283-featcake-nvfp4-attn-add-experimental)
-- [[ultralytics] Ultralytics YOLOv10 TensorRT 엔진 성능 최적화: FP16 및 INT8 속도 향상 비결 (2026.09.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-26223-speed-up-tensorrt-fp16-and-int8-engines)
-- [[vllm] [ROCm] DeepSeek V4 성능 극대화: FP8 WO_A 출력 프로젝션 최적화 분석 (2026.09.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-54894-rocmdsv4perf-use-fp8-wo-a-output-p)
-- [[sglang] SGLang에서 SM120 GPU를 위한 SubBlock Sage FP8 어텐션 최적화 (2026.09.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-40116-diffusionminimax-h3-add-sm120-sage-c)
-- [[sglang] H200 GPU에서 GLM-5.2 MoE를 위한 W4A8 GEMM 커널 최적화 분석 (2026.09.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-38220-perf-optimize-w4a8-moe-for-glm52-on-h)
+- [[flashinfer] FlashInfer BF16 KDA 성능 최적화: M64 Value Split 도입 (2026.09.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5363-perfcake-kda-route-one-wave-bf16-grid)
+- [[flashinfer] FlashInfer의 Context-Parallel Decode 최적화: Fused A2A + LSE Reduce (2026.09.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-4929-featcomm-add-fused-decode-cp-a2a-ls)
+- [[vllm] [ROCm 성능 최적화] vLLM의 Fused Shared-Expert Gate GEMM 경로 개선 분석 (2026.09.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-54185-rocmperf-route-the-fused-shared-expe)
+- [[sglang] HiCache 최적화: TMA를 활용한 Host-Device KV 캐시 전송 성능 2배 향상 (2026.09.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-40278-hicache-tma-staged-host-device-kv-tr)
+- [[sglang] [AMD ROCm] GLM-5.x Prefill 성능을 66% 끌어올린 Top-K 커널 최적화 분석 (2026.09.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-37889-amd-enable-glm-dsa-prefill-top-k-to-th)
