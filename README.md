@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer의 plan() 함수 최적화: Python max()에서 Tensor.max()로의 전환 (2026.09.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5043-perfattention-use-tensormax-for-th)
-- [[feast] Feast 온라인 서빙 성능 최적화: 불필요한 오버헤드 제거하기 (2026.09.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/feast-pr-6854-perf-reduce-online-serving-hot-path-ove)
-- [[ultralytics] SAM3 텍스트 프롬프팅 VRAM 최적화: 청크 기반 처리로 메모리 사용량 대폭 감소 (2026.09.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-26281-reduce-peak-vram-for-sam3-text-prompting)
-- [[onnxruntime] ONNX Runtime CPU Col2im 최적화: 메모리 접근 및 경계 검사 개선 (2026.09.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32698-reduce-memory-access-and-bounds-checks-i)
-- [[onnxruntime] ONNX Runtime CUDA EP, 2-bit 양자화 GEMM/GEMV 지원 추가로 모델 경량화 가속 (2026.09.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32699-cuda-add-2-bit-fpa-intb-gemm-and-gemv)
+- [[flashinfer] Blackwell 아키텍처를 위한 극한의 최적화: MiniMax-H3 Fused 커널의 256-Column Tiling 전략 (2026.09.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5506-perfcake-diffusion-256-column-quantiz)
+- [[flashinfer] FlashInfer, MTP/Speculative 디코딩 성능 1.23배 향상: Packed-Row 최적화 분석 (2026.09.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5490-perfcake-backend-packed-row-mtp-fast)
+- [[flashinfer] FlashInfer, NVFP4를 활용한 DeepSeek-V4 디코딩 성능 최적화 (2026.09.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5443-featcake-nvfp4-mla-decode-add-experim)
+- [[flashinfer] FlashInfer, MiniMax-H3 어텐션 최적화: BF16 및 NVFP4 지원으로 성능 혁신 (2026.09.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5499-featcake-minimax-h3-experimental-mini)
+- [[vllm] vLLM, ROCm 환경에서 FP8을 활용한 DeepSeek-V4.1 모델 성능 최적화 (2026.09.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-58456-rocmdsv41perf-emit-mxfp8-from-the)
