@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] FlashInfer KDA: BF16 준비된 Prefill 계획 캐싱 및 FP32 중간 상태 최적화 분석 (2026.09.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5452-featcake-kda-prepared-bf16-kda-prefil)
+- [[flashinfer] NVIDIA Blackwell(SM120)을 위한 초고속 커널 최적화: MiniMax-H3 Fused FC1 + SwiGLU 분석 (2026.09.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5521-featcake-diffusion-minimax-h3-sm120-f)
+- [[onnxruntime] ONNX Runtime, x86 CPU에서 FP16 LayerNorm 및 RMSNorm 성능 최적화: AVX2 활용 (2026.09.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32715-optimize-fp16-layernorm-and-rmsnorm-on-x)
+- [[vllm] vLLM GLM5.3 성능 최적화: 메타데이터 연산 속도 1.6~4.8배 향상 (2026.09.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-58450-glm53-perf-optimize-glm-53-metadata)
 - [[flashinfer] Blackwell 아키텍처를 위한 극한의 최적화: MiniMax-H3 Fused 커널의 256-Column Tiling 전략 (2026.09.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5506-perfcake-diffusion-256-column-quantiz)
-- [[flashinfer] FlashInfer, MTP/Speculative 디코딩 성능 1.23배 향상: Packed-Row 최적화 분석 (2026.09.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5490-perfcake-backend-packed-row-mtp-fast)
-- [[flashinfer] FlashInfer, NVFP4를 활용한 DeepSeek-V4 디코딩 성능 최적화 (2026.09.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5443-featcake-nvfp4-mla-decode-add-experim)
-- [[flashinfer] FlashInfer, MiniMax-H3 어텐션 최적화: BF16 및 NVFP4 지원으로 성능 혁신 (2026.09.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5499-featcake-minimax-h3-experimental-mini)
-- [[vllm] vLLM, ROCm 환경에서 FP8을 활용한 DeepSeek-V4.1 모델 성능 최적화 (2026.09.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-58456-rocmdsv41perf-emit-mxfp8-from-the)
