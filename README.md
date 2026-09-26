@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer KDA: BF16 준비된 Prefill 계획 캐싱 및 FP32 중간 상태 최적화 분석 (2026.09.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5452-featcake-kda-prepared-bf16-kda-prefil)
-- [[flashinfer] NVIDIA Blackwell(SM120)을 위한 초고속 커널 최적화: MiniMax-H3 Fused FC1 + SwiGLU 분석 (2026.09.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5521-featcake-diffusion-minimax-h3-sm120-f)
-- [[onnxruntime] ONNX Runtime, x86 CPU에서 FP16 LayerNorm 및 RMSNorm 성능 최적화: AVX2 활용 (2026.09.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32715-optimize-fp16-layernorm-and-rmsnorm-on-x)
-- [[vllm] vLLM GLM5.3 성능 최적화: 메타데이터 연산 속도 1.6~4.8배 향상 (2026.09.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-58450-glm53-perf-optimize-glm-53-metadata)
-- [[flashinfer] Blackwell 아키텍처를 위한 극한의 최적화: MiniMax-H3 Fused 커널의 256-Column Tiling 전략 (2026.09.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5506-perfcake-diffusion-256-column-quantiz)
+- [[flashinfer] FlashInfer MiniMax-H3 Attention 최적화: K/V-split을 통한 성능 향상 분석 (2026.09.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5530-perfcake-minimax-h3-kv-split-the-par)
+- [[flashinfer] FlashInfer NVFP4 QKV GEMM 최적화: SM103a Epilogue 통합 및 CUDA 런처 개선 (2026.09.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5563-perfcake-kernel-unified-16-warp-epilo)
+- [[flashinfer] NVIDIA Blackwell의 잠재력을 극한으로: MiniMax-H3 NVFP4 양자화 및 GEMM 최적화 분석 (2026.09.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5562-perfcake-diffusion-minimax-h3-out-pro)
+- [[flashinfer] FlashInfer Kimi-K3 Fused MoE Router 최적화: Warp-per-row 전략 도입 (2026.09.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5564-perfcake-backend-warp-per-row-selecti)
+- [[sglang] SGLang 성능 최적화: RTX 4090에서 MXFP4 MoE 추론 속도 6배 향상시키기 (2026.09.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-41292-pin-triton-kernels-num-warps-for-mxfp4-m)
