@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer MiniMax-H3 Attention 최적화: K/V-split을 통한 성능 향상 분석 (2026.09.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5530-perfcake-minimax-h3-kv-split-the-par)
-- [[flashinfer] FlashInfer NVFP4 QKV GEMM 최적화: SM103a Epilogue 통합 및 CUDA 런처 개선 (2026.09.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5563-perfcake-kernel-unified-16-warp-epilo)
-- [[flashinfer] NVIDIA Blackwell의 잠재력을 극한으로: MiniMax-H3 NVFP4 양자화 및 GEMM 최적화 분석 (2026.09.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5562-perfcake-diffusion-minimax-h3-out-pro)
-- [[flashinfer] FlashInfer Kimi-K3 Fused MoE Router 최적화: Warp-per-row 전략 도입 (2026.09.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5564-perfcake-backend-warp-per-row-selecti)
-- [[sglang] SGLang 성능 최적화: RTX 4090에서 MXFP4 MoE 추론 속도 6배 향상시키기 (2026.09.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-41292-pin-triton-kernels-num-warps-for-mxfp4-m)
+- [[flashinfer] FlashInfer SM110 XQA 최적화: register_mma_split 도입으로 FP16 Paged Attention 성능 향상 (2026.09.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5597-perfcake-xqa-add-the-split-kv-registe)
+- [[flashinfer] FlashInfer, Qwen3-30B 모델의 성능 향상을 위한 CUDA 커널 최적화: L2 캐시 힌트 도입 (2026.09.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5593-perfcake-warp-decode-evict-first-weig)
+- [[flashinfer] Hopper(SM90)의 잠재력을 깨우는 Attention 최적화: FlashInfer 'Cake' 백엔드 분석 (2026.09.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5586-perfcake-vsa-sm90-two-warpgroup-small)
+- [[sglang] MiniMax-H3 모델의 추론 속도 4.6배 향상: Spectrum Skip-Step 최적화 (2026.09.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-35684-diffusion-minimax-h3-spectrum-skip-ste)
+- [[Liger-Kernel] Liger-Kernel: Cross-Entropy와 Total Variation Distance를 하나로 융합하여 성능을 극대화하다 (2026.09.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/liger-kernel-pr-1384-add-fused-ce-tv-distance-kernel)
