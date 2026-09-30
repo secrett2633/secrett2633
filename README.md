@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer SM110 XQA 최적화: register_mma_split 도입으로 FP16 Paged Attention 성능 향상 (2026.09.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5597-perfcake-xqa-add-the-split-kv-registe)
-- [[flashinfer] FlashInfer, Qwen3-30B 모델의 성능 향상을 위한 CUDA 커널 최적화: L2 캐시 힌트 도입 (2026.09.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5593-perfcake-warp-decode-evict-first-weig)
-- [[flashinfer] Hopper(SM90)의 잠재력을 깨우는 Attention 최적화: FlashInfer 'Cake' 백엔드 분석 (2026.09.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5586-perfcake-vsa-sm90-two-warpgroup-small)
-- [[sglang] MiniMax-H3 모델의 추론 속도 4.6배 향상: Spectrum Skip-Step 최적화 (2026.09.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-35684-diffusion-minimax-h3-spectrum-skip-ste)
-- [[Liger-Kernel] Liger-Kernel: Cross-Entropy와 Total Variation Distance를 하나로 융합하여 성능을 극대화하다 (2026.09.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/liger-kernel-pr-1384-add-fused-ce-tv-distance-kernel)
+- [[flashinfer] [FlashInfer] Softmax 루프 최적화: Register Spill 방지를 위한 Tail Masking 분리 전략 (2026.09.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5280-perfprims-ts-mask-partial-last-kv-ti)
+- [[flashinfer] FlashInfer의 DeepSeek-V4 Sparse-MLA 최적화: Cake 백엔드 성능 개선 분석 (2026.09.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5686-perfcake-sparse-mla-round-5-dsv4-spar)
+- [[flashinfer] FlashInfer Kimi-K3 TP12 LatentMoE Tail 최적화: 8개 토큰까지 융합 및 FP64 게이팅 도입 (2026.09.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5668-perfcake-latent-moe-kimi-k3-tp12-fuse)
+- [[flashinfer] FlashInfer BatchAttention: K/V 스트라이드 최적화를 통한 성능 향상 (2026.09.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5329-perf-specialize-persistent-batchattenti)
+- [[flashinfer] FlashInfer: GB200/GB300 NVL72 환경에서의 LatentMoE 추론 최적화 (2026.09.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5624-perfcake-latent-moe-kimi-k3-tp12-fuse)
