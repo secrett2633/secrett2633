@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] FlashInfer cake_sampling 최적화: Speculative Sampling과 Whole-CTA Tail 도입으로 성능 향상 (2026.10.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5847-perfcake-sampling-round-7-speculat)
+- [[flashinfer] NVIDIA Blackwell(SM100) 최적화: FlashInfer의 Cake FMHA 성능 개선 분석 (2026.10.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5855-perfcake-fmha-round-4-balanced-dcp-e4)
+- [[vllm] vLLM, ColBERT/ColPali 문서 랭킹 속도 혁신: Flash-MaxSim Triton 커널 통합 (2026.10.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-40337-perf-integrate-flash-maxsim-triton-ker)
+- [[onnxruntime] WebGPU 성능의 한계를 넘어서: GatedDeltaNet 커널 최적화 분석 (2026.10.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32645-optimize-webgpu-gateddeltanet-recurrent)
 - [[flashinfer] FlashInfer PrimTS, Sage Attention 도입으로 8비트 양자화 및 성능 최적화 달성 (2026.09.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5123-featprims-ts-8-bit-qkv-sage-attenti)
-- [[flashinfer] FlashInfer의 새로운 DeepSeek Sparse Attention(DSA) 훈련 커널 최적화 분석 (2026.09.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5704-featcake-dsa-add-native-64-query-head)
-- [[vllm] vLLM Kimi-K3 MLA 디코드 성능 최적화: AITER 커널 퓨전 적용 (2026.09.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-57640-rocmkimi-k3perf-fuse-mla-decode-kv)
-- [[triton] Triton, TMA 전송 시 L2 캐시 정책 지원 추가: 성능 최적화 분석 (2026.09.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-12000-gluonnvidia-support-l2-cache-policie)
-- [[flashinfer] [FlashInfer] Softmax 루프 최적화: Register Spill 방지를 위한 Tail Masking 분리 전략 (2026.09.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5280-perfprims-ts-mask-partial-last-kv-ti)
