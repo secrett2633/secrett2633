@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] FlashInfer MoE 성능 최적화: CuTe DSL을 활용한 Deterministic Finalize 개선기 (2026.10.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5319-perf-optimize-cute-dsl-w4a4-and-w4a16-u)
+- [[flashinfer] FlashInfer, Blackwell GPU를 위한 DeepSeek-V4 NVFP4 Sparse-MLA 디코드 최적화: Cake 백엔드 도입 (2026.10.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5914-featcake-dsv4-sm120-deepseek-v4-nvfp4)
+- [[vllm] vLLM, Qwen 모델의 성능을 극적으로 향상시킨 비결: SM121 TP=1 skinny-GEMM 최적화 분석 (2026.10.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-59753-perfqwen4exp-add-sm121-tp1-skinny-g)
+- [[vllm] vLLM 성능 최적화: Sparse MLA 인덱스 변환 공유를 통한 3.9배 성능 향상 (2026.10.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-59464-glm53-perf-reuse-sparse-mla-index-con)
 - [[flashinfer] FlashInfer cake_sampling 최적화: Speculative Sampling과 Whole-CTA Tail 도입으로 성능 향상 (2026.10.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5847-perfcake-sampling-round-7-speculat)
-- [[flashinfer] NVIDIA Blackwell(SM100) 최적화: FlashInfer의 Cake FMHA 성능 개선 분석 (2026.10.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5855-perfcake-fmha-round-4-balanced-dcp-e4)
-- [[vllm] vLLM, ColBERT/ColPali 문서 랭킹 속도 혁신: Flash-MaxSim Triton 커널 통합 (2026.10.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-40337-perf-integrate-flash-maxsim-triton-ker)
-- [[onnxruntime] WebGPU 성능의 한계를 넘어서: GatedDeltaNet 커널 최적화 분석 (2026.10.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32645-optimize-webgpu-gateddeltanet-recurrent)
-- [[flashinfer] FlashInfer PrimTS, Sage Attention 도입으로 8비트 양자화 및 성능 최적화 달성 (2026.09.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5123-featprims-ts-8-bit-qkv-sage-attenti)
