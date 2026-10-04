@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] FlashInfer, Kimi-K3 어텐션의 성능 최적화: SM100/SM103 아키텍처를 위한 중간 크기 라우팅 개선 (2026.10.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6036-featcake-kimi-k3-attn-res-mid-m-routi)
+- [[sglang] SGLang FLUX 3 Action 성능 최적화: CUDA Graphs 도입을 통한 Host Launch 오버헤드 제거 (2026.10.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-42171-diffusion-flux-3-action-cuda-graphs-f)
+- [[sglang] [SGLang] 10초 걸리던 API를 1초로: JSON Pixel List의 NumPy 변환 최적화 (2026.10.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-41895-diffusion-action-api-decode-json-pixe)
 - [[flashinfer] FlashInfer의 CAKE 커널 최적화: 아키텍처 및 형상별 프로그램 선택 전략 (2026.10.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6008-perfcake-fused-qk-rope-append-per-arc)
 - [[flashinfer] FlashInfer MoE 성능 최적화: CuTe DSL을 활용한 Deterministic Finalize 개선기 (2026.10.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5319-perf-optimize-cute-dsl-w4a4-and-w4a16-u)
-- [[flashinfer] FlashInfer, Blackwell GPU를 위한 DeepSeek-V4 NVFP4 Sparse-MLA 디코드 최적화: Cake 백엔드 도입 (2026.10.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5914-featcake-dsv4-sm120-deepseek-v4-nvfp4)
-- [[vllm] vLLM, Qwen 모델의 성능을 극적으로 향상시킨 비결: SM121 TP=1 skinny-GEMM 최적화 분석 (2026.10.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-59753-perfqwen4exp-add-sm121-tp1-skinny-g)
-- [[vllm] vLLM 성능 최적화: Sparse MLA 인덱스 변환 공유를 통한 3.9배 성능 향상 (2026.10.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-59464-glm53-perf-reuse-sparse-mla-index-con)
