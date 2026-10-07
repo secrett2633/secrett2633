@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer: Rubin(SM107) 아키텍처를 위한 네이티브 확률적 반올림(Stochastic Rounding) 최적화 (2026.10.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5267-perfmamba-enable-native-sm107-stochas)
-- [[flashinfer] FlashInfer Cake Sampling 최적화: Leader-Push Exchange와 Graph-Replay 개선 (2026.10.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6065-perfcake-sampling-round-9-leader-p)
-- [[flashinfer] FlashInfer, RTX PRO 6000 Blackwell을 위한 Warp-Specialised Attention 커널로 성능 향상 (2026.10.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6060-perfcake-nvfp4-attn-warp-specialised)
-- [[flashinfer] [FlashInfer] Hopper SM90을 위한 MegaMoE 최적화: Combine Wire 및 GEMM 에필로그 개선 (2026.10.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6058-featcake-mega-moe-pre-reduced-bf16-co)
-- [[onnxruntime] ONNX Runtime MLAS, AVX-512 NCHWc Depthwise Convolution 최적화: Sliding Window 커널 도입 (2026.10.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32749-add-sliding-window-avx-512-nchwc-depthwi)
+- [[loki] Loki 데이터 객체 최적화: Predicate 컴파일을 통한 쿼리 성능 향상 (2026.10.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-24982-perfdataobj-compile-predicates-once-p)
+- [[cpython] CPython 성능 최적화: io.BufferedReader.readline()에 memchr() 도입 (2026.10.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-158944-gh-158897-optimize-iobufferedreaderre)
+- [[cpython] Python 리스트 삽입/삭제 성능 개선: free-threaded 빌드 최적화 분석 (2026.10.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-158791-gh-158790-improve-performance-for-list)
+- [[onnxruntime] ONNX Runtime의 CPU BatchNormalization 성능 최적화: NC 입력 데이터 처리 개선 (2026.10.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33113-optimize-cpu-batchnormalization-for-nc-i)
+- [[논문리뷰] World Models' Last Exam in Physics (2026.10.06)](https://blog.secrett2633.cloud/ai/review/2026-10-07-World-Models-Last-Exam-in-Physics)
