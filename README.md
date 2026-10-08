@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] Blackwell 아키텍처를 위한 FlashInfer의 FP8/BF16 혼합 정밀도 Attention 최적화 분석 (2026.10.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5900-perfprims-ts-qk-bf16pv-fp8-and-all-f)
+- [[TensorRT] PyTorch-TensorRT, 엔진 빌드 후 메모리 누수 해결: `malloc_trim` 도입으로 최적화 (2026.10.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/tensorrt-pr-4792-perfdynamo-return-builder-heap-to-the)
+- [[TensorRT] PyTorch-TensorRT의 메모리 효율성 개선: 점진적 GPU 메모리 해제를 통한 컴파일 최적화 (2026.10.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/tensorrt-pr-4793-perfdynamo-offload-modules-to-cpu-wit)
+- [[flashinfer] FlashInfer의 Cake Sampling 최적화: 정밀한 조기 종료와 하드웨어별 디스패치 전략 (2026.10.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6143-perfcake-sampling-round-11-exact-e)
 - [[loki] Loki 데이터 객체 최적화: Predicate 컴파일을 통한 쿼리 성능 향상 (2026.10.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-24982-perfdataobj-compile-predicates-once-p)
-- [[cpython] CPython 성능 최적화: io.BufferedReader.readline()에 memchr() 도입 (2026.10.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-158944-gh-158897-optimize-iobufferedreaderre)
-- [[cpython] Python 리스트 삽입/삭제 성능 개선: free-threaded 빌드 최적화 분석 (2026.10.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-158791-gh-158790-improve-performance-for-list)
-- [[onnxruntime] ONNX Runtime의 CPU BatchNormalization 성능 최적화: NC 입력 데이터 처리 개선 (2026.10.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33113-optimize-cpu-batchnormalization-for-nc-i)
-- [[논문리뷰] World Models' Last Exam in Physics (2026.10.06)](https://blog.secrett2633.cloud/ai/review/2026-10-07-World-Models-Last-Exam-in-Physics)
