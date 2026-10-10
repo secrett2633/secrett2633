@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[sglang] SGLang, Ulysses 어텐션의 IPC 기반 파이프라이닝으로 성능 극대화 (2026.10.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-43164-diffusion-perf-pipeline-minimax-h3s)
+- [[sglang] MiniMax-H3 모델의 RMSNorm 및 AdaLN 연산 최적화: Triton을 활용한 커널 융합 (2026.10.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-43327-diffusion-perf-fuse-minimax-h3s-rmsn)
+- [[onnxruntime] ONNX Runtime WebGPU QMoE: 단일 토큰 라우팅 최적화로 성능 대폭 향상 (2026.10.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33058-webgpu-reduce-qmoe-single-token-gate-s)
+- [[onnxruntime] ONNX Runtime WebGPU: Windows D3D12를 활용한 모델 로딩 가속화 (2026.10.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33055-webgpu-accelerated-model-loading-using)
 - [[flashinfer] Blackwell 아키텍처를 위한 FlashInfer의 FP8/BF16 혼합 정밀도 Attention 최적화 분석 (2026.10.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5900-perfprims-ts-qk-bf16pv-fp8-and-all-f)
-- [[TensorRT] PyTorch-TensorRT, 엔진 빌드 후 메모리 누수 해결: `malloc_trim` 도입으로 최적화 (2026.10.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/tensorrt-pr-4792-perfdynamo-return-builder-heap-to-the)
-- [[TensorRT] PyTorch-TensorRT의 메모리 효율성 개선: 점진적 GPU 메모리 해제를 통한 컴파일 최적화 (2026.10.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/tensorrt-pr-4793-perfdynamo-offload-modules-to-cpu-wit)
-- [[flashinfer] FlashInfer의 Cake Sampling 최적화: 정밀한 조기 종료와 하드웨어별 디스패치 전략 (2026.10.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6143-perfcake-sampling-round-11-exact-e)
-- [[loki] Loki 데이터 객체 최적화: Predicate 컴파일을 통한 쿼리 성능 향상 (2026.10.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-24982-perfdataobj-compile-predicates-once-p)
