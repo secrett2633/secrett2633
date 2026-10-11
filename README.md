@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] Blackwell 시대를 위한 Mamba-2 SSD 최적화: FlashInfer의 네 번째 성능 개선 라운드 분석 (2026.10.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6291-perfcake-ssd-combined-round-4-exact-s)
+- [[flashinfer] FlashInfer: BF16 어텐션 최적화 - SM100a의 P Barrier 개선 및 Tail-round Q-split 도입 (2026.10.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6258-perfcake-minimax-h3-varlen-attention)
+- [[flashinfer] FlashInfer: DeepSeek-V4 NVFP4 sparse-MLA 디코딩을 위한 H64 타일 최적화 (2026.10.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6262-perfcake-dsv4-add-the-h64-tile-member)
+- [[sglang] SGLang Diffusion 모델의 Ulysses Attention 파이프라인 최적화: Copy Engine을 활용한 성능 향상 (2026.10.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-43521-diffusion-pipeline-every-uspattention)
 - [[sglang] SGLang, Ulysses 어텐션의 IPC 기반 파이프라이닝으로 성능 극대화 (2026.10.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-43164-diffusion-perf-pipeline-minimax-h3s)
-- [[sglang] MiniMax-H3 모델의 RMSNorm 및 AdaLN 연산 최적화: Triton을 활용한 커널 융합 (2026.10.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-43327-diffusion-perf-fuse-minimax-h3s-rmsn)
-- [[onnxruntime] ONNX Runtime WebGPU QMoE: 단일 토큰 라우팅 최적화로 성능 대폭 향상 (2026.10.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33058-webgpu-reduce-qmoe-single-token-gate-s)
-- [[onnxruntime] ONNX Runtime WebGPU: Windows D3D12를 활용한 모델 로딩 가속화 (2026.10.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33055-webgpu-accelerated-model-loading-using)
-- [[flashinfer] Blackwell 아키텍처를 위한 FlashInfer의 FP8/BF16 혼합 정밀도 Attention 최적화 분석 (2026.10.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5900-perfprims-ts-qk-bf16pv-fp8-and-all-f)
