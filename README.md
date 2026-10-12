@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] Blackwell 시대를 위한 Mamba-2 SSD 최적화: FlashInfer의 네 번째 성능 개선 라운드 분석 (2026.10.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6291-perfcake-ssd-combined-round-4-exact-s)
-- [[flashinfer] FlashInfer: BF16 어텐션 최적화 - SM100a의 P Barrier 개선 및 Tail-round Q-split 도입 (2026.10.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6258-perfcake-minimax-h3-varlen-attention)
-- [[flashinfer] FlashInfer: DeepSeek-V4 NVFP4 sparse-MLA 디코딩을 위한 H64 타일 최적화 (2026.10.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6262-perfcake-dsv4-add-the-h64-tile-member)
-- [[sglang] SGLang Diffusion 모델의 Ulysses Attention 파이프라인 최적화: Copy Engine을 활용한 성능 향상 (2026.10.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-43521-diffusion-pipeline-every-uspattention)
-- [[sglang] SGLang, Ulysses 어텐션의 IPC 기반 파이프라이닝으로 성능 극대화 (2026.10.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-43164-diffusion-perf-pipeline-minimax-h3s)
+- [[flashinfer] FlashInfer Blackwell MSA 커널 최적화: CAKE 기반의 성능 개선 분석 (2026.10.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6315-perfcake-msa-regenerate-the-blackwell)
+- [[cpython] Python GC, 불필요한 순회 제거로 33% 성능 향상! (2026.10.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-159154-gh-159137-untrack-tuples-and-count-surv)
+- [[uvicorn] Uvicorn의 리로드 패턴 최적화: O(N²)에서 O(N log N)으로의 성능 개선 (2026.10.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/uvicorn-pr-3184-speed-up-startup-when-reload-patterns-ma)
+- [[vllm] [vLLM] GLM-5.3-Flash: 롱 컨텍스트 Prefill 성능을 32% 끌어올린 TP 쿼리 로우 샤딩 분석 (2026.10.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-54951-perfglm-53-flash-shard-long-context)
+- [[sglang] DeepSeek-V4.1 성능 최적화: num_stages=1 적용으로 _hc_mix_stats_partial_kernel 속도 향상 (2026.10.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-43070-deepseek-v41-use-num-stages1-for-the)
