@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] FlashInfer Blackwell(SM103) 최적화: Sage 커널 및 Block-Sparse 성능 개선 (2026.10.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6014-perfprims-ts-tune-the-block-sparsesa)
+- [[flashinfer] [FlashInfer] Device-side Gating을 통한 MoE GEMM2 경로 최적화: Kimi-K3 모델 성능 개선 사례 (2026.10.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6411-perfcake-fused-moe-device-side-gemm2)
+- [[ollama] Ollama Gemma4 모델의 CUDA Prefill 성능 최적화: MLX SDPA 도입기 (2026.10.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/ollama-pr-18809-gemma4-use-mlx-sdpa-for-cuda-prefill-wi)
+- [[vllm] vLLM, GLM-5.3 Flash 모델의 FP8 KV 캐시 기본 활성화로 성능 9.8% 향상 (2026.10.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-61228-glm53-perf-enable-fp8-kv-cache-for-gl)
 - [[flashinfer] FlashInfer의 MXFP8 GEMM 성능 최적화: Warp-level Split-K 도입 (2026.10.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6167-feat-add-warp-level-split-k-mxfp8-gemm)
-- [[vllm] vLLM의 MLA 메타데이터 빌드 성능 최적화: 호스트 디스패치 오버헤드 제거 (2026.10.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-58381-rocmmla-cut-21x-host-dispatch-from)
-- [[vllm] [vLLM 성능 최적화] MoE 레이어의 불필요한 메모리 복사를 제거하는 Humming 최적화 분석 (2026.10.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-59340-perfhumming-skip-the-redundant-moe-i)
-- [[onnxruntime] ONNX Runtime CPU 성능 향상: YOLOX 모델 최적화 분석 (2026.10.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32335-mlas-core-improve-yolox-fp32-models)
-- [[flashinfer] FlashInfer Blackwell MSA 커널 최적화: CAKE 기반의 성능 개선 분석 (2026.10.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6315-perfcake-msa-regenerate-the-blackwell)
