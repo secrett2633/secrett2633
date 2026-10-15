@@ -43,4 +43,4 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 - [[flashinfer] [FlashInfer] Device-side Gating을 통한 MoE GEMM2 경로 최적화: Kimi-K3 모델 성능 개선 사례 (2026.10.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6411-perfcake-fused-moe-device-side-gemm2)
 - [[ollama] Ollama Gemma4 모델의 CUDA Prefill 성능 최적화: MLX SDPA 도입기 (2026.10.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/ollama-pr-18809-gemma4-use-mlx-sdpa-for-cuda-prefill-wi)
 - [[vllm] vLLM, GLM-5.3 Flash 모델의 FP8 KV 캐시 기본 활성화로 성능 9.8% 향상 (2026.10.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-61228-glm53-perf-enable-fp8-kv-cache-for-gl)
-- [[flashinfer] FlashInfer의 MXFP8 GEMM 성능 최적화: Warp-level Split-K 도입 (2026.10.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6167-feat-add-warp-level-split-k-mxfp8-gemm)
+- [[논문리뷰] X-Ragent: Tool-Augmented Reinforcement Learning for Evidence-Grounded Chest X-Ray Reasoning (2026.10.13)](https://blog.secrett2633.cloud/ai/review/2026-10-14-X-Ragent-Tool-Augmented-Reinforcement-Learning-for-Evidence-Grounded-Chest-X-Ray-Reasoning)
