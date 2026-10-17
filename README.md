@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer, NVIDIA 최신 GPU를 위한 AlphaMoE NVFP4 커널 최적화로 성능 대폭 향상 (2026.10.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6511-perfcake-alpha-moe-faster-nvfp4-route)
-- [[flashinfer] FlashInfer AlphaMoE W8A8 커널 최적화: (M, K) 기반 동적 커널 디스패치 (2026.10.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6512-perfcake-alpha-moe-dispatch-the-w8a8)
-- [[flashinfer] Kimi K3를 위한 초고속 통신 최적화: FlashInfer의 Blackwell MNNVL CuTe DSL 프로파일링 분석 (2026.10.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5701-featcomm-add-kimi-k3-h7168k16-mnnvl)
-- [[vllm] AMD ROCm GFX11 GPU의 L2 캐시 충돌을 피하기 위한 GEMM 가중치 행 스트라이드 최적화 (2026.10.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-55090-rocmperf-pad-fp16bf16-gemm-weight-r)
-- [[vllm] vLLM의 Mamba 블록 테이블 가더(Gather) 최적화: 7개 커널을 1개로 통합하여 6배 속도 향상 (2026.10.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-58737-perf-fuse-the-mamba-align-block-table)
+- [[flashinfer] FlashInfer, Blackwell GPU를 위한 최적화된 Dense Projection GEMM 도입 (2026.10.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5753-featcake-dense-projection-gemm-glm-5)
+- [[onnxruntime] ONNX Runtime WebGPU: AMD GPU를 위한 Subgroup Matrix MatMulNBits 최적화 (2026.10.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32796-webgpu-optimize-subgroup-matrix-matmul)
+- [[flashinfer] FlashInfer, Muse-Spark-Open을 위한 융합 정규화 및 TP/EP MoE 최적화로 성능 극대화 (2026.10.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6544-feat-support-muse-spark-open-with-fuse)
+- [[onnxruntime] ONNX Runtime CUDA QMoE 및 FP8 최적화: 성능 향상 및 메모리 효율성 증대 (2026.10.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33094-cuda-support-offline-nvfp4-qmoe-weight)
+- [[onnxruntime] ONNX Runtime CUDA Packed Sparse Attention 최적화: 성능 향상의 비결 (2026.10.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33328-cuda-optimize-packed-qsa-scoring-and-m)
