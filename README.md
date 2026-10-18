@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer, Blackwell GPU를 위한 최적화된 Dense Projection GEMM 도입 (2026.10.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-5753-featcake-dense-projection-gemm-glm-5)
-- [[onnxruntime] ONNX Runtime WebGPU: AMD GPU를 위한 Subgroup Matrix MatMulNBits 최적화 (2026.10.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32796-webgpu-optimize-subgroup-matrix-matmul)
-- [[flashinfer] FlashInfer, Muse-Spark-Open을 위한 융합 정규화 및 TP/EP MoE 최적화로 성능 극대화 (2026.10.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6544-feat-support-muse-spark-open-with-fuse)
-- [[onnxruntime] ONNX Runtime CUDA QMoE 및 FP8 최적화: 성능 향상 및 메모리 효율성 증대 (2026.10.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33094-cuda-support-offline-nvfp4-qmoe-weight)
-- [[onnxruntime] ONNX Runtime CUDA Packed Sparse Attention 최적화: 성능 향상의 비결 (2026.10.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33328-cuda-optimize-packed-qsa-scoring-and-m)
+- [[flashinfer] FlashInfer의 MXFP4 SiTU MoE 성능 최적화: Cluster Split-K와 CuTe DSL 개선 (2026.10.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6577-perfcake-fused-moe-swap-ab-cluster-sp)
+- [[cpython] Python CPython: 함수 이름 속성 설정 시 Stop-the-World 방지로 멀티스레딩 성능 대폭 개선 (2026.10.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-159269-gh-159136-avoid-stop-the-world-when-set)
+- [[flashinfer] FlashInfer의 새로운 실험적 기능: NVFP4 기반 MLA 디코드 최적화 (2026.10.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6242-featcake-mla-experimental-cake-dense)
+- [[vllm] [vLLM] ROCm 환경에서 MXFP4 GEMM 커널 최적화: 환경 변수에서 동적 설정으로 (2026.10.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-61278-rocmperf-use-aiter-tuned-configs-to)
+- [[vllm] vLLM FlashInfer Allreduce 최적화: 단일 노드 성능 회복과 안정성 확보 (2026.10.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-61989-perfbugfix-prefer-mnnvl-for-single-n)
