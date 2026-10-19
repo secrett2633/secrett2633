@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] FlashInfer: Cake Warp-Decode 커널의 'Deslop'을 통한 호스트 오버헤드 최적화 및 코드 정제 (2026.10.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6723-deslopcake-warp-decode-remove-dead-js)
+- [[flashinfer] FlashInfer CAKE VSA 커널 최적화: 중복 제거와 비효율적인 CuTe DSL 제거로 얻은 코드 효율성 (2026.10.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6719-deslopcake-vsa-fold-duplicated-source)
+- [[flashinfer] FlashInfer CAKE GDN 백엔드 최적화: 코드베이스 경량화 및 템플릿 기반 렌더링 도입 (2026.10.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6707-deslopcake-gdn-remove-dead-text-merg)
+- [[flashinfer] FlashInfer CAKE FMHA 백엔드 최적화: 코드 중복 제거 및 성능 향상 (2026.10.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6704-deslopcake-fmha-caller-lse-fix-fold)
 - [[flashinfer] FlashInfer의 MXFP4 SiTU MoE 성능 최적화: Cluster Split-K와 CuTe DSL 개선 (2026.10.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6577-perfcake-fused-moe-swap-ab-cluster-sp)
-- [[cpython] Python CPython: 함수 이름 속성 설정 시 Stop-the-World 방지로 멀티스레딩 성능 대폭 개선 (2026.10.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-159269-gh-159136-avoid-stop-the-world-when-set)
-- [[flashinfer] FlashInfer의 새로운 실험적 기능: NVFP4 기반 MLA 디코드 최적화 (2026.10.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6242-featcake-mla-experimental-cake-dense)
-- [[vllm] [vLLM] ROCm 환경에서 MXFP4 GEMM 커널 최적화: 환경 변수에서 동적 설정으로 (2026.10.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-61278-rocmperf-use-aiter-tuned-configs-to)
-- [[vllm] vLLM FlashInfer Allreduce 최적화: 단일 노드 성능 회복과 안정성 확보 (2026.10.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-61989-perfbugfix-prefer-mnnvl-for-single-n)
