@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] FlashInfer MoE 라우팅 최적화: 더 똑똑해진 전문가 선택으로 성능 향상 (2026.10.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6555-perfmoe-retune-the-routingcustom-spli)
+- [[flashinfer] FlashInfer SM90 아키텍처 성능 최적화: QkvNormRopeExchangeOverlap의 Shape Gate 개선 (2026.10.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6717-perfcake-comm-qkvnormropeexchangeover)
+- [[flashinfer] Blackwell(SM100a) 성능 극대화: FlashInfer의 CTA-Pair 커널 최적화 분석 (2026.10.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6586-perfcake-all-gather-matmul-sm100a-cta)
+- [[flashinfer] FlashInfer, Kimi-K3 FP8 프로젝션 커널 공유 및 코드 최적화를 통한 성능 향상 (2026.10.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6780-deslopcake-kimi-k3-fp8-projection-sha)
 - [[flashinfer] FlashInfer: Cake Warp-Decode 커널의 'Deslop'을 통한 호스트 오버헤드 최적화 및 코드 정제 (2026.10.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6723-deslopcake-warp-decode-remove-dead-js)
-- [[flashinfer] FlashInfer CAKE VSA 커널 최적화: 중복 제거와 비효율적인 CuTe DSL 제거로 얻은 코드 효율성 (2026.10.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6719-deslopcake-vsa-fold-duplicated-source)
-- [[flashinfer] FlashInfer CAKE GDN 백엔드 최적화: 코드베이스 경량화 및 템플릿 기반 렌더링 도입 (2026.10.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6707-deslopcake-gdn-remove-dead-text-merg)
-- [[flashinfer] FlashInfer CAKE FMHA 백엔드 최적화: 코드 중복 제거 및 성능 향상 (2026.10.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6704-deslopcake-fmha-caller-lse-fix-fold)
-- [[flashinfer] FlashInfer의 MXFP4 SiTU MoE 성능 최적화: Cluster Split-K와 CuTe DSL 개선 (2026.10.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6577-perfcake-fused-moe-swap-ab-cluster-sp)
