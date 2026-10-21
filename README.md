@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[TensorRT] PyTorch TensorRT: 메모리 복사 제거를 통한 엔진 빌드 최적화 (2026.10.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/tensorrt-pr-4794-perfruntime-build-c-engines-from-a)
+- [[flashinfer] FlashInfer MoE 커널 최적화: 코드 중복 제거 및 JIT 컴파일 효율성 증대 (2026.10.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6871-deslopcake-stepfun-moe-derived-launch)
+- [[flashinfer] FlashInfer의 CAKE FP8 GEMM 커널 최적화: 코드 간소화와 성능 향상 (2026.10.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6862-deslopcake-fp8-gemm-table-driven-batc)
+- [[vllm] vLLM의 MoE 튜닝 스크립트 최적화: RDNA 아키텍처를 위한 성능 개선 (2026.10.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41197-rocmbenchmarkperf-fix-moe-tuning-s)
 - [[flashinfer] FlashInfer MoE 라우팅 최적화: 더 똑똑해진 전문가 선택으로 성능 향상 (2026.10.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6555-perfmoe-retune-the-routingcustom-spli)
-- [[flashinfer] FlashInfer SM90 아키텍처 성능 최적화: QkvNormRopeExchangeOverlap의 Shape Gate 개선 (2026.10.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6717-perfcake-comm-qkvnormropeexchangeover)
-- [[flashinfer] Blackwell(SM100a) 성능 극대화: FlashInfer의 CTA-Pair 커널 최적화 분석 (2026.10.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6586-perfcake-all-gather-matmul-sm100a-cta)
-- [[flashinfer] FlashInfer, Kimi-K3 FP8 프로젝션 커널 공유 및 코드 최적화를 통한 성능 향상 (2026.10.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6780-deslopcake-kimi-k3-fp8-projection-sha)
-- [[flashinfer] FlashInfer: Cake Warp-Decode 커널의 'Deslop'을 통한 호스트 오버헤드 최적화 및 코드 정제 (2026.10.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6723-deslopcake-warp-decode-remove-dead-js)
