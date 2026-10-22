@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[TensorRT] PyTorch TensorRT: 메모리 복사 제거를 통한 엔진 빌드 최적화 (2026.10.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/tensorrt-pr-4794-perfruntime-build-c-engines-from-a)
-- [[flashinfer] FlashInfer MoE 커널 최적화: 코드 중복 제거 및 JIT 컴파일 효율성 증대 (2026.10.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6871-deslopcake-stepfun-moe-derived-launch)
-- [[flashinfer] FlashInfer의 CAKE FP8 GEMM 커널 최적화: 코드 간소화와 성능 향상 (2026.10.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6862-deslopcake-fp8-gemm-table-driven-batc)
-- [[vllm] vLLM의 MoE 튜닝 스크립트 최적화: RDNA 아키텍처를 위한 성능 개선 (2026.10.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-41197-rocmbenchmarkperf-fix-moe-tuning-s)
-- [[flashinfer] FlashInfer MoE 라우팅 최적화: 더 똑똑해진 전문가 선택으로 성능 향상 (2026.10.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6555-perfmoe-retune-the-routingcustom-spli)
+- [[flashinfer] FlashInfer: NVFP4 KV 캐시 어펜드 성능 최적화로 인한 동기화 제거 (2026.10.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6204-perfpage-stop-syncing-the-host-on-eve)
+- [[flashinfer] FlashInfer FP8 GEMM 성능 최적화: 스케일 곱셈을 커널 내부로 통합 (2026.10.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6800-perfgemm-fuse-the-a-scale-b-scale-p)
+- [[loki] [Loki] 병렬 Flush 최적화: 가장 큰 데이터부터 먼저 처리하기 (2026.10.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-25376-perfdataobj-flush-the-largest-builder)
+- [[flashinfer] FlashInfer의 CAKE GEMM 커널 최적화: 코드 중복 제거를 통한 성능 및 유지보수성 향상 (2026.10.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6938-deslopcake-dense-projection-gemm-fold)
+- [[sglang] SGLang, AMD GPU에서 Quark 모델의 FP4 GEMM 성능 최적화: AITER ASM 활용 (2026.10.21)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-39598-perf-amd-quark-add-opt-in-aiter-asm)
