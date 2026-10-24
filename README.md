@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] FlashInfer, Cake DSA 커널 최적화: Sparse Attention 성능 2배 향상 (2026.10.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7098-perfcake-dsa-hole-free-index-rows-in)
+- [[flashinfer] FlashInfer, SM103a 아키텍처를 위한 cake_all_gather_matmul 최적화: CTA-pair 트윈 도입으로 성능 향상 (2026.10.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7083-perfcake-all-gather-matmul-sm103a-cta)
 - [[Liger-Kernel] LinkedIn Liger-Kernel GRPO Loss Backward 최적화: 불필요한 연산 제거로 성능 50% 향상 (2026.10.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/liger-kernel-pr-1550-perfgrpo-skip-logits-load-and-exp-on)
 - [[flashinfer] FlashInfer SM107(Rubin) 아키텍처를 위한 MXFP8 GEMM 최적화 분석 (2026.10.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6709-perfgemm-register-the-small-m-mxfp8-k)
 - [[flashinfer] Blackwell 아키텍처 최적화: FlashInfer의 Cake RMSNorm 성능 개선 분석 (2026.10.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6997-perfcake-rmsnorm-faster-h512-h2048)
-- [[flashinfer] FlashInfer, NVFP4 SVDQuant GEMM 커널 최적화: 아키텍처별 디스패치 도입 (2026.10.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6986-perfcake-nvfp4-svdquant-re-tuned-kern)
-- [[flashinfer] FlashInfer의 Kimi-K3 AttnRes 연산자 최적화: SM100/SM103를 위한 성능 향상 (2026.10.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6980-perfcake-kimi-k3-attn-res-round-3-kim)
