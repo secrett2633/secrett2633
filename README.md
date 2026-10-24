@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] FlashInfer Cake GDP 커널 최적화: 공유 메모리 사용량 절감 및 레지스터 직접 로드 (2026.10.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7156-perfcake-gdp-read-the-split-v-t-1-s)
+- [[flashinfer] FlashInfer Cake DSA Indexer 최적화: Far Sample 도입 및 성능 개선 분석 (2026.10.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7171-perfcake-dsa-indexer-far-sample-scan)
+- [[sglang] SGLang의 V4 Paged KV Cache Dequantization 성능 최적화 분석 (2026.10.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-42929-perf-dsv4-vectorize-paged-kv-cache-de)
 - [[flashinfer] FlashInfer, Cake DSA 커널 최적화: Sparse Attention 성능 2배 향상 (2026.10.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7098-perfcake-dsa-hole-free-index-rows-in)
 - [[flashinfer] FlashInfer, SM103a 아키텍처를 위한 cake_all_gather_matmul 최적화: CTA-pair 트윈 도입으로 성능 향상 (2026.10.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7083-perfcake-all-gather-matmul-sm103a-cta)
-- [[Liger-Kernel] LinkedIn Liger-Kernel GRPO Loss Backward 최적화: 불필요한 연산 제거로 성능 50% 향상 (2026.10.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/liger-kernel-pr-1550-perfgrpo-skip-logits-load-and-exp-on)
-- [[flashinfer] FlashInfer SM107(Rubin) 아키텍처를 위한 MXFP8 GEMM 최적화 분석 (2026.10.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6709-perfgemm-register-the-small-m-mxfp8-k)
-- [[flashinfer] Blackwell 아키텍처 최적화: FlashInfer의 Cake RMSNorm 성능 개선 분석 (2026.10.22)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6997-perfcake-rmsnorm-faster-h512-h2048)
