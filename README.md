@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] FlashInfer의 SM120 FP8 Attention 커널 최적화: Early PV Hand-off와 Next-unit Prefetch (2026.10.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7334-perfcake-minimax-h3-sm120-fp8-varlen)
+- [[cpython] Python AST 노드의 메모리 및 성능 최적화: Managed Dict 도입 (2026.10.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-160616-gh-153568-use-a-managed-dict-for-ast-no)
 - [[flashinfer] FlashInfer Cake GDP 커널 최적화: 공유 메모리 사용량 절감 및 레지스터 직접 로드 (2026.10.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7156-perfcake-gdp-read-the-split-v-t-1-s)
 - [[flashinfer] FlashInfer Cake DSA Indexer 최적화: Far Sample 도입 및 성능 개선 분석 (2026.10.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7171-perfcake-dsa-indexer-far-sample-scan)
 - [[sglang] SGLang의 V4 Paged KV Cache Dequantization 성능 최적화 분석 (2026.10.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-42929-perf-dsv4-vectorize-paged-kv-cache-de)
-- [[flashinfer] FlashInfer, Cake DSA 커널 최적화: Sparse Attention 성능 2배 향상 (2026.10.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7098-perfcake-dsa-hole-free-index-rows-in)
-- [[flashinfer] FlashInfer, SM103a 아키텍처를 위한 cake_all_gather_matmul 최적화: CTA-pair 트윈 도입으로 성능 향상 (2026.10.23)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7083-perfcake-all-gather-matmul-sm103a-cta)
