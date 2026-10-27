@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] FlashInfer MoE 최적화: Ampere 및 Hopper 아키텍처에서 그룹화된 활성화 스테이징 오버랩 (2026.10.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7368-perfmoe-overlap-grouped-activation-st)
+- [[flashinfer] FlashInfer GDN 커널: SM12x GPU에서 상삼각 행렬 MMA 타일 건너뛰기로 성능 최적화 (2026.10.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6371-perfgdn-skip-all-zero-mma-tiles-in-sm)
+- [[flashinfer] NVFP4 GEMM 성능의 한계를 넘어서: L2 Weight Prefetch를 통한 파이프라인 최적화 (2026.10.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7424-perfcake-mm-fp4-entry-l2-weight-prefe)
+- [[sglang] CuTe-DSL 정규화 커널 최적화: 워프당 여러 청크 처리로 성능 향상 (2026.10.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-46227-perf-diffusion-walk-several-row-chunk)
 - [[flashinfer] FlashInfer의 SM120 FP8 Attention 커널 최적화: Early PV Hand-off와 Next-unit Prefetch (2026.10.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7334-perfcake-minimax-h3-sm120-fp8-varlen)
-- [[cpython] Python AST 노드의 메모리 및 성능 최적화: Managed Dict 도입 (2026.10.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-160616-gh-153568-use-a-managed-dict-for-ast-no)
-- [[flashinfer] FlashInfer Cake GDP 커널 최적화: 공유 메모리 사용량 절감 및 레지스터 직접 로드 (2026.10.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7156-perfcake-gdp-read-the-split-v-t-1-s)
-- [[flashinfer] FlashInfer Cake DSA Indexer 최적화: Far Sample 도입 및 성능 개선 분석 (2026.10.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7171-perfcake-dsa-indexer-far-sample-scan)
-- [[sglang] SGLang의 V4 Paged KV Cache Dequantization 성능 최적화 분석 (2026.10.24)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-42929-perf-dsv4-vectorize-paged-kv-cache-de)
