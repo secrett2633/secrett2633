@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] FlashInfer의 Cake Ulysses All-to-All 최적화: World Size 2 성능 향상 및 Symmetric Handshake 도입 (2026.10.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7566-perfcake-ulysses-faster-world-2-direc)
+- [[flashinfer] FlashInfer, CuTe DSL W4A16 MoE 최적화 및 비트 단위 정확도 테스트 추가 (2026.10.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7196-perf-optimize-split-cute-dsl-w4a16-moe)
+- [[onnxruntime] [CUDA] HyperConnectionLowRankMix 최적화: Speculative Decoding과 Hopper 아키텍처를 위한 튜닝 (2026.10.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33548-cuda-optimize-hyperconnectionlowrankmi)
 - [[flashinfer] FlashInfer MoE 최적화: Ampere 및 Hopper 아키텍처에서 그룹화된 활성화 스테이징 오버랩 (2026.10.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7368-perfmoe-overlap-grouped-activation-st)
 - [[flashinfer] FlashInfer GDN 커널: SM12x GPU에서 상삼각 행렬 MMA 타일 건너뛰기로 성능 최적화 (2026.10.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6371-perfgdn-skip-all-zero-mma-tiles-in-sm)
-- [[flashinfer] NVFP4 GEMM 성능의 한계를 넘어서: L2 Weight Prefetch를 통한 파이프라인 최적화 (2026.10.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7424-perfcake-mm-fp4-entry-l2-weight-prefe)
-- [[sglang] CuTe-DSL 정규화 커널 최적화: 워프당 여러 청크 처리로 성능 향상 (2026.10.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-46227-perf-diffusion-walk-several-row-chunk)
-- [[flashinfer] FlashInfer의 SM120 FP8 Attention 커널 최적화: Early PV Hand-off와 Next-unit Prefetch (2026.10.25)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7334-perfcake-minimax-h3-sm120-fp8-varlen)
