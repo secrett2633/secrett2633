@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] FlashInfer: NVFP4 MLA 디코드 최적화로 단일 아이템 디코드 성능 향상 (2026.10.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7751-perfcake-nvfp4-mla-decode-setup-time)
+- [[flashinfer] FlashInfer Kimi-K3 Fused Router 최적화: GB300 및 B200에서 최대 1.22배 성능 향상 (2026.10.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7748-perfcake-kimi-k3-fused-router-up-to-1)
+- [[onnxruntime] ONNX Runtime: GatedDeltaNet 및 GatedRMSNorm의 CUDA 커널 최적화 분석 (2026.10.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33601-cuda-optimize-gateddeltanetchunkedkern)
+- [[onnxruntime] CUDA GEMV 최적화: M=8 Narrow Tile 확장을 통한 GPU 점유율 극대화 (A100/H200 대응) (2026.10.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33600-cuda-extend-m8-narrow-ctan2-in-fpa-i)
 - [[flashinfer] FlashInfer의 Cake Ulysses All-to-All 최적화: World Size 2 성능 향상 및 Symmetric Handshake 도입 (2026.10.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7566-perfcake-ulysses-faster-world-2-direc)
-- [[flashinfer] FlashInfer, CuTe DSL W4A16 MoE 최적화 및 비트 단위 정확도 테스트 추가 (2026.10.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7196-perf-optimize-split-cute-dsl-w4a16-moe)
-- [[onnxruntime] [CUDA] HyperConnectionLowRankMix 최적화: Speculative Decoding과 Hopper 아키텍처를 위한 튜닝 (2026.10.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33548-cuda-optimize-hyperconnectionlowrankmi)
-- [[flashinfer] FlashInfer MoE 최적화: Ampere 및 Hopper 아키텍처에서 그룹화된 활성화 스테이징 오버랩 (2026.10.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7368-perfmoe-overlap-grouped-activation-st)
-- [[flashinfer] FlashInfer GDN 커널: SM12x GPU에서 상삼각 행렬 MMA 타일 건너뛰기로 성능 최적화 (2026.10.26)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6371-perfgdn-skip-all-zero-mma-tiles-in-sm)
