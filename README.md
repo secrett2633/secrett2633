@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FlashInfer: NVFP4 MLA 디코드 최적화로 단일 아이템 디코드 성능 향상 (2026.10.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7751-perfcake-nvfp4-mla-decode-setup-time)
-- [[flashinfer] FlashInfer Kimi-K3 Fused Router 최적화: GB300 및 B200에서 최대 1.22배 성능 향상 (2026.10.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7748-perfcake-kimi-k3-fused-router-up-to-1)
-- [[onnxruntime] ONNX Runtime: GatedDeltaNet 및 GatedRMSNorm의 CUDA 커널 최적화 분석 (2026.10.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33601-cuda-optimize-gateddeltanetchunkedkern)
-- [[onnxruntime] CUDA GEMV 최적화: M=8 Narrow Tile 확장을 통한 GPU 점유율 극대화 (A100/H200 대응) (2026.10.28)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33600-cuda-extend-m8-narrow-ctan2-in-fpa-i)
-- [[flashinfer] FlashInfer의 Cake Ulysses All-to-All 최적화: World Size 2 성능 향상 및 Symmetric Handshake 도입 (2026.10.27)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7566-perfcake-ulysses-faster-world-2-direc)
+- [[flashinfer] FlashInfer Mamba2 SSD 커널 최적화: Rubin(sm_107a) 아키텍처를 위한 고성능 전략 (2026.10.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7869-perfcake-ssd-combined-sm-107a-wrap-ar)
+- [[flashinfer] [FlashInfer] SM120 FP8 Attention 최적화: Lazy Output Rescale를 통한 성능 향상 (2026.10.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7871-perfcake-minimax-h3-lazy-output-resca)
+- [[flashinfer] FlashInfer FP8 GEMM 최적화: 윈도우 세그먼트 KG1 프로그램으로 GPU 성능 극대화 (2026.10.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7877-perfcake-grouped-fp8-gemm-window-segm)
+- [[onnxruntime] ONNX Runtime WebGPU: NVIDIA GPU에서 Subgroup Matrix MatMul 성능 향상을 위한 Shared Memory Staging 최적화 (2026.10.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33639-webgpu-use-shared-memory-tiles-in-subg)
+- [[sglang] SGLang에서 MiniMax-M3.1 모델의 DSpark 추론 최적화: Hopper GPU 지원 확장 (2026.10.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-46868-feat-minimax-m31-support-dspark-on-h)
