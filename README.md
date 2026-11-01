@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[onnxruntime] ONNX Runtime WebGPU: Subgroup Matrix 연산을 활용한 Conv 최적화 (2026.10.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-32252-webgpu-using-subgroup-matrix-to-optimiz)
-- [[flashinfer] FlashInfer의 B200 최적화: Cake 백엔드 라우팅 개선을 통한 성능 극대화 (2026.10.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8018-perfcake-tinygemm2-tcgen05-add-4-unbi)
-- [[flashinfer] FlashInfer, B200 GPU에서 Kimi-K3 MoE 라우터 성능 최적화 (2026.10.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8016-perfcake-kimi-k3-fused-router-faster)
-- [[flashinfer] NVIDIA R200(SM107)을 위한 SwiGLU + MXFP8 커널 최적화: 소규모 워크로드 성능 향상 기법 (2026.10.30)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8023-perfcake-gated-act-mxfp8-band-path-pr)
-- [[flashinfer] FlashInfer Mamba2 SSD 커널 최적화: Rubin(sm_107a) 아키텍처를 위한 고성능 전략 (2026.10.29)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7869-perfcake-ssd-combined-sm-107a-wrap-ar)
+- [[flashinfer] FlashInfer: Gated DeltaNet 역전파 최적화 분석 (HV=3H 및 Adjoint Pre-scan) (2026.10.31)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8121-perfcake-gdn-det-train-faster-determi)
+- [[vllm] vLLM의 GLM-5.3-Flash 성능 최적화: CuTe DSL 기반 Skinny-GEMM 도입 (2026.10.31)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-62956-perfglm5next-add-sm121-tp2-skinny-g)
+- [[vllm] vLLM, Qwen 3.8B 모델의 성능을 3배까지 향상시킨 최적화 분석 (2026.10.31)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-64650-perfqwen38-add-sm103-skinny-gemm-pl)
+- [[sglang] ROCm 환경에서의 성능 최적화: Triton을 활용한 Bit-exact QK RMSNorm 및 RoPE 융합 (2026.10.31)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-47569-perf-rocm-diffusion-bit-exact-fast)
+- [[onnxruntime] ONNX Runtime CUDA Paged Attention: BF16/INT8 추론 21배 가속 최적화 분석 (2026.10.31)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33538-cuda-add-h256-bf16-query-int8-cache-gr)
