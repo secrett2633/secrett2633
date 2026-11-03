@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[flashinfer] [FlashInfer] R200 GPU를 위한 KCP GDN 트레이닝 플래너 최적화: fill_small_guard의 도입 (2026.11.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8357-perfcake-gdn-kcp-with-grad-keep-the)
+- [[onnxruntime] ONNX Runtime CUDA NVFP4 QMoE 성능 최적화: 256개 전문가 라우팅 및 GEMV 커널 개선 (2026.11.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33545-cuda-extend-nvfp4-qmoe-decode-gemv-env)
 - [[flashinfer] Blackwell 아키텍처를 위한 MLA 디코드 커널 최적화: FlashInfer의 성능 개선 분석 (2026.11.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8211-perfcake-trtllm-mla-blackwell-faster)
 - [[flashinfer] FlashInfer: sm_107a 아키텍처를 위한 Fused Decode List Scorer 프리페칭 최적화 (2026.11.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8210-perfcake-msa-icp-indexer-sm-107a-fuse)
 - [[flashinfer] FlashInfer MegaMoE v3 최적화: TP4/TP8 커널 성능 향상 분석 (2026.11.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8220-perfcake-mega-moe-v3-faster-tp4-tp8)
-- [[flashinfer] FlashInfer Cake GDN: Blackwell SM107a에서 게이트 스트리밍 프리필 최적화 확장으로 최대 1.12배 성능 향상 (2026.11.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8216-cake-gdn-route-the-remaining-sm107-fp32)
-- [[onnxruntime] ONNX Runtime: INT8-KV 캐시를 위한 고성능 Tensor-Core DynamicSparseAttention 최적화 (2026.11.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33707-cuda-tensor-core-int8-kv-dynamicsparse)
