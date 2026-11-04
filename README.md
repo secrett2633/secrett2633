@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] [FlashInfer] R200 GPU를 위한 KCP GDN 트레이닝 플래너 최적화: fill_small_guard의 도입 (2026.11.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8357-perfcake-gdn-kcp-with-grad-keep-the)
-- [[onnxruntime] ONNX Runtime CUDA NVFP4 QMoE 성능 최적화: 256개 전문가 라우팅 및 GEMV 커널 개선 (2026.11.02)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33545-cuda-extend-nvfp4-qmoe-decode-gemv-env)
-- [[flashinfer] Blackwell 아키텍처를 위한 MLA 디코드 커널 최적화: FlashInfer의 성능 개선 분석 (2026.11.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8211-perfcake-trtllm-mla-blackwell-faster)
-- [[flashinfer] FlashInfer: sm_107a 아키텍처를 위한 Fused Decode List Scorer 프리페칭 최적화 (2026.11.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8210-perfcake-msa-icp-indexer-sm-107a-fuse)
-- [[flashinfer] FlashInfer MegaMoE v3 최적화: TP4/TP8 커널 성능 향상 분석 (2026.11.01)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8220-perfcake-mega-moe-v3-faster-tp4-tp8)
+- [[ultralytics] Ultralytics Plotting 최적화: PIL 기반 시각화 속도를 최대 15배 향상시킨 비결 (2026.11.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-27014-ultralytics-84201-up-to-15x-faster-p)
+- [[transformers] Hugging Face Transformers Pipelines: 지연 로딩으로 초기화 성능 대폭 개선 (2026.11.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/transformers-pr-50173-perfpipelines-lazy-load-pipeline-subm)
+- [[flashinfer] Blackwell과 그 너머를 위한 최적화: FlashInfer의 Chain-Aware State Walk 개선 분석 (2026.11.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8521-perfcake-gdn-kcp-chain-aware-value-wi)
+- [[flashinfer] FlashInfer: FP8 64-head 디코딩 성능 최적화 및 Programmatic Dependent Launch 도입 (2026.11.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8543-perfcake-dsv4-route-short-fp8-64-head)
+- [[onnxruntime] ONNX Runtime: CUDA 기반 MoE 추론을 위한 INT3 최적화 및 스트리밍 성능 개선 (2026.11.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33629-cuda-add-8-route-grouped-int3-offload)
