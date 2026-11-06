@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[onnxruntime] ONNX Runtime WebGPU: NVIDIA GPU를 위한 FlashAttention 루프 언롤링 최적화 (2026.11.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33395-webgpu-unroll-bounded-nvidia-flashatte)
-- [[vllm] vLLM, H200 GPU를 위한 FP8 MoE 다운 프로젝션 최적화: TMA 활용 및 커널 퓨전으로 7.6% 처리량 향상 (2026.11.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-64760-glm-53-perf-sorted-a-tma-for-fp8-moe)
-- [[vllm] vLLM 스케줄러 최적화: Cache-aware Admission으로 KV 캐시 효율 극대화하기 (2026.11.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-54625-core-add-cache-aware-admission-orderin)
-- [[onnxruntime] ONNX Runtime CPU QMoE 최적화: INT2 AVX-512/AVX2 커널 도입 및 수치 안정성 개선 (2026.11.04)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33785-cpumlas-add-qmoe-shared-layout-int2-a)
-- [[ultralytics] Ultralytics Plotting 최적화: PIL 기반 시각화 속도를 최대 15배 향상시킨 비결 (2026.11.03)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-27014-ultralytics-84201-up-to-15x-faster-p)
+- [[flashinfer] SM120 VSA 커널의 마지막 Partial Wave 패킹: 호스트 플래너만으로 평균 4.3% 가속 (2026.11.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8829-perfcake-vsa-sm120-pack-the-last-part)
+- [[flashinfer] 4-stage K/V ring에서 불필요해진 QK(t)→PV(t-1) 대기 제거: SM107 FP8 sparse MLA decode 최대 11% 가속 (2026.11.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8828-perfcake-dsv4-sm107-four-stage-fp8-64)
+- [[flashinfer] Rubin(sm_107a)에서 DRAM 피크 95%까지: UMMA ReplaySSM u-cache flush 커널의 uGPU 로컬라이제이션과 6가지 튜닝 (2026.11.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6791-featgdn-rubin-sm-107a-build-of-the)
+- [[vllm] Rubin 텐서 코어로 LUT-B MoE 가중치를 직접 디코딩하기: MXFP8 활성화 기반 네이티브 커널과 에뮬레이션 (2026.11.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-62759-quant-lut-b-moe-with-mxfp8-activations)
+- [[sglang] EAGLE Speculative Decoding의 숨은 비용 제거: Vocab Shard Verify, Post-Verify CUDA Graph, 한 번의 Launch로 Draft 메타데이터 갱신 (2026.11.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-47200-perf-nvidia-speculative-decoding-ad)
