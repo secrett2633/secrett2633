@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] SM120 VSA 커널의 마지막 Partial Wave 패킹: 호스트 플래너만으로 평균 4.3% 가속 (2026.11.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8829-perfcake-vsa-sm120-pack-the-last-part)
-- [[flashinfer] 4-stage K/V ring에서 불필요해진 QK(t)→PV(t-1) 대기 제거: SM107 FP8 sparse MLA decode 최대 11% 가속 (2026.11.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-8828-perfcake-dsv4-sm107-four-stage-fp8-64)
-- [[flashinfer] Rubin(sm_107a)에서 DRAM 피크 95%까지: UMMA ReplaySSM u-cache flush 커널의 uGPU 로컬라이제이션과 6가지 튜닝 (2026.11.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6791-featgdn-rubin-sm-107a-build-of-the)
-- [[vllm] Rubin 텐서 코어로 LUT-B MoE 가중치를 직접 디코딩하기: MXFP8 활성화 기반 네이티브 커널과 에뮬레이션 (2026.11.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-62759-quant-lut-b-moe-with-mxfp8-activations)
-- [[sglang] EAGLE Speculative Decoding의 숨은 비용 제거: Vocab Shard Verify, Post-Verify CUDA Graph, 한 번의 Launch로 Draft 메타데이터 갱신 (2026.11.05)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-47200-perf-nvidia-speculative-decoding-ad)
+- [[cutlass] Blackwell FMHA 예제의 잠재 UB 두 가지 수정: warpgroup 단위 setmaxnreg와 TMEM 해제 전 tcgen05.wait::ld (2026.11.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/cutlass-pr-3798-examples77-one-setmaxnreg-for-fwd-war)
+- [[sglang] Crash-dump 요청 히스토리를 pickle bytes로 보관해 cyclic GC 스캔에서 제외하기 (2026.11.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-48508-perf-tokenizer-manager-keep-the-crash)
+- [[triton] Triton NVIDIA 백엔드: full-warp boolean reduction을 warp vote로 lowering하기 (2026.11.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-12635-nvidia-lower-full-warp-boolean-reducti)
+- [[cutlass] Blackwell SSD 예제의 TMEM 4중 해제와 조기 해제 버그를 Named Barrier 하나로 고치기 (2026.11.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/cutlass-pr-3803-fix-repeated-and-early-tmem-frees-in-the)
+- [[onnxruntime] 소비자 GPU에서 QMoE 오프로드 최적화: Windows WDDM 대응, Tail-Expert 가지치기, AVX2 INT2/INT3 커널 개선 (2026.11.06)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33916-cuda-optimize-qmoe-cpugpu-offload-for)
