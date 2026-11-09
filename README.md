@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] packed qkv에서 q/k를 복사 없이 바로 읽기: Cake GDN 결정적 학습 커널의 TMA stride 활용 최적화 (2026.11.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9103-perfcake-gdn-det-train-read-q-and-k-i)
-- [[vllm] 한 프로그램이 4개 head를 처리하게 하라: DeepSeek-V4 inverse RoPE + FP8 quant 커널 3.5배 가속기 (2026.11.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-63540-perfdsv4-process-4-heads-per-program)
-- [[vllm] MLA DCP 디코드에서 A2A 전에 W_UV 업프로젝션을 먼저 적용해 통신량 4배 줄이기 (2026.11.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-64994-perfdcp-up-project-the-mla-decode-ou)
-- [[triton] Boolean 서브그룹 reduction을 warp vote와 ballot 한 번으로 끝내기: Triton NVIDIA 백엔드 최적화 (2026.11.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-12647-nvidia-use-warp-votes-and-ballots-for)
-- [[triton] Triton NVIDIA 백엔드: Boolean reduction을 세 개의 predicate chain으로 접어 74% 빨라진 이유 (2026.11.07)](https://blog.secrett2633.cloud/opensource/pr-analysis/triton-pr-12650-nvidia-fold-wide-boolean-register-redu)
+- [[flashinfer] Cake 결정적 MoE Grouped GEMM: FP32 wgrad 누적을 커널에 fuse해 scratch를 없애고 최대 1.29x 가속 (2026.11.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9132-perfcake-moe-grouped-gemm-det-train-f)
+- [[flashinfer] Hopper FP8 GEMM+AllReduce 융합 커널의 Grid Lockstep Throttle: CTA가 앞서 달리지 못하게 해서 최대 1.32배 빨라지기 (2026.11.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9164-perfcake-fp8-rowwise-gemm-allreduce-g)
+- [[flashinfer] GB300 NVFP4 Context Attention: scale slot 조기 반납과 8단 packed K/V ring으로 최대 1.26x 가속 (2026.11.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9177-perfcake-fmha-sm-103a-nvfp4-context-p)
+- [[vllm] vLLM 멀티모달 인코더 CUDA Graph 재설계: 배치당 한 번의 replay와 5120 토큰 상한 (2026.11.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-65227-perfmultimodal-encoder-cuda-graphs)
+- [[sglang] Kimi-K3.1 전용 MXFP4 Decode MoE 커널을 Shape 템플릿으로 일반화해 DeepSeek-V4까지 확장하기 (2026.11.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-49091-perf-nvidia-moe-generalize-the-mxfp)
