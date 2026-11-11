@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] Cake 결정적 MoE Grouped GEMM: FP32 wgrad 누적을 커널에 fuse해 scratch를 없애고 최대 1.29x 가속 (2026.11.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9132-perfcake-moe-grouped-gemm-det-train-f)
-- [[flashinfer] Hopper FP8 GEMM+AllReduce 융합 커널의 Grid Lockstep Throttle: CTA가 앞서 달리지 못하게 해서 최대 1.32배 빨라지기 (2026.11.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9164-perfcake-fp8-rowwise-gemm-allreduce-g)
-- [[flashinfer] GB300 NVFP4 Context Attention: scale slot 조기 반납과 8단 packed K/V ring으로 최대 1.26x 가속 (2026.11.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9177-perfcake-fmha-sm-103a-nvfp4-context-p)
-- [[vllm] vLLM 멀티모달 인코더 CUDA Graph 재설계: 배치당 한 번의 replay와 5120 토큰 상한 (2026.11.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-65227-perfmultimodal-encoder-cuda-graphs)
-- [[sglang] Kimi-K3.1 전용 MXFP4 Decode MoE 커널을 Shape 템플릿으로 일반화해 DeepSeek-V4까지 확장하기 (2026.11.08)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-49091-perf-nvidia-moe-generalize-the-mxfp)
+- [[flashinfer] MXFP4 MoE 기본값을 expert fill과 FC1 깊이로 고르기: 상속된 튜닝을 버리고 최대 13.85% 지연 단축 (2026.11.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9033-perfmoe-ep-select-mxfp4-defaults-by-e)
+- [[flashinfer] FP8 가중치를 커널 안에서 풀어낸다: FlashInfer의 W8A16 GEMM(mm_bf16_fp8) 분석 (2026.11.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7495-featgemm-add-mm-bf16-fp8-mm-fp16-fp)
+- [[flashinfer] DeepSeek-V4.1 Sparse MLA Decode를 위한 Prims-TS 백엔드: FP4 캐시에서 바로 E4M3 MMA까지 (2026.11.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6988-featdeepseek-v41-experimental-prims-t)
+- [[transformers] bad_words_ids를 100배 빠르게: 다중 토큰 시퀀스를 prefix 길이별로 묶어 한 번에 매칭하기 (2026.11.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/transformers-pr-50532-speed-up-bad-words-ids-and-sequence-b)
+- [[flashinfer] MoE Finalize + AllReduce 융합 커널에 shared-expert 전용 two-shot 프로그램 추가: L2 prefetch로 중간 토큰 구간 최대 3.8% 단축 (2026.11.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9284-perfcake-moe-finalize-allreduce-fusion)
