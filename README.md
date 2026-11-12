@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] MXFP4 MoE 기본값을 expert fill과 FC1 깊이로 고르기: 상속된 튜닝을 버리고 최대 13.85% 지연 단축 (2026.11.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9033-perfmoe-ep-select-mxfp4-defaults-by-e)
-- [[flashinfer] FP8 가중치를 커널 안에서 풀어낸다: FlashInfer의 W8A16 GEMM(mm_bf16_fp8) 분석 (2026.11.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-7495-featgemm-add-mm-bf16-fp8-mm-fp16-fp)
-- [[flashinfer] DeepSeek-V4.1 Sparse MLA Decode를 위한 Prims-TS 백엔드: FP4 캐시에서 바로 E4M3 MMA까지 (2026.11.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-6988-featdeepseek-v41-experimental-prims-t)
-- [[transformers] bad_words_ids를 100배 빠르게: 다중 토큰 시퀀스를 prefix 길이별로 묶어 한 번에 매칭하기 (2026.11.10)](https://blog.secrett2633.cloud/opensource/pr-analysis/transformers-pr-50532-speed-up-bad-words-ids-and-sequence-b)
-- [[flashinfer] MoE Finalize + AllReduce 융합 커널에 shared-expert 전용 two-shot 프로그램 추가: L2 prefetch로 중간 토큰 구간 최대 3.8% 단축 (2026.11.09)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9284-perfcake-moe-finalize-allreduce-fusion)
+- [[ultralytics] 행렬곱 두 번으로 bilinear 보간 대체하기: deterministic 모드에서 Ultralytics semantic 학습 최대 3.9배 가속 (2026.11.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-27154-speed-up-semantic-and-depth-training-up)
+- [[sglang] FlashInfer MoE autotune의 함정: 모든 토큰이 0이면 튜너가 잘못된 tile을 고른다 (2026.11.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-49497-perf-flashinfer-autotune-tune-moe-wit)
+- [[sglang] SANA-Video 2.0 anchor attention의 FP32 upcast 제거로 720p 생성 52% 단축하기 (2026.11.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-49219-perf-diffusion-run-sana-video-20-anc)
+- [[sglang] logits를 쓰지 않는 top-k: SGLang의 LiteTopK prefill indexer로 DSA 롱컨텍스트 TTFT 최대 2배 단축 (2026.11.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-47469-perf-nvidia-attention-add-opt-in-li)
+- [[ray] Ray Data의 Join 너머 Predicate Pushdown: AND 분해와 OR에서 단측 조건 유도하기 (2026.11.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/ray-pr-67122-data-predicate-pushdown-through-joins)
