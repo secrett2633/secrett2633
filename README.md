@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[ultralytics] 행렬곱 두 번으로 bilinear 보간 대체하기: deterministic 모드에서 Ultralytics semantic 학습 최대 3.9배 가속 (2026.11.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/ultralytics-pr-27154-speed-up-semantic-and-depth-training-up)
-- [[sglang] FlashInfer MoE autotune의 함정: 모든 토큰이 0이면 튜너가 잘못된 tile을 고른다 (2026.11.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-49497-perf-flashinfer-autotune-tune-moe-wit)
-- [[sglang] SANA-Video 2.0 anchor attention의 FP32 upcast 제거로 720p 생성 52% 단축하기 (2026.11.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-49219-perf-diffusion-run-sana-video-20-anc)
-- [[sglang] logits를 쓰지 않는 top-k: SGLang의 LiteTopK prefill indexer로 DSA 롱컨텍스트 TTFT 최대 2배 단축 (2026.11.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-47469-perf-nvidia-attention-add-opt-in-li)
-- [[ray] Ray Data의 Join 너머 Predicate Pushdown: AND 분해와 OR에서 단측 조건 유도하기 (2026.11.11)](https://blog.secrett2633.cloud/opensource/pr-analysis/ray-pr-67122-data-predicate-pushdown-through-joins)
+- [[transformers] DeepGEMM Mega MoE를 EP 구현체로 편입하기: 라우터 스타일을 버리고 슬라이스+all-gather로 최대 9배 빨라진 MoE 추론 (2026.11.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/transformers-pr-49606-deepgemm-megamoe-ep-implementation-f)
+- [[sglang] ROCm aiter에서 Ring Attention 지원과 K/V 버퍼 재사용으로 MiniMax-H3 2-GPU 추론 11% 단축 (2026.11.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-49078-perf-rocm-diffusion-ring-attention)
+- [[onnxruntime] MoEPacked 멀티토큰 검증 최적화: CPU 콜드 라우트 Batch-2 AVX2와 GPU FC2 디코드 재설계 (2026.11.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-34067-moe-optimize-multi-token-m4-8-moep)
+- [[vllm] GLM MTP Draft에서 쓰지 않는 Post-Attention 행 건너뛰기: CUDA Graph 캡처 전 인덱스 바인딩으로 4.2% 처리량 향상 (2026.11.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-67104-glm-53-perf-skip-unused-mtp-post-atte)
+- [[sglang] 하이브리드 모델의 Mamba 상태를 GreedyDual-Size로 축출하기: SGLang의 gds eviction policy 분석 (2026.11.12)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-49430-feat-mem-cache-evict-mamba-states-by)
