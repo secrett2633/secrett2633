@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
+- [[sglang] HMM GPU의 페이지 폴트 폭풍 피하기: prefill PLE 행을 호스트에서 모아 한 번에 전송하기 (2026.11.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-50318-perf-qwen4-exp-gather-prefill-ple-row)
+- [[sglang] Triton JIT 특수화 억제로 디코드 리플레이 첫 패스 컴파일 스톨 85% 줄이기 (SGLang GLM) (2026.11.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-49121-perf-glm-bound-triton-variants-on-dec)
+- [[sglang] Hy-Nomas INT8 DiT의 groupwise dequantization을 Triton 커널 하나로 융합하기 (2026.11.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-49270-perf-diffusion-hy-nomas-fuse-groupwis)
+- [[sglang] CUDA IPC 핸들 하나를 여러 피어가 열면 생기는 일: SGLang diffusion all-to-all 메모리 누수 수정기 (2026.11.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-50321-fix-diffusion-stop-the-multi-rank-ipc)
 - [[flashinfer] SM107에서 mm_mxfp8 autotuner가 CUTLASS·CuTe-DSL·cuDNN을 함께 경쟁시키도록 만들기 (2026.11.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9020-perfgemm-let-the-mm-mxfp8-autotuner-r)
-- [[ray] Ray Data의 sort().limit(k)를 Top-N 실행으로 바꾸기: 전체 셔플 없이 상위 k개만 고르는 법 (2026.11.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/ray-pr-66931-data-add-top-n-execution)
-- [[sglang] EAGLE 트리 검증 어텐션 최적화: Triton 안정 압축과 FA4 고정 길이 쿼리 레이아웃 (2026.11.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-49477-perf-attention-optimize-fa3fa4-tree)
-- [[flashinfer] H100에서 D256 Paged Attention을 cuDNN으로 자동 디스패치하기: 실제 causal 작업량 기반 Admission 설계 (2026.11.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9451-enable-workload-bounded-h100-d256-paged)
-- [[onnxruntime] ONNX Runtime MoEPacked GGUF 오프로드 최적화: 3-Stage Prefill 파이프라인과 F16C·Batch-4 Cold Decode (2026.11.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-34114-cuda-optimize-moepacked-gguf-offload-3)
