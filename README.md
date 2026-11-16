@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[sglang] HMM GPU의 페이지 폴트 폭풍 피하기: prefill PLE 행을 호스트에서 모아 한 번에 전송하기 (2026.11.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-50318-perf-qwen4-exp-gather-prefill-ple-row)
-- [[sglang] Triton JIT 특수화 억제로 디코드 리플레이 첫 패스 컴파일 스톨 85% 줄이기 (SGLang GLM) (2026.11.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-49121-perf-glm-bound-triton-variants-on-dec)
-- [[sglang] Hy-Nomas INT8 DiT의 groupwise dequantization을 Triton 커널 하나로 융합하기 (2026.11.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-49270-perf-diffusion-hy-nomas-fuse-groupwis)
-- [[sglang] CUDA IPC 핸들 하나를 여러 피어가 열면 생기는 일: SGLang diffusion all-to-all 메모리 누수 수정기 (2026.11.14)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-50321-fix-diffusion-stop-the-multi-rank-ipc)
-- [[flashinfer] SM107에서 mm_mxfp8 autotuner가 CUTLASS·CuTe-DSL·cuDNN을 함께 경쟁시키도록 만들기 (2026.11.13)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9020-perfgemm-let-the-mm-mxfp8-autotuner-r)
+- [[flashinfer] FP8 Sage 블록 희소 어텐션 가속: SM100/SM103 Cake 커널, 결합 Quantize+Attention API, auto 백엔드 (2026.11.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9438-perfcake-sage-block-sparse-attention)
+- [[flashinfer] 작은 shape를 위한 TMA-ring Sage-FP8 Quantizer: CUDA Graph에서 최대 1.23배 빨라진 SM100 Block-Sparse Attention (2026.11.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9500-perfcake-sage-block-sparse-attention)
+- [[sglang] SGLang Unified Memory 스케줄러의 Admission 호스트 작업 줄이기: 같은 질문은 한 번만 묻는다 (2026.11.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-50311-perf-mem-cache-cut-unified-memory-adm)
+- [[sglang] 커널 내부를 들여다보는 법: SGLang JIT 커널에 IKET/%clock 기반 In-kernel 이벤트 트레이싱 도입 (2026.11.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-50374-feat-jit-in-kernel-event-tracing-for)
+- [[sglang] gfx1250에서 RCCL을 넘어서다: ring_simple all-reduce와 unrolled 2shot_push 분석 (2026.11.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-49955-feat-amd-custom-all-reduce-add-a-ri)
