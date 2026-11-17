@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] FP8 Sage 블록 희소 어텐션 가속: SM100/SM103 Cake 커널, 결합 Quantize+Attention API, auto 백엔드 (2026.11.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9438-perfcake-sage-block-sparse-attention)
-- [[flashinfer] 작은 shape를 위한 TMA-ring Sage-FP8 Quantizer: CUDA Graph에서 최대 1.23배 빨라진 SM100 Block-Sparse Attention (2026.11.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9500-perfcake-sage-block-sparse-attention)
-- [[sglang] SGLang Unified Memory 스케줄러의 Admission 호스트 작업 줄이기: 같은 질문은 한 번만 묻는다 (2026.11.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-50311-perf-mem-cache-cut-unified-memory-adm)
-- [[sglang] 커널 내부를 들여다보는 법: SGLang JIT 커널에 IKET/%clock 기반 In-kernel 이벤트 트레이싱 도입 (2026.11.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-50374-feat-jit-in-kernel-event-tracing-for)
-- [[sglang] gfx1250에서 RCCL을 넘어서다: ring_simple all-reduce와 unrolled 2shot_push 분석 (2026.11.15)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-49955-feat-amd-custom-all-reduce-add-a-ri)
+- [[flashinfer] MoE prims-TS epilogue 최적화: NaN-aware min/max로 clamp 명령어를 절반으로, 그리고 host 입력 생성 기반 프로파일링 (2026.11.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9404-perfmoe-prims-ts-epilogue-optimizatio)
+- [[ollama] Ollama MLX Runner: 동시 요청에서도 Speculative Decoding을 유지하는 배치 검증 (2026.11.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/ollama-pr-19663-mlxrunner-batch-speculative-verificatio)
+- [[loki] Loki logline 인덱스에 OR-aware 힌트 needle 도입: 불리언 구조를 보존하는 쿼리 플래닝 (2026.11.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-25425-featlogline-plan-or-aware-hint-needle)
+- [[vllm] RDNA4에서 Sparse 명령어로 Dense Skinny GEMM 가속하기: vLLM의 SWMMAC N=5~8 커널 분석 (2026.11.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-45559-rocmkernel-extend-skinny-gemm-n5-to)
+- [[onnxruntime] DeepSeek MLA를 위한 전용 연산자: ONNX Runtime MultiHeadLatentAttention CPU 커널 분석 (2026.11.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33914-add-multiheadlatentattention-contrib-op)
