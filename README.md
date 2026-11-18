@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] MoE prims-TS epilogue 최적화: NaN-aware min/max로 clamp 명령어를 절반으로, 그리고 host 입력 생성 기반 프로파일링 (2026.11.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9404-perfmoe-prims-ts-epilogue-optimizatio)
-- [[ollama] Ollama MLX Runner: 동시 요청에서도 Speculative Decoding을 유지하는 배치 검증 (2026.11.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/ollama-pr-19663-mlxrunner-batch-speculative-verificatio)
-- [[loki] Loki logline 인덱스에 OR-aware 힌트 needle 도입: 불리언 구조를 보존하는 쿼리 플래닝 (2026.11.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-25425-featlogline-plan-or-aware-hint-needle)
-- [[vllm] RDNA4에서 Sparse 명령어로 Dense Skinny GEMM 가속하기: vLLM의 SWMMAC N=5~8 커널 분석 (2026.11.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-45559-rocmkernel-extend-skinny-gemm-n5-to)
-- [[onnxruntime] DeepSeek MLA를 위한 전용 연산자: ONNX Runtime MultiHeadLatentAttention CPU 커널 분석 (2026.11.16)](https://blog.secrett2633.cloud/opensource/pr-analysis/onnxruntime-pr-33914-add-multiheadlatentattention-contrib-op)
+- [[loki] Loki LogQL: 파서 뒤 label filter를 미리 검사해 통과할 수 없는 로그 라인의 파싱 건너뛰기 (2026.11.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-25806-perflogql-skip-parsing-lines-that-can)
+- [[flashinfer] SM100/SM103 Sage FP8 Block-Sparse Attention: 타일 에필로그 오버랩과 Tail Split 병렬 폴딩으로 최대 6.9% 가속 (2026.11.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9605-perfcake-sage-block-sparse-attention)
+- [[flashinfer] NVFP4 KV 캐시를 키당 한 번만 FP8로: Token-Sparse Attention 변환 경로 최적화 (2026.11.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9527-featsdsa-convert-nvfp4-kv-tokens-to-f)
+- [[vllm] vLLM PP 전송을 Copy Engine으로: TP>1, PCP>1, 멀티노드 NVLink(GB300 NVL72)까지 확장하기 (2026.11.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-66677-perfpp-copy-engine-pp-transport-tp)
+- [[sglang] Kimi K3 Prefill Context Parallelism: MLA만 토큰 샤딩하고 KDA/MoE는 TP로 유지하는 하이브리드 CP 설계 (2026.11.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-38344-feat-cp-prefill-context-parallelism-f)
