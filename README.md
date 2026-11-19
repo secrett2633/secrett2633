@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[loki] Loki LogQL: 파서 뒤 label filter를 미리 검사해 통과할 수 없는 로그 라인의 파싱 건너뛰기 (2026.11.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/loki-pr-25806-perflogql-skip-parsing-lines-that-can)
-- [[flashinfer] SM100/SM103 Sage FP8 Block-Sparse Attention: 타일 에필로그 오버랩과 Tail Split 병렬 폴딩으로 최대 6.9% 가속 (2026.11.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9605-perfcake-sage-block-sparse-attention)
-- [[flashinfer] NVFP4 KV 캐시를 키당 한 번만 FP8로: Token-Sparse Attention 변환 경로 최적화 (2026.11.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9527-featsdsa-convert-nvfp4-kv-tokens-to-f)
-- [[vllm] vLLM PP 전송을 Copy Engine으로: TP>1, PCP>1, 멀티노드 NVLink(GB300 NVL72)까지 확장하기 (2026.11.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-66677-perfpp-copy-engine-pp-transport-tp)
-- [[sglang] Kimi K3 Prefill Context Parallelism: MLA만 토큰 샤딩하고 KDA/MoE는 TP로 유지하는 하이브리드 CP 설계 (2026.11.17)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-38344-feat-cp-prefill-context-parallelism-f)
+- [[flashinfer] SM120 FP8 Groupwise GEMM에 Swap-AB 소형 타일 도입: 디코드 구간 최대 1.9× 가속 (2026.11.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9464-perfgemm-swap-ab-small-m-tiles-for-th)
+- [[flashinfer] FlashInfer Sage FP8 Block-Sparse Attention: double-S + 분리된 epilogue warpgroup로 타일 겹치기 (2026.11.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9648-perfcake-sage-block-sparse-attention)
+- [[flashinfer] 듀얼 다이 GPU에서 '내 다이의 메모리부터 읽기': Cake FP8 Grouped GEMM의 Locality-Domain 최적화 (2026.11.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9660-perfcake-batch-deepgemm-fp8-locality)
+- [[flashinfer] Batch-invariant attention을 Rubin에 맞춰 재배치하기: 결과 비트는 그대로 두고 decode launch grid, PDL, 하드웨어 row max 손보기 (2026.11.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9622-perfbatch-invariant-rubin-placements)
+- [[cpython] CPython int 덧셈의 '혹시 몰라 할당한 1 digit' 없애기: x_add() 과할당 줄이기 (2026.11.18)](https://blog.secrett2633.cloud/opensource/pr-analysis/cpython-pr-158002-gh-100687-reduce-frequency-of-overalloc)
