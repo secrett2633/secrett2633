@@ -39,8 +39,8 @@ I also enjoy contributing to the open source ecosystem and collaborating with de
 [aws-saa-cert]: https://www.credly.com/badges/ee24ba15-e661-4741-bc4c-46bdaca76e75/public_url
 
 ### Latest Blog Posts
-- [[flashinfer] 듀얼 다이 GPU에서 메모리 지역성을 살린 GDN decode: sm_107a locality-domain twin 커널 분석 (2026.11.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9706-perfcake-gdn-sm-107a-locality-domain)
-- [[flashinfer] FP16 State Pool과 Stochastic Rounding: Cake GDP Decode의 메모리 대역폭을 절반으로 (2026.11.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9720-featcake-gdp-fp16-state-pool-with-sto)
-- [[flashinfer] MXFP8 Quantize 커널에 패딩 융합하기: 호스트 측 zero-pad를 없애 최대 5.9배 가속 (2026.11.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9429-optionally-fuse-padding-in-mxfp8-quantiz)
-- [[vllm] H200에서 GLM-5.3-Flash의 Block-FP8 Expert를 재양자화 없이 DeepGEMM Mega MoE로 실행하기 (2026.11.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/vllm-pr-66812-kernelperf-run-glm-53-flash-fp8-rou)
-- [[llm-compressor] RAZOR: '지웠을 때의 피해'로 MoE Expert를 고르는 pruning이 llm-compressor에 들어오다 (2026.11.19)](https://blog.secrett2633.cloud/opensource/pr-analysis/llm-compressor-pr-3437-feat-razor-expert-sparsity)
+- [[flashinfer] SM103에서 top-p renorm을 단일 클러스터 커널로: 5개 커널을 1번의 스트리밍으로 줄인 FlashInfer 최적화 (2026.11.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9598-perfsampling-single-launch-cluster-to)
+- [[flashinfer] FlashInfer MLA decode: Cake 백엔드의 auto 선택과 BF16 split-KV 경로 추가 (2026.11.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9779-perfmla-cake-mla-decode-in-backenda)
+- [[flashinfer] FlashInfer batch-invariant 샘플링: 호스트 오버헤드 절감, 병렬 precompile, 그리고 레지스터가 결정한 커널 variant 축소 (2026.11.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/flashinfer-pr-9695-perfbatch-invariant-sampling-host-ove)
+- [[sglang] Hunyuan-4-Flash 커널 해부: IndexPool, Engram, 그리고 token-blocked iHC post-pre 퓨전 (2026.11.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-51646-feat-kernels-hy4-flash-indexpool-eng)
+- [[sglang] stock ROCm Triton에서 fbtriton TLX 커널 돌리기: uTLX 플러그인 위에 gfx950 GEMM·MoE 커널을 벤더링한 SGLang PR 분석 (2026.11.20)](https://blog.secrett2633.cloud/opensource/pr-analysis/sglang-pr-50354-feat-amd-tlx-add-the-vendored-gfx95)
